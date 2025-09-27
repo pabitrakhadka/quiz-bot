@@ -4,6 +4,9 @@
 # Ignore logs
 *.log
 
+quiz_stats.json
+set.json
+quiz_stats.json
 # Ignore Python cache
 __pycache__/
 *.pyc
