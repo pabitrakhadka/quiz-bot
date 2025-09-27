@@ -1,0 +1,4097 @@
+[
+    {
+        "question": "Which of the following is not a type of operating system?",
+        "options": [
+            {
+                "text": "Batch",
+                "isCorrect": false
+            },
+            {
+                "text": "Time-sharing",
+                "isCorrect": false
+            },
+            {
+                "text": "Network",
+                "isCorrect": false
+            },
+            {
+                "text": "Compiler",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of these is not a function of an operating system?",
+        "options": [
+            {
+                "text": "Process management",
+                "isCorrect": false
+            },
+            {
+                "text": "File management",
+                "isCorrect": false
+            },
+            {
+                "text": "System security",
+                "isCorrect": false
+            },
+            {
+                "text": "Compiler design",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which operating system is based on open-source UNIX?",
+        "options": [
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": true
+            },
+            {
+                "text": "Android",
+                "isCorrect": false
+            },
+            {
+                "text": "MS-DOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Android operating system is based on which kernel?",
+        "options": [
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Unix",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": true
+            },
+            {
+                "text": "iOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which service is NOT provided by an operating system?",
+        "options": [
+            {
+                "text": "Program execution",
+                "isCorrect": false
+            },
+            {
+                "text": "I/O operations",
+                "isCorrect": false
+            },
+            {
+                "text": "Error detection",
+                "isCorrect": false
+            },
+            {
+                "text": "Web hosting",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the basic unit of CPU utilization?",
+        "options": [
+            {
+                "text": "Program",
+                "isCorrect": false
+            },
+            {
+                "text": "Instruction",
+                "isCorrect": false
+            },
+            {
+                "text": "Process",
+                "isCorrect": true
+            },
+            {
+                "text": "Thread",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following best describes a thread?",
+        "options": [
+            {
+                "text": "Heavyweight process",
+                "isCorrect": false
+            },
+            {
+                "text": "Lightweight process",
+                "isCorrect": true
+            },
+            {
+                "text": "Independent program",
+                "isCorrect": false
+            },
+            {
+                "text": "Kernel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What state is a process in when it is waiting for some event to occur?",
+        "options": [
+            {
+                "text": "Ready",
+                "isCorrect": false
+            },
+            {
+                "text": "Running",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting",
+                "isCorrect": true
+            },
+            {
+                "text": "New",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is not a valid process state?",
+        "options": [
+            {
+                "text": "New",
+                "isCorrect": false
+            },
+            {
+                "text": "Ready",
+                "isCorrect": false
+            },
+            {
+                "text": "Old",
+                "isCorrect": true
+            },
+            {
+                "text": "Running",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which process scheduling algorithm gives the minimum average waiting time?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "SJF",
+                "isCorrect": true
+            },
+            {
+                "text": "RR",
+                "isCorrect": false
+            },
+            {
+                "text": "Priority Scheduling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which algorithm is most suitable for time-sharing systems?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "RR",
+                "isCorrect": true
+            },
+            {
+                "text": "SJF",
+                "isCorrect": false
+            },
+            {
+                "text": "Priority Scheduling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Race condition occurs when:",
+        "options": [
+            {
+                "text": "Processes are in deadlock",
+                "isCorrect": false
+            },
+            {
+                "text": "Multiple processes access shared data concurrently",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory is fragmented",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU is overloaded",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is used to prevent race conditions?",
+        "options": [
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Threads",
+                "isCorrect": false
+            },
+            {
+                "text": "Critical Section",
+                "isCorrect": true
+            },
+            {
+                "text": "Compilers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which synchronization mechanism is used to provide mutual exclusion?",
+        "options": [
+            {
+                "text": "Interrupts",
+                "isCorrect": false
+            },
+            {
+                "text": "Semaphores",
+                "isCorrect": true
+            },
+            {
+                "text": "Threads",
+                "isCorrect": false
+            },
+            {
+                "text": "Schedulers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is NOT a thread model?",
+        "options": [
+            {
+                "text": "Many-to-One",
+                "isCorrect": false
+            },
+            {
+                "text": "One-to-One",
+                "isCorrect": false
+            },
+            {
+                "text": "Many-to-Many",
+                "isCorrect": false
+            },
+            {
+                "text": "All-to-All",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In memory management, what does 'multiprogramming' mean?",
+        "options": [
+            {
+                "text": "Multiple users using one program",
+                "isCorrect": false
+            },
+            {
+                "text": "Using multiple processors",
+                "isCorrect": false
+            },
+            {
+                "text": "Loading multiple programs in memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Dividing memory equally",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In fixed partition multiprogramming, memory is divided:",
+        "options": [
+            {
+                "text": "Randomly",
+                "isCorrect": false
+            },
+            {
+                "text": "Unequally",
+                "isCorrect": false
+            },
+            {
+                "text": "Equally",
+                "isCorrect": true
+            },
+            {
+                "text": "Dynamically",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A page fault occurs when:",
+        "options": [
+            {
+                "text": "A page is not found in memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Disk is full",
+                "isCorrect": false
+            },
+            {
+                "text": "A file is not found",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM fails",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Paging is a technique of:",
+        "options": [
+            {
+                "text": "Memory allocation",
+                "isCorrect": true
+            },
+            {
+                "text": "File management",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Deadlock handling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In variable partitioning, memory is allocated:",
+        "options": [
+            {
+                "text": "Fixed size",
+                "isCorrect": false
+            },
+            {
+                "text": "Dynamic size",
+                "isCorrect": true
+            },
+            {
+                "text": "Random size",
+                "isCorrect": false
+            },
+            {
+                "text": "Constant size",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Deadlock occurs when:",
+        "options": [
+            {
+                "text": "Processes are in a loop",
+                "isCorrect": false
+            },
+            {
+                "text": "Processes wait indefinitely for resources",
+                "isCorrect": true
+            },
+            {
+                "text": "Threads do not synchronize",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging fails",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a condition for deadlock?",
+        "options": [
+            {
+                "text": "Mutual exclusion",
+                "isCorrect": false
+            },
+            {
+                "text": "Hold and wait",
+                "isCorrect": false
+            },
+            {
+                "text": "Preemption",
+                "isCorrect": true
+            },
+            {
+                "text": "Circular wait",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which strategy involves breaking one of the deadlock conditions?",
+        "options": [
+            {
+                "text": "Avoidance",
+                "isCorrect": false
+            },
+            {
+                "text": "Detection",
+                "isCorrect": false
+            },
+            {
+                "text": "Recovery",
+                "isCorrect": false
+            },
+            {
+                "text": "Prevention",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which algorithm is used for deadlock avoidance?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "Banker's Algorithm",
+                "isCorrect": true
+            },
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "LRU",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In file management, what uniquely identifies a file?",
+        "options": [
+            {
+                "text": "Extension",
+                "isCorrect": false
+            },
+            {
+                "text": "Name",
+                "isCorrect": true
+            },
+            {
+                "text": "Size",
+                "isCorrect": false
+            },
+            {
+                "text": "Path",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a file access method?",
+        "options": [
+            {
+                "text": "Sequential",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct",
+                "isCorrect": false
+            },
+            {
+                "text": "Indexed",
+                "isCorrect": false
+            },
+            {
+                "text": "Parallel",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which file type stores binary machine code?",
+        "options": [
+            {
+                "text": "Text",
+                "isCorrect": false
+            },
+            {
+                "text": "Executable",
+                "isCorrect": true
+            },
+            {
+                "text": "Audio",
+                "isCorrect": false
+            },
+            {
+                "text": "Image",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a file operation?",
+        "options": [
+            {
+                "text": "Create",
+                "isCorrect": false
+            },
+            {
+                "text": "Write",
+                "isCorrect": false
+            },
+            {
+                "text": "Read",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a directory structure?",
+        "options": [
+            {
+                "text": "Flat",
+                "isCorrect": false
+            },
+            {
+                "text": "Tree",
+                "isCorrect": false
+            },
+            {
+                "text": "Acyclic Graph",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the first step in formatting a disk?",
+        "options": [
+            {
+                "text": "Boot sector creation",
+                "isCorrect": false
+            },
+            {
+                "text": "Partitioning",
+                "isCorrect": true
+            },
+            {
+                "text": "File writing",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory allocation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following schedules disk access requests?",
+        "options": [
+            {
+                "text": "CPU Scheduler",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk Arm Scheduler",
+                "isCorrect": true
+            },
+            {
+                "text": "Thread Scheduler",
+                "isCorrect": false
+            },
+            {
+                "text": "Job Scheduler",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which scheduling algorithm is used in disk scheduling?",
+        "options": [
+            {
+                "text": "SSTF",
+                "isCorrect": true
+            },
+            {
+                "text": "LRU",
+                "isCorrect": false
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "RR",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the I/O software control?",
+        "options": [
+            {
+                "text": "Display driver only",
+                "isCorrect": false
+            },
+            {
+                "text": "Keyboard only",
+                "isCorrect": false
+            },
+            {
+                "text": "All hardware devices",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is not an attribute of a file?",
+        "options": [
+            {
+                "text": "Name",
+                "isCorrect": false
+            },
+            {
+                "text": "Type",
+                "isCorrect": false
+            },
+            {
+                "text": "Size",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of these best describes multithreading?",
+        "options": [
+            {
+                "text": "Using multiple CPUs",
+                "isCorrect": false
+            },
+            {
+                "text": "Executing multiple threads in one process",
+                "isCorrect": true
+            },
+            {
+                "text": "Running many processes",
+                "isCorrect": false
+            },
+            {
+                "text": "Reading from multiple files",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these systems is an example of a multitasking OS?",
+        "options": [
+            {
+                "text": "MS-DOS",
+                "isCorrect": false
+            },
+            {
+                "text": "Unix",
+                "isCorrect": true
+            },
+            {
+                "text": "BASIC",
+                "isCorrect": false
+            },
+            {
+                "text": "Assembler",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of process scheduling?",
+        "options": [
+            {
+                "text": "To manage memory usage",
+                "isCorrect": false
+            },
+            {
+                "text": "To optimize CPU usage",
+                "isCorrect": true
+            },
+            {
+                "text": "To clean the disk",
+                "isCorrect": false
+            },
+            {
+                "text": "To handle file errors",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following file systems is used by Windows?",
+        "options": [
+            {
+                "text": "ext4",
+                "isCorrect": false
+            },
+            {
+                "text": "NTFS",
+                "isCorrect": false
+            },
+            {
+                "text": "FAT32",
+                "isCorrect": false
+            },
+            {
+                "text": "Both NTFS and FAT32",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In process scheduling, what does SJF stand for?",
+        "options": [
+            {
+                "text": "Shortest Job First",
+                "isCorrect": true
+            },
+            {
+                "text": "Smallest Job Format",
+                "isCorrect": false
+            },
+            {
+                "text": "Simple Job Format",
+                "isCorrect": false
+            },
+            {
+                "text": "Slow Job First",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of the I/O control system?",
+        "options": [
+            {
+                "text": "Manages CPU tasks",
+                "isCorrect": false
+            },
+            {
+                "text": "Handles interrupts and drivers",
+                "isCorrect": true
+            },
+            {
+                "text": "Processes commands",
+                "isCorrect": false
+            },
+            {
+                "text": "Manages RAM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these can cause a page fault?",
+        "options": [
+            {
+                "text": "File error",
+                "isCorrect": false
+            },
+            {
+                "text": "Deadlock",
+                "isCorrect": false
+            },
+            {
+                "text": "Invalid instruction",
+                "isCorrect": false
+            },
+            {
+                "text": "Accessing a page not in memory",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which disk scheduling algorithm causes starvation?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "SSTF",
+                "isCorrect": true
+            },
+            {
+                "text": "SCAN",
+                "isCorrect": false
+            },
+            {
+                "text": "C-SCAN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following handles memory allocation in paging?",
+        "options": [
+            {
+                "text": "Page Table",
+                "isCorrect": true
+            },
+            {
+                "text": "Directory",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following allows multiple processes to use the CPU efficiently?",
+        "options": [
+            {
+                "text": "Multithreading",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Multiprogramming",
+                "isCorrect": true
+            },
+            {
+                "text": "Compiling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is not a disk error handling technique?",
+        "options": [
+            {
+                "text": "ECC",
+                "isCorrect": false
+            },
+            {
+                "text": "Retry",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting",
+                "isCorrect": true
+            },
+            {
+                "text": "Backup",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main role of a file system layout?",
+        "options": [
+            {
+                "text": "Manages input devices",
+                "isCorrect": false
+            },
+            {
+                "text": "Describes file locations and metadata",
+                "isCorrect": true
+            },
+            {
+                "text": "Handles memory allocation",
+                "isCorrect": false
+            },
+            {
+                "text": "Detects deadlocks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an I/O hardware component?",
+        "options": [
+            {
+                "text": "CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Keyboard",
+                "isCorrect": true
+            },
+            {
+                "text": "Page Table",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of an operating system?",
+        "options": [
+            {
+                "text": "Manage hardware and software resources",
+                "isCorrect": true
+            },
+            {
+                "text": "Develop applications",
+                "isCorrect": false
+            },
+            {
+                "text": "Browse the internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Play games",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is NOT a type of operating system?",
+        "options": [
+            {
+                "text": "Real-time OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Batch OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Application OS",
+                "isCorrect": true
+            },
+            {
+                "text": "Distributed OS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which OS service provides program execution?",
+        "options": [
+            {
+                "text": "I/O operations",
+                "isCorrect": false
+            },
+            {
+                "text": "Process management",
+                "isCorrect": true
+            },
+            {
+                "text": "File system manipulation",
+                "isCorrect": false
+            },
+            {
+                "text": "Error detection",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An example of a mobile operating system is:",
+        "options": [
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": false
+            },
+            {
+                "text": "Android",
+                "isCorrect": true
+            },
+            {
+                "text": "Unix",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a program in execution called?",
+        "options": [
+            {
+                "text": "Thread",
+                "isCorrect": false
+            },
+            {
+                "text": "Process",
+                "isCorrect": true
+            },
+            {
+                "text": "Module",
+                "isCorrect": false
+            },
+            {
+                "text": "Code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which state does a process enter when it's waiting for an event?",
+        "options": [
+            {
+                "text": "Running",
+                "isCorrect": false
+            },
+            {
+                "text": "Ready",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting",
+                "isCorrect": true
+            },
+            {
+                "text": "Terminated",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a lightweight process?",
+        "options": [
+            {
+                "text": "Program",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread",
+                "isCorrect": true
+            },
+            {
+                "text": "Task",
+                "isCorrect": false
+            },
+            {
+                "text": "Job",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model has multiple user threads mapped to a single kernel thread?",
+        "options": [
+            {
+                "text": "One-to-one",
+                "isCorrect": false
+            },
+            {
+                "text": "Many-to-one",
+                "isCorrect": true
+            },
+            {
+                "text": "Many-to-many",
+                "isCorrect": false
+            },
+            {
+                "text": "Two-level",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the simultaneous execution of multiple threads called?",
+        "options": [
+            {
+                "text": "Multiprocessing",
+                "isCorrect": false
+            },
+            {
+                "text": "Multitasking",
+                "isCorrect": false
+            },
+            {
+                "text": "Multithreading",
+                "isCorrect": true
+            },
+            {
+                "text": "Multiprogramming",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which scheduling criterion aims to minimize turnaround time?",
+        "options": [
+            {
+                "text": "Throughput",
+                "isCorrect": false
+            },
+            {
+                "text": "Response time",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting time",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU utilization",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the section of code that accesses shared resources?",
+        "options": [
+            {
+                "text": "Non-critical section",
+                "isCorrect": false
+            },
+            {
+                "text": "Critical section",
+                "isCorrect": true
+            },
+            {
+                "text": "Mutual exclusion",
+                "isCorrect": false
+            },
+            {
+                "text": "Race condition",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When multiple processes access shared data concurrently, it's a:",
+        "options": [
+            {
+                "text": "Deadlock",
+                "isCorrect": false
+            },
+            {
+                "text": "Starvation",
+                "isCorrect": false
+            },
+            {
+                "text": "Race condition",
+                "isCorrect": true
+            },
+            {
+                "text": "Livelock",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What mechanism ensures only one process is in its critical section?",
+        "options": [
+            {
+                "text": "Synchronization",
+                "isCorrect": false
+            },
+            {
+                "text": "Mutual exclusion",
+                "isCorrect": true
+            },
+            {
+                "text": "Semaphore",
+                "isCorrect": false
+            },
+            {
+                "text": "Monitor",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main purpose of memory management?",
+        "options": [
+            {
+                "text": "Manage CPU cycles",
+                "isCorrect": false
+            },
+            {
+                "text": "Allocate and deallocate memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Handle I/O devices",
+                "isCorrect": false
+            },
+            {
+                "text": "Store files",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What technique allows multiple programs in memory at once?",
+        "options": [
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Multiprogramming",
+                "isCorrect": true
+            },
+            {
+                "text": "Segmentation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which memory allocation uses partitions of different sizes?",
+        "options": [
+            {
+                "text": "Fixed partition",
+                "isCorrect": false
+            },
+            {
+                "text": "Variable partition",
+                "isCorrect": true
+            },
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Segmentation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the process of dividing memory into fixed-size blocks?",
+        "options": [
+            {
+                "text": "Segmentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging",
+                "isCorrect": true
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Compaction",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What occurs when a requested page is not in memory?",
+        "options": [
+            {
+                "text": "Segmentation fault",
+                "isCorrect": false
+            },
+            {
+                "text": "Page hit",
+                "isCorrect": false
+            },
+            {
+                "text": "Page fault",
+                "isCorrect": true
+            },
+            {
+                "text": "Cache miss",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a situation where processes are blocked indefinitely?",
+        "options": [
+            {
+                "text": "Starvation",
+                "isCorrect": false
+            },
+            {
+                "text": "Livelock",
+                "isCorrect": false
+            },
+            {
+                "text": "Deadlock",
+                "isCorrect": true
+            },
+            {
+                "text": "Race condition",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which condition is necessary for deadlock?",
+        "options": [
+            {
+                "text": "No preemption",
+                "isCorrect": true
+            },
+            {
+                "text": "Resource sharing",
+                "isCorrect": false
+            },
+            {
+                "text": "High CPU usage",
+                "isCorrect": false
+            },
+            {
+                "text": "Fast I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which strategy prevents deadlock by ensuring one condition isn't met?",
+        "options": [
+            {
+                "text": "Detection",
+                "isCorrect": false
+            },
+            {
+                "text": "Avoidance",
+                "isCorrect": false
+            },
+            {
+                "text": "Prevention",
+                "isCorrect": true
+            },
+            {
+                "text": "Recovery",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What algorithm is used for deadlock avoidance?",
+        "options": [
+            {
+                "text": "Round Robin",
+                "isCorrect": false
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "Banker’s Algorithm",
+                "isCorrect": true
+            },
+            {
+                "text": "SJF",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which strategy attempts to break a deadlock after it occurs?",
+        "options": [
+            {
+                "text": "Prevention",
+                "isCorrect": false
+            },
+            {
+                "text": "Avoidance",
+                "isCorrect": false
+            },
+            {
+                "text": "Recovery",
+                "isCorrect": true
+            },
+            {
+                "text": "Detection",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a collection of related information called?",
+        "options": [
+            {
+                "text": "Folder",
+                "isCorrect": false
+            },
+            {
+                "text": "Directory",
+                "isCorrect": false
+            },
+            {
+                "text": "File",
+                "isCorrect": true
+            },
+            {
+                "text": "Partition",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which file attribute indicates who can access the file?",
+        "options": [
+            {
+                "text": "Name",
+                "isCorrect": false
+            },
+            {
+                "text": "Type",
+                "isCorrect": false
+            },
+            {
+                "text": "Location",
+                "isCorrect": false
+            },
+            {
+                "text": "Protection",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which file access method allows random access to any record?",
+        "options": [
+            {
+                "text": "Sequential access",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct access",
+                "isCorrect": true
+            },
+            {
+                "text": "Indexed access",
+                "isCorrect": false
+            },
+            {
+                "text": "Relative access",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the hierarchical structure that organizes files?",
+        "options": [
+            {
+                "text": "File system",
+                "isCorrect": false
+            },
+            {
+                "text": "File table",
+                "isCorrect": false
+            },
+            {
+                "text": "Directory system",
+                "isCorrect": true
+            },
+            {
+                "text": "Inode",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which part of the file system layout stores metadata about files?",
+        "options": [
+            {
+                "text": "Data blocks",
+                "isCorrect": false
+            },
+            {
+                "text": "Boot block",
+                "isCorrect": false
+            },
+            {
+                "text": "Superblock",
+                "isCorrect": false
+            },
+            {
+                "text": "Inodes",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What prepares a disk for use by creating a file system?",
+        "options": [
+            {
+                "text": "Partitioning",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting",
+                "isCorrect": true
+            },
+            {
+                "text": "Defragmenting",
+                "isCorrect": false
+            },
+            {
+                "text": "Mounting",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which disk arm scheduling algorithm services requests closest to current head?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "SSTF",
+                "isCorrect": true
+            },
+            {
+                "text": "SCAN",
+                "isCorrect": false
+            },
+            {
+                "text": "C-SCAN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary role of an I/O controller?",
+        "options": [
+            {
+                "text": "Execute processes",
+                "isCorrect": false
+            },
+            {
+                "text": "Manage memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Interface between CPU and device",
+                "isCorrect": true
+            },
+            {
+                "text": "Store data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of spooling?",
+        "options": [
+            {
+                "text": "Process scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Buffering I/O for faster devices",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory allocation",
+                "isCorrect": false
+            },
+            {
+                "text": "File compression",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is an operating system service?",
+        "options": [
+            {
+                "text": "Word processing",
+                "isCorrect": false
+            },
+            {
+                "text": "User interface",
+                "isCorrect": true
+            },
+            {
+                "text": "Database management",
+                "isCorrect": false
+            },
+            {
+                "text": "Web Browse",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What type of OS is designed for specific tasks with strict timing?",
+        "options": [
+            {
+                "text": "Network OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Batch OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Real-time OS",
+                "isCorrect": true
+            },
+            {
+                "text": "Desktop OS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the transition from running to ready state called?",
+        "options": [
+            {
+                "text": "Dispatch",
+                "isCorrect": false
+            },
+            {
+                "text": "Preemption",
+                "isCorrect": true
+            },
+            {
+                "text": "Context switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Termination",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which thread model maps many user threads to many kernel threads?",
+        "options": [
+            {
+                "text": "One-to-one",
+                "isCorrect": false
+            },
+            {
+                "text": "Many-to-one",
+                "isCorrect": false
+            },
+            {
+                "text": "Many-to-many",
+                "isCorrect": true
+            },
+            {
+                "text": "Two-level",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a common CPU scheduling algorithm?",
+        "options": [
+            {
+                "text": "Merge sort",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick sort",
+                "isCorrect": false
+            },
+            {
+                "text": "First-Come, First-Served",
+                "isCorrect": true
+            },
+            {
+                "text": "Bubble sort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is an internal fragmentation issue related to?",
+        "options": [
+            {
+                "text": "Variable partition",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed partition",
+                "isCorrect": true
+            },
+            {
+                "text": "Segmentation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the process of moving a page from disk to main memory?",
+        "options": [
+            {
+                "text": "Swapping out",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging in",
+                "isCorrect": true
+            },
+            {
+                "text": "Compaction",
+                "isCorrect": false
+            },
+            {
+                "text": "Thrashing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which deadlock condition states resources can only be released voluntarily?",
+        "options": [
+            {
+                "text": "Mutual exclusion",
+                "isCorrect": false
+            },
+            {
+                "text": "Hold and wait",
+                "isCorrect": false
+            },
+            {
+                "text": "No preemption",
+                "isCorrect": true
+            },
+            {
+                "text": "Circular wait",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a file attribute like 'read-only'?",
+        "options": [
+            {
+                "text": "Specify file size",
+                "isCorrect": false
+            },
+            {
+                "text": "Indicate last modified date",
+                "isCorrect": false
+            },
+            {
+                "text": "Control file permissions",
+                "isCorrect": true
+            },
+            {
+                "text": "Store file creation time",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the method for storing files sequentially on a disk?",
+        "options": [
+            {
+                "text": "Linked allocation",
+                "isCorrect": false
+            },
+            {
+                "text": "Indexed allocation",
+                "isCorrect": false
+            },
+            {
+                "text": "Contiguous allocation",
+                "isCorrect": true
+            },
+            {
+                "text": "FAT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What manages hardware components like keyboards and printers?",
+        "options": [
+            {
+                "text": "CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory",
+                "isCorrect": false
+            },
+            {
+                "text": "I/O management",
+                "isCorrect": true
+            },
+            {
+                "text": "File management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a daemon?",
+        "options": [
+            {
+                "text": "User program",
+                "isCorrect": false
+            },
+            {
+                "text": "Background process",
+                "isCorrect": true
+            },
+            {
+                "text": "Hardware device",
+                "isCorrect": false
+            },
+            {
+                "text": "Network protocol",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which OS function handles system calls?",
+        "options": [
+            {
+                "text": "Kernel",
+                "isCorrect": true
+            },
+            {
+                "text": "Shell",
+                "isCorrect": false
+            },
+            {
+                "text": "Utility",
+                "isCorrect": false
+            },
+            {
+                "text": "Application",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the problem of many small holes in memory after deallocation?",
+        "options": [
+            {
+                "text": "Internal fragmentation",
+                "isCorrect": false
+            },
+            {
+                "text": "External fragmentation",
+                "isCorrect": true
+            },
+            {
+                "text": "Page fault",
+                "isCorrect": false
+            },
+            {
+                "text": "Thrashing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which scheduling algorithm gives each process a fixed time slice?",
+        "options": [
+            {
+                "text": "SJF",
+                "isCorrect": false
+            },
+            {
+                "text": "Priority scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Round Robin",
+                "isCorrect": true
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a common strategy for handling I/O errors?",
+        "options": [
+            {
+                "text": "Retrying the operation",
+                "isCorrect": true
+            },
+            {
+                "text": "Ignoring the error",
+                "isCorrect": false
+            },
+            {
+                "text": "Crashing the system",
+                "isCorrect": false
+            },
+            {
+                "text": "Restarting the application",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a directory's structure?",
+        "options": [
+            {
+                "text": "Store file content",
+                "isCorrect": false
+            },
+            {
+                "text": "Organize and locate files",
+                "isCorrect": true
+            },
+            {
+                "text": "Manage memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Execute programs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the process of saving the state of a CPU for a process switch?",
+        "options": [
+            {
+                "text": "Process creation",
+                "isCorrect": false
+            },
+            {
+                "text": "Context switch",
+                "isCorrect": true
+            },
+            {
+                "text": "Process termination",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What state means process is waiting to run?",
+        "options": [
+            {
+                "text": "Running",
+                "isCorrect": false
+            },
+            {
+                "text": "Blocked",
+                "isCorrect": false
+            },
+            {
+                "text": "Ready",
+                "isCorrect": true
+            },
+            {
+                "text": "Terminated",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Deadlock means?",
+        "options": [
+            {
+                "text": "Thread crash",
+                "isCorrect": false
+            },
+            {
+                "text": "Processes wait forever",
+                "isCorrect": true
+            },
+            {
+                "text": "Page fault",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU overuse",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does an operating system manage?",
+        "options": [
+            {
+                "text": "Games",
+                "isCorrect": false
+            },
+            {
+                "text": "Resources",
+                "isCorrect": true
+            },
+            {
+                "text": "Apps",
+                "isCorrect": false
+            },
+            {
+                "text": "Documents",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which OS is used on most smartphones?",
+        "options": [
+            {
+                "text": "Linux",
+                "isCorrect": false
+            },
+            {
+                "text": "Android",
+                "isCorrect": true
+            },
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Unix",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a program in execution?",
+        "options": [
+            {
+                "text": "Thread",
+                "isCorrect": false
+            },
+            {
+                "text": "Application",
+                "isCorrect": false
+            },
+            {
+                "text": "Script",
+                "isCorrect": false
+            },
+            {
+                "text": "Process",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which one is a thread model?",
+        "options": [
+            {
+                "text": "One-to-One",
+                "isCorrect": true
+            },
+            {
+                "text": "Two-to-One",
+                "isCorrect": false
+            },
+            {
+                "text": "Linear",
+                "isCorrect": false
+            },
+            {
+                "text": "Fork-Join",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is used to prevent race condition?",
+        "options": [
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread",
+                "isCorrect": false
+            },
+            {
+                "text": "Mutual Exclusion",
+                "isCorrect": true
+            },
+            {
+                "text": "Deadlock",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Critical section allows access to?",
+        "options": [
+            {
+                "text": "CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk",
+                "isCorrect": false
+            },
+            {
+                "text": "Kernel",
+                "isCorrect": false
+            },
+            {
+                "text": "Shared Resource",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Thread runs under a?",
+        "options": [
+            {
+                "text": "Core",
+                "isCorrect": false
+            },
+            {
+                "text": "Program",
+                "isCorrect": false
+            },
+            {
+                "text": "Loop",
+                "isCorrect": false
+            },
+            {
+                "text": "Process",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which algorithm is preemptive?",
+        "options": [
+            {
+                "text": "Round Robin",
+                "isCorrect": true
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "SJF (non-preemptive)",
+                "isCorrect": false
+            },
+            {
+                "text": "Priority (non-preemptive)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is multiprogramming?",
+        "options": [
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Multi-threading",
+                "isCorrect": false
+            },
+            {
+                "text": "Running many programs",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which memory model uses equal partition?",
+        "options": [
+            {
+                "text": "Dynamic",
+                "isCorrect": false
+            },
+            {
+                "text": "Paged",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed Partition",
+                "isCorrect": true
+            },
+            {
+                "text": "Variable Partition",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Page fault happens when?",
+        "options": [
+            {
+                "text": "Page not in memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Disk error",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU crash",
+                "isCorrect": false
+            },
+            {
+                "text": "No space",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What maps virtual to physical memory?",
+        "options": [
+            {
+                "text": "Cache",
+                "isCorrect": false
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Buffer",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which avoids deadlock?",
+        "options": [
+            {
+                "text": "LIFO",
+                "isCorrect": false
+            },
+            {
+                "text": "Round Robin",
+                "isCorrect": false
+            },
+            {
+                "text": "Banker's Algorithm",
+                "isCorrect": true
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Deadlock recovery method?",
+        "options": [
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Process termination",
+                "isCorrect": true
+            },
+            {
+                "text": "Threading",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT an OS?",
+        "options": [
+            {
+                "text": "Unix",
+                "isCorrect": false
+            },
+            {
+                "text": "Python",
+                "isCorrect": true
+            },
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a deadlock condition?",
+        "options": [
+            {
+                "text": "Hold & wait",
+                "isCorrect": false
+            },
+            {
+                "text": "Mutual exclusion",
+                "isCorrect": false
+            },
+            {
+                "text": "Circular wait",
+                "isCorrect": false
+            },
+            {
+                "text": "Interrupt",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "File with only read permission is?",
+        "options": [
+            {
+                "text": "Executable",
+                "isCorrect": false
+            },
+            {
+                "text": "Read-only",
+                "isCorrect": true
+            },
+            {
+                "text": "Hidden",
+                "isCorrect": false
+            },
+            {
+                "text": "Write-only",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which file type is executable?",
+        "options": [
+            {
+                "text": ".txt",
+                "isCorrect": false
+            },
+            {
+                "text": ".mp3",
+                "isCorrect": false
+            },
+            {
+                "text": ".exe",
+                "isCorrect": true
+            },
+            {
+                "text": ".jpg",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Main file access method?",
+        "options": [
+            {
+                "text": "Indirect",
+                "isCorrect": false
+            },
+            {
+                "text": "Sequential",
+                "isCorrect": true
+            },
+            {
+                "text": "Random",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which holds files?",
+        "options": [
+            {
+                "text": "Page",
+                "isCorrect": false
+            },
+            {
+                "text": "Sector",
+                "isCorrect": false
+            },
+            {
+                "text": "Directory",
+                "isCorrect": true
+            },
+            {
+                "text": "Buffer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Disk scheduling method?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "SSTF",
+                "isCorrect": true
+            },
+            {
+                "text": "FIFO",
+                "isCorrect": false
+            },
+            {
+                "text": "LIFO",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which formats the disk?",
+        "options": [
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Partitioning",
+                "isCorrect": false
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Low-level format",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which access is fastest?",
+        "options": [
+            {
+                "text": "Random",
+                "isCorrect": false
+            },
+            {
+                "text": "Binary",
+                "isCorrect": false
+            },
+            {
+                "text": "Circular",
+                "isCorrect": false
+            },
+            {
+                "text": "Sequential",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "I/O control is done by?",
+        "options": [
+            {
+                "text": "Threads",
+                "isCorrect": false
+            },
+            {
+                "text": "Apps",
+                "isCorrect": false
+            },
+            {
+                "text": "Device drivers",
+                "isCorrect": true
+            },
+            {
+                "text": "OS kernel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT scheduling algo?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "SJF",
+                "isCorrect": false
+            },
+            {
+                "text": "Round Robin",
+                "isCorrect": false
+            },
+            {
+                "text": "Ping-Pong",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What happens in deadlock?",
+        "options": [
+            {
+                "text": "Resources wait forever",
+                "isCorrect": true
+            },
+            {
+                "text": "Free memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick response",
+                "isCorrect": false
+            },
+            {
+                "text": "Fast threads",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Thread switching needs?",
+        "options": [
+            {
+                "text": "Context switch",
+                "isCorrect": true
+            },
+            {
+                "text": "Page fault",
+                "isCorrect": false
+            },
+            {
+                "text": "Sleep",
+                "isCorrect": false
+            },
+            {
+                "text": "Device input",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is SJF?",
+        "options": [
+            {
+                "text": "Shared Job File",
+                "isCorrect": false
+            },
+            {
+                "text": "Shortest Job First",
+                "isCorrect": true
+            },
+            {
+                "text": "Simple Job Form",
+                "isCorrect": false
+            },
+            {
+                "text": "Start Join File",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a Race Condition?",
+        "options": [
+            {
+                "text": "Sequential tasks",
+                "isCorrect": false
+            },
+            {
+                "text": "No access",
+                "isCorrect": false
+            },
+            {
+                "text": "Parallel access",
+                "isCorrect": true
+            },
+            {
+                "text": "Idle loop",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which uses GUI?",
+        "options": [
+            {
+                "text": "DOS",
+                "isCorrect": false
+            },
+            {
+                "text": "BIOS",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows",
+                "isCorrect": true
+            },
+            {
+                "text": "CLI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "CLI uses?",
+        "options": [
+            {
+                "text": "Mouse",
+                "isCorrect": false
+            },
+            {
+                "text": "Touch",
+                "isCorrect": false
+            },
+            {
+                "text": "Window",
+                "isCorrect": false
+            },
+            {
+                "text": "Command",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "File naming rule?",
+        "options": [
+            {
+                "text": "Should be unique",
+                "isCorrect": true
+            },
+            {
+                "text": "Can be empty",
+                "isCorrect": false
+            },
+            {
+                "text": "Must be .exe",
+                "isCorrect": false
+            },
+            {
+                "text": "Must be short",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which state process can't run?",
+        "options": [
+            {
+                "text": "Ready",
+                "isCorrect": false
+            },
+            {
+                "text": "Running",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting",
+                "isCorrect": false
+            },
+            {
+                "text": "Blocked",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which allocates memory in parts?",
+        "options": [
+            {
+                "text": "Mapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Buffering",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is used to handle error?",
+        "options": [
+            {
+                "text": "Error Handler",
+                "isCorrect": true
+            },
+            {
+                "text": "Logger",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugger",
+                "isCorrect": false
+            },
+            {
+                "text": "Compiler",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which scheduling uses time slice?",
+        "options": [
+            {
+                "text": "Round Robin",
+                "isCorrect": true
+            },
+            {
+                "text": "SJF",
+                "isCorrect": false
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "Priority",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Page fault leads to?",
+        "options": [
+            {
+                "text": "Deadlock",
+                "isCorrect": false
+            },
+            {
+                "text": "Shutdown",
+                "isCorrect": false
+            },
+            {
+                "text": "Crash",
+                "isCorrect": false
+            },
+            {
+                "text": "Page load",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Directory stores?",
+        "options": [
+            {
+                "text": "Threads",
+                "isCorrect": false
+            },
+            {
+                "text": "Jobs",
+                "isCorrect": false
+            },
+            {
+                "text": "Processes",
+                "isCorrect": false
+            },
+            {
+                "text": "File list",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which is I/O device?",
+        "options": [
+            {
+                "text": "Cache",
+                "isCorrect": false
+            },
+            {
+                "text": "Keyboard",
+                "isCorrect": true
+            },
+            {
+                "text": "Compiler",
+                "isCorrect": false
+            },
+            {
+                "text": "Browser",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which state is after running?",
+        "options": [
+            {
+                "text": "Terminated",
+                "isCorrect": true
+            },
+            {
+                "text": "Blocked",
+                "isCorrect": false
+            },
+            {
+                "text": "Ready",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is not OS service?",
+        "options": [
+            {
+                "text": "Security",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory Mgmt",
+                "isCorrect": false
+            },
+            {
+                "text": "File Mgmt",
+                "isCorrect": false
+            },
+            {
+                "text": "Programming",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Multithreading helps in?",
+        "options": [
+            {
+                "text": "Parallelism",
+                "isCorrect": true
+            },
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which algorithm uses priority?",
+        "options": [
+            {
+                "text": "Priority Scheduling",
+                "isCorrect": true
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "Round Robin",
+                "isCorrect": false
+            },
+            {
+                "text": "SJF",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Deadlock can be detected using?",
+        "options": [
+            {
+                "text": "Detection Algo",
+                "isCorrect": true
+            },
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Swapping",
+                "isCorrect": false
+            },
+            {
+                "text": "Mutex",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which policy prevents deadlock?",
+        "options": [
+            {
+                "text": "Avoid hold & wait",
+                "isCorrect": true
+            },
+            {
+                "text": "Preemption",
+                "isCorrect": false
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "Multithreading",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main function of an operating system?",
+        "options": [
+            {
+                "text": "Manage hardware resources",
+                "isCorrect": true
+            },
+            {
+                "text": "Create documents",
+                "isCorrect": false
+            },
+            {
+                "text": "Design websites",
+                "isCorrect": false
+            },
+            {
+                "text": "Play videos",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is not an operating system?",
+        "options": [
+            {
+                "text": "Oracle",
+                "isCorrect": true
+            },
+            {
+                "text": "Linux",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Android",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is Unix primarily known for?",
+        "options": [
+            {
+                "text": "Multi-user capability",
+                "isCorrect": true
+            },
+            {
+                "text": "Single-task processing",
+                "isCorrect": false
+            },
+            {
+                "text": "No file system",
+                "isCorrect": false
+            },
+            {
+                "text": "Only CLI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the difference between a program and a process?",
+        "options": [
+            {
+                "text": "Process is an executing program",
+                "isCorrect": true
+            },
+            {
+                "text": "Program is in RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "Process is static",
+                "isCorrect": false
+            },
+            {
+                "text": "Program is always running",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which state comes after 'Ready' in process states?",
+        "options": [
+            {
+                "text": "Running",
+                "isCorrect": true
+            },
+            {
+                "text": "Terminated",
+                "isCorrect": false
+            },
+            {
+                "text": "New",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a thread in operating systems?",
+        "options": [
+            {
+                "text": "Lightweight process",
+                "isCorrect": true
+            },
+            {
+                "text": "Heavyweight program",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory unit",
+                "isCorrect": false
+            },
+            {
+                "text": "File type",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which thread model uses many-to-one mapping?",
+        "options": [
+            {
+                "text": "User-level threads",
+                "isCorrect": true
+            },
+            {
+                "text": "Kernel-level threads",
+                "isCorrect": false
+            },
+            {
+                "text": "Hybrid threads",
+                "isCorrect": false
+            },
+            {
+                "text": "Single-thread",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is multithreading?",
+        "options": [
+            {
+                "text": "Multiple threads in a process",
+                "isCorrect": true
+            },
+            {
+                "text": "Single thread execution",
+                "isCorrect": false
+            },
+            {
+                "text": "No thread management",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread termination",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which scheduling algorithm uses time slices?",
+        "options": [
+            {
+                "text": "Round Robin",
+                "isCorrect": true
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "SJF",
+                "isCorrect": false
+            },
+            {
+                "text": "Priority",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a critical section?",
+        "options": [
+            {
+                "text": "Code accessing shared resources",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory allocation unit",
+                "isCorrect": false
+            },
+            {
+                "text": "Process state",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What causes a race condition?",
+        "options": [
+            {
+                "text": "Uncontrolled shared access",
+                "isCorrect": true
+            },
+            {
+                "text": "Single thread execution",
+                "isCorrect": false
+            },
+            {
+                "text": "No processes running",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What ensures mutual exclusion?",
+        "options": [
+            {
+                "text": "Only one process accesses resource",
+                "isCorrect": true
+            },
+            {
+                "text": "All processes run together",
+                "isCorrect": false
+            },
+            {
+                "text": "No process executes",
+                "isCorrect": false
+            },
+            {
+                "text": "Resources are shared freely",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is memory management?",
+        "options": [
+            {
+                "text": "Handling primary memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Managing CPU speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Controlling I/O devices",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling processes",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is multiprogramming?",
+        "options": [
+            {
+                "text": "Multiple programs in memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Single program execution",
+                "isCorrect": false
+            },
+            {
+                "text": "No memory usage",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed CPU allocation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which memory allocation uses fixed partitions?",
+        "options": [
+            {
+                "text": "Static partitioning",
+                "isCorrect": true
+            },
+            {
+                "text": "Dynamic partitioning",
+                "isCorrect": false
+            },
+            {
+                "text": "Paging",
+                "isCorrect": false
+            },
+            {
+                "text": "Segmentation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is paging in memory management?",
+        "options": [
+            {
+                "text": "Dividing memory into pages",
+                "isCorrect": true
+            },
+            {
+                "text": "Allocating whole memory",
+                "isCorrect": false
+            },
+            {
+                "text": "No memory division",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed partition use",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What causes a page fault?",
+        "options": [
+            {
+                "text": "Page not in memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Page in cache",
+                "isCorrect": false
+            },
+            {
+                "text": "Page locked",
+                "isCorrect": false
+            },
+            {
+                "text": "Page corrupted",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a deadlock?",
+        "options": [
+            {
+                "text": "Processes waiting indefinitely",
+                "isCorrect": true
+            },
+            {
+                "text": "Process completion",
+                "isCorrect": false
+            },
+            {
+                "text": "Resource availability",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory allocation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is not a deadlock condition?",
+        "options": [
+            {
+                "text": "Single process",
+                "isCorrect": true
+            },
+            {
+                "text": "Mutual exclusion",
+                "isCorrect": false
+            },
+            {
+                "text": "Hold and wait",
+                "isCorrect": false
+            },
+            {
+                "text": "No preemption",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does deadlock prevention do?",
+        "options": [
+            {
+                "text": "Eliminates one condition",
+                "isCorrect": true
+            },
+            {
+                "text": "Ignores deadlocks",
+                "isCorrect": false
+            },
+            {
+                "text": "Requires deadlocks",
+                "isCorrect": false
+            },
+            {
+                "text": "Increases deadlocks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is Banker's Algorithm for?",
+        "options": [
+            {
+                "text": "Deadlock avoidance",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory allocation",
+                "isCorrect": false
+            },
+            {
+                "text": "Process creation",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is file management?",
+        "options": [
+            {
+                "text": "Handling file storage",
+                "isCorrect": true
+            },
+            {
+                "text": "Managing CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Controlling threads",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling processes",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is not a file attribute?",
+        "options": [
+            {
+                "text": "Process ID",
+                "isCorrect": true
+            },
+            {
+                "text": "Name",
+                "isCorrect": false
+            },
+            {
+                "text": "Size",
+                "isCorrect": false
+            },
+            {
+                "text": "Creation time",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a directory system?",
+        "options": [
+            {
+                "text": "Organizes files",
+                "isCorrect": true
+            },
+            {
+                "text": "Manages CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Handles deadlocks",
+                "isCorrect": false
+            },
+            {
+                "text": "Controls threads",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is file system layout?",
+        "options": [
+            {
+                "text": "How files are stored",
+                "isCorrect": true
+            },
+            {
+                "text": "CPU scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory allocation",
+                "isCorrect": false
+            },
+            {
+                "text": "Process states",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does I/O hardware include?",
+        "options": [
+            {
+                "text": "Devices like disks",
+                "isCorrect": true
+            },
+            {
+                "text": "Only CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Only memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Only cache",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is disk formatting?",
+        "options": [
+            {
+                "text": "Preparing disk for use",
+                "isCorrect": true
+            },
+            {
+                "text": "Deleting files",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating processes",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling threads",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a disk arm scheduling algorithm?",
+        "options": [
+            {
+                "text": "SCAN",
+                "isCorrect": true
+            },
+            {
+                "text": "FCFS",
+                "isCorrect": false
+            },
+            {
+                "text": "Round Robin",
+                "isCorrect": false
+            },
+            {
+                "text": "Banker's",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What handles I/O errors?",
+        "options": [
+            {
+                "text": "Error handling routines",
+                "isCorrect": true
+            },
+            {
+                "text": "CPU scheduler",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory manager",
+                "isCorrect": false
+            },
+            {
+                "text": "File creator",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which OS is mobile-based?",
+        "options": [
+            {
+                "text": "Android",
+                "isCorrect": true
+            },
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": false
+            },
+            {
+                "text": "Unix",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is process scheduling?",
+        "options": [
+            {
+                "text": "Selecting which process runs",
+                "isCorrect": true
+            },
+            {
+                "text": "Creating files",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting disks",
+                "isCorrect": false
+            },
+            {
+                "text": "Managing directories",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is not a process state?",
+        "options": [
+            {
+                "text": "Compiling",
+                "isCorrect": true
+            },
+            {
+                "text": "Ready",
+                "isCorrect": false
+            },
+            {
+                "text": "Running",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a benefit of multithreading?",
+        "options": [
+            {
+                "text": "Improved performance",
+                "isCorrect": true
+            },
+            {
+                "text": "No resource usage",
+                "isCorrect": false
+            },
+            {
+                "text": "Single tasking",
+                "isCorrect": false
+            },
+            {
+                "text": "No CPU needed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which scheduling is non-preemptive?",
+        "options": [
+            {
+                "text": "FCFS",
+                "isCorrect": true
+            },
+            {
+                "text": "Round Robin",
+                "isCorrect": false
+            },
+            {
+                "text": "Priority",
+                "isCorrect": false
+            },
+            {
+                "text": "Multilevel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What solves race conditions?",
+        "options": [
+            {
+                "text": "Synchronization",
+                "isCorrect": true
+            },
+            {
+                "text": "No processes",
+                "isCorrect": false
+            },
+            {
+                "text": "Single thread",
+                "isCorrect": false
+            },
+            {
+                "text": "No memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is mutual exclusion?",
+        "options": [
+            {
+                "text": "One process at a time",
+                "isCorrect": true
+            },
+            {
+                "text": "All processes together",
+                "isCorrect": false
+            },
+            {
+                "text": "No processes",
+                "isCorrect": false
+            },
+            {
+                "text": "Random access",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is variable partition memory?",
+        "options": [
+            {
+                "text": "Dynamic sizing",
+                "isCorrect": true
+            },
+            {
+                "text": "Fixed sizes",
+                "isCorrect": false
+            },
+            {
+                "text": "No memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Single partition",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a page table for?",
+        "options": [
+            {
+                "text": "Mapping virtual to physical",
+                "isCorrect": true
+            },
+            {
+                "text": "Storing files",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Deadlock handling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is deadlock detection?",
+        "options": [
+            {
+                "text": "Finding deadlocks",
+                "isCorrect": true
+            },
+            {
+                "text": "Preventing deadlocks",
+                "isCorrect": false
+            },
+            {
+                "text": "Ignoring deadlocks",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating deadlocks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is deadlock recovery?",
+        "options": [
+            {
+                "text": "Breaking deadlock",
+                "isCorrect": true
+            },
+            {
+                "text": "Preventing deadlock",
+                "isCorrect": false
+            },
+            {
+                "text": "Avoiding deadlock",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating deadlock",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a file naming convention?",
+        "options": [
+            {
+                "text": "Rules for naming files",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory allocation",
+                "isCorrect": false
+            },
+            {
+                "text": "Process scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Thread creation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a file access method?",
+        "options": [
+            {
+                "text": "How files are read/written",
+                "isCorrect": true
+            },
+            {
+                "text": "File deletion",
+                "isCorrect": false
+            },
+            {
+                "text": "File naming",
+                "isCorrect": false
+            },
+            {
+                "text": "File creation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a file operation?",
+        "options": [
+            {
+                "text": "Open/close files",
+                "isCorrect": true
+            },
+            {
+                "text": "Format disk",
+                "isCorrect": false
+            },
+            {
+                "text": "Schedule process",
+                "isCorrect": false
+            },
+            {
+                "text": "Allocate memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is I/O software?",
+        "options": [
+            {
+                "text": "Manages I/O operations",
+                "isCorrect": true
+            },
+            {
+                "text": "Physical devices",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU components",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory chips",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is disk arm scheduling for?",
+        "options": [
+            {
+                "text": "Reduce seek time",
+                "isCorrect": true
+            },
+            {
+                "text": "Increase disk size",
+                "isCorrect": false
+            },
+            {
+                "text": "Format disk",
+                "isCorrect": false
+            },
+            {
+                "text": "Create files",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is an error handling method?",
+        "options": [
+            {
+                "text": "Retry operation",
+                "isCorrect": true
+            },
+            {
+                "text": "Ignore all errors",
+                "isCorrect": false
+            },
+            {
+                "text": "No handling",
+                "isCorrect": false
+            },
+            {
+                "text": "Stop system",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is multiprogramming with fixed partitions?",
+        "options": [
+            {
+                "text": "Fixed memory divisions",
+                "isCorrect": true
+            },
+            {
+                "text": "Dynamic memory",
+                "isCorrect": false
+            },
+            {
+                "text": "No memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Single process",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is process creation?",
+        "options": [
+            {
+                "text": "Making new processes",
+                "isCorrect": true
+            },
+            {
+                "text": "Terminating processes",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Allocating memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is context switching?",
+        "options": [
+            {
+                "text": "Saving/restoring process state",
+                "isCorrect": true
+            },
+            {
+                "text": "Creating files",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting disks",
+                "isCorrect": false
+            },
+            {
+                "text": "Managing directories",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is thrashing?",
+        "options": [
+            {
+                "text": "Excessive page faults",
+                "isCorrect": true
+            },
+            {
+                "text": "No page faults",
+                "isCorrect": false
+            },
+            {
+                "text": "Single process",
+                "isCorrect": false
+            },
+            {
+                "text": "No memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is virtual memory?",
+        "options": [
+            {
+                "text": "Extension of main memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Physical memory only",
+                "isCorrect": false
+            },
+            {
+                "text": "No memory",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU cache",
+                "isCorrect": false
+            }
+        ]
+    }
+]

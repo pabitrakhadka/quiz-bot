@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Which protocol is most commonly used for lightweight IoT communication?",
+        "options": [
+            {"text": "HTTP", "isCorrect": false},
+            {"text": "MQTT", "isCorrect": true},
+            {"text": "FTP", "isCorrect": false},
+            {"text": "SMTP", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the primary role of an actuator in IoT?",
+        "options": [
+            {"text": "Collecting data", "isCorrect": false},
+            {"text": "Processing data", "isCorrect": false},
+            {"text": "Performing actions based on sensor data", "isCorrect": true},
+            {"text": "Storing data", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which IoT layer is responsible for data processing and storage?",
+        "options": [
+            {"text": "Perception Layer", "isCorrect": false},
+            {"text": "Network Layer", "isCorrect": false},
+            {"text": "Middleware Layer", "isCorrect": true},
+            {"text": "Application Layer", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does 'RFID' stand for in IoT?",
+        "options": [
+            {"text": "Radio Frequency Identification", "isCorrect": true},
+            {"text": "Remote Frequency Integration Device", "isCorrect": false},
+            {"text": "Real-time Feedback Identification", "isCorrect": false},
+            {"text": "Rapid File Integration Data", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which wireless technology is best suited for low-power, short-range IoT devices?",
+        "options": [
+            {"text": "Wi-Fi", "isCorrect": false},
+            {"text": "Bluetooth Low Energy (BLE)", "isCorrect": true},
+            {"text": "4G LTE", "isCorrect": false},
+            {"text": "Zigbee", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the main challenge of IoT security?",
+        "options": [
+            {"text": "High power consumption", "isCorrect": false},
+            {"text": "Limited storage capacity", "isCorrect": false},
+            {"text": "Vulnerability to cyber-attacks", "isCorrect": true},
+            {"text": "Slow processing speed", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which cloud platform is widely used for IoT data management?",
+        "options": [
+            {"text": "AWS IoT Core", "isCorrect": true},
+            {"text": "Microsoft Word", "isCorrect": false},
+            {"text": "Google Docs", "isCorrect": false},
+            {"text": "Adobe Photoshop", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the purpose of a 'Gateway' in IoT?",
+        "options": [
+            {"text": "To connect IoT devices to the internet", "isCorrect": true},
+            {"text": "To store all IoT data locally", "isCorrect": false},
+            {"text": "To replace cloud computing", "isCorrect": false},
+            {"text": "To act as a sensor", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common IoT operating system?",
+        "options": [
+            {"text": "Raspbian", "isCorrect": false},
+            {"text": "Windows 10", "isCorrect": true},
+            {"text": "RIOT OS", "isCorrect": false},
+            {"text": "FreeRTOS", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is 'Edge Computing' in IoT?",
+        "options": [
+            {"text": "Processing data on remote servers", "isCorrect": false},
+            {"text": "Processing data closer to the source (device)", "isCorrect": true},
+            {"text": "Storing all data in the cloud", "isCorrect": false},
+            {"text": "Using blockchain for IoT security", "isCorrect": false}
+        ]
+    }
+]

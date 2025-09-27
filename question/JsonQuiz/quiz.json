@@ -1,0 +1,39 @@
+[
+    {
+        "question": "In most programming languages, array indexing starts with:",
+        "options": [
+            {"text": "0", "isCorrect": true},
+            {"text": "1", "isCorrect": false},
+            {"text": "-1", "isCorrect": false},
+            {"text": "Depends on the language", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the time complexity to access an element in an array?",
+        "options": [
+            {"text": "O(1)", "isCorrect": true},
+            {"text": "O(n)", "isCorrect": false},
+            {"text": "O(log n)", "isCorrect": false},
+            {"text": "O(n²)", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of these is a disadvantage of arrays?",
+        "options": [
+            {"text": "Fixed size (static)", "isCorrect": true},
+            {"text": "Fast element access", "isCorrect": false},
+            {"text": "Memory efficiency", "isCorrect": false},
+            {"text": "Supports multiple data types", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is a multidimensional array?",
+        "options": [
+            {"text": "An array with rows and columns (e.g., a matrix)", "isCorrect": true},
+            {"text": "An array that stores only integers", "isCorrect": false},
+            {"text": "An array with dynamic size", "isCorrect": false},
+            {"text": "An array that can store different data types", "isCorrect": false}
+        ]
+    }
+     
+]

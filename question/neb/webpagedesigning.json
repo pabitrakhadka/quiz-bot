@@ -1,0 +1,2207 @@
+[
+    {
+        "question": "What does CMS stand for in web design?",
+        "options": [
+            {
+                "text": "Content Management System",
+                "isCorrect": true
+            },
+            {
+                "text": "Computer Management Software",
+                "isCorrect": false
+            },
+            {
+                "text": "Central Management Server",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Management Setup",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a CMS?",
+        "options": [
+            {
+                "text": "WordPress",
+                "isCorrect": false
+            },
+            {
+                "text": "Drupal",
+                "isCorrect": false
+            },
+            {
+                "text": "MySQL",
+                "isCorrect": true
+            },
+            {
+                "text": "Joomla",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which language is mainly used to create web pages?",
+        "options": [
+            {
+                "text": "HTML",
+                "isCorrect": true
+            },
+            {
+                "text": "C",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the full form of HTML?",
+        "options": [
+            {
+                "text": "HyperText Markup Language",
+                "isCorrect": true
+            },
+            {
+                "text": "HighText Marking Language",
+                "isCorrect": false
+            },
+            {
+                "text": "HyperTransfer Markup Language",
+                "isCorrect": false
+            },
+            {
+                "text": "HyperTool Markup Logic",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define the title of an HTML document?",
+        "options": [
+            {
+                "text": "<title>",
+                "isCorrect": true
+            },
+            {
+                "text": "<head>",
+                "isCorrect": false
+            },
+            {
+                "text": "<h1>",
+                "isCorrect": false
+            },
+            {
+                "text": "<meta>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where is the content of an HTML page placed?",
+        "options": [
+            {
+                "text": "Inside <body>",
+                "isCorrect": true
+            },
+            {
+                "text": "Inside <head>",
+                "isCorrect": false
+            },
+            {
+                "text": "Inside <meta>",
+                "isCorrect": false
+            },
+            {
+                "text": "Inside <script>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT an HTML tag?",
+        "options": [
+            {
+                "text": "<p>",
+                "isCorrect": false
+            },
+            {
+                "text": "<h1>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": true
+            },
+            {
+                "text": "<a>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of a Content Management System (CMS) in web design?",
+        "options": [
+            {
+                "text": "To write complex HTML and CSS code from scratch.",
+                "isCorrect": false
+            },
+            {
+                "text": "To allow users to create and manage website content without needing technical coding skills.",
+                "isCorrect": true
+            },
+            {
+                "text": "To replace web browsers for viewing websites.",
+                "isCorrect": false
+            },
+            {
+                "text": "To automatically generate domain names.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following tags is required to define the main content of an HTML document?",
+        "options": [
+            {
+                "text": "<head>",
+                "isCorrect": false
+            },
+            {
+                "text": "<html>",
+                "isCorrect": false
+            },
+            {
+                "text": "<body>",
+                "isCorrect": true
+            },
+            {
+                "text": "<title>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In HTML, which tag is used to create the most important heading?",
+        "options": [
+            {
+                "text": "<heading>",
+                "isCorrect": false
+            },
+            {
+                "text": "<h6>",
+                "isCorrect": false
+            },
+            {
+                "text": "<h1>",
+                "isCorrect": true
+            },
+            {
+                "text": "<head>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the correct HTML element for inserting a line break?",
+        "options": [
+            {
+                "text": "<lb>",
+                "isCorrect": false
+            },
+            {
+                "text": "<break>",
+                "isCorrect": false
+            },
+            {
+                "text": "<br>",
+                "isCorrect": true
+            },
+            {
+                "text": "<newline>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute is always required for an <img> tag to function correctly?",
+        "options": [
+            {
+                "text": "alt",
+                "isCorrect": false
+            },
+            {
+                "text": "src",
+                "isCorrect": true
+            },
+            {
+                "text": "width",
+                "isCorrect": false
+            },
+            {
+                "text": "title",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to define an unordered (bulleted) list?",
+        "options": [
+            {
+                "text": "<ul>",
+                "isCorrect": true
+            },
+            {
+                "text": "<ol>",
+                "isCorrect": false
+            },
+            {
+                "text": "<li>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the context of an HTML form, which input type creates a checkbox?",
+        "options": [
+            {
+                "text": "<input type=\"check\">",
+                "isCorrect": false
+            },
+            {
+                "text": "<input type=\"checkbox\">",
+                "isCorrect": true
+            },
+            {
+                "text": "<checkbox>",
+                "isCorrect": false
+            },
+            {
+                "text": "<input type=\"button\">",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML element is used to create a table row?",
+        "options": [
+            {
+                "text": "<td>",
+                "isCorrect": false
+            },
+            {
+                "text": "<tr>",
+                "isCorrect": true
+            },
+            {
+                "text": "<th>",
+                "isCorrect": false
+            },
+            {
+                "text": "<table>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The <frameset> tag in HTML is primarily used to:",
+        "options": [
+            {
+                "text": "Create a border around an image.",
+                "isCorrect": false
+            },
+            {
+                "text": "Divide the browser window into multiple independent sections, each loading a separate HTML document.",
+                "isCorrect": true
+            },
+            {
+                "text": "Define the main structure of a single web page.",
+                "isCorrect": false
+            },
+            {
+                "text": "Embed a video file.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a major disadvantage of using frames in a web page?",
+        "options": [
+            {
+                "text": "They make the page load faster.",
+                "isCorrect": false
+            },
+            {
+                "text": "They are poorly indexed by search engines and can cause issues with bookmarking.",
+                "isCorrect": true
+            },
+            {
+                "text": "They are too easy to implement.",
+                "isCorrect": false
+            },
+            {
+                "text": "They are not supported by any modern browsers.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag contains the meta-information about the HTML document, such as its title and links to scripts?",
+        "options": [
+            {
+                "text": "<meta>",
+                "isCorrect": false
+            },
+            {
+                "text": "<body>",
+                "isCorrect": false
+            },
+            {
+                "text": "<head>",
+                "isCorrect": true
+            },
+            {
+                "text": "<html>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the `alt` attribute in an <img> tag?",
+        "options": [
+            {
+                "text": "To provide a tooltip when the mouse hovers over the image.",
+                "isCorrect": false
+            },
+            {
+                "text": "To specify the alignment of the image.",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide alternative text if the image cannot be displayed, crucial for accessibility.",
+                "isCorrect": true
+            },
+            {
+                "text": "To link the image to another web page.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML element is used to create a hyperlink?",
+        "options": [
+            {
+                "text": "<link>",
+                "isCorrect": false
+            },
+            {
+                "text": "<a>",
+                "isCorrect": true
+            },
+            {
+                "text": "<href>",
+                "isCorrect": false
+            },
+            {
+                "text": "<hyper>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In an HTML table, which tag defines a standard data cell?",
+        "options": [
+            {
+                "text": "<td>",
+                "isCorrect": true
+            },
+            {
+                "text": "<th>",
+                "isCorrect": false
+            },
+            {
+                "text": "<tr>",
+                "isCorrect": false
+            },
+            {
+                "text": "<data>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a self-closing tag in HTML?",
+        "options": [
+            {
+                "text": "<p>",
+                "isCorrect": false
+            },
+            {
+                "text": "<div>",
+                "isCorrect": false
+            },
+            {
+                "text": "<img>",
+                "isCorrect": true
+            },
+            {
+                "text": "<span>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the 'action' attribute specify in an HTML <form> tag?",
+        "options": [
+            {
+                "text": "The CSS style for the form.",
+                "isCorrect": false
+            },
+            {
+                "text": "The URL where the form data will be sent upon submission.",
+                "isCorrect": true
+            },
+            {
+                "text": "The method of data submission (GET or POST).",
+                "isCorrect": false
+            },
+            {
+                "text": "The name of the form.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define a paragraph in HTML?",
+        "options": [
+            {
+                "text": "<para>",
+                "isCorrect": false
+            },
+            {
+                "text": "<p>",
+                "isCorrect": true
+            },
+            {
+                "text": "<paragraph>",
+                "isCorrect": false
+            },
+            {
+                "text": "<text>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The correct sequence of a basic HTML document's structure is:",
+        "options": [
+            {
+                "text": "<html> -> <body> -> <head>",
+                "isCorrect": false
+            },
+            {
+                "text": "<head> -> <html> -> <body>",
+                "isCorrect": false
+            },
+            {
+                "text": "<html> -> <head> -> <body>",
+                "isCorrect": true
+            },
+            {
+                "text": "<body> -> <head> -> <html>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute of the <a> tag specifies the URL of the page the link goes to?",
+        "options": [
+            {
+                "text": "url",
+                "isCorrect": false
+            },
+            {
+                "text": "link",
+                "isCorrect": false
+            },
+            {
+                "text": "href",
+                "isCorrect": true
+            },
+            {
+                "text": "src",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to make text bold?",
+        "options": [
+            {
+                "text": "<bold>",
+                "isCorrect": false
+            },
+            {
+                "text": "<strong>",
+                "isCorrect": true
+            },
+            {
+                "text": "<b>",
+                "isCorrect": true
+            },
+            {
+                "text": "<i>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the <label> tag in an HTML form?",
+        "options": [
+            {
+                "text": "To create a border around form elements.",
+                "isCorrect": false
+            },
+            {
+                "text": "To define a caption for a form element, improving accessibility.",
+                "isCorrect": true
+            },
+            {
+                "text": "To submit the form data.",
+                "isCorrect": false
+            },
+            {
+                "text": "To reset the form fields.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which character is used to indicate an end tag in HTML?",
+        "options": [
+            {
+                "text": "<",
+                "isCorrect": false
+            },
+            {
+                "text": ">",
+                "isCorrect": false
+            },
+            {
+                "text": "/",
+                "isCorrect": true
+            },
+            {
+                "text": "\\",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the analogy of an HTML document having a 'skeleton' and 'flesh', the 'skeleton' typically refers to:",
+        "options": [
+            {
+                "text": "The actual text content and images on the page.",
+                "isCorrect": false
+            },
+            {
+                "text": "The structural tags like <html>, <head>, and <body> that define the document's framework.",
+                "isCorrect": true
+            },
+            {
+                "text": "The CSS styling that makes the page look attractive.",
+                "isCorrect": false
+            },
+            {
+                "text": "The JavaScript that adds interactivity.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a valid value for the 'type' attribute of an <input> element?",
+        "options": [
+            {
+                "text": "password",
+                "isCorrect": false
+            },
+            {
+                "text": "text",
+                "isCorrect": false
+            },
+            {
+                "text": "checkbox",
+                "isCorrect": false
+            },
+            {
+                "text": "paragraph",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a numbered (ordered) list?",
+        "options": [
+            {
+                "text": "<dl>",
+                "isCorrect": false
+            },
+            {
+                "text": "<ul>",
+                "isCorrect": false
+            },
+            {
+                "text": "<ol>",
+                "isCorrect": true
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the correct way to create a drop-down list in HTML?",
+        "options": [
+            {
+                "text": "<list>",
+                "isCorrect": false
+            },
+            {
+                "text": "<input type=\"dropdown\">",
+                "isCorrect": false
+            },
+            {
+                "text": "<select>",
+                "isCorrect": true
+            },
+            {
+                "text": "<dropdown>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML5 element is intended for navigational links?",
+        "options": [
+            {
+                "text": "<div>",
+                "isCorrect": false
+            },
+            {
+                "text": "<nav>",
+                "isCorrect": true
+            },
+            {
+                "text": "<menu>",
+                "isCorrect": false
+            },
+            {
+                "text": "<links>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'method' attribute in a <form> tag can have which of the following values?",
+        "options": [
+            {
+                "text": "GET and SET",
+                "isCorrect": false
+            },
+            {
+                "text": "SEND and RECEIVE",
+                "isCorrect": false
+            },
+            {
+                "text": "GET and POST",
+                "isCorrect": true
+            },
+            {
+                "text": "REQUEST and RESPONSE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define the header of an HTML table?",
+        "options": [
+            {
+                "text": "<thead>",
+                "isCorrect": false
+            },
+            {
+                "text": "<header>",
+                "isCorrect": false
+            },
+            {
+                "text": "<th>",
+                "isCorrect": true
+            },
+            {
+                "text": "<td>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a popular open-source CMS?",
+        "options": [
+            {
+                "text": "Adobe Dreamweaver",
+                "isCorrect": false
+            },
+            {
+                "text": "WordPress",
+                "isCorrect": true
+            },
+            {
+                "text": "Microsoft FrontPage",
+                "isCorrect": false
+            },
+            {
+                "text": "Notepad++",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            {
+                "text": "Hyperlinks and Text Markup Language",
+                "isCorrect": false
+            },
+            {
+                "text": "Home Tool Markup Language",
+                "isCorrect": false
+            },
+            {
+                "text": "Hyper Text Markup Language",
+                "isCorrect": true
+            },
+            {
+                "text": "Hyper Transfer Markup Language",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to embed CSS code directly into an HTML document?",
+        "options": [
+            {
+                "text": "<css>",
+                "isCorrect": false
+            },
+            {
+                "text": "<script>",
+                "isCorrect": false
+            },
+            {
+                "text": "<style>",
+                "isCorrect": true
+            },
+            {
+                "text": "<meta>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML element is used to specify a footer for a document or a section?",
+        "options": [
+            {
+                "text": "<bottom>",
+                "isCorrect": false
+            },
+            {
+                "text": "<footer>",
+                "isCorrect": true
+            },
+            {
+                "text": "<section>",
+                "isCorrect": false
+            },
+            {
+                "text": "<div>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the 'name' attribute in a form input element?",
+        "options": [
+            {
+                "text": "To define the placeholder text.",
+                "isCorrect": false
+            },
+            {
+                "text": "To set the visual width of the input field.",
+                "isCorrect": false
+            },
+            {
+                "text": "To identify the form data when it is submitted to the server.",
+                "isCorrect": true
+            },
+            {
+                "text": "To make the field required.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag would you use to create a horizontal rule (a thematic break)?",
+        "options": [
+            {
+                "text": "<line>",
+                "isCorrect": false
+            },
+            {
+                "text": "<hr>",
+                "isCorrect": true
+            },
+            {
+                "text": "<br>",
+                "isCorrect": false
+            },
+            {
+                "text": "<rule>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The <div> tag is primarily used for:",
+        "options": [
+            {
+                "text": "Defining a paragraph of text.",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating a container or a section to style with CSS.",
+                "isCorrect": true
+            },
+            {
+                "text": "Inserting an image.",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating a hyperlink.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is true about the <!DOCTYPE html> declaration?",
+        "options": [
+            {
+                "text": "It is an HTML tag.",
+                "isCorrect": false
+            },
+            {
+                "text": "It defines the document's title.",
+                "isCorrect": false
+            },
+            {
+                "text": "It is case-sensitive and must be written in uppercase.",
+                "isCorrect": false
+            },
+            {
+                "text": "It instructs the browser about the HTML version the document is written in.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which attribute is used to make an input field required in a form?",
+        "options": [
+            {
+                "text": "required",
+                "isCorrect": true
+            },
+            {
+                "text": "mandatory",
+                "isCorrect": false
+            },
+            {
+                "text": "necessary",
+                "isCorrect": false
+            },
+            {
+                "text": "validate",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define a description list?",
+        "options": [
+            {
+                "text": "<dl>",
+                "isCorrect": true
+            },
+            {
+                "text": "<dd>",
+                "isCorrect": false
+            },
+            {
+                "text": "<dt>",
+                "isCorrect": false
+            },
+            {
+                "text": "<ol>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the context of CMS, what is a 'plugin' or 'module'?",
+        "options": [
+            {
+                "text": "The main programming language of the CMS.",
+                "isCorrect": false
+            },
+            {
+                "text": "A piece of software that adds specific features to an existing CMS.",
+                "isCorrect": true
+            },
+            {
+                "text": "The default theme of the CMS.",
+                "isCorrect": false
+            },
+            {
+                "text": "The administrator's login page.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define emphasized text, typically displayed in italics?",
+        "options": [
+            {
+                "text": "<italic>",
+                "isCorrect": false
+            },
+            {
+                "text": "<i>",
+                "isCorrect": true
+            },
+            {
+                "text": "<em>",
+                "isCorrect": true
+            },
+            {
+                "text": "<highlight>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the correct syntax for creating a text area in a form?",
+        "options": [
+            {
+                "text": "<input type=\"textarea\">",
+                "isCorrect": false
+            },
+            {
+                "text": "<textbox>",
+                "isCorrect": false
+            },
+            {
+                "text": "<textarea>",
+                "isCorrect": true
+            },
+            {
+                "text": "<input type=\"text\" multi-line>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML entity would you use to display a less-than sign (<) on a web page?",
+        "options": [
+            {
+                "text": "&lt;",
+                "isCorrect": true
+            },
+            {
+                "text": "&lessthan;",
+                "isCorrect": false
+            },
+            {
+                "text": "&ls;",
+                "isCorrect": false
+            },
+            {
+                "text": "&lowbar;",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'value' attribute in a form button (<input type=\"submit\">) specifies:",
+        "options": [
+            {
+                "text": "The action URL.",
+                "isCorrect": false
+            },
+            {
+                "text": "The text displayed on the button.",
+                "isCorrect": true
+            },
+            {
+                "text": "The name of the button.",
+                "isCorrect": false
+            },
+            {
+                "text": "The color of the button.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these elements is a block-level element?",
+        "options": [
+            {
+                "text": "<span>",
+                "isCorrect": false
+            },
+            {
+                "text": "<a>",
+                "isCorrect": false
+            },
+            {
+                "text": "<div>",
+                "isCorrect": true
+            },
+            {
+                "text": "<img>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the <title> tag?",
+        "options": [
+            {
+                "text": "To define the main heading on the page.",
+                "isCorrect": false
+            },
+            {
+                "text": "To set the title that appears in the browser's title bar or tab.",
+                "isCorrect": true
+            },
+            {
+                "text": "To title the CSS file.",
+                "isCorrect": false
+            },
+            {
+                "text": "To create a title for an image.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define a scalar measurement within a known range (a gauge)?",
+        "options": [
+            {
+                "text": "<range>",
+                "isCorrect": false
+            },
+            {
+                "text": "<meter>",
+                "isCorrect": true
+            },
+            {
+                "text": "<gauge>",
+                "isCorrect": false
+            },
+            {
+                "text": "<measure>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When comparing a static HTML website to one built with a CMS, a key advantage of the CMS is:",
+        "options": [
+            {
+                "text": "Faster raw loading speed for simple pages.",
+                "isCorrect": false
+            },
+            {
+                "text": "Easier content updates by non-technical users.",
+                "isCorrect": true
+            },
+            {
+                "text": "Less server resource usage.",
+                "isCorrect": false
+            },
+            {
+                "text": "Greater control over the exact HTML output without any overhead.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a valid list element?",
+        "options": [
+            {
+                "text": "<li>",
+                "isCorrect": false
+            },
+            {
+                "text": "<ul>",
+                "isCorrect": false
+            },
+            {
+                "text": "<ol>",
+                "isCorrect": false
+            },
+            {
+                "text": "<il>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What does the <p> tag represent in HTML?",
+        "options": [
+            {
+                "text": "Paragraph",
+                "isCorrect": true
+            },
+            {
+                "text": "Picture",
+                "isCorrect": false
+            },
+            {
+                "text": "Padding",
+                "isCorrect": false
+            },
+            {
+                "text": "Point",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used for creating hyperlinks?",
+        "options": [
+            {
+                "text": "<a>",
+                "isCorrect": true
+            },
+            {
+                "text": "<link>",
+                "isCorrect": false
+            },
+            {
+                "text": "<hlink>",
+                "isCorrect": false
+            },
+            {
+                "text": "<href>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute is used in <a> tag to define a link?",
+        "options": [
+            {
+                "text": "href",
+                "isCorrect": true
+            },
+            {
+                "text": "src",
+                "isCorrect": false
+            },
+            {
+                "text": "alt",
+                "isCorrect": false
+            },
+            {
+                "text": "link",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to insert an image in HTML?",
+        "options": [
+            {
+                "text": "<img>",
+                "isCorrect": true
+            },
+            {
+                "text": "<picture>",
+                "isCorrect": false
+            },
+            {
+                "text": "<image>",
+                "isCorrect": false
+            },
+            {
+                "text": "<src>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute is mandatory in the <img> tag?",
+        "options": [
+            {
+                "text": "src",
+                "isCorrect": true
+            },
+            {
+                "text": "alt",
+                "isCorrect": false
+            },
+            {
+                "text": "width",
+                "isCorrect": false
+            },
+            {
+                "text": "height",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the 'alt' attribute in images?",
+        "options": [
+            {
+                "text": "Alternative text if image fails to load",
+                "isCorrect": true
+            },
+            {
+                "text": "Specifies image alignment",
+                "isCorrect": false
+            },
+            {
+                "text": "Sets image background",
+                "isCorrect": false
+            },
+            {
+                "text": "Defines image size",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a numbered list?",
+        "options": [
+            {
+                "text": "<ol>",
+                "isCorrect": true
+            },
+            {
+                "text": "<ul>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            },
+            {
+                "text": "<dl>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a bulleted list?",
+        "options": [
+            {
+                "text": "<ul>",
+                "isCorrect": true
+            },
+            {
+                "text": "<ol>",
+                "isCorrect": false
+            },
+            {
+                "text": "<dl>",
+                "isCorrect": false
+            },
+            {
+                "text": "<li>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define a list item?",
+        "options": [
+            {
+                "text": "<li>",
+                "isCorrect": true
+            },
+            {
+                "text": "<item>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            },
+            {
+                "text": "<ul>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table in HTML?",
+        "options": [
+            {
+                "text": "<table>",
+                "isCorrect": true
+            },
+            {
+                "text": "<tab>",
+                "isCorrect": false
+            },
+            {
+                "text": "<tbody>",
+                "isCorrect": false
+            },
+            {
+                "text": "<td>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table row?",
+        "options": [
+            {
+                "text": "<tr>",
+                "isCorrect": true
+            },
+            {
+                "text": "<td>",
+                "isCorrect": false
+            },
+            {
+                "text": "<th>",
+                "isCorrect": false
+            },
+            {
+                "text": "<row>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table header cell?",
+        "options": [
+            {
+                "text": "<th>",
+                "isCorrect": true
+            },
+            {
+                "text": "<tr>",
+                "isCorrect": false
+            },
+            {
+                "text": "<td>",
+                "isCorrect": false
+            },
+            {
+                "text": "<thead>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table data cell?",
+        "options": [
+            {
+                "text": "<td>",
+                "isCorrect": true
+            },
+            {
+                "text": "<th>",
+                "isCorrect": false
+            },
+            {
+                "text": "<tr>",
+                "isCorrect": false
+            },
+            {
+                "text": "<table>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to create a form?",
+        "options": [
+            {
+                "text": "<form>",
+                "isCorrect": true
+            },
+            {
+                "text": "<input>",
+                "isCorrect": false
+            },
+            {
+                "text": "<label>",
+                "isCorrect": false
+            },
+            {
+                "text": "<fieldset>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to create a text input field?",
+        "options": [
+            {
+                "text": "<input>",
+                "isCorrect": true
+            },
+            {
+                "text": "<textbox>",
+                "isCorrect": false
+            },
+            {
+                "text": "<field>",
+                "isCorrect": false
+            },
+            {
+                "text": "<text>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute of <input> defines its type?",
+        "options": [
+            {
+                "text": "type",
+                "isCorrect": true
+            },
+            {
+                "text": "name",
+                "isCorrect": false
+            },
+            {
+                "text": "value",
+                "isCorrect": false
+            },
+            {
+                "text": "id",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to create a dropdown list?",
+        "options": [
+            {
+                "text": "<select>",
+                "isCorrect": true
+            },
+            {
+                "text": "<option>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            },
+            {
+                "text": "<dropdown>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define an option inside a dropdown list?",
+        "options": [
+            {
+                "text": "<option>",
+                "isCorrect": true
+            },
+            {
+                "text": "<select>",
+                "isCorrect": false
+            },
+            {
+                "text": "<input>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used for creating a frame?",
+        "options": [
+            {
+                "text": "<frame>",
+                "isCorrect": true
+            },
+            {
+                "text": "<frameset>",
+                "isCorrect": false
+            },
+            {
+                "text": "<iframe>",
+                "isCorrect": false
+            },
+            {
+                "text": "<border>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used for inline frames?",
+        "options": [
+            {
+                "text": "<iframe>",
+                "isCorrect": true
+            },
+            {
+                "text": "<frame>",
+                "isCorrect": false
+            },
+            {
+                "text": "<frameset>",
+                "isCorrect": false
+            },
+            {
+                "text": "<inline>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to group multiple frames together?",
+        "options": [
+            {
+                "text": "<frameset>",
+                "isCorrect": true
+            },
+            {
+                "text": "<iframe>",
+                "isCorrect": false
+            },
+            {
+                "text": "<frame>",
+                "isCorrect": false
+            },
+            {
+                "text": "<set>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does CMS stand for in web design?",
+        "options": [
+            {
+                "text": "Content Management System",
+                "isCorrect": true
+            },
+            {
+                "text": "Computer Management Software",
+                "isCorrect": false
+            },
+            {
+                "text": "Central Management Server",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Management Setup",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a CMS?",
+        "options": [
+            {
+                "text": "WordPress",
+                "isCorrect": false
+            },
+            {
+                "text": "Drupal",
+                "isCorrect": false
+            },
+            {
+                "text": "MySQL",
+                "isCorrect": true
+            },
+            {
+                "text": "Joomla",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which language is mainly used to create web pages?",
+        "options": [
+            {
+                "text": "HTML",
+                "isCorrect": true
+            },
+            {
+                "text": "C",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "Python",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the full form of HTML?",
+        "options": [
+            {
+                "text": "HyperText Markup Language",
+                "isCorrect": true
+            },
+            {
+                "text": "HighText Marking Language",
+                "isCorrect": false
+            },
+            {
+                "text": "HyperTransfer Markup Language",
+                "isCorrect": false
+            },
+            {
+                "text": "HyperTool Markup Logic",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define the title of an HTML document?",
+        "options": [
+            {
+                "text": "<title>",
+                "isCorrect": true
+            },
+            {
+                "text": "<head>",
+                "isCorrect": false
+            },
+            {
+                "text": "<h1>",
+                "isCorrect": false
+            },
+            {
+                "text": "<meta>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where is the content of an HTML page placed?",
+        "options": [
+            {
+                "text": "Inside <body>",
+                "isCorrect": true
+            },
+            {
+                "text": "Inside <head>",
+                "isCorrect": false
+            },
+            {
+                "text": "Inside <meta>",
+                "isCorrect": false
+            },
+            {
+                "text": "Inside <script>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT an HTML tag?",
+        "options": [
+            {
+                "text": "<p>",
+                "isCorrect": false
+            },
+            {
+                "text": "<h1>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": true
+            },
+            {
+                "text": "<a>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the <p> tag represent in HTML?",
+        "options": [
+            {
+                "text": "Paragraph",
+                "isCorrect": true
+            },
+            {
+                "text": "Picture",
+                "isCorrect": false
+            },
+            {
+                "text": "Padding",
+                "isCorrect": false
+            },
+            {
+                "text": "Point",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used for creating hyperlinks?",
+        "options": [
+            {
+                "text": "<a>",
+                "isCorrect": true
+            },
+            {
+                "text": "<link>",
+                "isCorrect": false
+            },
+            {
+                "text": "<hlink>",
+                "isCorrect": false
+            },
+            {
+                "text": "<href>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute is used in <a> tag to define a link?",
+        "options": [
+            {
+                "text": "href",
+                "isCorrect": true
+            },
+            {
+                "text": "src",
+                "isCorrect": false
+            },
+            {
+                "text": "alt",
+                "isCorrect": false
+            },
+            {
+                "text": "link",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to insert an image in HTML?",
+        "options": [
+            {
+                "text": "<img>",
+                "isCorrect": true
+            },
+            {
+                "text": "<picture>",
+                "isCorrect": false
+            },
+            {
+                "text": "<image>",
+                "isCorrect": false
+            },
+            {
+                "text": "<src>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute is mandatory in the <img> tag?",
+        "options": [
+            {
+                "text": "src",
+                "isCorrect": true
+            },
+            {
+                "text": "alt",
+                "isCorrect": false
+            },
+            {
+                "text": "width",
+                "isCorrect": false
+            },
+            {
+                "text": "height",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the 'alt' attribute in images?",
+        "options": [
+            {
+                "text": "Alternative text if image fails to load",
+                "isCorrect": true
+            },
+            {
+                "text": "Specifies image alignment",
+                "isCorrect": false
+            },
+            {
+                "text": "Sets image background",
+                "isCorrect": false
+            },
+            {
+                "text": "Defines image size",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a numbered list?",
+        "options": [
+            {
+                "text": "<ol>",
+                "isCorrect": true
+            },
+            {
+                "text": "<ul>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            },
+            {
+                "text": "<dl>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a bulleted list?",
+        "options": [
+            {
+                "text": "<ul>",
+                "isCorrect": true
+            },
+            {
+                "text": "<ol>",
+                "isCorrect": false
+            },
+            {
+                "text": "<dl>",
+                "isCorrect": false
+            },
+            {
+                "text": "<li>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define a list item?",
+        "options": [
+            {
+                "text": "<li>",
+                "isCorrect": true
+            },
+            {
+                "text": "<item>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            },
+            {
+                "text": "<ul>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table in HTML?",
+        "options": [
+            {
+                "text": "<table>",
+                "isCorrect": true
+            },
+            {
+                "text": "<tab>",
+                "isCorrect": false
+            },
+            {
+                "text": "<tbody>",
+                "isCorrect": false
+            },
+            {
+                "text": "<td>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table row?",
+        "options": [
+            {
+                "text": "<tr>",
+                "isCorrect": true
+            },
+            {
+                "text": "<td>",
+                "isCorrect": false
+            },
+            {
+                "text": "<th>",
+                "isCorrect": false
+            },
+            {
+                "text": "<row>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table header cell?",
+        "options": [
+            {
+                "text": "<th>",
+                "isCorrect": true
+            },
+            {
+                "text": "<tr>",
+                "isCorrect": false
+            },
+            {
+                "text": "<td>",
+                "isCorrect": false
+            },
+            {
+                "text": "<thead>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to create a table data cell?",
+        "options": [
+            {
+                "text": "<td>",
+                "isCorrect": true
+            },
+            {
+                "text": "<th>",
+                "isCorrect": false
+            },
+            {
+                "text": "<tr>",
+                "isCorrect": false
+            },
+            {
+                "text": "<table>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to create a form?",
+        "options": [
+            {
+                "text": "<form>",
+                "isCorrect": true
+            },
+            {
+                "text": "<input>",
+                "isCorrect": false
+            },
+            {
+                "text": "<label>",
+                "isCorrect": false
+            },
+            {
+                "text": "<fieldset>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to create a text input field?",
+        "options": [
+            {
+                "text": "<input>",
+                "isCorrect": true
+            },
+            {
+                "text": "<textbox>",
+                "isCorrect": false
+            },
+            {
+                "text": "<field>",
+                "isCorrect": false
+            },
+            {
+                "text": "<text>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute of <input> defines its type?",
+        "options": [
+            {
+                "text": "type",
+                "isCorrect": true
+            },
+            {
+                "text": "name",
+                "isCorrect": false
+            },
+            {
+                "text": "value",
+                "isCorrect": false
+            },
+            {
+                "text": "id",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used to create a dropdown list?",
+        "options": [
+            {
+                "text": "<select>",
+                "isCorrect": true
+            },
+            {
+                "text": "<option>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            },
+            {
+                "text": "<dropdown>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to define an option inside a dropdown list?",
+        "options": [
+            {
+                "text": "<option>",
+                "isCorrect": true
+            },
+            {
+                "text": "<select>",
+                "isCorrect": false
+            },
+            {
+                "text": "<input>",
+                "isCorrect": false
+            },
+            {
+                "text": "<list>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used for creating a frame?",
+        "options": [
+            {
+                "text": "<frame>",
+                "isCorrect": true
+            },
+            {
+                "text": "<frameset>",
+                "isCorrect": false
+            },
+            {
+                "text": "<iframe>",
+                "isCorrect": false
+            },
+            {
+                "text": "<border>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which HTML tag is used for inline frames?",
+        "options": [
+            {
+                "text": "<iframe>",
+                "isCorrect": true
+            },
+            {
+                "text": "<frame>",
+                "isCorrect": false
+            },
+            {
+                "text": "<frameset>",
+                "isCorrect": false
+            },
+            {
+                "text": "<inline>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tag is used to group multiple frames together?",
+        "options": [
+            {
+                "text": "<frameset>",
+                "isCorrect": true
+            },
+            {
+                "text": "<iframe>",
+                "isCorrect": false
+            },
+            {
+                "text": "<frame>",
+                "isCorrect": false
+            },
+            {
+                "text": "<set>",
+                "isCorrect": false
+            }
+        ]
+    }
+]

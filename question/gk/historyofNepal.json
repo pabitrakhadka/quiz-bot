@@ -1,0 +1,1997 @@
+[
+    {
+        "question": "लिच्छवि कालमा विवाह र सम्बन्ध विच्छेदसँग सम्बन्धित मुद्दा हेर्ने निकायलाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "कठोर अधिकरण",
+                "isCorrect": false
+            },
+            {
+                "text": "वाप्यक अधिकरण",
+                "isCorrect": true
+            },
+            {
+                "text": "लिगवल अधिकरण",
+                "isCorrect": false
+            },
+            {
+                "text": "शुली अधिकरण",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'पञ्चअपराध' भन्नाले कुन पाँच अपराधलाई जनाउँथ्यो?",
+        "options": [
+            {
+                "text": "चोरी, हत्या, जालसाजी, राजद्रोह र अपहरण",
+                "isCorrect": false
+            },
+            {
+                "text": "चोरी, हत्या, परस्त्रीगमन, राजद्रोह र अङ्गभङ्ग",
+                "isCorrect": false
+            },
+            {
+                "text": "चोरी, हत्या, परस्त्रीगमन, राजद्रोह वा षड्यन्त्र",
+                "isCorrect": true
+            },
+            {
+                "text": "हत्या, जालसाजी, धोखाधडी, राजद्रोह र अपहरण",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'मानाङ्क' नामक मुद्रा प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "जयदेव द्वितीय",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'सैन्य अधिकृत' लाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "महासामन्त",
+                "isCorrect": false
+            },
+            {
+                "text": "महाप्रतिहार",
+                "isCorrect": false
+            },
+            {
+                "text": "गोलमिक",
+                "isCorrect": true
+            },
+            {
+                "text": "बलाध्यक्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजालाई 'लिच्छवि कुलकेतु' भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "जयदेव द्वितीय",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा राजदरबारको प्रमुखलाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "महासामन्त",
+                "isCorrect": false
+            },
+            {
+                "text": "महाप्रतिहार",
+                "isCorrect": true
+            },
+            {
+                "text": "महासर्वदण्डनायक",
+                "isCorrect": false
+            },
+            {
+                "text": "बलाध्यक्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'कैलाशकूट भवन' निर्माण गरेका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": true
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'पञ्चदोष' अन्तर्गत कुन पर्दैन?",
+        "options": [
+            {
+                "text": "वाक्",
+                "isCorrect": false
+            },
+            {
+                "text": "दण्ड",
+                "isCorrect": false
+            },
+            {
+                "text": "संघ",
+                "isCorrect": false
+            },
+            {
+                "text": "अपहरण",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'पूरी मुद्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा सेनाको प्रमुखलाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "महासर्वदण्डनायक",
+                "isCorrect": false
+            },
+            {
+                "text": "बलाध्यक्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "महाप्रतिहार",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रधान सेनापति",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'सुख मुद्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा राजद्रोहीलाई के सजाय दिइन्थ्यो?",
+        "options": [
+            {
+                "text": "पैसा लिइन्थ्यो",
+                "isCorrect": false
+            },
+            {
+                "text": "अङ्गच्छेद गरिन्थ्यो",
+                "isCorrect": true
+            },
+            {
+                "text": "गालीगलौज गरिन्थ्यो",
+                "isCorrect": false
+            },
+            {
+                "text": "विस्तारपूर्वक अनुसन्धान गरिन्थ्यो",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'कविराज' र 'परचक्रकाम' उपनामहरू धारण गरेका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "जयदेव द्वितीय",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा सेनापतिको पदलाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "बलाध्यक्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "महाबलाध्यक्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "गोलमिक",
+                "isCorrect": false
+            },
+            {
+                "text": "महादण्डनायक",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले सती प्रथाको अन्त्य गरेका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "जयदेव द्वितीय",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'सिंह मुद्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'प्रधानमन्त्री' लाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "अमात्य",
+                "isCorrect": false
+            },
+            {
+                "text": "महासामन्त",
+                "isCorrect": true
+            },
+            {
+                "text": "महाबलाध्यक्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "महासर्वदण्डनायक",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजालाई हिन्दु र बौद्ध दुवै धर्मको अनुयायी मानिन्छ?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'भृंगदेश भवन' निर्माण गरेका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'प्रधान न्यायाधीश' लाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "महासामन्त",
+                "isCorrect": false
+            },
+            {
+                "text": "महासर्वदण्डनायक",
+                "isCorrect": true
+            },
+            {
+                "text": "महाबलाध्यक्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "महाप्रतिहार",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले बौद्धनाथको स्थापना गरेका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजालाई 'लिच्छवि आकाशका पूर्ण चन्द्र' भनी चिनिन्छ?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'मन्त्री' लाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "महासामन्त",
+                "isCorrect": false
+            },
+            {
+                "text": "अमात्य",
+                "isCorrect": true
+            },
+            {
+                "text": "बलाध्यक्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "गोलमिक",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले गोकर्णमा मानव बलि दिने प्रथाको अन्त्य गरेका थिए?",
+        "options": [
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "जयदेव द्वितीय",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'प्रधान' लाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "गोलमिक",
+                "isCorrect": false
+            },
+            {
+                "text": "गौड थक्को प्रशासक",
+                "isCorrect": true
+            },
+            {
+                "text": "बलाध्यक्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रसाधिकृत",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा जमिनको विवादसँग सम्बन्धित मुद्दा हेर्ने निकायलाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "कठोर अधिकरण",
+                "isCorrect": false
+            },
+            {
+                "text": "वाप्यक अधिकरण",
+                "isCorrect": false
+            },
+            {
+                "text": "लिगवल अधिकरण",
+                "isCorrect": true
+            },
+            {
+                "text": "शुली अधिकरण",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले पशुपतिनाथ मन्दिरमा सुनको छाना चढाएका थिए?",
+        "options": [
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "जयदेव द्वितीय",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा सेनाको प्रमुखलाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "महाबलाध्यक्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "गोलमिक",
+                "isCorrect": false
+            },
+            {
+                "text": "बलाध्यक्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रधान सेनापति",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'कार्यलय प्रमुख' लाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "प्रधान",
+                "isCorrect": false
+            },
+            {
+                "text": "महासामन्त",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रसाधिकृत",
+                "isCorrect": true
+            },
+            {
+                "text": "महाप्रतिहार",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'चाँगुनारायण' मन्दिरको स्थापना गरेका थिए?",
+        "options": [
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'कर उठाउने' काम कुन निकायले गर्दथ्यो?",
+        "options": [
+            {
+                "text": "वाप्यक अधिकरण",
+                "isCorrect": false
+            },
+            {
+                "text": "लिगवल अधिकरण",
+                "isCorrect": false
+            },
+            {
+                "text": "शुली अधिकरण",
+                "isCorrect": false
+            },
+            {
+                "text": "कठोर अधिकरण",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजालाई 'आश्रयशासक' उपनामले चिनिन्थ्यो?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": true
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'पञ्चअपराध' मा 'षड्यन्त्र' बाहेक कुन अन्य अपराध समावेश थियो?",
+        "options": [
+            {
+                "text": "चोरी",
+                "isCorrect": true
+            },
+            {
+                "text": "अपहरण",
+                "isCorrect": false
+            },
+            {
+                "text": "धोखाधडी",
+                "isCorrect": false
+            },
+            {
+                "text": "मानव तस्करी",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले दोहोरो शासनको अन्त्य गरेका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजालाई 'तमखुमा विष हालेर षड्यन्त्रपूर्वक मारिएको' थियो?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जगत् प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'इन्द्रजात्रा' को प्रचलन सुरु गरेका थिए?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जय प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजाले 'खेत विनायक जात्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजाले 'रानी पोखरी' को निर्माण गरेका थिए?",
+        "options": [
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजाले 'तामाको मुद्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजा 'हरिसिद्धिको नाच हेर्दा हेर्दै' मरेका थिए?",
+        "options": [
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जगत् प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'मल्ल वंश' को शासनकाल कति वर्षसम्म चलेको थियो?",
+        "options": [
+            {
+                "text": "लगभग ५०० वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "लगभग ६०० वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "लगभग ७०० वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "लगभग ८०० वर्ष",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाको पालामा '३१ जना रानी' सती गएका थिए?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जगत् प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजा 'नेवारी भाषाका पहिलो कवि' मानिन्छन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजा 'ढोल जात्रा' को सुरुवात गर्ने राजा मानिन्छन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भूपतीन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्ल वंशका 'एकीकृत काठमाडौँका अन्तिम राजा' को थिए?",
+        "options": [
+            {
+                "text": "अर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाको पालामा 'इन्द्रजात्रामा लिङ्गो गाड्ने' प्रचलन सुरु भएको थियो?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप सिंह शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाको पालामा 'गाँजा' को प्रयोग गर्ने चलन थियो?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत् प्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'कलिगत संवत' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयदेव द्वितीय",
+                "isCorrect": true
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजाले 'भैरव मन्दिर' बनाउन लगाएका थिए?",
+        "options": [
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भूपतीन्द्र मल्ल",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'नेपाल मण्डलेश्वर' को उपनाम पाएका थिए?",
+        "options": [
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "अर्य मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजा '१२ भाषाका ज्ञाता' थिए?",
+        "options": [
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "भूपतीन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजा 'आफैँले बनाएको मूर्तिमा जीवित' थिए?",
+        "options": [
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'पशुपतिनाथ मन्दिरमा महास्नान' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "अर्य मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजा 'गोरखाका रामशाहसँग व्यक्तिगत सम्बन्ध' राख्दथे?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "छिन्दिनर मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालका 'आदि पुरुष' को थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "सुपुष्प",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजाले भक्तपुर दरबारलाई 'पर्खाल' लगाउने काम गरेका थिए?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "अर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत ज्योति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'चाँदीको मुद्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "छिन्दिनर मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'इन्द्रजात्रामा कुमारी घुमाउने' चलन सुरु गरेका थिए?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जय प्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'बोडे महालक्ष्मी जात्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "जगत् प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वी मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "अभय मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजालाई 'कवि चुडामणी समाज' को उपनाम दिइएको थियो?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भूपतीन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजा 'महामारीमा परेर' मरेका थिए?",
+        "options": [
+            {
+                "text": "जयमल्ल मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "अभय मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योग नरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजाले 'किर्तिपुरमा मानव बस्ती' बसाएका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'राजदरबारको प्रमुख' लाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "महाबलाध्यक्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "महासर्वदण्डनायक",
+                "isCorrect": false
+            },
+            {
+                "text": "महाप्रतिहार",
+                "isCorrect": true
+            },
+            {
+                "text": "महासामन्त",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजा 'दोलखाबाट बुढानिलकण्ठ भगवानको वाष पाउनुको' लागि जाने राजा मानिन्छन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत् ज्योति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन लिच्छवि राजा 'तिब्बतमा शरण लिन' गएका थिए?",
+        "options": [
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "उदयदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'पशुपतिनाथ मन्दिरमा सुनको छाना' चढाएका थिए?",
+        "options": [
+            {
+                "text": "अंशुवर्मा",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "नरेन्द्रदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन मल्ल राजाले 'छालाको मुद्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "छिन्दिनर मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जगत ज्योति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजा 'गाइजात्रा' प्रचलनमा ल्याउने राजा मानिन्छन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जगत् प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्ल वंशका 'पहिलो राजा' को थिए?",
+        "options": [
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "अर्यदेव मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'मालिकार्जुन' लाई मन्दिरमा पुजा गर्न लगाएका थिए?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "अर्यदेव मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन राजाले 'बिसकेट जात्रा' प्रचलनमा ल्याएका थिए?",
+        "options": [
+            {
+                "text": "जगत ज्योति मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालमा 'मुलतः' कस्ता मानिसहरू थिए?",
+        "options": [
+            {
+                "text": "सूर्यवंशी",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रवंशी",
+                "isCorrect": false
+            },
+            {
+                "text": "दुर्ववंशी",
+                "isCorrect": true
+            },
+            {
+                "text": "यदुवंशी",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको इतिहासलाई कति भागमा विभाजन गरिएको छ?",
+        "options": [
+            {
+                "text": "तीन भागमा (प्राचीन, मध्य, आधुनिक)",
+                "isCorrect": true
+            },
+            {
+                "text": "चार भागमा",
+                "isCorrect": false
+            },
+            {
+                "text": "दुई भागमा (प्राचीन, आधुनिक)",
+                "isCorrect": false
+            },
+            {
+                "text": "पाँच भागमा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको प्राचीन नाम 'नेपाल' कसरी बनेको हो?",
+        "options": [
+            {
+                "text": "ने (पूजा) र पाल (स्थान) बाट",
+                "isCorrect": false
+            },
+            {
+                "text": "ऋषि ने मुनिको नामबाट",
+                "isCorrect": true
+            },
+            {
+                "text": "न्यापाल शब्दबाट",
+                "isCorrect": false
+            },
+            {
+                "text": "नेवार शब्दबाट",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालका कति राजाहरूले शासन गरेका थिए?",
+        "options": [
+            {
+                "text": "२८ जनाले",
+                "isCorrect": false
+            },
+            {
+                "text": "२४ जनाले",
+                "isCorrect": false
+            },
+            {
+                "text": "३२ जनाले",
+                "isCorrect": true
+            },
+            {
+                "text": "२० जनाले",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन नेपालमा कति राज्यहरू थिए?",
+        "options": [
+            {
+                "text": "२२ वटा",
+                "isCorrect": false
+            },
+            {
+                "text": "२४ वटा",
+                "isCorrect": false
+            },
+            {
+                "text": "४६ वटा",
+                "isCorrect": false
+            },
+            {
+                "text": "५० भन्दा बढी",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "शाह वंशको स्थापना कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाहले",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्लले",
+                "isCorrect": false
+            },
+            {
+                "text": "कुलमण्डन शाहले",
+                "isCorrect": true
+            },
+            {
+                "text": "राम शाहले",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपाल एकीकरणको प्रक्रिया कहिले सुरु भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८२५ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८०१ मा",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८४६ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९०३ मा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कोटपार्वणको युद्ध कसको बीचमा भएको थियो?",
+        "options": [
+            {
+                "text": "गोरखा र किराँत",
+                "isCorrect": false
+            },
+            {
+                "text": "गोरखा र ललितपुर",
+                "isCorrect": true
+            },
+            {
+                "text": "गोरखा र भक्तपुर",
+                "isCorrect": false
+            },
+            {
+                "text": "गोरखा र मकवानपुर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपाल–अंग्रेज युद्ध कति वर्ष चलेको थियो?",
+        "options": [
+            {
+                "text": "दुई वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "एक वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "तीन वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "चार वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको इतिहासलाई कुन कुन कालखण्डमा विभाजन गरिएको छ?",
+        "options": [
+            {
+                "text": "किराँत काल, लिच्छवि काल, मल्ल काल, शाह काल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्राचीन काल, मध्य काल, आधुनिक काल",
+                "isCorrect": false
+            },
+            {
+                "text": "किराँत काल, लिच्छवि काल, मल्ल काल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रागैतिहासिक काल, प्राचीन काल, मध्य काल, आधुनिक काल",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "नेपाल शब्दको उत्पत्ति कसरी भएको मानिन्छ?",
+        "options": [
+            {
+                "text": "ने (पूजा) र पाल (स्थान) बाट",
+                "isCorrect": true
+            },
+            {
+                "text": "न्यापाल शब्दबाट",
+                "isCorrect": false
+            },
+            {
+                "text": "नेवार शब्दबाट",
+                "isCorrect": false
+            },
+            {
+                "text": "संस्कृतको नेप शब्दबाट",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "किराँत काल कति समय सम्म चलेको थियो?",
+        "options": [
+            {
+                "text": "१२०० वर्ष सम्म",
+                "isCorrect": false
+            },
+            {
+                "text": "९०० वर्ष सम्म",
+                "isCorrect": false
+            },
+            {
+                "text": "१५०० वर्ष सम्म",
+                "isCorrect": true
+            },
+            {
+                "text": "८०० वर्ष सम्म",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छवि कालको सुरुवात कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "यक्ष मल्लले",
+                "isCorrect": false
+            },
+            {
+                "text": "जयदेव प्रथमले",
+                "isCorrect": false
+            },
+            {
+                "text": "सोमवंशी राजाहरूले",
+                "isCorrect": false
+            },
+            {
+                "text": "सूर्यवंशी राजाहरूले",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन नेपालमा कति साना राज्यहरू थिए?",
+        "options": [
+            {
+                "text": "२४ वटा",
+                "isCorrect": false
+            },
+            {
+                "text": "४६ वटा",
+                "isCorrect": false
+            },
+            {
+                "text": "५० भन्दा बढी",
+                "isCorrect": true
+            },
+            {
+                "text": "३२ वटा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहले नेपाल एकीकरण कहिले सुरु गरेका थिए?",
+        "options": [
+            {
+                "text": "वि.सं. १८०१ मा",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८२५ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८४६ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७९९ मा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपाल-अंग्रेज युद्ध कति वर्ष चलेको थियो?",
+        "options": [
+            {
+                "text": "१ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "३ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "४ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राणा शासनको सुरुवात कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणाले",
+                "isCorrect": true
+            },
+            {
+                "text": "चन्द्रशमशेर राणाले",
+                "isCorrect": false
+            },
+            {
+                "text": "बीरशमशेर राणाले",
+                "isCorrect": false
+            },
+            {
+                "text": "देवशमशेर राणाले",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रजातन्त्रको स्थापना नेपालमा कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २००७ मा",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०१७ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०४६ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०६३ मा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा गणतन्त्रको घोषणा कहिले गरिएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०६३ जेठ १५ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०४६ फागुन ७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २००७ फागुन १३ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१७ पुष १ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुन ऐतिहासिक व्यक्तिले नेपालको पहिलो संविधान दिएका थिए?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाहले",
+                "isCorrect": false
+            },
+            {
+                "text": "जंगबहादुर राणाले",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र वीर विक्रम शाहले",
+                "isCorrect": true
+            },
+            {
+                "text": "बीरेन्द्र वीर विक्रम शाहले",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको राष्ट्रिय एकीकरणको जनक कसलाई मानिन्छ?",
+        "options": [
+            {
+                "text": "अरिमल्ललाई",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वीनारायण शाहलाई",
+                "isCorrect": true
+            },
+            {
+                "text": "जयस्थिति मल्ललाई",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ललाई",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो राजा कुन वंशका थिए?",
+        "options": [
+            {
+                "text": "शाह वंशका",
+                "isCorrect": false
+            },
+            {
+                "text": "मल्ल वंशका",
+                "isCorrect": false
+            },
+            {
+                "text": "किराँत वंशका",
+                "isCorrect": true
+            },
+            {
+                "text": "लिच्छवि वंशका",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको संविधान सभाको निर्वाचन पहिलो पटक कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०६४ मा",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०४७ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०५६ मा",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०६३ मा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको वर्तमान संविधान कहिले लागू भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०७२ असोज ३ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०६३ जेठ १५ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०४७ फागुन ७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०७५ माघ १ गते",
+                "isCorrect": false
+            }
+        ]
+    }
+]

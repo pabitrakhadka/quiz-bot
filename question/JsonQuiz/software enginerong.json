@@ -1,0 +1,6953 @@
+[
+    {
+        "question": "Which of the following is a type of software?",
+        "options": [
+            {
+                "text": "System software",
+                "isCorrect": false
+            },
+            {
+                "text": "Application software",
+                "isCorrect": false
+            },
+            {
+                "text": "Middleware",
+                "isCorrect": false
+            },
+            {
+                "text": "Keyboard",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a characteristic of software?",
+        "options": [
+            {
+                "text": "Flexibility",
+                "isCorrect": false
+            },
+            {
+                "text": "Tangibility",
+                "isCorrect": true
+            },
+            {
+                "text": "Maintainability",
+                "isCorrect": false
+            },
+            {
+                "text": "Functionality",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What type of software is MS Word?",
+        "options": [
+            {
+                "text": "System software",
+                "isCorrect": false
+            },
+            {
+                "text": "Utility software",
+                "isCorrect": false
+            },
+            {
+                "text": "Application software",
+                "isCorrect": true
+            },
+            {
+                "text": "Embedded software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model follows a linear and sequential flow?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": true
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model builds a working model quickly?",
+        "options": [
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": true
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Agile",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best for handling risks?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main goal of software project management?",
+        "options": [
+            {
+                "text": "Deliver software",
+                "isCorrect": true
+            },
+            {
+                "text": "Make profit",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensure quality",
+                "isCorrect": false
+            },
+            {
+                "text": "Scope control",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is NOT a key activity in project management?",
+        "options": [
+            {
+                "text": "Planning",
+                "isCorrect": false
+            },
+            {
+                "text": "Execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Modeling",
+                "isCorrect": true
+            },
+            {
+                "text": "Monitoring",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which term defines the boundaries of the project?",
+        "options": [
+            {
+                "text": "Scope",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk",
+                "isCorrect": false
+            },
+            {
+                "text": "Time",
+                "isCorrect": false
+            },
+            {
+                "text": "Effort",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a design model?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines how the system works?",
+        "options": [
+            {
+                "text": "Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintenance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is corrective maintenance?",
+        "options": [
+            {
+                "text": "Fix errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Add features",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrade UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Refactor code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates cost based on code size?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which chart is used in scheduling?",
+        "options": [
+            {
+                "text": "Gantt",
+                "isCorrect": true
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a phase in most traditional Software Development Life Cycle (SDLC) models?",
+        "options": [
+            {
+                "text": "Requirement Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Deployment",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary goal of Software Project Management?",
+        "options": [
+            {
+                "text": "Maximize code reuse",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensure project completion within constraints",
+                "isCorrect": true
+            },
+            {
+                "text": "Develop hardware",
+                "isCorrect": false
+            },
+            {
+                "text": "Increase marketing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model follows a linear and sequential approach?",
+        "options": [
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": true
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key activity in Software Project Management?",
+        "options": [
+            {
+                "text": "Graphic design",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk management",
+                "isCorrect": true
+            },
+            {
+                "text": "Database normalization",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which step is part of Software Project Planning?",
+        "options": [
+            {
+                "text": "Code implementation",
+                "isCorrect": false
+            },
+            {
+                "text": "Defining project scope",
+                "isCorrect": true
+            },
+            {
+                "text": "System testing",
+                "isCorrect": false
+            },
+            {
+                "text": "User feedback",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a common project constraint?",
+        "options": [
+            {
+                "text": "Team morale",
+                "isCorrect": false
+            },
+            {
+                "text": "Time",
+                "isCorrect": true
+            },
+            {
+                "text": "User preferences",
+                "isCorrect": false
+            },
+            {
+                "text": "Code complexity",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a component of a Project Management Plan?",
+        "options": [
+            {
+                "text": "Marketing strategy",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk management plan",
+                "isCorrect": true
+            },
+            {
+                "text": "User manual",
+                "isCorrect": false
+            },
+            {
+                "text": "Test cases",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which technique is used for project scheduling?",
+        "options": [
+            {
+                "text": "Gantt Chart",
+                "isCorrect": true
+            },
+            {
+                "text": "Data Flow Diagram",
+                "isCorrect": false
+            },
+            {
+                "text": "ER Diagram",
+                "isCorrect": false
+            },
+            {
+                "text": "UML Diagram",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a characteristic of a Matrix team structure?",
+        "options": [
+            {
+                "text": "Single reporting line",
+                "isCorrect": false
+            },
+            {
+                "text": "Dual reporting lines",
+                "isCorrect": true
+            },
+            {
+                "text": "No hierarchy",
+                "isCorrect": false
+            },
+            {
+                "text": "Flat structure",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which role is responsible for coordinating project tasks?",
+        "options": [
+            {
+                "text": "Developer",
+                "isCorrect": false
+            },
+            {
+                "text": "Tester",
+                "isCorrect": false
+            },
+            {
+                "text": "Project Manager",
+                "isCorrect": true
+            },
+            {
+                "text": "End User",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is used for software size estimation?",
+        "options": [
+            {
+                "text": "Lines of Code",
+                "isCorrect": true
+            },
+            {
+                "text": "CPM",
+                "isCorrect": false
+            },
+            {
+                "text": "Gantt Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model is used for cost estimation?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a type of risk in software projects?",
+        "options": [
+            {
+                "text": "Technical risk",
+                "isCorrect": true
+            },
+            {
+                "text": "User feedback",
+                "isCorrect": false
+            },
+            {
+                "text": "Code review",
+                "isCorrect": false
+            },
+            {
+                "text": "System testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which technique is used for risk identification?",
+        "options": [
+            {
+                "text": "Brainstorming",
+                "isCorrect": true
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Integration testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of Requirement Engineering?",
+        "options": [
+            {
+                "text": "Code development",
+                "isCorrect": false
+            },
+            {
+                "text": "Gathering user needs",
+                "isCorrect": true
+            },
+            {
+                "text": "System deployment",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a requirement gathering technique?",
+        "options": [
+            {
+                "text": "Interviews",
+                "isCorrect": true
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Unit testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a functional requirement?",
+        "options": [
+            {
+                "text": "System performance",
+                "isCorrect": false
+            },
+            {
+                "text": "User login functionality",
+                "isCorrect": true
+            },
+            {
+                "text": "Code maintainability",
+                "isCorrect": false
+            },
+            {
+                "text": "Scalability",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does SRS stand for in requirement documentation?",
+        "options": [
+            {
+                "text": "System Requirement Specification",
+                "isCorrect": true
+            },
+            {
+                "text": "Software Review System",
+                "isCorrect": false
+            },
+            {
+                "text": "System Resource Standards",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Requirement Solution",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which principle is key in software design?",
+        "options": [
+            {
+                "text": "Modularity",
+                "isCorrect": true
+            },
+            {
+                "text": "Compilation",
+                "isCorrect": false
+            },
+            {
+                "text": "Execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design model represents data flow?",
+        "options": [
+            {
+                "text": "ER Diagram",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": true
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            },
+            {
+                "text": "Gantt Chart",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which architecture design uses multiple layers?",
+        "options": [
+            {
+                "text": "Client-Server",
+                "isCorrect": false
+            },
+            {
+                "text": "Layered",
+                "isCorrect": true
+            },
+            {
+                "text": "Monolithic",
+                "isCorrect": false
+            },
+            {
+                "text": "Peer-to-Peer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a characteristic of Top-Down design?",
+        "options": [
+            {
+                "text": "Starts with details",
+                "isCorrect": false
+            },
+            {
+                "text": "Begins with high-level modules",
+                "isCorrect": true
+            },
+            {
+                "text": "Focuses on testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Ignores hierarchy",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key concept in Object-Oriented Design?",
+        "options": [
+            {
+                "text": "Inheritance",
+                "isCorrect": true
+            },
+            {
+                "text": "Normalization",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk analysis",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of software metrics?",
+        "options": [
+            {
+                "text": "Measure software quality",
+                "isCorrect": true
+            },
+            {
+                "text": "Design user interface",
+                "isCorrect": false
+            },
+            {
+                "text": "Write code",
+                "isCorrect": false
+            },
+            {
+                "text": "Train users",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a type of software metric?",
+        "options": [
+            {
+                "text": "Token Count",
+                "isCorrect": true
+            },
+            {
+                "text": "Gantt Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "UML Diagram",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does software reliability measure?",
+        "options": [
+            {
+                "text": "System uptime",
+                "isCorrect": true
+            },
+            {
+                "text": "Code complexity",
+                "isCorrect": false
+            },
+            {
+                "text": "User satisfaction",
+                "isCorrect": false
+            },
+            {
+                "text": "Development speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a software quality attribute?",
+        "options": [
+            {
+                "text": "Usability",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk",
+                "isCorrect": false
+            },
+            {
+                "text": "Budget",
+                "isCorrect": false
+            },
+            {
+                "text": "Schedule",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the difference between Quality Control and Quality Assurance?",
+        "options": [
+            {
+                "text": "QC detects defects, QA prevents them",
+                "isCorrect": true
+            },
+            {
+                "text": "QC prevents defects, QA detects them",
+                "isCorrect": false
+            },
+            {
+                "text": "Both are identical",
+                "isCorrect": false
+            },
+            {
+                "text": "QC is for hardware, QA for software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is Verification in software development?",
+        "options": [
+            {
+                "text": "Checking if product meets requirements",
+                "isCorrect": true
+            },
+            {
+                "text": "Ensuring product works in real environment",
+                "isCorrect": false
+            },
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a type of software testing?",
+        "options": [
+            {
+                "text": "Unit Testing",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Code Writing",
+                "isCorrect": false
+            },
+            {
+                "text": "Project Scheduling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of debugging?",
+        "options": [
+            {
+                "text": "Fixing code errors",
+                "isCorrect": true
+            },
+            {
+                "text": "Writing requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "Designing UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling tasks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of maintenance fixes software bugs?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": true
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a challenge in software maintenance?",
+        "options": [
+            {
+                "text": "High cost",
+                "isCorrect": true
+            },
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Designing UI",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model focuses on risk assessment?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": true
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a criterion for selecting an SDLC model?",
+        "options": [
+            {
+                "text": "Project complexity",
+                "isCorrect": true
+            },
+            {
+                "text": "User feedback",
+                "isCorrect": false
+            },
+            {
+                "text": "Code style",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key objective of Software Project Management?",
+        "options": [
+            {
+                "text": "Meeting deadlines",
+                "isCorrect": true
+            },
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Designing UI",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which resource is critical in project planning?",
+        "options": [
+            {
+                "text": "Budget",
+                "isCorrect": true
+            },
+            {
+                "text": "Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Test cases",
+                "isCorrect": false
+            },
+            {
+                "text": "User manual",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does PERT stand for in project scheduling?",
+        "options": [
+            {
+                "text": "Program Evaluation Review Technique",
+                "isCorrect": true
+            },
+            {
+                "text": "Project Execution and Review Tool",
+                "isCorrect": false
+            },
+            {
+                "text": "Plan Estimation and Resource Technique",
+                "isCorrect": false
+            },
+            {
+                "text": "Program Efficiency and Risk Tool",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a milestone in project scheduling?",
+        "options": [
+            {
+                "text": "Significant project event",
+                "isCorrect": true
+            },
+            {
+                "text": "Daily task",
+                "isCorrect": false
+            },
+            {
+                "text": "Code review",
+                "isCorrect": false
+            },
+            {
+                "text": "User feedback",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which team structure has no hierarchy?",
+        "options": [
+            {
+                "text": "Hierarchical",
+                "isCorrect": false
+            },
+            {
+                "text": "Matrix",
+                "isCorrect": false
+            },
+            {
+                "text": "Flat",
+                "isCorrect": true
+            },
+            {
+                "text": "Functional",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What improves team communication?",
+        "options": [
+            {
+                "text": "Regular meetings",
+                "isCorrect": true
+            },
+            {
+                "text": "Code reviews",
+                "isCorrect": false
+            },
+            {
+                "text": "Unit testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is Function Point used for?",
+        "options": [
+            {
+                "text": "Size estimation",
+                "isCorrect": true
+            },
+            {
+                "text": "Cost estimation",
+                "isCorrect": false
+            },
+            {
+                "text": "Time estimation",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk analysis",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does risk mitigation involve?",
+        "options": [
+            {
+                "text": "Reducing risk impact",
+                "isCorrect": true
+            },
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Testing software",
+                "isCorrect": false
+            },
+            {
+                "text": "Designing UI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a non-functional requirement?",
+        "options": [
+            {
+                "text": "System performance",
+                "isCorrect": true
+            },
+            {
+                "text": "User login",
+                "isCorrect": false
+            },
+            {
+                "text": "Data storage",
+                "isCorrect": false
+            },
+            {
+                "text": "Report generation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a benefit of the Iterative SDLC model?",
+        "options": [
+            {
+                "text": "Incremental development",
+                "isCorrect": true
+            },
+            {
+                "text": "Linear process",
+                "isCorrect": false
+            },
+            {
+                "text": "No testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed requirements",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design strategy starts with low-level components?",
+        "options": [
+            {
+                "text": "Top-Down",
+                "isCorrect": false
+            },
+            {
+                "text": "Bottom-Up",
+                "isCorrect": true
+            },
+            {
+                "text": "Hybrid",
+                "isCorrect": false
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a data structure metric?",
+        "options": [
+            {
+                "text": "Cyclomatic complexity",
+                "isCorrect": true
+            },
+            {
+                "text": "Lines of Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Token Count",
+                "isCorrect": false
+            },
+            {
+                "text": "Information Flow",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which maintenance type adapts to new environments?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": true
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a goal of Rapid Application Development (RAD)?",
+        "options": [
+            {
+                "text": "Fast prototyping",
+                "isCorrect": true
+            },
+            {
+                "text": "Linear development",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk avoidance",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed scope",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a characteristic of software?",
+        "options": [
+            {
+                "text": "Intangibility",
+                "isCorrect": true
+            },
+            {
+                "text": "Physical weight",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed shape",
+                "isCorrect": false
+            },
+            {
+                "text": "Visible structure",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a type of software?",
+        "options": [
+            {
+                "text": "System software",
+                "isCorrect": true
+            },
+            {
+                "text": "Hardware driver",
+                "isCorrect": false
+            },
+            {
+                "text": "Network cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Physical component",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a software component?",
+        "options": [
+            {
+                "text": "Reusable module",
+                "isCorrect": true
+            },
+            {
+                "text": "Hardware part",
+                "isCorrect": false
+            },
+            {
+                "text": "User manual",
+                "isCorrect": false
+            },
+            {
+                "text": "Test case",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model uses incremental cycles?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": true
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key importance of project management?",
+        "options": [
+            {
+                "text": "Cost efficiency",
+                "isCorrect": true
+            },
+            {
+                "text": "Code optimization",
+                "isCorrect": false
+            },
+            {
+                "text": "UI design",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a project planning step?",
+        "options": [
+            {
+                "text": "Resource allocation",
+                "isCorrect": true
+            },
+            {
+                "text": "Code writing",
+                "isCorrect": false
+            },
+            {
+                "text": "System testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does CPM stand for in scheduling?",
+        "options": [
+            {
+                "text": "Critical Path Method",
+                "isCorrect": true
+            },
+            {
+                "text": "Code Performance Measure",
+                "isCorrect": false
+            },
+            {
+                "text": "Cost Planning Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Cycle Process Management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which team role defines project goals?",
+        "options": [
+            {
+                "text": "Project Manager",
+                "isCorrect": true
+            },
+            {
+                "text": "Developer",
+                "isCorrect": false
+            },
+            {
+                "text": "Tester",
+                "isCorrect": false
+            },
+            {
+                "text": "End User",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a time estimation technique?",
+        "options": [
+            {
+                "text": "PERT",
+                "isCorrect": true
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "ERD",
+                "isCorrect": false
+            },
+            {
+                "text": "UML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which risk is related to project delays?",
+        "options": [
+            {
+                "text": "Schedule risk",
+                "isCorrect": true
+            },
+            {
+                "text": "Technical risk",
+                "isCorrect": false
+            },
+            {
+                "text": "Operational risk",
+                "isCorrect": false
+            },
+            {
+                "text": "Financial risk",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a requirement gathering technique?",
+        "options": [
+            {
+                "text": "Surveys",
+                "isCorrect": true
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Unit testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design model shows entity relationships?",
+        "options": [
+            {
+                "text": "ER Diagram",
+                "isCorrect": true
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            },
+            {
+                "text": "Gantt Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a software quality attribute?",
+        "options": [
+            {
+                "text": "Maintainability",
+                "isCorrect": true
+            },
+            {
+                "text": "Budget",
+                "isCorrect": false
+            },
+            {
+                "text": "Schedule",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is Validation in software development?",
+        "options": [
+            {
+                "text": "Ensuring product meets user needs",
+                "isCorrect": true
+            },
+            {
+                "text": "Checking code syntax",
+                "isCorrect": false
+            },
+            {
+                "text": "Writing requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "Scheduling tasks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which maintenance type improves software features?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": true
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a software metric used for?",
+        "options": [
+            {
+                "text": "Project monitoring",
+                "isCorrect": true
+            },
+            {
+                "text": "UI design",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            },
+            {
+                "text": "Code writing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a reliability model?",
+        "options": [
+            {
+                "text": "Jelinski-Moranda",
+                "isCorrect": true
+            },
+            {
+                "text": "COCOMO",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a characteristic of Prototyping SDLC?",
+        "options": [
+            {
+                "text": "Early user feedback",
+                "isCorrect": true
+            },
+            {
+                "text": "Fixed requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "Linear process",
+                "isCorrect": false
+            },
+            {
+                "text": "No testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design framework emphasizes modularity?",
+        "options": [
+            {
+                "text": "Object-Oriented",
+                "isCorrect": true
+            },
+            {
+                "text": "Procedural",
+                "isCorrect": false
+            },
+            {
+                "text": "Functional",
+                "isCorrect": false
+            },
+            {
+                "text": "Sequential",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a software maintenance process model?",
+        "options": [
+            {
+                "text": "Iterative Enhancement",
+                "isCorrect": true
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a type of software testing?",
+        "options": [
+            {
+                "text": "Integration Testing",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Code Writing",
+                "isCorrect": false
+            },
+            {
+                "text": "Project Scheduling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a benefit of the Spiral SDLC model?",
+        "options": [
+            {
+                "text": "Risk-driven approach",
+                "isCorrect": true
+            },
+            {
+                "text": "Fixed scope",
+                "isCorrect": false
+            },
+            {
+                "text": "Linear process",
+                "isCorrect": false
+            },
+            {
+                "text": "No iteration",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a software design principle?",
+        "options": [
+            {
+                "text": "Abstraction",
+                "isCorrect": true
+            },
+            {
+                "text": "Compilation",
+                "isCorrect": false
+            },
+            {
+                "text": "Execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a component of Client-Server architecture?",
+        "options": [
+            {
+                "text": "Server",
+                "isCorrect": true
+            },
+            {
+                "text": "Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Test case",
+                "isCorrect": false
+            },
+            {
+                "text": "User manual",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which metric measures code complexity?",
+        "options": [
+            {
+                "text": "Cyclomatic complexity",
+                "isCorrect": true
+            },
+            {
+                "text": "Lines of Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Function Point",
+                "isCorrect": false
+            },
+            {
+                "text": "Token Count",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a goal of software maintenance?",
+        "options": [
+            {
+                "text": "Improve performance",
+                "isCorrect": true
+            },
+            {
+                "text": "Write new code",
+                "isCorrect": false
+            },
+            {
+                "text": "Design UI",
+                "isCorrect": false
+            },
+            {
+                "text": "Train users",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best for unclear requirements?",
+        "options": [
+            {
+                "text": "Prototyping",
+                "isCorrect": true
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key activity in risk management?",
+        "options": [
+            {
+                "text": "Risk monitoring",
+                "isCorrect": true
+            },
+            {
+                "text": "Code writing",
+                "isCorrect": false
+            },
+            {
+                "text": "UI design",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a non-functional requirement example?",
+        "options": [
+            {
+                "text": "Scalability",
+                "isCorrect": true
+            },
+            {
+                "text": "User login",
+                "isCorrect": false
+            },
+            {
+                "text": "Data storage",
+                "isCorrect": false
+            },
+            {
+                "text": "Report generation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a benefit of Gantt Charts?",
+        "options": [
+            {
+                "text": "Visualize project timeline",
+                "isCorrect": true
+            },
+            {
+                "text": "Measure code complexity",
+                "isCorrect": false
+            },
+            {
+                "text": "Write requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "Debug code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which team structure has a single reporting line?",
+        "options": [
+            {
+                "text": "Hierarchical",
+                "isCorrect": true
+            },
+            {
+                "text": "Matrix",
+                "isCorrect": false
+            },
+            {
+                "text": "Flat",
+                "isCorrect": false
+            },
+            {
+                "text": "Network",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a software design strategy?",
+        "options": [
+            {
+                "text": "Hybrid",
+                "isCorrect": true
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which metric measures data flow between modules?",
+        "options": [
+            {
+                "text": "Information Flow",
+                "isCorrect": true
+            },
+            {
+                "text": "Token Count",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyclomatic complexity",
+                "isCorrect": false
+            },
+            {
+                "text": "Lines of Code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a software quality control technique?",
+        "options": [
+            {
+                "text": "Testing",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Code writing",
+                "isCorrect": false
+            },
+            {
+                "text": "Project scheduling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which maintenance type prevents future issues?",
+        "options": [
+            {
+                "text": "Preventive",
+                "isCorrect": true
+            },
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a characteristic of RAD model?",
+        "options": [
+            {
+                "text": "Rapid development",
+                "isCorrect": true
+            },
+            {
+                "text": "Fixed requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "Linear process",
+                "isCorrect": false
+            },
+            {
+                "text": "No iteration",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a software component example?",
+        "options": [
+            {
+                "text": "Database module",
+                "isCorrect": true
+            },
+            {
+                "text": "Hardware driver",
+                "isCorrect": false
+            },
+            {
+                "text": "Network cable",
+                "isCorrect": false
+            },
+            {
+                "text": "User manual",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key role in project team management?",
+        "options": [
+            {
+                "text": "Team Leader",
+                "isCorrect": true
+            },
+            {
+                "text": "End User",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware Engineer",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing Manager",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which technique is used for risk monitoring?",
+        "options": [
+            {
+                "text": "Regular reviews",
+                "isCorrect": true
+            },
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Unit testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a functional requirement example?",
+        "options": [
+            {
+                "text": "Data storage",
+                "isCorrect": true
+            },
+            {
+                "text": "System security",
+                "isCorrect": false
+            },
+            {
+                "text": "Usability",
+                "isCorrect": false
+            },
+            {
+                "text": "Performance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design model represents process flow?",
+        "options": [
+            {
+                "text": "DFD",
+                "isCorrect": true
+            },
+            {
+                "text": "ER Diagram",
+                "isCorrect": false
+            },
+            {
+                "text": "Gantt Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a software reliability model?",
+        "options": [
+            {
+                "text": "Goel-Okumoto",
+                "isCorrect": true
+            },
+            {
+                "text": "COCOMO",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best for large projects?",
+        "options": [
+            {
+                "text": "Spiral",
+                "isCorrect": true
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a project management plan component?",
+        "options": [
+            {
+                "text": "Schedule",
+                "isCorrect": true
+            },
+            {
+                "text": "Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Test case",
+                "isCorrect": false
+            },
+            {
+                "text": "User manual",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a debugging technique?",
+        "options": [
+            {
+                "text": "Breakpoints",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Code writing",
+                "isCorrect": false
+            },
+            {
+                "text": "Project scheduling",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a challenge in software maintenance?",
+        "options": [
+            {
+                "text": "Legacy systems",
+                "isCorrect": true
+            },
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Designing UI",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a primary objective of Software Project Management?",
+        "options": [
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Designing UI elements",
+                "isCorrect": false
+            },
+            {
+                "text": "Finishing within budget and time",
+                "isCorrect": true
+            },
+            {
+                "text": "Marketing the final product",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is characterized by a sequential, non-iterative flow?",
+        "options": [
+            {
+                "text": "Spiral Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Prototyping Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall Model",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of a Gantt Chart in project planning?",
+        "options": [
+            {
+                "text": "To estimate project cost",
+                "isCorrect": false
+            },
+            {
+                "text": "To visualize the project schedule",
+                "isCorrect": true
+            },
+            {
+                "text": "To document software requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage team hierarchy",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In project estimation, what does 'Function Point' analysis measure?",
+        "options": [
+            {
+                "text": "Lines of code written",
+                "isCorrect": false
+            },
+            {
+                "text": "Software functionality from user's view",
+                "isCorrect": true
+            },
+            {
+                "text": "Number of developers on the project",
+                "isCorrect": false
+            },
+            {
+                "text": "The speed of the server",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A risk that involves a key developer leaving the project is classified as what type of risk?",
+        "options": [
+            {
+                "text": "Technical Risk",
+                "isCorrect": false
+            },
+            {
+                "text": "Managerial Risk",
+                "isCorrect": true
+            },
+            {
+                "text": "Business Risk",
+                "isCorrect": false
+            },
+            {
+                "text": "Design Risk",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main output of the requirement analysis and specification phase?",
+        "options": [
+            {
+                "text": "Source Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Test Cases",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Requirements Specification (SRS)",
+                "isCorrect": true
+            },
+            {
+                "text": "Project Budget",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The principle of 'Information Hiding' is a key concept in which area?",
+        "options": [
+            {
+                "text": "Software Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Project Scheduling",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk Management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A Data Flow Diagram (DFD) is a model that describes the:",
+        "options": [
+            {
+                "text": "flow of data through a system",
+                "isCorrect": true
+            },
+            {
+                "text": "database schema",
+                "isCorrect": false
+            },
+            {
+                "text": "class inheritance structure",
+                "isCorrect": false
+            },
+            {
+                "text": "project timeline",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is considered a software metric for complexity?",
+        "options": [
+            {
+                "text": "Lines of Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Cost in dollars",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyclomatic Complexity",
+                "isCorrect": true
+            },
+            {
+                "text": "Number of test cases",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does 'Software Reliability' primarily measure?",
+        "options": [
+            {
+                "text": "How easy the software is to use",
+                "isCorrect": false
+            },
+            {
+                "text": "Probability of failure-free operation",
+                "isCorrect": true
+            },
+            {
+                "text": "The cost to develop the software",
+                "isCorrect": false
+            },
+            {
+                "text": "The number of features included",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main difference between Quality Assurance (QA) and Quality Control (QC)?",
+        "options": [
+            {
+                "text": "QA is process-oriented, QC is product-oriented",
+                "isCorrect": true
+            },
+            {
+                "text": "QC is process-oriented, QA is product-oriented",
+                "isCorrect": false
+            },
+            {
+                "text": "QA is done by developers, QC by testers",
+                "isCorrect": false
+            },
+            {
+                "text": "There is no difference",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of software testing focuses on individual components or modules?",
+        "options": [
+            {
+                "text": "Integration Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "System Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Unit Testing",
+                "isCorrect": true
+            },
+            {
+                "text": "Acceptance Testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Updating software to run on a new operating system is an example of which type of maintenance?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which project estimation model uses historical data and is expressed in person-months?",
+        "options": [
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "Gantt",
+                "isCorrect": false
+            },
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "Function Point",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best suited for a large, complex project where requirements are unclear at the start?",
+        "options": [
+            {
+                "text": "Waterfall Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral Model",
+                "isCorrect": true
+            },
+            {
+                "text": "Prototyping Model",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In a project team, what is a key responsibility of the Project Manager?",
+        "options": [
+            {
+                "text": "Writing the most complex code",
+                "isCorrect": false
+            },
+            {
+                "text": "Communication with stakeholders",
+                "isCorrect": true
+            },
+            {
+                "text": "Designing the database",
+                "isCorrect": false
+            },
+            {
+                "text": "Performing all software tests",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A requirement like 'The system must respond to a query in less than 2 seconds' is a:",
+        "options": [
+            {
+                "text": "Functional Requirement",
+                "isCorrect": false
+            },
+            {
+                "text": "Business Requirement",
+                "isCorrect": false
+            },
+            {
+                "text": "Non-functional Requirement",
+                "isCorrect": true
+            },
+            {
+                "text": "User Requirement",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design strategy involves breaking down a large system into smaller, more manageable subsystems?",
+        "options": [
+            {
+                "text": "Bottom-Up Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Agile Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Object-Oriented Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Top-Down Design",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The process of finding and fixing defects in software is known as:",
+        "options": [
+            {
+                "text": "Verification",
+                "isCorrect": false
+            },
+            {
+                "text": "Validation",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a recognized type of software component?",
+        "options": [
+            {
+                "text": "Source code component",
+                "isCorrect": false
+            },
+            {
+                "text": "Runtime component",
+                "isCorrect": false
+            },
+            {
+                "text": "Executable component",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing component",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of software?",
+        "options": [
+            {
+                "text": "Intangible",
+                "isCorrect": false
+            },
+            {
+                "text": "Does not wear out",
+                "isCorrect": false
+            },
+            {
+                "text": "Easy to modify",
+                "isCorrect": false
+            },
+            {
+                "text": "Physical component",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which type of software is designed for end-users?",
+        "options": [
+            {
+                "text": "System software",
+                "isCorrect": false
+            },
+            {
+                "text": "Application software",
+                "isCorrect": true
+            },
+            {
+                "text": "Middleware",
+                "isCorrect": false
+            },
+            {
+                "text": "Firmware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which software component acts as a bridge between OS and applications?",
+        "options": [
+            {
+                "text": "Compiler",
+                "isCorrect": false
+            },
+            {
+                "text": "Middleware",
+                "isCorrect": true
+            },
+            {
+                "text": "Driver",
+                "isCorrect": false
+            },
+            {
+                "text": "Kernel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a type of software maintenance?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            },
+            {
+                "text": "Developmental",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of system software?",
+        "options": [
+            {
+                "text": "Perform specific user tasks",
+                "isCorrect": false
+            },
+            {
+                "text": "Manage hardware resources",
+                "isCorrect": true
+            },
+            {
+                "text": "Provide entertainment",
+                "isCorrect": false
+            },
+            {
+                "text": "Develop applications",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is linear and sequential?",
+        "options": [
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": true
+            },
+            {
+                "text": "Agile",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model uses iterative development with risk analysis?",
+        "options": [
+            {
+                "text": "Prototyping",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": true
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "V-Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best for unclear requirements?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a phase in the Waterfall model?",
+        "options": [
+            {
+                "text": "Requirement Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Customer Feedback",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which model emphasizes rapid delivery with reusable components?",
+        "options": [
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": true
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": false
+            },
+            {
+                "text": "Agile",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary goal of software project management?",
+        "options": [
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Delivering quality software on time",
+                "isCorrect": true
+            },
+            {
+                "text": "Hiring developers",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a key activity in project management?",
+        "options": [
+            {
+                "text": "Planning",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding",
+                "isCorrect": true
+            },
+            {
+                "text": "Monitoring",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk Management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What defines the project scope?",
+        "options": [
+            {
+                "text": "Budget",
+                "isCorrect": false
+            },
+            {
+                "text": "Timeline",
+                "isCorrect": false
+            },
+            {
+                "text": "Objectives and deliverables",
+                "isCorrect": true
+            },
+            {
+                "text": "Team size",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which technique is used for project scheduling?",
+        "options": [
+            {
+                "text": "Gantt Chart",
+                "isCorrect": true
+            },
+            {
+                "text": "Flowchart",
+                "isCorrect": false
+            },
+            {
+                "text": "Pseudocode",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a hierarchical team structure?",
+        "options": [
+            {
+                "text": "Matrix",
+                "isCorrect": false
+            },
+            {
+                "text": "Agile",
+                "isCorrect": false
+            },
+            {
+                "text": "Chief Programmer Team",
+                "isCorrect": true
+            },
+            {
+                "text": "Scrum",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model estimates software cost based on LOC?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "Function Point",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            },
+            {
+                "text": "CPM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does PERT stand for?",
+        "options": [
+            {
+                "text": "Program Evaluation Review Technique",
+                "isCorrect": true
+            },
+            {
+                "text": "Project Estimation and Risk Technique",
+                "isCorrect": false
+            },
+            {
+                "text": "Process Efficiency Rating Tool",
+                "isCorrect": false
+            },
+            {
+                "text": "Performance Evaluation Report Test",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which risk is related to changing requirements?",
+        "options": [
+            {
+                "text": "Technical",
+                "isCorrect": false
+            },
+            {
+                "text": "Managerial",
+                "isCorrect": false
+            },
+            {
+                "text": "Business",
+                "isCorrect": true
+            },
+            {
+                "text": "Schedule",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the first step in risk management?",
+        "options": [
+            {
+                "text": "Risk Mitigation",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk Identification",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk Monitoring",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk Analysis",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which estimation technique uses 'Function Points'?",
+        "options": [
+            {
+                "text": "LOC",
+                "isCorrect": false
+            },
+            {
+                "text": "COCOMO",
+                "isCorrect": false
+            },
+            {
+                "text": "FP Analysis",
+                "isCorrect": true
+            },
+            {
+                "text": "PERT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of an SRS document?",
+        "options": [
+            {
+                "text": "Define coding standards",
+                "isCorrect": false
+            },
+            {
+                "text": "Outline software requirements",
+                "isCorrect": true
+            },
+            {
+                "text": "Design UI mockups",
+                "isCorrect": false
+            },
+            {
+                "text": "Plan marketing strategy",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a non-functional requirement?",
+        "options": [
+            {
+                "text": "User login feature",
+                "isCorrect": false
+            },
+            {
+                "text": "System must handle 1000 users",
+                "isCorrect": true
+            },
+            {
+                "text": "Database schema",
+                "isCorrect": false
+            },
+            {
+                "text": "Payment gateway integration",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which diagram shows data flow in a system?",
+        "options": [
+            {
+                "text": "ER Diagram",
+                "isCorrect": false
+            },
+            {
+                "text": "DFD",
+                "isCorrect": true
+            },
+            {
+                "text": "Class Diagram",
+                "isCorrect": false
+            },
+            {
+                "text": "Gantt Chart",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design strategy starts with high-level modules?",
+        "options": [
+            {
+                "text": "Bottom-Up",
+                "isCorrect": false
+            },
+            {
+                "text": "Top-Down",
+                "isCorrect": true
+            },
+            {
+                "text": "Object-Oriented",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does OOD stand for?",
+        "options": [
+            {
+                "text": "Object-Oriented Design",
+                "isCorrect": true
+            },
+            {
+                "text": "Operational Output Diagram",
+                "isCorrect": false
+            },
+            {
+                "text": "Optimized Order Delivery",
+                "isCorrect": false
+            },
+            {
+                "text": "Organized Object Development",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a phase in most traditional Software Development Life Cycle (SDLC) models?",
+        "options": [
+            {
+                "text": "Requirement Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Deployment",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Waterfall model is characterized by a ______ and ______ flow of phases.",
+        "options": [
+            {
+                "text": "sequential, rigid",
+                "isCorrect": true
+            },
+            {
+                "text": "iterative, flexible",
+                "isCorrect": false
+            },
+            {
+                "text": "concurrent, chaotic",
+                "isCorrect": false
+            },
+            {
+                "text": "spiral, adaptive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model emphasizes the creation of an early working version of the system to gather user feedback?",
+        "options": [
+            {
+                "text": "Waterfall Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Prototyping Model",
+                "isCorrect": true
+            },
+            {
+                "text": "Spiral Model",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Risk analysis and management are most prominently integrated into which SDLC model?",
+        "options": [
+            {
+                "text": "Iterative Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral Model",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a key activity in Software Project Management?",
+        "options": [
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Code Compilation",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk Analysis",
+                "isCorrect": true
+            },
+            {
+                "text": "Database Administration",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary goal of Software Requirement Analysis?",
+        "options": [
+            {
+                "text": "To write the source code",
+                "isCorrect": false
+            },
+            {
+                "text": "To understand and document user needs",
+                "isCorrect": true
+            },
+            {
+                "text": "To test the software",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy the software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a common type of Software Maintenance?",
+        "options": [
+            {
+                "text": "Aesthetic Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Predictive Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Cosmetic Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective Maintenance",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Software reliability refers to the probability of failure-free software operation for a specified period of time in a specified environment. Which of these typically contributes to higher software reliability?",
+        "options": [
+            {
+                "text": "Lack of documentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Thorough testing and validation",
+                "isCorrect": true
+            },
+            {
+                "text": "Ignoring user feedback",
+                "isCorrect": false
+            },
+            {
+                "text": "Minimal design efforts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a quantitative measure of software characteristics?",
+        "options": [
+            {
+                "text": "Software Quality",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Metrics",
+                "isCorrect": true
+            },
+            {
+                "text": "Software Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The process of identifying and correcting errors in a software program is known as:",
+        "options": [
+            {
+                "text": "Verification",
+                "isCorrect": false
+            },
+            {
+                "text": "Validation",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": true
+            },
+            {
+                "text": "Specification",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model includes prototype development as a key phase?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main goal of Software Quality Assurance (SQA)?",
+        "options": [
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Cost reduction",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensuring standards",
+                "isCorrect": true
+            },
+            {
+                "text": "Faster development",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which metric measures code complexity based on control flow?",
+        "options": [
+            {
+                "text": "LOC",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyclomatic",
+                "isCorrect": true
+            },
+            {
+                "text": "Halstead",
+                "isCorrect": false
+            },
+            {
+                "text": "Function Points",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a software maintenance type?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": false
+            },
+            {
+                "text": "Constructive",
+                "isCorrect": true
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does RAD stand for in SDLC?",
+        "options": [
+            {
+                "text": "Rapid App Deployment",
+                "isCorrect": false
+            },
+            {
+                "text": "Rough Analysis Draft",
+                "isCorrect": false
+            },
+            {
+                "text": "Rapid Application Development",
+                "isCorrect": true
+            },
+            {
+                "text": "Risk Assessment Document",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of good software?",
+        "options": [
+            {
+                "text": "Reliability",
+                "isCorrect": false
+            },
+            {
+                "text": "Usability",
+                "isCorrect": false
+            },
+            {
+                "text": "Complexity",
+                "isCorrect": true
+            },
+            {
+                "text": "Maintainability",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of a Software Requirement Specification (SRS) document?",
+        "options": [
+            {
+                "text": "To define project timelines",
+                "isCorrect": false
+            },
+            {
+                "text": "To specify user and system requirements",
+                "isCorrect": true
+            },
+            {
+                "text": "To outline marketing strategies",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage software testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best suited for projects with well-defined requirements?",
+        "options": [
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": true
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the Spiral model, what is the primary focus of each iteration?",
+        "options": [
+            {
+                "text": "Coding",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk analysis",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Deployment",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a key activity in software project planning?",
+        "options": [
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Estimating project cost",
+                "isCorrect": true
+            },
+            {
+                "text": "Marketing the software",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does RAD stand for in the context of SDLC models?",
+        "options": [
+            {
+                "text": "Rapid Application Development",
+                "isCorrect": true
+            },
+            {
+                "text": "Reliable Application Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Robust Analysis Development",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeated Application Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a software component?",
+        "options": [
+            {
+                "text": "User Interface",
+                "isCorrect": false
+            },
+            {
+                "text": "Database",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware",
+                "isCorrect": true
+            },
+            {
+                "text": "Application Logic",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main goal of requirement engineering?",
+        "options": [
+            {
+                "text": "To write code",
+                "isCorrect": false
+            },
+            {
+                "text": "To gather and analyze user needs",
+                "isCorrect": true
+            },
+            {
+                "text": "To test software",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design strategy focuses on breaking down a system into smaller modules?",
+        "options": [
+            {
+                "text": "Top-down design",
+                "isCorrect": true
+            },
+            {
+                "text": "Bottom-up design",
+                "isCorrect": false
+            },
+            {
+                "text": "Object-oriented design",
+                "isCorrect": false
+            },
+            {
+                "text": "Data-driven design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key benefit of the Iterative SDLC model?",
+        "options": [
+            {
+                "text": "Fixed requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "Early feedback and incremental delivery",
+                "isCorrect": true
+            },
+            {
+                "text": "Single-phase development",
+                "isCorrect": false
+            },
+            {
+                "text": "No testing required",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which software metric measures the number of operators and operands in a program?",
+        "options": [
+            {
+                "text": "Token count",
+                "isCorrect": true
+            },
+            {
+                "text": "Cyclomatic complexity",
+                "isCorrect": false
+            },
+            {
+                "text": "Function points",
+                "isCorrect": false
+            },
+            {
+                "text": "Information flow metrics",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does software reliability primarily focus on?",
+        "options": [
+            {
+                "text": "Speed of execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Probability of failure-free operation",
+                "isCorrect": true
+            },
+            {
+                "text": "Code readability",
+                "isCorrect": false
+            },
+            {
+                "text": "User interface design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a software quality attribute?",
+        "options": [
+            {
+                "text": "Portability",
+                "isCorrect": true
+            },
+            {
+                "text": "Hardware cost",
+                "isCorrect": false
+            },
+            {
+                "text": "Development speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Team size",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of software verification?",
+        "options": [
+            {
+                "text": "To ensure the product is built correctly",
+                "isCorrect": true
+            },
+            {
+                "text": "To ensure the product meets user needs",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy the software",
+                "isCorrect": false
+            },
+            {
+                "text": "To market the software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of software maintenance corrects defects found after delivery?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": true
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary focus of the Prototyping SDLC model?",
+        "options": [
+            {
+                "text": "Risk management",
+                "isCorrect": false
+            },
+            {
+                "text": "User feedback through prototypes",
+                "isCorrect": true
+            },
+            {
+                "text": "Detailed documentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Final deployment",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a project estimation technique?",
+        "options": [
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does a software architecture design primarily define?",
+        "options": [
+            {
+                "text": "User interface",
+                "isCorrect": false
+            },
+            {
+                "text": "System structure and components",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing strategy",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing plan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of software testing?",
+        "options": [
+            {
+                "text": "Unit Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Integration Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Regression Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk Testing",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the main purpose of software quality assurance?",
+        "options": [
+            {
+                "text": "To write code",
+                "isCorrect": false
+            },
+            {
+                "text": "To ensure processes meet quality standards",
+                "isCorrect": true
+            },
+            {
+                "text": "To deploy software",
+                "isCorrect": false
+            },
+            {
+                "text": "To design user interfaces",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model combines elements of both Waterfall and Prototyping?",
+        "options": [
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "V-Model",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is a key activity in risk analysis and management?",
+        "options": [
+            {
+                "text": "Writing user manuals",
+                "isCorrect": false
+            },
+            {
+                "text": "Identifying and mitigating risks",
+                "isCorrect": true
+            },
+            {
+                "text": "Designing the user interface",
+                "isCorrect": false
+            },
+            {
+                "text": "Coding the application",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which software metric measures the complexity of a program’s control flow?",
+        "options": [
+            {
+                "text": "Token count",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyclomatic complexity",
+                "isCorrect": true
+            },
+            {
+                "text": "Function points",
+                "isCorrect": false
+            },
+            {
+                "text": "Data structure metrics",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary goal of software validation?",
+        "options": [
+            {
+                "text": "To ensure the product is built correctly",
+                "isCorrect": false
+            },
+            {
+                "text": "To ensure the product meets user needs",
+                "isCorrect": true
+            },
+            {
+                "text": "To write code",
+                "isCorrect": false
+            },
+            {
+                "text": "To estimate costs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of software maintenance improves performance or maintainability?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": true
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a key component of a project management plan?",
+        "options": [
+            {
+                "text": "User interface design",
+                "isCorrect": false
+            },
+            {
+                "text": "Schedule and resource allocation",
+                "isCorrect": true
+            },
+            {
+                "text": "Marketing strategy",
+                "isCorrect": false
+            },
+            {
+                "text": "Code implementation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'software modularity' refer to?",
+        "options": [
+            {
+                "text": "Breaking a system into independent modules",
+                "isCorrect": true
+            },
+            {
+                "text": "Writing complex code",
+                "isCorrect": false
+            },
+            {
+                "text": "Testing the entire system",
+                "isCorrect": false
+            },
+            {
+                "text": "Deploying software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best for projects with high uncertainty and risk?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "V-Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a Work Breakdown Structure (WBS) in project management?",
+        "options": [
+            {
+                "text": "To design software",
+                "isCorrect": false
+            },
+            {
+                "text": "To break down tasks into manageable units",
+                "isCorrect": true
+            },
+            {
+                "text": "To test software",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a software design principle?",
+        "options": [
+            {
+                "text": "Encapsulation",
+                "isCorrect": true
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Deployment",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary focus of object-oriented design?",
+        "options": [
+            {
+                "text": "Data flow",
+                "isCorrect": false
+            },
+            {
+                "text": "Objects and their interactions",
+                "isCorrect": true
+            },
+            {
+                "text": "Sequential processes",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware integration",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of testing ensures that new changes have not negatively impacted existing features?",
+        "options": [
+            {
+                "text": "Unit Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Integration Testing",
+                "isCorrect": false
+            },
+            {
+                "text": "Regression Testing",
+                "isCorrect": true
+            },
+            {
+                "text": "System Testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of software debugging?",
+        "options": [
+            {
+                "text": "To identify and fix defects",
+                "isCorrect": true
+            },
+            {
+                "text": "To design the system",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy software",
+                "isCorrect": false
+            },
+            {
+                "text": "To write requirements",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a software quality control technique?",
+        "options": [
+            {
+                "text": "Code reviews",
+                "isCorrect": true
+            },
+            {
+                "text": "Marketing analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "User training",
+                "isCorrect": false
+            },
+            {
+                "text": "System deployment",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'software portability' refer to?",
+        "options": [
+            {
+                "text": "Ease of moving software to different platforms",
+                "isCorrect": true
+            },
+            {
+                "text": "Speed of execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Code readability",
+                "isCorrect": false
+            },
+            {
+                "text": "User interface design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model emphasizes rapid delivery of a working product?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": true
+            },
+            {
+                "text": "Iterative",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key output of the requirement analysis phase?",
+        "options": [
+            {
+                "text": "Source code",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Requirement Specification (SRS)",
+                "isCorrect": true
+            },
+            {
+                "text": "User interface design",
+                "isCorrect": false
+            },
+            {
+                "text": "Test cases",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a software maintenance process model?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Quick-Fix Model",
+                "isCorrect": true
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'information flow metrics' measure in software?",
+        "options": [
+            {
+                "text": "Data exchange between modules",
+                "isCorrect": true
+            },
+            {
+                "text": "Code execution speed",
+                "isCorrect": false
+            },
+            {
+                "text": "User interface quality",
+                "isCorrect": false
+            },
+            {
+                "text": "Testing coverage",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic of the Waterfall model?",
+        "options": [
+            {
+                "text": "Iterative development",
+                "isCorrect": false
+            },
+            {
+                "text": "Linear and sequential phases",
+                "isCorrect": true
+            },
+            {
+                "text": "Frequent prototyping",
+                "isCorrect": false
+            },
+            {
+                "text": "High flexibility",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a project team management plan?",
+        "options": [
+            {
+                "text": "To design software",
+                "isCorrect": false
+            },
+            {
+                "text": "To define roles and responsibilities",
+                "isCorrect": true
+            },
+            {
+                "text": "To write code",
+                "isCorrect": false
+            },
+            {
+                "text": "To test software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a design model used in software engineering?",
+        "options": [
+            {
+                "text": "Entity-Relationship Diagram",
+                "isCorrect": true
+            },
+            {
+                "text": "Gantt Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "PERT Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Work Breakdown Structure",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary goal of software testing?",
+        "options": [
+            {
+                "text": "To write code",
+                "isCorrect": false
+            },
+            {
+                "text": "To identify defects and ensure quality",
+                "isCorrect": true
+            },
+            {
+                "text": "To design the system",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy the software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of software maintenance adapts the software to new environments?",
+        "options": [
+            {
+                "text": "Corrective",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive",
+                "isCorrect": true
+            },
+            {
+                "text": "Perfective",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'software cohesion' refer to?",
+        "options": [
+            {
+                "text": "How well modules work together",
+                "isCorrect": false
+            },
+            {
+                "text": "How focused a module is on a single task",
+                "isCorrect": true
+            },
+            {
+                "text": "The size of the codebase",
+                "isCorrect": false
+            },
+            {
+                "text": "The speed of execution",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a key aspect of software project scheduling?",
+        "options": [
+            {
+                "text": "Writing code",
+                "isCorrect": false
+            },
+            {
+                "text": "Defining task dependencies and timelines",
+                "isCorrect": true
+            },
+            {
+                "text": "Designing user interfaces",
+                "isCorrect": false
+            },
+            {
+                "text": "Testing software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a software design framework?",
+        "options": [
+            {
+                "text": "To provide a structure for the design process",
+                "isCorrect": true
+            },
+            {
+                "text": "To write code",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy software",
+                "isCorrect": false
+            },
+            {
+                "text": "To market the software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a benefit of the Rapid Application Development (RAD) model?",
+        "options": [
+            {
+                "text": "Fixed requirements",
+                "isCorrect": false
+            },
+            {
+                "text": "Fast development and user involvement",
+                "isCorrect": true
+            },
+            {
+                "text": "Linear phases",
+                "isCorrect": false
+            },
+            {
+                "text": "No testing required",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'software coupling' refer to?",
+        "options": [
+            {
+                "text": "The degree of interdependence between modules",
+                "isCorrect": true
+            },
+            {
+                "text": "The size of the codebase",
+                "isCorrect": false
+            },
+            {
+                "text": "The speed of execution",
+                "isCorrect": false
+            },
+            {
+                "text": "The user interface quality",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a key factor in selecting an SDLC model?",
+        "options": [
+            {
+                "text": "Project size and complexity",
+                "isCorrect": true
+            },
+            {
+                "text": "Hardware specifications",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing budget",
+                "isCorrect": false
+            },
+            {
+                "text": "Team size only",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which software component defines the system's structure and behavior?",
+        "options": [
+            {
+                "text": "Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Documentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Architecture",
+                "isCorrect": true
+            },
+            {
+                "text": "Database",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model is best for high-risk projects?",
+        "options": [
+            {
+                "text": "Waterfall",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD",
+                "isCorrect": false
+            },
+            {
+                "text": "Prototyping",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the key output of the Requirement Analysis phase?",
+        "options": [
+            {
+                "text": "SRS",
+                "isCorrect": true
+            },
+            {
+                "text": "Test Cases",
+                "isCorrect": false
+            },
+            {
+                "text": "UI Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Source Code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design strategy focuses on reusability?",
+        "options": [
+            {
+                "text": "Structured",
+                "isCorrect": false
+            },
+            {
+                "text": "Object-Oriented",
+                "isCorrect": true
+            },
+            {
+                "text": "Procedural",
+                "isCorrect": false
+            },
+            {
+                "text": "Functional",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does V&V stand for in software testing?",
+        "options": [
+            {
+                "text": "Version & Variant",
+                "isCorrect": false
+            },
+            {
+                "text": "Verification & Validation",
+                "isCorrect": true
+            },
+            {
+                "text": "Volume & Velocity",
+                "isCorrect": false
+            },
+            {
+                "text": "Virtual & Visual",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which metric counts operators and operands?",
+        "options": [
+            {
+                "text": "LOC",
+                "isCorrect": false
+            },
+            {
+                "text": "Cyclomatic",
+                "isCorrect": false
+            },
+            {
+                "text": "Halstead",
+                "isCorrect": true
+            },
+            {
+                "text": "Function Points",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main cost driver in software maintenance?",
+        "options": [
+            {
+                "text": "Documentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": true
+            },
+            {
+                "text": "Enhancements",
+                "isCorrect": false
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a software reliability model?",
+        "options": [
+            {
+                "text": "Jelinski-Moranda",
+                "isCorrect": false
+            },
+            {
+                "text": "Schick-Wolverton",
+                "isCorrect": false
+            },
+            {
+                "text": "COCOMO",
+                "isCorrect": true
+            },
+            {
+                "text": "Goel-Okumoto",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a phase in most traditional Software Development Life Cycle (SDLC) models?",
+        "options": [
+            {
+                "text": "Requirement Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Deployment",
+                "isCorrect": false
+            },
+            {
+                "text": "Marketing",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Waterfall model is characterized by a ______ and ______ flow of phases.",
+        "options": [
+            {
+                "text": "sequential, rigid",
+                "isCorrect": true
+            },
+            {
+                "text": "iterative, flexible",
+                "isCorrect": false
+            },
+            {
+                "text": "concurrent, chaotic",
+                "isCorrect": false
+            },
+            {
+                "text": "spiral, adaptive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model emphasizes the creation of an early working version of the system to gather user feedback?",
+        "options": [
+            {
+                "text": "Waterfall Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Prototyping Model",
+                "isCorrect": true
+            },
+            {
+                "text": "Spiral Model",
+                "isCorrect": false
+            },
+            {
+                "text": "RAD Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Risk analysis and management are most prominently integrated into which SDLC model?",
+        "options": [
+            {
+                "text": "Iterative Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral Model",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a key activity in Software Project Management?",
+        "options": [
+            {
+                "text": "Debugging",
+                "isCorrect": false
+            },
+            {
+                "text": "Code Compilation",
+                "isCorrect": false
+            },
+            {
+                "text": "Risk Analysis",
+                "isCorrect": true
+            },
+            {
+                "text": "Database Administration",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary goal of Software Requirement Analysis?",
+        "options": [
+            {
+                "text": "To write the source code",
+                "isCorrect": false
+            },
+            {
+                "text": "To understand and document user needs",
+                "isCorrect": true
+            },
+            {
+                "text": "To test the software",
+                "isCorrect": false
+            },
+            {
+                "text": "To deploy the software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a common type of Software Maintenance?",
+        "options": [
+            {
+                "text": "Aesthetic Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Predictive Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Cosmetic Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Perfective Maintenance",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Software reliability refers to the probability of failure-free software operation for a specified period of time in a specified environment. Which of these typically contributes to higher software reliability?",
+        "options": [
+            {
+                "text": "Lack of documentation",
+                "isCorrect": false
+            },
+            {
+                "text": "Thorough testing and validation",
+                "isCorrect": true
+            },
+            {
+                "text": "Ignoring user feedback",
+                "isCorrect": false
+            },
+            {
+                "text": "Minimal design efforts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a quantitative measure of software characteristics?",
+        "options": [
+            {
+                "text": "Software Quality",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Metrics",
+                "isCorrect": true
+            },
+            {
+                "text": "Software Debugging",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The process of identifying and correcting errors in a software program is known as:",
+        "options": [
+            {
+                "text": "Verification",
+                "isCorrect": false
+            },
+            {
+                "text": "Validation",
+                "isCorrect": false
+            },
+            {
+                "text": "Debugging",
+                "isCorrect": true
+            },
+            {
+                "text": "Specification",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of software?",
+        "options": [
+            {
+                "text": "System Software",
+                "isCorrect": false
+            },
+            {
+                "text": "Application Software",
+                "isCorrect": false
+            },
+            {
+                "text": "Middleware",
+                "isCorrect": false
+            },
+            {
+                "text": "Cloud Hardware",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which SDLC model follows a linear sequential flow?",
+        "options": [
+            {
+                "text": "Iterative Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Spiral Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Waterfall Model",
+                "isCorrect": true
+            },
+            {
+                "text": "RAD Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary objective of software project management?",
+        "options": [
+            {
+                "text": "To create complex code",
+                "isCorrect": false
+            },
+            {
+                "text": "To develop software without planning",
+                "isCorrect": false
+            },
+            {
+                "text": "To ensure software development is completed within time, scope, and budget",
+                "isCorrect": true
+            },
+            {
+                "text": "To ignore risk analysis",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which phase of requirement engineering involves documenting the requirements?",
+        "options": [
+            {
+                "text": "Requirement Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Requirement Elicitation",
+                "isCorrect": false
+            },
+            {
+                "text": "Requirement Specification",
+                "isCorrect": true
+            },
+            {
+                "text": "Requirement Validation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which design model represents the data and relationships in software?",
+        "options": [
+            {
+                "text": "Architectural Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Flow Design",
+                "isCorrect": true
+            },
+            {
+                "text": "User Interface Design",
+                "isCorrect": false
+            },
+            {
+                "text": "Object-Oriented Design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which software metric measures the complexity based on the number of tokens?",
+        "options": [
+            {
+                "text": "Cyclomatic Complexity",
+                "isCorrect": false
+            },
+            {
+                "text": "Token Count Metric",
+                "isCorrect": true
+            },
+            {
+                "text": "Information Flow Metric",
+                "isCorrect": false
+            },
+            {
+                "text": "Function Point Metric",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a software quality attribute?",
+        "options": [
+            {
+                "text": "Reliability",
+                "isCorrect": false
+            },
+            {
+                "text": "Scalability",
+                "isCorrect": false
+            },
+            {
+                "text": "Portability",
+                "isCorrect": false
+            },
+            {
+                "text": "Inflexibility",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which software maintenance type involves adapting the software to changes in the environment?",
+        "options": [
+            {
+                "text": "Corrective Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Adaptive Maintenance",
+                "isCorrect": true
+            },
+            {
+                "text": "Perfective Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive Maintenance",
+                "isCorrect": false
+            }
+        ]
+    }
+]

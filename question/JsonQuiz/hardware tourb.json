@@ -1,0 +1,3047 @@
+[
+    {
+        "question": "What is the primary purpose of computer hardware maintenance?",
+        "options": [
+            {
+                "text": "To ensure optimal performance and longevity of components",
+                "isCorrect": true
+            },
+            {
+                "text": "To develop new software applications",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase network speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To design computer interfaces",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a software-based maintenance task?",
+        "options": [
+            {
+                "text": "Updating device drivers",
+                "isCorrect": true
+            },
+            {
+                "text": "Cleaning the CPU fan",
+                "isCorrect": false
+            },
+            {
+                "text": "Replacing a power supply",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrading the motherboard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key aspect of basic operating system configuration?",
+        "options": [
+            {
+                "text": "Setting up user accounts and permissions",
+                "isCorrect": true
+            },
+            {
+                "text": "Installing a new graphics card",
+                "isCorrect": false
+            },
+            {
+                "text": "Cleaning the system case",
+                "isCorrect": false
+            },
+            {
+                "text": "Replacing the power supply",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does SMPS stand for in the context of a power supply?",
+        "options": [
+            {
+                "text": "Switched-Mode Power Supply",
+                "isCorrect": true
+            },
+            {
+                "text": "System Management Power Supply",
+                "isCorrect": false
+            },
+            {
+                "text": "Standard Modular Power System",
+                "isCorrect": false
+            },
+            {
+                "text": "Simple Mode Power Supply",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which motherboard form factor is commonly used in desktop PCs?",
+        "options": [
+            {
+                "text": "ATX",
+                "isCorrect": true
+            },
+            {
+                "text": "BTX",
+                "isCorrect": false
+            },
+            {
+                "text": "ITX",
+                "isCorrect": false
+            },
+            {
+                "text": "DTX",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the role of the BIOS in a computer system?",
+        "options": [
+            {
+                "text": "To initialize hardware during the boot process",
+                "isCorrect": true
+            },
+            {
+                "text": "To manage network connections",
+                "isCorrect": false
+            },
+            {
+                "text": "To run application software",
+                "isCorrect": false
+            },
+            {
+                "text": "To allocate memory to processes",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Why is a UPS (Uninterruptible Power Supply) important?",
+        "options": [
+            {
+                "text": "It provides backup power during outages",
+                "isCorrect": true
+            },
+            {
+                "text": "It increases CPU performance",
+                "isCorrect": false
+            },
+            {
+                "text": "It cools the system case",
+                "isCorrect": false
+            },
+            {
+                "text": "It manages disk storage",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key step in installing a network printer?",
+        "options": [
+            {
+                "text": "Configuring the IP address or network path",
+                "isCorrect": true
+            },
+            {
+                "text": "Replacing the printer’s power supply",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrading the printer’s firmware",
+                "isCorrect": false
+            },
+            {
+                "text": "Cleaning the printer’s exterior",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a common troubleshooting step for a non-responsive keyboard?",
+        "options": [
+            {
+                "text": "Checking the connection or replacing the cable",
+                "isCorrect": true
+            },
+            {
+                "text": "Reinstalling the operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "Upgrading the graphics card",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a purpose of preventive maintenance in system care?",
+        "options": [
+            {
+                "text": "To reduce the likelihood of hardware failures",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase internet speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To develop new software",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage network traffic",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of computer maintenance?",
+        "options": [
+            {
+                "text": "To increase internet speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To ensure optimal performance and longevity of the computer",
+                "isCorrect": true
+            },
+            {
+                "text": "To decorate the system case",
+                "isCorrect": false
+            },
+            {
+                "text": "To improve software design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a type of software-based maintenance?",
+        "options": [
+            {
+                "text": "Cleaning RAM slots",
+                "isCorrect": false
+            },
+            {
+                "text": "Reinstalling the operating system",
+                "isCorrect": true
+            },
+            {
+                "text": "Replacing the CPU fan",
+                "isCorrect": false
+            },
+            {
+                "text": "Dusting the keyboard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which setting is typically configured during OS installation?",
+        "options": [
+            {
+                "text": "CPU voltage",
+                "isCorrect": false
+            },
+            {
+                "text": "Monitor resolution",
+                "isCorrect": false
+            },
+            {
+                "text": "System language and time zone",
+                "isCorrect": true
+            },
+            {
+                "text": "Fan speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does SMPS stand for?",
+        "options": [
+            {
+                "text": "Standard Multipoint System",
+                "isCorrect": false
+            },
+            {
+                "text": "Switched-Mode Power Supply",
+                "isCorrect": true
+            },
+            {
+                "text": "System Memory and Power Socket",
+                "isCorrect": false
+            },
+            {
+                "text": "Simple Modular Processing System",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of a chipset on a motherboard?",
+        "options": [
+            {
+                "text": "Storing files",
+                "isCorrect": false
+            },
+            {
+                "text": "Controlling communication between processor, memory, and peripherals",
+                "isCorrect": true
+            },
+            {
+                "text": "Generating graphics",
+                "isCorrect": false
+            },
+            {
+                "text": "Powering USB ports",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which bus is commonly used to connect expansion cards to the motherboard?",
+        "options": [
+            {
+                "text": "SATA",
+                "isCorrect": false
+            },
+            {
+                "text": "PCI Express",
+                "isCorrect": true
+            },
+            {
+                "text": "USB",
+                "isCorrect": false
+            },
+            {
+                "text": "HDMI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component contains the BIOS settings?",
+        "options": [
+            {
+                "text": "CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "Motherboard",
+                "isCorrect": true
+            },
+            {
+                "text": "Hard Disk",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main function of a UPS?",
+        "options": [
+            {
+                "text": "Improve CPU performance",
+                "isCorrect": false
+            },
+            {
+                "text": "Provide power backup during outages",
+                "isCorrect": true
+            },
+            {
+                "text": "Cool down the CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Boost internet speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device is typically connected via USB?",
+        "options": [
+            {
+                "text": "Graphics card",
+                "isCorrect": false
+            },
+            {
+                "text": "Hard disk drive",
+                "isCorrect": false
+            },
+            {
+                "text": "Scanner",
+                "isCorrect": true
+            },
+            {
+                "text": "SMPS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What must be done after installing a network printer?",
+        "options": [
+            {
+                "text": "Connect it directly to the motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Install a USB driver",
+                "isCorrect": false
+            },
+            {
+                "text": "Configure the IP address and install drivers",
+                "isCorrect": true
+            },
+            {
+                "text": "Update the BIOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which expansion card improves display performance?",
+        "options": [
+            {
+                "text": "Sound card",
+                "isCorrect": false
+            },
+            {
+                "text": "Network interface card",
+                "isCorrect": false
+            },
+            {
+                "text": "Graphics card",
+                "isCorrect": true
+            },
+            {
+                "text": "TV tuner card",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does SSD stand for?",
+        "options": [
+            {
+                "text": "Solid-State Drive",
+                "isCorrect": true
+            },
+            {
+                "text": "Serial Storage Device",
+                "isCorrect": false
+            },
+            {
+                "text": "Standard Storage Disk",
+                "isCorrect": false
+            },
+            {
+                "text": "System Speed Device",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a common symptom of a faulty mouse?",
+        "options": [
+            {
+                "text": "Beeping sound",
+                "isCorrect": false
+            },
+            {
+                "text": "Cursor not moving or erratic behavior",
+                "isCorrect": true
+            },
+            {
+                "text": "Monitor flickering",
+                "isCorrect": false
+            },
+            {
+                "text": "Keyboard keys not responding",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a method to troubleshoot a non-responsive printer?",
+        "options": [
+            {
+                "text": "Clean the motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Reboot the router",
+                "isCorrect": false
+            },
+            {
+                "text": "Check printer connection and reinstall driver",
+                "isCorrect": true
+            },
+            {
+                "text": "Update BIOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which utility helps recover data after system failure?",
+        "options": [
+            {
+                "text": "Task Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Backup and Restore",
+                "isCorrect": true
+            },
+            {
+                "text": "Device Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk Cleanup",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component is essential for power distribution in a computer?",
+        "options": [
+            {
+                "text": "Motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "SMPS",
+                "isCorrect": true
+            },
+            {
+                "text": "HDD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What can cause overheating in a computer?",
+        "options": [
+            {
+                "text": "Old software",
+                "isCorrect": false
+            },
+            {
+                "text": "Dust buildup and poor ventilation",
+                "isCorrect": true
+            },
+            {
+                "text": "Outdated printer driver",
+                "isCorrect": false
+            },
+            {
+                "text": "Low RAM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How often should preventive maintenance be performed?",
+        "options": [
+            {
+                "text": "Every hour",
+                "isCorrect": false
+            },
+            {
+                "text": "Only when the computer fails",
+                "isCorrect": false
+            },
+            {
+                "text": "Periodically, based on usage",
+                "isCorrect": true
+            },
+            {
+                "text": "Once in a lifetime",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device stores permanent BIOS settings?",
+        "options": [
+            {
+                "text": "CMOS battery",
+                "isCorrect": true
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "Hard disk",
+                "isCorrect": false
+            },
+            {
+                "text": "USB drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following tools is best used for system diagnostics?",
+        "options": [
+            {
+                "text": "Paint",
+                "isCorrect": false
+            },
+            {
+                "text": "Notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "System Information",
+                "isCorrect": true
+            },
+            {
+                "text": "WordPad",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What should be done before opening a computer case?",
+        "options": [
+            {
+                "text": "Update drivers",
+                "isCorrect": false
+            },
+            {
+                "text": "Unplug the power supply",
+                "isCorrect": true
+            },
+            {
+                "text": "Click 'Start'",
+                "isCorrect": false
+            },
+            {
+                "text": "Install antivirus",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component typically has the largest capacity for data storage?",
+        "options": [
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "SSD",
+                "isCorrect": true
+            },
+            {
+                "text": "DVD",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a portable storage device?",
+        "options": [
+            {
+                "text": "Internal HDD",
+                "isCorrect": false
+            },
+            {
+                "text": "SMPS",
+                "isCorrect": false
+            },
+            {
+                "text": "External SSD",
+                "isCorrect": true
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Why is disaster recovery important?",
+        "options": [
+            {
+                "text": "To format the system",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase internet speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To recover from major data loss or system failure",
+                "isCorrect": true
+            },
+            {
+                "text": "To make the system faster",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which maintenance type involves cleaning internal hardware components?",
+        "options": [
+            {
+                "text": "Software maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware maintenance",
+                "isCorrect": true
+            },
+            {
+                "text": "Driver installation",
+                "isCorrect": false
+            },
+            {
+                "text": "Antivirus scanning",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which form factor refers to motherboard size?",
+        "options": [
+            {
+                "text": "ATX",
+                "isCorrect": true
+            },
+            {
+                "text": "USB",
+                "isCorrect": false
+            },
+            {
+                "text": "PCI",
+                "isCorrect": false
+            },
+            {
+                "text": "SATA",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What type of printer connects directly to a router or switch?",
+        "options": [
+            {
+                "text": "Dot matrix printer",
+                "isCorrect": false
+            },
+            {
+                "text": "Inkjet printer",
+                "isCorrect": false
+            },
+            {
+                "text": "Network printer",
+                "isCorrect": true
+            },
+            {
+                "text": "Thermal printer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which software helps monitor the temperature and voltage of system components?",
+        "options": [
+            {
+                "text": "Device Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU-Z",
+                "isCorrect": true
+            },
+            {
+                "text": "Notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "Paint",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which problem can be solved by reinstalling keyboard drivers?",
+        "options": [
+            {
+                "text": "No display",
+                "isCorrect": false
+            },
+            {
+                "text": "No internet connection",
+                "isCorrect": false
+            },
+            {
+                "text": "Unresponsive keys",
+                "isCorrect": true
+            },
+            {
+                "text": "Speaker noise",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does BIOS stand for?",
+        "options": [
+            {
+                "text": "Basic Input Output System",
+                "isCorrect": true
+            },
+            {
+                "text": "Binary Integrated Operating System",
+                "isCorrect": false
+            },
+            {
+                "text": "Basic Internal Operating Sequence",
+                "isCorrect": false
+            },
+            {
+                "text": "Bitwise Input Output Signal",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Why is regular computer repair and maintenance considered important?",
+        "options": [
+            {
+                "text": "To make the computer look newer",
+                "isCorrect": false
+            },
+            {
+                "text": "To improve its resale value significantly",
+                "isCorrect": false
+            },
+            {
+                "text": "To ensure optimal performance, prevent data loss, and extend its lifespan",
+                "isCorrect": true
+            },
+            {
+                "text": "To learn how to build computers from scratch",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of hardware maintenance?",
+        "options": [
+            {
+                "text": "Updating the operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "Running a virus scan",
+                "isCorrect": false
+            },
+            {
+                "text": "Cleaning dust from internal components",
+                "isCorrect": true
+            },
+            {
+                "text": "Defragmenting the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which task is considered software-based maintenance?",
+        "options": [
+            {
+                "text": "Replacing a faulty RAM module",
+                "isCorrect": false
+            },
+            {
+                "text": "Installing antivirus updates",
+                "isCorrect": true
+            },
+            {
+                "text": "Cleaning the keyboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Checking power supply voltage",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary goal of preventive maintenance for computer systems?",
+        "options": [
+            {
+                "text": "To fix problems only after they occur",
+                "isCorrect": false
+            },
+            {
+                "text": "To upgrade hardware components frequently",
+                "isCorrect": false
+            },
+            {
+                "text": "To reduce the likelihood of hardware failures and system crashes",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase the computer's processing speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Basic configuration of an operating system typically includes which of the following?",
+        "options": [
+            {
+                "text": "Writing new device drivers",
+                "isCorrect": false
+            },
+            {
+                "text": "Setting up user accounts and passwords",
+                "isCorrect": true
+            },
+            {
+                "text": "Designing the CPU architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "Manufacturing motherboard components",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where would you typically configure display settings like screen resolution and refresh rate in an operating system?",
+        "options": [
+            {
+                "text": "BIOS/UEFI settings",
+                "isCorrect": false
+            },
+            {
+                "text": "Network configuration panel",
+                "isCorrect": false
+            },
+            {
+                "text": "System Properties or Display Settings control panel",
+                "isCorrect": true
+            },
+            {
+                "text": "Device Manager",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the importance of correctly configuring the system date and time in an operating system?",
+        "options": [
+            {
+                "text": "It directly affects the CPU processing speed.",
+                "isCorrect": false
+            },
+            {
+                "text": "It is crucial for file timestamp accuracy, security certificates, and scheduled tasks.",
+                "isCorrect": true
+            },
+            {
+                "text": "It is only important for aesthetic purposes.",
+                "isCorrect": false
+            },
+            {
+                "text": "It improves the quality of audio output.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Configuring network settings in an OS usually involves specifying:",
+        "options": [
+            {
+                "text": "The brand of the CPU.",
+                "isCorrect": false
+            },
+            {
+                "text": "IP address, subnet mask, and default gateway.",
+                "isCorrect": true
+            },
+            {
+                "text": "The type of monitor being used.",
+                "isCorrect": false
+            },
+            {
+                "text": "The computer case's color.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the context of computer system cases, what does 'form factor' primarily refer to?",
+        "options": [
+            {
+                "text": "The color and material of the case",
+                "isCorrect": false
+            },
+            {
+                "text": "The number of USB ports available",
+                "isCorrect": false
+            },
+            {
+                "text": "The physical size, shape, and layout specifications for motherboards and cases",
+                "isCorrect": true
+            },
+            {
+                "text": "The brand of the system case",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of LEDs (Light Emitting Diodes) on a computer system case?",
+        "options": [
+            {
+                "text": "To provide cooling to internal components",
+                "isCorrect": false
+            },
+            {
+                "text": "To indicate system status such as power on, hard drive activity, and network connectivity",
+                "isCorrect": true
+            },
+            {
+                "text": "To play audio notifications",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase the processing power of the computer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What are drive bays in a computer case used for?",
+        "options": [
+            {
+                "text": "Holding expansion cards",
+                "isCorrect": false
+            },
+            {
+                "text": "Mounting the CPU cooler",
+                "isCorrect": false
+            },
+            {
+                "text": "Installing storage devices like HDDs, SSDs, and optical drives",
+                "isCorrect": true
+            },
+            {
+                "text": "Securing the power supply unit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does SMPS stand for in the context of computer hardware?",
+        "options": [
+            {
+                "text": "System Management Power Standard",
+                "isCorrect": false
+            },
+            {
+                "text": "Switched-Mode Power Supply",
+                "isCorrect": true
+            },
+            {
+                "text": "Secure Memory Protection System",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Managed Power Saver",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Why is the power supply rating (wattage) important when building or upgrading a PC?",
+        "options": [
+            {
+                "text": "It determines the internet speed.",
+                "isCorrect": false
+            },
+            {
+                "text": "It must be sufficient to power all components reliably; otherwise, system instability can occur.",
+                "isCorrect": true
+            },
+            {
+                "text": "A higher wattage always means better performance regardless of components.",
+                "isCorrect": false
+            },
+            {
+                "text": "It only affects the brightness of the monitor.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main circuit board that connects all major components of a computer?",
+        "options": [
+            {
+                "text": "Graphics Card",
+                "isCorrect": false
+            },
+            {
+                "text": "Sound Card",
+                "isCorrect": false
+            },
+            {
+                "text": "Motherboard",
+                "isCorrect": true
+            },
+            {
+                "text": "Network Interface Card",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the role of the chipset on a motherboard?",
+        "options": [
+            {
+                "text": "To provide cooling for the CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage data flow between the CPU, memory, and peripherals",
+                "isCorrect": true
+            },
+            {
+                "text": "To store the operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "To generate graphics for display",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface)?",
+        "options": [
+            {
+                "text": "To run application software",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide an internet Browse interface",
+                "isCorrect": false
+            },
+            {
+                "text": "To initialize and test computer hardware components and load the operating system",
+                "isCorrect": true
+            },
+            {
+                "text": "To manage user files and folders",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In motherboard terminology, what is a 'bus'?",
+        "options": [
+            {
+                "text": "A type of cooling fan",
+                "isCorrect": false
+            },
+            {
+                "text": "A physical port for external devices",
+                "isCorrect": false
+            },
+            {
+                "text": "A set of electrical pathways that allow data and signals to travel between components",
+                "isCorrect": true
+            },
+            {
+                "text": "A software utility for system diagnostics",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which motherboard form factor is one of the most common for desktop PCs, offering a good balance of size and expansion slots?",
+        "options": [
+            {
+                "text": "Mini-ITX",
+                "isCorrect": false
+            },
+            {
+                "text": "Pico-ITX",
+                "isCorrect": false
+            },
+            {
+                "text": "ATX",
+                "isCorrect": true
+            },
+            {
+                "text": "Mobile-ITX",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of a UPS (Uninterruptible Power Supply)?",
+        "options": [
+            {
+                "text": "To increase the computer's processing speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide backup power in case of an electrical outage and protect against power surges",
+                "isCorrect": true
+            },
+            {
+                "text": "To store user data permanently",
+                "isCorrect": false
+            },
+            {
+                "text": "To connect the computer to a network",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Why is a UPS considered important for a computer system, especially servers?",
+        "options": [
+            {
+                "text": "It enhances the audio quality.",
+                "isCorrect": false
+            },
+            {
+                "text": "It prevents data loss and hardware damage due to sudden power interruptions.",
+                "isCorrect": true
+            },
+            {
+                "text": "It provides additional USB ports.",
+                "isCorrect": false
+            },
+            {
+                "text": "It improves the graphics performance.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a common maintenance task for a UPS system?",
+        "options": [
+            {
+                "text": "Defragmenting its internal storage",
+                "isCorrect": false
+            },
+            {
+                "text": "Updating its firmware monthly",
+                "isCorrect": false
+            },
+            {
+                "text": "Periodically testing and replacing the battery if necessary",
+                "isCorrect": true
+            },
+            {
+                "text": "Cleaning its display screen",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key difference between a standby UPS and an online UPS?",
+        "options": [
+            {
+                "text": "Standby UPS is more expensive than online UPS.",
+                "isCorrect": false
+            },
+            {
+                "text": "Online UPS provides power directly from the battery at all times, offering better protection.",
+                "isCorrect": true
+            },
+            {
+                "text": "Standby UPS does not protect against power surges.",
+                "isCorrect": false
+            },
+            {
+                "text": "Online UPS has a shorter battery life.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which interface is most commonly used to connect a modern keyboard and mouse to a computer?",
+        "options": [
+            {
+                "text": "Serial port",
+                "isCorrect": false
+            },
+            {
+                "text": "Parallel port",
+                "isCorrect": false
+            },
+            {
+                "text": "USB (Universal Serial Bus)",
+                "isCorrect": true
+            },
+            {
+                "text": "PS/2 port",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is typically required for an operating system to recognize and use a newly installed scanner?",
+        "options": [
+            {
+                "text": "A dedicated power supply for the scanner",
+                "isCorrect": false
+            },
+            {
+                "text": "A specific type of monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "Installation of a device driver",
+                "isCorrect": true
+            },
+            {
+                "text": "A faster internet connection",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key difference between a local printer and a network printer setup?",
+        "options": [
+            {
+                "text": "Local printers print faster than network printers.",
+                "isCorrect": false
+            },
+            {
+                "text": "A local printer is connected directly to one computer, while a network printer can be accessed by multiple computers over a network.",
+                "isCorrect": true
+            },
+            {
+                "text": "Network printers do not require ink or toner.",
+                "isCorrect": false
+            },
+            {
+                "text": "Local printers cannot print in color.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Configuring a newly installed webcam typically involves which of the following steps?",
+        "options": [
+            {
+                "text": "Replacing the computer's power supply",
+                "isCorrect": false
+            },
+            {
+                "text": "Installing its driver software and adjusting settings in an application.",
+                "isCorrect": true
+            },
+            {
+                "text": "Upgrading the computer's RAM.",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting the hard drive.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is generally the first step after physically installing a new peripheral device like a speaker system?",
+        "options": [
+            {
+                "text": "Restarting the computer multiple times",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensuring it is properly connected and then installing any necessary drivers or software",
+                "isCorrect": true
+            },
+            {
+                "text": "Defragmenting the hard drive",
+                "isCorrect": false
+            },
+            {
+                "text": "Changing the BIOS settings",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where are expansion cards such as graphics cards and network interface cards typically installed in a computer?",
+        "options": [
+            {
+                "text": "In external USB ports",
+                "isCorrect": false
+            },
+            {
+                "text": "In drive bays",
+                "isCorrect": false
+            },
+            {
+                "text": "In expansion slots (e.g., PCIe) on the motherboard",
+                "isCorrect": true
+            },
+            {
+                "text": "Directly onto the CPU",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of a dedicated graphics card?",
+        "options": [
+            {
+                "text": "To improve network speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide additional USB ports",
+                "isCorrect": false
+            },
+            {
+                "text": "To handle complex visual computations and render images, videos, and 3D graphics",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase the amount of system RAM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does a Network Interface Card (NIC) enable a computer to do?",
+        "options": [
+            {
+                "text": "Play high-definition audio",
+                "isCorrect": false
+            },
+            {
+                "text": "Connect to a network (e.g., LAN or internet)",
+                "isCorrect": true
+            },
+            {
+                "text": "Store large amounts of data",
+                "isCorrect": false
+            },
+            {
+                "text": "Improve graphical processing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "After physically installing a new sound card, what additional step is usually required for it to function correctly?",
+        "options": [
+            {
+                "text": "Upgrading the computer's power supply",
+                "isCorrect": false
+            },
+            {
+                "text": "Installing the appropriate device drivers",
+                "isCorrect": true
+            },
+            {
+                "text": "Reformatting the hard drive",
+                "isCorrect": false
+            },
+            {
+                "text": "Replacing the CPU",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key difference in performance characteristics between an HDD (Hard Disk Drive) and an SSD (Solid State Drive)?",
+        "options": [
+            {
+                "text": "HDDs are faster for random access than SSDs.",
+                "isCorrect": false
+            },
+            {
+                "text": "SSDs have moving mechanical parts, while HDDs do not.",
+                "isCorrect": false
+            },
+            {
+                "text": "SSDs offer significantly faster data access speeds, boot times, and application loading compared to HDDs.",
+                "isCorrect": true
+            },
+            {
+                "text": "HDDs consume less power than SSDs.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does 'CD-ROM' stand for?",
+        "options": [
+            {
+                "text": "Compact Disc-Recordable Once Memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Computer Disc-Random Operating Memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Compact Disc-Read Only Memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Computer Data-Rewritable Optical Media",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which interface is commonly used to connect internal Hard Disk Drives (HDDs) and Solid State Drives (SSDs) to the motherboard?",
+        "options": [
+            {
+                "text": "USB",
+                "isCorrect": false
+            },
+            {
+                "text": "SATA (Serial ATA)",
+                "isCorrect": true
+            },
+            {
+                "text": "Parallel Port",
+                "isCorrect": false
+            },
+            {
+                "text": "Ethernet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a primary benefit of using an external HDD or SSD?",
+        "options": [
+            {
+                "text": "They are faster than internal drives.",
+                "isCorrect": false
+            },
+            {
+                "text": "They provide portable storage for backups, data transfer, or expanding storage capacity.",
+                "isCorrect": true
+            },
+            {
+                "text": "They do not require any drivers.",
+                "isCorrect": false
+            },
+            {
+                "text": "They increase the computer's RAM.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is an M.2 SSD?",
+        "options": [
+            {
+                "text": "An older type of magnetic tape storage",
+                "isCorrect": false
+            },
+            {
+                "text": "A large external storage device requiring its own power supply",
+                "isCorrect": false
+            },
+            {
+                "text": "A small form-factor SSD that plugs directly into an M.2 slot on the motherboard, often offering very high speeds (especially NVMe models).",
+                "isCorrect": true
+            },
+            {
+                "text": "A type of optical disc with very high capacity.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If a computer keyboard suddenly stops working, what is a common first troubleshooting step?",
+        "options": [
+            {
+                "text": "Reinstalling the operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "Checking the cable connection and trying a different USB port (if applicable)",
+                "isCorrect": true
+            },
+            {
+                "text": "Replacing the computer's motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Defragmenting the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Your printer is not printing. Which of the following is a common cause to check first?",
+        "options": [
+            {
+                "text": "The computer's CPU is overheating.",
+                "isCorrect": false
+            },
+            {
+                "text": "The monitor resolution is set too low.",
+                "isCorrect": false
+            },
+            {
+                "text": "The printer is out of paper, out of ink/toner, or not properly connected.",
+                "isCorrect": true
+            },
+            {
+                "text": "The internet connection is down.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If a wired mouse is lagging or behaving erratically, what is a simple troubleshooting step?",
+        "options": [
+            {
+                "text": "Updating the graphics card driver",
+                "isCorrect": false
+            },
+            {
+                "text": "Cleaning the mouse sensor and checking the surface it's used on",
+                "isCorrect": true
+            },
+            {
+                "text": "Increasing the system RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "Disabling the network connection",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If a newly connected webcam is not detected by the computer, what should be checked?",
+        "options": [
+            {
+                "text": "The system's power supply wattage",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensure it's properly connected, and check if drivers need to be installed or updated.",
+                "isCorrect": true
+            },
+            {
+                "text": "The speed of the internet connection.",
+                "isCorrect": false
+            },
+            {
+                "text": "The amount of free hard drive space.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If there is no sound coming from the computer speakers, what is one of the first things to check?",
+        "options": [
+            {
+                "text": "That the speakers are powered on, properly connected, and the system volume is not muted or too low.",
+                "isCorrect": true
+            },
+            {
+                "text": "The brand of the CPU.",
+                "isCorrect": false
+            },
+            {
+                "text": "Whether the keyboard backlight is working.",
+                "isCorrect": false
+            },
+            {
+                "text": "The screen resolution settings.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does a 'Blue Screen of Death' (BSOD) in Windows typically indicate?",
+        "options": [
+            {
+                "text": "A minor software glitch that can be ignored",
+                "isCorrect": false
+            },
+            {
+                "text": "A critical system error, often caused by hardware or driver issues",
+                "isCorrect": true
+            },
+            {
+                "text": "The computer needs to be restarted for updates",
+                "isCorrect": false
+            },
+            {
+                "text": "A virus has been successfully removed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If a specific application program frequently crashes or freezes, which of the following is a common troubleshooting step?",
+        "options": [
+            {
+                "text": "Replacing the computer's monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "Checking for application updates, or trying to reinstall the application",
+                "isCorrect": true
+            },
+            {
+                "text": "Increasing the hard drive capacity",
+                "isCorrect": false
+            },
+            {
+                "text": "Changing the system's color scheme",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is 'Safe Mode' in Windows primarily used for?",
+        "options": [
+            {
+                "text": "Running games at higher performance",
+                "isCorrect": false
+            },
+            {
+                "text": "Browse the internet securely",
+                "isCorrect": false
+            },
+            {
+                "text": "Troubleshooting OS problems by starting Windows with a minimal set of drivers and services",
+                "isCorrect": true
+            },
+            {
+                "text": "Editing system registry files directly",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a common symptom of a malware infection on an operating system?",
+        "options": [
+            {
+                "text": "Improved system performance",
+                "isCorrect": false
+            },
+            {
+                "text": "Unexpected pop-up ads, slow performance, and unauthorized system changes",
+                "isCorrect": true
+            },
+            {
+                "text": "Automatic installation of desired software",
+                "isCorrect": false
+            },
+            {
+                "text": "Longer battery life on laptops",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of preventive maintenance for system care?",
+        "options": [
+            {
+                "text": "Waiting for a component to fail before replacing it",
+                "isCorrect": false
+            },
+            {
+                "text": "Regularly updating software and running disk cleanup utilities",
+                "isCorrect": true
+            },
+            {
+                "text": "Never shutting down the computer",
+                "isCorrect": false
+            },
+            {
+                "text": "Disabling antivirus software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Why are regular data backups crucial for system care?",
+        "options": [
+            {
+                "text": "They increase the computer's processing speed.",
+                "isCorrect": false
+            },
+            {
+                "text": "They protect against data loss due to hardware failure, malware, or accidental deletion.",
+                "isCorrect": true
+            },
+            {
+                "text": "They improve the quality of the display.",
+                "isCorrect": false
+            },
+            {
+                "text": "They automatically fix hardware issues.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main purpose of a disaster recovery plan in IT?",
+        "options": [
+            {
+                "text": "To prevent all disasters from occurring",
+                "isCorrect": false
+            },
+            {
+                "text": "To outline procedures to recover and protect IT infrastructure in the event of a disaster",
+                "isCorrect": true
+            },
+            {
+                "text": "To ensure all software is constantly updated",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide technical support for common software issues",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of utility is commonly used for removing unnecessary temporary files and freeing up disk space as part of system care?",
+        "options": [
+            {
+                "text": "Disk Defragmenter",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk Cleanup",
+                "isCorrect": true
+            },
+            {
+                "text": "System Restore",
+                "isCorrect": false
+            },
+            {
+                "text": "Firewall",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is an effective way to protect computer hardware from damage caused by power surges?",
+        "options": [
+            {
+                "text": "Keeping the computer turned off during thunderstorms",
+                "isCorrect": false
+            },
+            {
+                "text": "Using a surge protector or a UPS with surge protection",
+                "isCorrect": true
+            },
+            {
+                "text": "Increasing the brightness of the monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "Regularly defragmenting the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of computer maintenance focuses on preventing hardware failures?",
+        "options": [
+            {
+                "text": "Corrective Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Software Maintenance",
+                "isCorrect": false
+            },
+            {
+                "text": "Preventive Maintenance",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the BIOS in a computer system?",
+        "options": [
+            {
+                "text": "Manages running applications",
+                "isCorrect": false
+            },
+            {
+                "text": "Controls input and output devices",
+                "isCorrect": false
+            },
+            {
+                "text": "Initializes hardware and loads the operating system",
+                "isCorrect": true
+            },
+            {
+                "text": "Handles internet connectivity",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component provides power to the computer and converts AC to DC?",
+        "options": [
+            {
+                "text": "Motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Processor",
+                "isCorrect": false
+            },
+            {
+                "text": "Power Supply Unit (PSU)",
+                "isCorrect": true
+            },
+            {
+                "text": "Hard Drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of storage device uses flash memory for data storage?",
+        "options": [
+            {
+                "text": "HDD",
+                "isCorrect": false
+            },
+            {
+                "text": "CD-ROM",
+                "isCorrect": false
+            },
+            {
+                "text": "SSD",
+                "isCorrect": true
+            },
+            {
+                "text": "DVD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which expansion card improves a computer's video performance?",
+        "options": [
+            {
+                "text": "Network Interface Card",
+                "isCorrect": false
+            },
+            {
+                "text": "Graphics Card",
+                "isCorrect": true
+            },
+            {
+                "text": "Sound Card",
+                "isCorrect": false
+            },
+            {
+                "text": "RAID Controller",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of an Uninterruptible Power Supply (UPS)?",
+        "options": [
+            {
+                "text": "Increases internet speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Provides backup power and surge protection",
+                "isCorrect": true
+            },
+            {
+                "text": "Improves processor speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Enhances sound quality",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which troubleshooting step should be performed first when a computer fails to boot?",
+        "options": [
+            {
+                "text": "Check power connections",
+                "isCorrect": true
+            },
+            {
+                "text": "Reinstall the operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "Replace the processor",
+                "isCorrect": false
+            },
+            {
+                "text": "Change the motherboard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which method ensures safe installation of a peripheral device?",
+        "options": [
+            {
+                "text": "Connecting devices while the system is powered on",
+                "isCorrect": false
+            },
+            {
+                "text": "Installing drivers before connecting the device",
+                "isCorrect": true
+            },
+            {
+                "text": "Using an incorrect cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Skipping the installation steps",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT considered an operating system configuration step?",
+        "options": [
+            {
+                "text": "Installing updates",
+                "isCorrect": false
+            },
+            {
+                "text": "Configuring user accounts",
+                "isCorrect": false
+            },
+            {
+                "text": "Adjusting display settings",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting the hard drive",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of backup and disaster recovery?",
+        "options": [
+            {
+                "text": "Improving system speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Reducing internet costs",
+                "isCorrect": false
+            },
+            {
+                "text": "Protecting data from loss or corruption",
+                "isCorrect": true
+            },
+            {
+                "text": "Enhancing graphics quality",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of computer hardware maintenance?",
+        "options": [
+            {
+                "text": "To ensure optimal performance and longevity of components",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase internet speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To design new software",
+                "isCorrect": false
+            },
+            {
+                "text": "To replace the operating system",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of hardware maintenance?",
+        "options": [
+            {
+                "text": "Cleaning dust from components",
+                "isCorrect": false
+            },
+            {
+                "text": "Updating device drivers",
+                "isCorrect": false
+            },
+            {
+                "text": "Replacing thermal paste",
+                "isCorrect": false
+            },
+            {
+                "text": "Writing new software code",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of software-based maintenance?",
+        "options": [
+            {
+                "text": "To physically clean hardware components",
+                "isCorrect": false
+            },
+            {
+                "text": "To update drivers, OS patches, and remove malware",
+                "isCorrect": true
+            },
+            {
+                "text": "To replace faulty RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "To upgrade the power supply",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a basic configuration task in an operating system?",
+        "options": [
+            {
+                "text": "Setting up user accounts",
+                "isCorrect": false
+            },
+            {
+                "text": "Configuring display resolution",
+                "isCorrect": false
+            },
+            {
+                "text": "Installing motherboard in the case",
+                "isCorrect": true
+            },
+            {
+                "text": "Setting up network connections",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does ATX stand for in computer form factors?",
+        "options": [
+            {
+                "text": "Advanced Technology Extended",
+                "isCorrect": true
+            },
+            {
+                "text": "Automated Technical Expansion",
+                "isCorrect": false
+            },
+            {
+                "text": "Advanced Transfer Extension",
+                "isCorrect": false
+            },
+            {
+                "text": "Automated Technology Exchange",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component is responsible for converting AC to DC power in a computer?",
+        "options": [
+            {
+                "text": "CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "SMPS (Switched Mode Power Supply)",
+                "isCorrect": true
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "GPU",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of drive bays in a computer case?",
+        "options": [
+            {
+                "text": "To hold storage devices like HDDs and SSDs",
+                "isCorrect": true
+            },
+            {
+                "text": "To cool the CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide internet connectivity",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase RAM speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT typically found on a motherboard?",
+        "options": [
+            {
+                "text": "CPU socket",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM slots",
+                "isCorrect": false
+            },
+            {
+                "text": "Power supply unit",
+                "isCorrect": true
+            },
+            {
+                "text": "Chipset",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the BIOS?",
+        "options": [
+            {
+                "text": "To provide a user interface for gaming",
+                "isCorrect": false
+            },
+            {
+                "text": "To perform hardware initialization during booting",
+                "isCorrect": true
+            },
+            {
+                "text": "To manage internet connections",
+                "isCorrect": false
+            },
+            {
+                "text": "To create documents",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of an UPS in a computer system?",
+        "options": [
+            {
+                "text": "To increase processing speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide backup power during outages",
+                "isCorrect": true
+            },
+            {
+                "text": "To cool the system",
+                "isCorrect": false
+            },
+            {
+                "text": "To boost internet connectivity",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common UPS maintenance task?",
+        "options": [
+            {
+                "text": "Checking battery health",
+                "isCorrect": false
+            },
+            {
+                "text": "Cleaning dust from vents",
+                "isCorrect": false
+            },
+            {
+                "text": "Replacing thermal paste",
+                "isCorrect": true
+            },
+            {
+                "text": "Testing automatic voltage regulation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When installing a new peripheral device, what should you typically do first?",
+        "options": [
+            {
+                "text": "Connect it to the computer",
+                "isCorrect": false
+            },
+            {
+                "text": "Install its drivers",
+                "isCorrect": false
+            },
+            {
+                "text": "Read the manufacturer's instructions",
+                "isCorrect": true
+            },
+            {
+                "text": "Open the computer case",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which port is commonly used to connect a printer to a computer?",
+        "options": [
+            {
+                "text": "USB",
+                "isCorrect": true
+            },
+            {
+                "text": "HDMI",
+                "isCorrect": false
+            },
+            {
+                "text": "Ethernet",
+                "isCorrect": false
+            },
+            {
+                "text": "VGA",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of an expansion card in a computer?",
+        "options": [
+            {
+                "text": "To add new functionality to the system",
+                "isCorrect": true
+            },
+            {
+                "text": "To replace the power supply",
+                "isCorrect": false
+            },
+            {
+                "text": "To cool the CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase internet speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of expansion card?",
+        "options": [
+            {
+                "text": "Graphics card",
+                "isCorrect": false
+            },
+            {
+                "text": "Sound card",
+                "isCorrect": false
+            },
+            {
+                "text": "Network Interface Card (NIC)",
+                "isCorrect": false
+            },
+            {
+                "text": "Power supply card",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the main advantage of SSDs over HDDs?",
+        "options": [
+            {
+                "text": "Higher storage capacity",
+                "isCorrect": false
+            },
+            {
+                "text": "Faster data access speeds",
+                "isCorrect": true
+            },
+            {
+                "text": "Lower cost per GB",
+                "isCorrect": false
+            },
+            {
+                "text": "Better compatibility with old systems",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which interface is commonly used to connect internal HDDs and SSDs in modern computers?",
+        "options": [
+            {
+                "text": "SATA",
+                "isCorrect": true
+            },
+            {
+                "text": "VGA",
+                "isCorrect": false
+            },
+            {
+                "text": "USB",
+                "isCorrect": false
+            },
+            {
+                "text": "HDMI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the first step in troubleshooting a non-responsive keyboard?",
+        "options": [
+            {
+                "text": "Check the keyboard connection",
+                "isCorrect": true
+            },
+            {
+                "text": "Replace the keyboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Reinstall the operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "Update the BIOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does 'P.O.S.T.' stand in computer troubleshooting?",
+        "options": [
+            {
+                "text": "Power On Self Test",
+                "isCorrect": true
+            },
+            {
+                "text": "Peripheral Operation System Test",
+                "isCorrect": false
+            },
+            {
+                "text": "Primary Operating System Trial",
+                "isCorrect": false
+            },
+            {
+                "text": "Post Operation System Test",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common symptom of a failing hard drive?",
+        "options": [
+            {
+                "text": "Frequent crashes and errors",
+                "isCorrect": false
+            },
+            {
+                "text": "Unusual clicking noises",
+                "isCorrect": false
+            },
+            {
+                "text": "Fast boot times",
+                "isCorrect": true
+            },
+            {
+                "text": "Disappearing files",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of system restore in Windows?",
+        "options": [
+            {
+                "text": "To return the system to a previous working state",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase hard drive speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To upgrade the operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "To replace faulty hardware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a preventive maintenance task?",
+        "options": [
+            {
+                "text": "Regularly cleaning dust from components",
+                "isCorrect": false
+            },
+            {
+                "text": "Updating software and drivers",
+                "isCorrect": false
+            },
+            {
+                "text": "Running disk cleanup utilities",
+                "isCorrect": false
+            },
+            {
+                "text": "Waiting for components to fail before replacing them",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a backup in computer maintenance?",
+        "options": [
+            {
+                "text": "To protect data against loss or corruption",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase processing speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To cool the system",
+                "isCorrect": false
+            },
+            {
+                "text": "To boost internet speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is NOT a common backup type?",
+        "options": [
+            {
+                "text": "Full backup",
+                "isCorrect": false
+            },
+            {
+                "text": "Incremental backup",
+                "isCorrect": false
+            },
+            {
+                "text": "Differential backup",
+                "isCorrect": false
+            },
+            {
+                "text": "Rotational backup",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of thermal paste in a computer?",
+        "options": [
+            {
+                "text": "To improve heat transfer between CPU and heatsink",
+                "isCorrect": true
+            },
+            {
+                "text": "To glue components together",
+                "isCorrect": false
+            },
+            {
+                "text": "To protect against power surges",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase internet speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tool is essential for protecting against electrostatic discharge (ESD) when working on computer hardware?",
+        "options": [
+            {
+                "text": "Anti-static wrist strap",
+                "isCorrect": true
+            },
+            {
+                "text": "Screwdriver",
+                "isCorrect": false
+            },
+            {
+                "text": "Pliers",
+                "isCorrect": false
+            },
+            {
+                "text": "Hammer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the chipset on a motherboard?",
+        "options": [
+            {
+                "text": "To manage data flow between components",
+                "isCorrect": true
+            },
+            {
+                "text": "To provide power to the CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "To cool the system",
+                "isCorrect": false
+            },
+            {
+                "text": "To connect to the internet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common motherboard form factor?",
+        "options": [
+            {
+                "text": "ATX",
+                "isCorrect": false
+            },
+            {
+                "text": "Micro-ATX",
+                "isCorrect": false
+            },
+            {
+                "text": "Mini-ITX",
+                "isCorrect": false
+            },
+            {
+                "text": "Macro-ITX",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What does LED stand for in computer hardware?",
+        "options": [
+            {
+                "text": "Light Emitting Diode",
+                "isCorrect": true
+            },
+            {
+                "text": "Low Energy Device",
+                "isCorrect": false
+            },
+            {
+                "text": "Liquid Electronic Display",
+                "isCorrect": false
+            },
+            {
+                "text": "Long-term Electronic Data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common type of computer case?",
+        "options": [
+            {
+                "text": "Tower",
+                "isCorrect": false
+            },
+            {
+                "text": "Desktop",
+                "isCorrect": false
+            },
+            {
+                "text": "Rackmount",
+                "isCorrect": false
+            },
+            {
+                "text": "Sphere",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the front panel connectors on a motherboard?",
+        "options": [
+            {
+                "text": "To connect power button, LEDs, and USB ports",
+                "isCorrect": true
+            },
+            {
+                "text": "To connect the monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide internet connectivity",
+                "isCorrect": false
+            },
+            {
+                "text": "To cool the system",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common power supply rating?",
+        "options": [
+            {
+                "text": "300W",
+                "isCorrect": false
+            },
+            {
+                "text": "500W",
+                "isCorrect": false
+            },
+            {
+                "text": "750W",
+                "isCorrect": false
+            },
+            {
+                "text": "900V",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the 24-pin connector from the power supply?",
+        "options": [
+            {
+                "text": "To power the motherboard",
+                "isCorrect": true
+            },
+            {
+                "text": "To power the CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "To power the graphics card",
+                "isCorrect": false
+            },
+            {
+                "text": "To power the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common BIOS setting?",
+        "options": [
+            {
+                "text": "Boot device order",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU clock speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Monitor brightness",
+                "isCorrect": true
+            },
+            {
+                "text": "System date and time",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of CMOS battery on the motherboard?",
+        "options": [
+            {
+                "text": "To power the computer when unplugged",
+                "isCorrect": false
+            },
+            {
+                "text": "To maintain BIOS settings when powered off",
+                "isCorrect": true
+            },
+            {
+                "text": "To cool the chipset",
+                "isCorrect": false
+            },
+            {
+                "text": "To boost internet speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common type of UPS?",
+        "options": [
+            {
+                "text": "Standby UPS",
+                "isCorrect": false
+            },
+            {
+                "text": "Line-interactive UPS",
+                "isCorrect": false
+            },
+            {
+                "text": "Online UPS",
+                "isCorrect": false
+            },
+            {
+                "text": "Offline UPS",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the primary advantage of a line-interactive UPS over a standby UPS?",
+        "options": [
+            {
+                "text": "Better voltage regulation",
+                "isCorrect": true
+            },
+            {
+                "text": "Lower cost",
+                "isCorrect": false
+            },
+            {
+                "text": "Smaller size",
+                "isCorrect": false
+            },
+            {
+                "text": "Longer battery life",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When installing a graphics card, which of the following is NOT typically required?",
+        "options": [
+            {
+                "text": "Connecting power cables if needed",
+                "isCorrect": false
+            },
+            {
+                "text": "Installing drivers",
+                "isCorrect": false
+            },
+            {
+                "text": "Inserting into the appropriate expansion slot",
+                "isCorrect": false
+            },
+            {
+                "text": "Replacing the power supply",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a network interface card (NIC)?",
+        "options": [
+            {
+                "text": "To provide network connectivity",
+                "isCorrect": true
+            },
+            {
+                "text": "To improve graphics performance",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase storage capacity",
+                "isCorrect": false
+            },
+            {
+                "text": "To cool the system",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common storage device interface?",
+        "options": [
+            {
+                "text": "SATA",
+                "isCorrect": false
+            },
+            {
+                "text": "NVMe",
+                "isCorrect": false
+            },
+            {
+                "text": "PCIe",
+                "isCorrect": false
+            },
+            {
+                "text": "VGA",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of disk defragmentation?",
+        "options": [
+            {
+                "text": "To organize files contiguously for faster access",
+                "isCorrect": true
+            },
+            {
+                "text": "To erase all data on the disk",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase disk capacity",
+                "isCorrect": false
+            },
+            {
+                "text": "To cool the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common troubleshooting step for a non-working printer?",
+        "options": [
+            {
+                "text": "Checking power and connections",
+                "isCorrect": false
+            },
+            {
+                "text": "Verifying printer drivers",
+                "isCorrect": false
+            },
+            {
+                "text": "Reinstalling the operating system",
+                "isCorrect": true
+            },
+            {
+                "text": "Checking for paper jams",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of Event Viewer in Windows?",
+        "options": [
+            {
+                "text": "To view system logs and error messages",
+                "isCorrect": true
+            },
+            {
+                "text": "To watch movies",
+                "isCorrect": false
+            },
+            {
+                "text": "To edit photos",
+                "isCorrect": false
+            },
+            {
+                "text": "To play games",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common disaster recovery method?",
+        "options": [
+            {
+                "text": "Regular backups",
+                "isCorrect": false
+            },
+            {
+                "text": "System images",
+                "isCorrect": false
+            },
+            {
+                "text": "Cloud storage",
+                "isCorrect": false
+            },
+            {
+                "text": "Frequent hardware upgrades",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the 3-2-1 backup rule?",
+        "options": [
+            {
+                "text": "3 backups, 2 different media types, 1 offsite copy",
+                "isCorrect": true
+            },
+            {
+                "text": "3 days between backups, 2 verification steps, 1 encryption method",
+                "isCorrect": false
+            },
+            {
+                "text": "3 backup locations, 2 administrators, 1 verification",
+                "isCorrect": false
+            },
+            {
+                "text": "3 types of storage, 2 copies each, 1 cloud service",
+                "isCorrect": false
+            }
+        ]
+    }
+]

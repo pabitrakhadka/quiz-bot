@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Which of the following is a primary purpose of a sound/audio system in computers?",
+        "options": [
+            {"text": "To display images", "isCorrect": false},
+            {"text": "To produce and process digital sound", "isCorrect": true},
+            {"text": "To store video files", "isCorrect": false},
+            {"text": "To manage memory", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does MIDI stand for in computer music?",
+        "options": [
+            {"text": "Multiple Interface Digital Input", "isCorrect": false},
+            {"text": "Musical Instrument Digital Interface", "isCorrect": true},
+            {"text": "Media Input Digital Integration", "isCorrect": false},
+            {"text": "Modular Instrument Data Interchange", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following best describes digital audio?",
+        "options": [
+            {"text": "It is recorded on magnetic tapes", "isCorrect": false},
+            {"text": "It uses analog waveforms", "isCorrect": false},
+            {"text": "It is a sequence of discrete samples", "isCorrect": true},
+            {"text": "It is stored in printed format", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "In which process is sound converted into a digital signal?",
+        "options": [
+            {"text": "Analog Filtering", "isCorrect": false},
+            {"text": "Digital Sampling", "isCorrect": true},
+            {"text": "Noise Amplification", "isCorrect": false},
+            {"text": "Echo Suppression", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which component is essential for speech generation in computers?",
+        "options": [
+            {"text": "Scanner", "isCorrect": false},
+            {"text": "Speech synthesizer", "isCorrect": true},
+            {"text": "Printer", "isCorrect": false},
+            {"text": "Monitor", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does speech analysis primarily focus on?",
+        "options": [
+            {"text": "Modifying sound levels", "isCorrect": false},
+            {"text": "Understanding the structure and meaning of speech", "isCorrect": true},
+            {"text": "Creating digital sound effects", "isCorrect": false},
+            {"text": "Reducing background noise", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "How is speech typically transmitted in a digital communication system?",
+        "options": [
+            {"text": "As analog waveforms", "isCorrect": false},
+            {"text": "Through optical discs", "isCorrect": false},
+            {"text": "As encoded digital signals", "isCorrect": true},
+            {"text": "Via printed documents", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following file formats is commonly used to represent digital audio?",
+        "options": [
+            {"text": "WAV", "isCorrect": true},
+            {"text": "DOC", "isCorrect": false},
+            {"text": "PDF", "isCorrect": false},
+            {"text": "TXT", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is a key difference between MIDI and digital audio?",
+        "options": [
+            {"text": "MIDI stores actual sound waves", "isCorrect": false},
+            {"text": "MIDI files are larger than digital audio files", "isCorrect": false},
+            {"text": "MIDI stores instructions for producing music", "isCorrect": true},
+            {"text": "Digital audio cannot be edited", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is true about computer music using MIDI?",
+        "options": [
+            {"text": "It contains recorded sound", "isCorrect": false},
+            {"text": "It requires large storage space", "isCorrect": false},
+            {"text": "It allows instruments to be controlled via digital signals", "isCorrect": true},
+            {"text": "It is not suitable for music production", "isCorrect": false}
+        ]
+    }
+]

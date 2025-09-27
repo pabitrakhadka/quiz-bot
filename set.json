@@ -1,0 +1,117 @@
+[
+   {
+      "question": "नेपालमा गणतन्त्रको घोषणा कहिले गरिएको थियो?",
+      "options": [
+         {
+            "text": "वि.सं. २०६३ जेठ १५ गते",
+            "isCorrect": true
+         },
+         {
+            "text": "वि.सं. २०४६ फागुन ७ गते",
+            "isCorrect": false
+         },
+         {
+            "text": "वि.सं. २००७ फागुन १३ गते",
+            "isCorrect": false
+         },
+         {
+            "text": "वि.सं. २०१७ पुष १ गते",
+            "isCorrect": false
+         }
+      ],
+      "index": "87",
+      "source": "historyofNepal.json"
+   },
+   {
+      "question": "कुन राजाको पालामा 'इन्द्रजात्रामा लिङ्गो गाड्ने' प्रचलन सुरु भएको थियो?",
+      "options": [
+         {
+            "text": "गुणकामदेव",
+            "isCorrect": false
+         },
+         {
+            "text": "प्रताप मल्ल",
+            "isCorrect": false
+         },
+         {
+            "text": "प्रताप सिंह शाह",
+            "isCorrect": true
+         },
+         {
+            "text": "महेन्द्र मल्ल",
+            "isCorrect": false
+         }
+      ],
+      "index": "44",
+      "source": "historyofNepal.json"
+   },
+   {
+      "question": "कुन लिच्छवि राजाले 'भृंगदेश भवन' निर्माण गरेका थिए?",
+      "options": [
+         {
+            "text": "मानदेव",
+            "isCorrect": false
+         },
+         {
+            "text": "अंशुवर्मा",
+            "isCorrect": false
+         },
+         {
+            "text": "नरेन्द्रदेव",
+            "isCorrect": true
+         },
+         {
+            "text": "शिवदेव प्रथम",
+            "isCorrect": false
+         }
+      ],
+      "index": "17",
+      "source": "historyofNepal.json"
+   },
+   {
+      "question": "लिच्छवि कालमा 'प्रधानमन्त्री' लाई के भनिन्थ्यो?",
+      "options": [
+         {
+            "text": "अमात्य",
+            "isCorrect": false
+         },
+         {
+            "text": "महासामन्त",
+            "isCorrect": true
+         },
+         {
+            "text": "महाबलाध्यक्ष",
+            "isCorrect": false
+         },
+         {
+            "text": "महासर्वदण्डनायक",
+            "isCorrect": false
+         }
+      ],
+      "index": "15",
+      "source": "historyofNepal.json"
+   },
+   {
+      "question": "कुन लिच्छवि राजा 'तिब्बतमा शरण लिन' गएका थिए?",
+      "options": [
+         {
+            "text": "शिवदेव प्रथम",
+            "isCorrect": false
+         },
+         {
+            "text": "मानदेव",
+            "isCorrect": false
+         },
+         {
+            "text": "उदयदेव",
+            "isCorrect": true
+         },
+         {
+            "text": "अंशुवर्मा",
+            "isCorrect": false
+         }
+      ],
+      "index": "63",
+      "source": "historyofNepal.json"
+   }
+]

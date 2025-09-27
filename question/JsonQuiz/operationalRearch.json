@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the primary goal of operational research?",
+        "options": [
+            {"text": "To maximize profits", "isCorrect": false},
+            {"text": "To optimize decision-making using mathematical models", "isCorrect": true},
+            {"text": "To design computer hardware", "isCorrect": false},
+            {"text": "To develop software applications", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which technique is used for solving linear programming problems?",
+        "options": [
+            {"text": "Simplex Method", "isCorrect": true},
+            {"text": "Newton-Raphson Method", "isCorrect": false},
+            {"text": "Dijkstra’s Algorithm", "isCorrect": false},
+            {"text": "Quick Sort", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is a 'feasible solution' in optimization?",
+        "options": [
+            {"text": "A solution that meets all constraints", "isCorrect": true},
+            {"text": "The best possible solution", "isCorrect": false},
+            {"text": "A solution with the lowest cost", "isCorrect": false},
+            {"text": "A random solution", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is a queuing theory model?",
+        "options": [
+            {"text": "M/M/1", "isCorrect": true},
+            {"text": "PERT/CPM", "isCorrect": false},
+            {"text": "EOQ", "isCorrect": false},
+            {"text": "K-means clustering", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does 'PERT' stand for in project management?",
+        "options": [
+            {"text": "Program Evaluation and Review Technique", "isCorrect": true},
+            {"text": "Project Efficiency Rating Tool", "isCorrect": false},
+            {"text": "Process Execution and Review Technique", "isCorrect": false},
+            {"text": "Performance Evaluation and Resource Tracking", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which method is used for inventory management optimization?",
+        "options": [
+            {"text": "Economic Order Quantity (EOQ)", "isCorrect": true},
+            {"text": "Linear Regression", "isCorrect": false},
+            {"text": "K-nearest Neighbors", "isCorrect": false},
+            {"text": "A* Search Algorithm", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the main purpose of the 'Transportation Problem' in OR?",
+        "options": [
+            {"text": "To minimize transportation costs", "isCorrect": true},
+            {"text": "To maximize vehicle speed", "isCorrect": false},
+            {"text": "To schedule airline routes", "isCorrect": false},
+            {"text": "To design road networks", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which algorithm is used for finding the shortest path in a network?",
+        "options": [
+            {"text": "Dijkstra’s Algorithm", "isCorrect": true},
+            {"text": "Simplex Method", "isCorrect": false},
+            {"text": "Hungarian Method", "isCorrect": false},
+            {"text": "Monte Carlo Simulation", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is 'Monte Carlo Simulation' used for?",
+        "options": [
+            {"text": "To predict outcomes using random sampling", "isCorrect": true},
+            {"text": "To solve linear equations", "isCorrect": false},
+            {"text": "To encrypt data", "isCorrect": false},
+            {"text": "To compress files", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a part of decision-making models in OR?",
+        "options": [
+            {"text": "Game Theory", "isCorrect": false},
+            {"text": "Markov Chains", "isCorrect": false},
+            {"text": "Binary Search", "isCorrect": true},
+            {"text": "Decision Trees", "isCorrect": false}
+        ]
+    }
+]

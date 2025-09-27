@@ -1,0 +1,1640 @@
+[
+    {
+        "question": "Which of the following best defines an Operating System?",
+        "options": [
+            {
+                "text": "A collection of hardware components",
+                "isCorrect": false
+            },
+            {
+                "text": "A program that manages computer hardware and software resources",
+                "isCorrect": true
+            },
+            {
+                "text": "A compiler for programming languages",
+                "isCorrect": false
+            },
+            {
+                "text": "A device driver for printers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which operating system is based on open-source UNIX?",
+        "options": [
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": true
+            },
+            {
+                "text": "Android",
+                "isCorrect": false
+            },
+            {
+                "text": "MS-DOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of Operating System?",
+        "options": [
+            {
+                "text": "Batch Operating System",
+                "isCorrect": false
+            },
+            {
+                "text": "Time-Sharing Operating System",
+                "isCorrect": false
+            },
+            {
+                "text": "Real-Time Operating System",
+                "isCorrect": false
+            },
+            {
+                "text": "Compiler Operating System",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which type of OS is most suitable for real-time applications like robotics?",
+        "options": [
+            {
+                "text": "Batch OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Real-Time OS",
+                "isCorrect": true
+            },
+            {
+                "text": "Network OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Distributed OS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main function of an Operating System?",
+        "options": [
+            {
+                "text": "To compile source code",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage hardware and software resources",
+                "isCorrect": true
+            },
+            {
+                "text": "To send data over a network",
+                "isCorrect": false
+            },
+            {
+                "text": "To design user interfaces",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which OS function handles the creation, deletion, and organization of files?",
+        "options": [
+            {
+                "text": "Process Management",
+                "isCorrect": false
+            },
+            {
+                "text": "File Management",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory Management",
+                "isCorrect": false
+            },
+            {
+                "text": "Security Management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which DOS command is used to copy files from one location to another?",
+        "options": [
+            {
+                "text": "MOVE",
+                "isCorrect": false
+            },
+            {
+                "text": "COPY",
+                "isCorrect": true
+            },
+            {
+                "text": "DEL",
+                "isCorrect": false
+            },
+            {
+                "text": "ATTRIB",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which DOS command is used to move files from one directory to another?",
+        "options": [
+            {
+                "text": "COPY",
+                "isCorrect": false
+            },
+            {
+                "text": "MOVE",
+                "isCorrect": true
+            },
+            {
+                "text": "DIR",
+                "isCorrect": false
+            },
+            {
+                "text": "CHKDSK",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to view hidden file attributes in DOS?",
+        "options": [
+            {
+                "text": "MOVE",
+                "isCorrect": false
+            },
+            {
+                "text": "ATTRIB",
+                "isCorrect": true
+            },
+            {
+                "text": "COPY",
+                "isCorrect": false
+            },
+            {
+                "text": "FORMAT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which feature introduced a Graphical User Interface (GUI) for easy interaction?",
+        "options": [
+            {
+                "text": "MS-DOS",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows",
+                "isCorrect": true
+            },
+            {
+                "text": "Linux Terminal",
+                "isCorrect": false
+            },
+            {
+                "text": "UNIX Shell",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component of Windows shows running applications and system notifications?",
+        "options": [
+            {
+                "text": "Desktop",
+                "isCorrect": false
+            },
+            {
+                "text": "Taskbar",
+                "isCorrect": true
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "My Computer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where are deleted files temporarily stored in Windows?",
+        "options": [
+            {
+                "text": "Taskbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": true
+            },
+            {
+                "text": "Control Panel",
+                "isCorrect": false
+            },
+            {
+                "text": "Desktop",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which option is used to properly shut down a Windows system?",
+        "options": [
+            {
+                "text": "Pressing the Power Button directly",
+                "isCorrect": false
+            },
+            {
+                "text": "Using the Start Menu → Shut Down",
+                "isCorrect": true
+            },
+            {
+                "text": "Closing all applications",
+                "isCorrect": false
+            },
+            {
+                "text": "Logging off",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows utility is used for browsing files and folders?",
+        "options": [
+            {
+                "text": "Task Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows Explorer",
+                "isCorrect": true
+            },
+            {
+                "text": "Control Panel",
+                "isCorrect": false
+            },
+            {
+                "text": "Command Prompt",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows application is used to change system settings?",
+        "options": [
+            {
+                "text": "Notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Panel",
+                "isCorrect": true
+            },
+            {
+                "text": "Paint",
+                "isCorrect": false
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which application is used to create simple drawings in Windows?",
+        "options": [
+            {
+                "text": "Paint",
+                "isCorrect": true
+            },
+            {
+                "text": "Notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "WordPad",
+                "isCorrect": false
+            },
+            {
+                "text": "Character Map",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows feature allows searching for files and folders?",
+        "options": [
+            {
+                "text": "Taskbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Search Option",
+                "isCorrect": true
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Panel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to start a program from the command line?",
+        "options": [
+            {
+                "text": "Typing the program’s name and pressing Enter",
+                "isCorrect": true
+            },
+            {
+                "text": "CTRL + ALT + DEL",
+                "isCorrect": false
+            },
+            {
+                "text": "SHIFT + ESC",
+                "isCorrect": false
+            },
+            {
+                "text": "F1",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which option in Windows allows adding or removing installed programs?",
+        "options": [
+            {
+                "text": "Task Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Panel",
+                "isCorrect": true
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows Explorer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which menu stores recently opened documents in Windows?",
+        "options": [
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "Documents Menu",
+                "isCorrect": true
+            },
+            {
+                "text": "Task Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Character Map",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows feature allows customization of the Taskbar?",
+        "options": [
+            {
+                "text": "Task Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Taskbar Properties",
+                "isCorrect": true
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Panel Items",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Control Panel item allows managing user accounts?",
+        "options": [
+            {
+                "text": "Date and Time",
+                "isCorrect": false
+            },
+            {
+                "text": "User Accounts",
+                "isCorrect": true
+            },
+            {
+                "text": "Paint",
+                "isCorrect": false
+            },
+            {
+                "text": "Character Map",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of creating shortcuts on the desktop?",
+        "options": [
+            {
+                "text": "To directly access files, folders, or applications",
+                "isCorrect": true
+            },
+            {
+                "text": "To store deleted files",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage system updates",
+                "isCorrect": false
+            },
+            {
+                "text": "To uninstall programs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows tool scans the disk for errors?",
+        "options": [
+            {
+                "text": "Disk Defragmenter",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk Scanning (CHKDSK)",
+                "isCorrect": true
+            },
+            {
+                "text": "Backup Tool",
+                "isCorrect": false
+            },
+            {
+                "text": "System Restore",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows tool rearranges fragmented data on a hard drive?",
+        "options": [
+            {
+                "text": "Disk Scanning",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk Defragmenter",
+                "isCorrect": true
+            },
+            {
+                "text": "Backup Tool",
+                "isCorrect": false
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows tool helps to backup important files?",
+        "options": [
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "Backup Utility",
+                "isCorrect": true
+            },
+            {
+                "text": "Disk Defragmenter",
+                "isCorrect": false
+            },
+            {
+                "text": "Notepad",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows tool allows restoring the system to a previous state?",
+        "options": [
+            {
+                "text": "System Restore",
+                "isCorrect": true
+            },
+            {
+                "text": "Disk Defragmenter",
+                "isCorrect": false
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Panel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to format a disk in DOS?",
+        "options": [
+            {
+                "text": "COPY",
+                "isCorrect": false
+            },
+            {
+                "text": "MOVE",
+                "isCorrect": false
+            },
+            {
+                "text": "FORMAT",
+                "isCorrect": true
+            },
+            {
+                "text": "DEL",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of an operating system?",
+        "options": [
+            {
+                "text": "To manage the computer's hardware and software resources",
+                "isCorrect": true
+            },
+            {
+                "text": "To provide internet connectivity",
+                "isCorrect": false
+            },
+            {
+                "text": "To run application software like word processors",
+                "isCorrect": false
+            },
+            {
+                "text": "To protect against viruses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a single-user, single-task operating system?",
+        "options": [
+            {
+                "text": "Windows 10",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": false
+            },
+            {
+                "text": "MS-DOS",
+                "isCorrect": true
+            },
+            {
+                "text": "macOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An operating system that allows multiple users to access a computer system simultaneously is called a:",
+        "options": [
+            {
+                "text": "Single-User OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Multi-tasking OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Multi-user OS",
+                "isCorrect": true
+            },
+            {
+                "text": "Real-Time OS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to copy files in the Windows command line?",
+        "options": [
+            {
+                "text": "move",
+                "isCorrect": false
+            },
+            {
+                "text": "copy",
+                "isCorrect": true
+            },
+            {
+                "text": "cp",
+                "isCorrect": false
+            },
+            {
+                "text": "duplicate",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to move a file from one directory to another?",
+        "options": [
+            {
+                "text": "copy",
+                "isCorrect": false
+            },
+            {
+                "text": "mv",
+                "isCorrect": false
+            },
+            {
+                "text": "move",
+                "isCorrect": true
+            },
+            {
+                "text": "shift",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to view and set the 'read-only' attribute of a file?",
+        "options": [
+            {
+                "text": "attrib",
+                "isCorrect": true
+            },
+            {
+                "text": "attr",
+                "isCorrect": false
+            },
+            {
+                "text": "chmod",
+                "isCorrect": false
+            },
+            {
+                "text": "property",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does GUI stand for?",
+        "options": [
+            {
+                "text": "General User Interface",
+                "isCorrect": false
+            },
+            {
+                "text": "Graphical User Interface",
+                "isCorrect": true
+            },
+            {
+                "text": "Graphical Utility Interaction",
+                "isCorrect": false
+            },
+            {
+                "text": "General Utility Interface",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a basic element of the Windows desktop?",
+        "options": [
+            {
+                "text": "Taskbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            },
+            {
+                "text": "My Computer",
+                "isCorrect": false
+            },
+            {
+                "text": "Command Prompt",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The bar at the bottom of the Windows screen that contains the Start button and shows running applications is called the:",
+        "options": [
+            {
+                "text": "Menu Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Status Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Taskbar",
+                "isCorrect": true
+            },
+            {
+                "text": "Scroll Bar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the correct way to shut down a Windows computer?",
+        "options": [
+            {
+                "text": "Press the power button on the CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Use the 'Shut down' option from the Start menu",
+                "isCorrect": true
+            },
+            {
+                "text": "Unplug the power cord",
+                "isCorrect": false
+            },
+            {
+                "text": "Close all open application windows",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows application is used for browsing and managing files and folders?",
+        "options": [
+            {
+                "text": "Control Panel",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft Edge",
+                "isCorrect": false
+            },
+            {
+                "text": "File Explorer",
+                "isCorrect": true
+            },
+            {
+                "text": "Paint",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows utility allows you to view and change system settings like adding hardware or changing user accounts?",
+        "options": [
+            {
+                "text": "File Explorer",
+                "isCorrect": false
+            },
+            {
+                "text": "Paint",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Panel",
+                "isCorrect": true
+            },
+            {
+                "text": "Recycle Bin",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tool is used to find and insert special characters and symbols not found on the keyboard?",
+        "options": [
+            {
+                "text": "Control Panel",
+                "isCorrect": false
+            },
+            {
+                "text": "Character Map",
+                "isCorrect": true
+            },
+            {
+                "text": "Notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk Cleanup",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the keyboard shortcut to search for files or folders in Windows Explorer?",
+        "options": [
+            {
+                "text": "Ctrl + F",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + S",
+                "isCorrect": false
+            },
+            {
+                "text": "Alt + F4",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows Key + E",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to start the Notepad program from the command line?",
+        "options": [
+            {
+                "text": "start notepad",
+                "isCorrect": true
+            },
+            {
+                "text": "run notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "open notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "execute notepad",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where in the Control Panel would you go to uninstall a program?",
+        "options": [
+            {
+                "text": "System and Security",
+                "isCorrect": false
+            },
+            {
+                "text": "Programs and Features",
+                "isCorrect": true
+            },
+            {
+                "text": "User Accounts",
+                "isCorrect": false
+            },
+            {
+                "text": "Appearance and Personalization",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How can you create a shortcut to a program on the desktop?",
+        "options": [
+            {
+                "text": "Copy the program file and paste it on the desktop",
+                "isCorrect": false
+            },
+            {
+                "text": "Right-click the program file and select Send to > Desktop (create shortcut)",
+                "isCorrect": true
+            },
+            {
+                "text": "Move the program file to the desktop",
+                "isCorrect": false
+            },
+            {
+                "text": "Rename the program file to 'Shortcut'",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which system tool reorganizes files on a hard disk to improve access speed?",
+        "options": [
+            {
+                "text": "Disk Cleanup",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk Defragmenter",
+                "isCorrect": true
+            },
+            {
+                "text": "Backup and Restore",
+                "isCorrect": false
+            },
+            {
+                "text": "Format",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tool checks a hard drive for logical and physical errors?",
+        "options": [
+            {
+                "text": "Disk Defragmenter",
+                "isCorrect": false
+            },
+            {
+                "text": "Error Checking (Disk Scanning)",
+                "isCorrect": true
+            },
+            {
+                "text": "Format",
+                "isCorrect": false
+            },
+            {
+                "text": "Backup",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The process of preparing a new storage medium (like a hard drive) for use by an operating system is called:",
+        "options": [
+            {
+                "text": "Defragmenting",
+                "isCorrect": false
+            },
+            {
+                "text": "Scanning",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting",
+                "isCorrect": true
+            },
+            {
+                "text": "Backing up",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a core function of an operating system's memory management?",
+        "options": [
+            {
+                "text": "Formatting disks",
+                "isCorrect": false
+            },
+            {
+                "text": "Allocating RAM to processes",
+                "isCorrect": true
+            },
+            {
+                "text": "Providing a word processor",
+                "isCorrect": false
+            },
+            {
+                "text": "Connecting to a network printer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A Real-Time Operating System (RTOS) is most likely to be used in:",
+        "options": [
+            {
+                "text": "A home desktop computer",
+                "isCorrect": false
+            },
+            {
+                "text": "An aircraft control system",
+                "isCorrect": true
+            },
+            {
+                "text": "A university server",
+                "isCorrect": false
+            },
+            {
+                "text": "A gaming console",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In a command line, what does the 'cd' command do?",
+        "options": [
+            {
+                "text": "Copies a directory",
+                "isCorrect": false
+            },
+            {
+                "text": "Changes the current directory",
+                "isCorrect": true
+            },
+            {
+                "text": "Creates a new directory",
+                "isCorrect": false
+            },
+            {
+                "text": "Deletes a directory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the 'dir' command in Windows?",
+        "options": [
+            {
+                "text": "To delete a file",
+                "isCorrect": false
+            },
+            {
+                "text": "To display a list of files and subdirectories in a directory",
+                "isCorrect": true
+            },
+            {
+                "text": "To change directory permissions",
+                "isCorrect": false
+            },
+            {
+                "text": "To create a new directory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows feature allows you to see previews of open applications when you hover over their taskbar icons?",
+        "options": [
+            {
+                "text": "Aero Peek",
+                "isCorrect": false
+            },
+            {
+                "text": "Taskbar Thumbnails",
+                "isCorrect": true
+            },
+            {
+                "text": "Jump Lists",
+                "isCorrect": false
+            },
+            {
+                "text": "Desktop Gadgets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'Recycle Bin' is used for:",
+        "options": [
+            {
+                "text": "Storing frequently used programs",
+                "isCorrect": false
+            },
+            {
+                "text": "Temporarily holding deleted files and folders",
+                "isCorrect": true
+            },
+            {
+                "text": "Recycling old computer parts",
+                "isCorrect": false
+            },
+            {
+                "text": "Compressing files to save space",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which key combination opens the Windows Task Manager?",
+        "options": [
+            {
+                "text": "Ctrl + Alt + Delete",
+                "isCorrect": true
+            },
+            {
+                "text": "Alt + F4",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows Key + R",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift + Esc",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main purpose of the Windows 'Control Panel'?",
+        "options": [
+            {
+                "text": "To manage and edit text documents",
+                "isCorrect": false
+            },
+            {
+                "text": "To browse the internet",
+                "isCorrect": false
+            },
+            {
+                "text": "To configure system settings and manage hardware/software",
+                "isCorrect": true
+            },
+            {
+                "text": "To play multimedia files",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a Windows accessory program used for creating simple drawings?",
+        "options": [
+            {
+                "text": "WordPad",
+                "isCorrect": false
+            },
+            {
+                "text": "Notepad",
+                "isCorrect": false
+            },
+            {
+                "text": "Paint",
+                "isCorrect": true
+            },
+            {
+                "text": "Calculator",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To quickly find a file named 'report.docx' on your C: drive, you would use:",
+        "options": [
+            {
+                "text": "File Explorer's search bar",
+                "isCorrect": true
+            },
+            {
+                "text": "The Disk Defragmenter tool",
+                "isCorrect": false
+            },
+            {
+                "text": "The Character Map",
+                "isCorrect": false
+            },
+            {
+                "text": "The Control Panel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command line operation is used to create a new directory named 'Data'?",
+        "options": [
+            {
+                "text": "md Data",
+                "isCorrect": true
+            },
+            {
+                "text": "cd Data",
+                "isCorrect": false
+            },
+            {
+                "text": "mk Data",
+                "isCorrect": false
+            },
+            {
+                "text": "dir Data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where would you go in the Windows settings to change your screen resolution?",
+        "options": [
+            {
+                "text": "Programs and Features",
+                "isCorrect": false
+            },
+            {
+                "text": "Display Settings",
+                "isCorrect": true
+            },
+            {
+                "text": "Device Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Power Options",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'Taskbar' can be customized by:",
+        "options": [
+            {
+                "text": "Moving it to any edge of the screen",
+                "isCorrect": false
+            },
+            {
+                "text": "Auto-hiding it",
+                "isCorrect": false
+            },
+            {
+                "text": "Changing its size",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What does the 'System Restore' tool do?",
+        "options": [
+            {
+                "text": "Backs up your personal files",
+                "isCorrect": false
+            },
+            {
+                "text": "Returns your computer's system files to an earlier point in time",
+                "isCorrect": true
+            },
+            {
+                "text": "Increases your computer's RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "Defragments the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a multi-user operating system?",
+        "options": [
+            {
+                "text": "Windows 11",
+                "isCorrect": true
+            },
+            {
+                "text": "MS-DOS",
+                "isCorrect": false
+            },
+            {
+                "text": "Classic Mac OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Windows 3.1",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The concept of 'time-sharing' is fundamental to which type of operating system?",
+        "options": [
+            {
+                "text": "Batch Processing OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Multi-user OS",
+                "isCorrect": true
+            },
+            {
+                "text": "Real-Time OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Single-Task OS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to delete a file in the command line?",
+        "options": [
+            {
+                "text": "del",
+                "isCorrect": true
+            },
+            {
+                "text": "rm",
+                "isCorrect": false
+            },
+            {
+                "text": "erase",
+                "isCorrect": false
+            },
+            {
+                "text": "remove",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of the 'cls' command?",
+        "options": [
+            {
+                "text": "It closes the command prompt window.",
+                "isCorrect": false
+            },
+            {
+                "text": "It clears the screen of the command prompt window.",
+                "isCorrect": true
+            },
+            {
+                "text": "It lists the contents of the current directory.",
+                "isCorrect": false
+            },
+            {
+                "text": "It changes the screen color.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'Desktop' in a GUI represents:",
+        "options": [
+            {
+                "text": "The physical computer monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "A dedicated graphics card",
+                "isCorrect": false
+            },
+            {
+                "text": "The main work area and graphical environment",
+                "isCorrect": true
+            },
+            {
+                "text": "The inside of the computer case",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'Start Menu' in Windows provides access to:",
+        "options": [
+            {
+                "text": "All installed applications, system settings, and power options",
+                "isCorrect": true
+            },
+            {
+                "text": "Only the web browser and email client",
+                "isCorrect": false
+            },
+            {
+                "text": "The computer's BIOS settings",
+                "isCorrect": false
+            },
+            {
+                "text": "The command prompt exclusively",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A safe way to shut down Windows is to:",
+        "options": [
+            {
+                "text": "Use the physical power switch on the computer case",
+                "isCorrect": false
+            },
+            {
+                "text": "Select 'Shut down' from the Start menu or power options",
+                "isCorrect": true
+            },
+            {
+                "text": "Close the lid of a laptop without any settings configured",
+                "isCorrect": false
+            },
+            {
+                "text": "Turn off the power strip",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In File Explorer, what does dragging a file while holding the right mouse button allow you to do?",
+        "options": [
+            {
+                "text": "Copy the file automatically",
+                "isCorrect": false
+            },
+            {
+                "text": "Move the file automatically",
+                "isCorrect": false
+            },
+            {
+                "text": "Open a menu with options like Copy, Move, Create Shortcut",
+                "isCorrect": true
+            },
+            {
+                "text": "Delete the file",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'Calculator' app in Windows can operate in which modes?",
+        "options": [
+            {
+                "text": "Standard only",
+                "isCorrect": false
+            },
+            {
+                "text": "Standard and Scientific",
+                "isCorrect": true
+            },
+            {
+                "text": "Basic and Advanced",
+                "isCorrect": false
+            },
+            {
+                "text": "Simple and Complex",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To save the results of a file search in Windows for later use, you can:",
+        "options": [
+            {
+                "text": "Bookmark it in the browser",
+                "isCorrect": false
+            },
+            {
+                "text": "Save the search as a '.search' file",
+                "isCorrect": false
+            },
+            {
+                "text": "Save the search as a virtual folder",
+                "isCorrect": true
+            },
+            {
+                "text": "Take a screenshot of the results",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To run the Command Prompt as an administrator, you can:",
+        "options": [
+            {
+                "text": "Right-click its icon and select 'Run as administrator'",
+                "isCorrect": true
+            },
+            {
+                "text": "Type 'admin' before any command",
+                "isCorrect": false
+            },
+            {
+                "text": "Open it from the Accessories folder",
+                "isCorrect": false
+            },
+            {
+                "text": "It always runs as administrator by default",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To add a new printer to your system, you would most likely use which Control Panel category?",
+        "options": [
+            {
+                "text": "Network and Internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware and Sound",
+                "isCorrect": true
+            },
+            {
+                "text": "Programs",
+                "isCorrect": false
+            },
+            {
+                "text": "Appearance and Personalization",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Clearing the contents of the 'Recent Documents' list helps with:",
+        "options": [
+            {
+                "text": "Freeing up disk space",
+                "isCorrect": false
+            },
+            {
+                "text": "Improving computer performance",
+                "isCorrect": false
+            },
+            {
+                "text": "Maintaining privacy",
+                "isCorrect": true
+            },
+            {
+                "text": "Fixing corrupted files",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A desktop shortcut icon is characterized by:",
+        "options": [
+            {
+                "text": "A small arrow in the lower-left corner of the icon",
+                "isCorrect": true
+            },
+            {
+                "text": "A different color than the original file's icon",
+                "isCorrect": false
+            },
+            {
+                "text": "A lock symbol on the icon",
+                "isCorrect": false
+            },
+            {
+                "text": "A larger file size than the original program",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The primary purpose of the 'Backup' utility is to:",
+        "options": [
+            {
+                "text": "Delete temporary files",
+                "isCorrect": false
+            },
+            {
+                "text": "Create a copy of data to be used for recovery after data loss",
+                "isCorrect": true
+            },
+            {
+                "text": "Speed up the computer",
+                "isCorrect": false
+            },
+            {
+                "text": "Organize files on the hard drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which operating system is based on open-source UNIX?",
+        "options": [
+            {
+                "text": "Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": true
+            },
+            {
+                "text": "Android",
+                "isCorrect": false
+            },
+            {
+                "text": "MS-DOS",
+                "isCorrect": false
+            }
+        ]
+    }
+]

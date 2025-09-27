@@ -1,0 +1,1472 @@
+[
+    {
+        "question": "What is the brain of a computer system?",
+        "options": [
+            {
+                "text": "Monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU (Central Processing Unit)",
+                "isCorrect": true
+            },
+            {
+                "text": "Keyboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Hard Disk",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a volatile memory?",
+        "options": [
+            {
+                "text": "ROM",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM",
+                "isCorrect": true
+            },
+            {
+                "text": "Hard Disk",
+                "isCorrect": false
+            },
+            {
+                "text": "SSD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does 'OS' stand for in computing?",
+        "options": [
+            {
+                "text": "Operating System",
+                "isCorrect": true
+            },
+            {
+                "text": "Output Signal",
+                "isCorrect": false
+            },
+            {
+                "text": "Optical Sensor",
+                "isCorrect": false
+            },
+            {
+                "text": "Online Storage",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an input device?",
+        "options": [
+            {
+                "text": "Printer",
+                "isCorrect": false
+            },
+            {
+                "text": "Monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "Mouse",
+                "isCorrect": true
+            },
+            {
+                "text": "Speaker",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which generation of computers was primarily characterized by the use of vacuum tubes?",
+        "options": [
+            {
+                "text": "First Generation",
+                "isCorrect": true
+            },
+            {
+                "text": "Second Generation",
+                "isCorrect": false
+            },
+            {
+                "text": "Third Generation",
+                "isCorrect": false
+            },
+            {
+                "text": "Fourth Generation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the Arithmetic Logic Unit (ALU) within the CPU?",
+        "options": [
+            {
+                "text": "To manage the flow of data and instructions within the computer.",
+                "isCorrect": false
+            },
+            {
+                "text": "To store data and programs currently in use.",
+                "isCorrect": false
+            },
+            {
+                "text": "To perform all mathematical calculations and logical comparisons.",
+                "isCorrect": true
+            },
+            {
+                "text": "To control all input and output devices.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is considered 'Liveware'?",
+        "options": [
+            {
+                "text": "The operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "The physical keyboard and mouse",
+                "isCorrect": false
+            },
+            {
+                "text": "The computer user",
+                "isCorrect": true
+            },
+            {
+                "text": "The BIOS stored on a chip",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A type of malware that appears to be legitimate software but contains malicious code is known as a:",
+        "options": [
+            {
+                "text": "Virus",
+                "isCorrect": false
+            },
+            {
+                "text": "Worm",
+                "isCorrect": false
+            },
+            {
+                "text": "Trojan Horse",
+                "isCorrect": true
+            },
+            {
+                "text": "Phishing attack",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the context of file management, what does the wildcard character '*' (asterisk) represent?",
+        "options": [
+            {
+                "text": "Any single character",
+                "isCorrect": false
+            },
+            {
+                "text": "A sequence of any characters",
+                "isCorrect": true
+            },
+            {
+                "text": "Only numeric characters",
+                "isCorrect": false
+            },
+            {
+                "text": "The root directory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a key characteristic of a mainframe computer?",
+        "options": [
+            {
+                "text": "It is designed for a single user.",
+                "isCorrect": false
+            },
+            {
+                "text": "It has high processing power and is used for bulk data processing.",
+                "isCorrect": true
+            },
+            {
+                "text": "It is typically used for playing video games.",
+                "isCorrect": false
+            },
+            {
+                "text": "It is the smallest type of computer.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the fundamental difference between data and information?",
+        "options": [
+            {
+                "text": "Data is processed, information is raw.",
+                "isCorrect": false
+            },
+            {
+                "text": "Data is raw facts, while information is processed and organized data that has meaning.",
+                "isCorrect": true
+            },
+            {
+                "text": "There is no difference; the terms are interchangeable.",
+                "isCorrect": false
+            },
+            {
+                "text": "Data is stored in RAM, information is stored on the hard disk.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component is responsible for interpreting instructions and directing other hardware components?",
+        "options": [
+            {
+                "text": "Arithmetic Logic Unit (ALU)",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory Unit (MU)",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Unit (CU)",
+                "isCorrect": true
+            },
+            {
+                "text": "Cache Memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an application software?",
+        "options": [
+            {
+                "text": "Windows Operating System",
+                "isCorrect": false
+            },
+            {
+                "text": "Device Driver for a printer",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft Word",
+                "isCorrect": true
+            },
+            {
+                "text": "BIOS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of cache memory?",
+        "options": [
+            {
+                "text": "To provide long-term storage for user files.",
+                "isCorrect": false
+            },
+            {
+                "text": "To store the computer's startup instructions.",
+                "isCorrect": false
+            },
+            {
+                "text": "To act as high-speed memory between the CPU and RAM to speed up processing.",
+                "isCorrect": true
+            },
+            {
+                "text": "To connect the computer to a network.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A social engineering technique aimed at stealing sensitive information like usernames and passwords by masquerading as a trustworthy entity is called:",
+        "options": [
+            {
+                "text": "Spamming",
+                "isCorrect": false
+            },
+            {
+                "text": "Phishing",
+                "isCorrect": true
+            },
+            {
+                "text": "Hacking",
+                "isCorrect": false
+            },
+            {
+                "text": "Encryption",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following file extensions typically indicates an executable program?",
+        "options": [
+            {
+                "text": ".txt",
+                "isCorrect": false
+            },
+            {
+                "text": ".docx",
+                "isCorrect": false
+            },
+            {
+                "text": ".exe",
+                "isCorrect": true
+            },
+            {
+                "text": ".jpg",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'firmware' refer to?",
+        "options": [
+            {
+                "text": "Software that is temporarily stored in RAM.",
+                "isCorrect": false
+            },
+            {
+                "text": "Software that is permanently programmed into a hardware device (e.g., BIOS).",
+                "isCorrect": true
+            },
+            {
+                "text": "The physical components of a computer.",
+                "isCorrect": false
+            },
+            {
+                "text": "Antivirus software.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In a file path 'C:\\Users\\Doc\\file.txt', what does 'C:' represent?",
+        "options": [
+            {
+                "text": "The root directory",
+                "isCorrect": false
+            },
+            {
+                "text": "The current directory",
+                "isCorrect": false
+            },
+            {
+                "text": "The drive letter",
+                "isCorrect": true
+            },
+            {
+                "text": "A folder name",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a characteristic of the Fourth Generation of computers?",
+        "options": [
+            {
+                "text": "Use of punched cards for input.",
+                "isCorrect": false
+            },
+            {
+                "text": "Use of transistors.",
+                "isCorrect": false
+            },
+            {
+                "text": "Use of Integrated Circuits (ICs).",
+                "isCorrect": false
+            },
+            {
+                "text": "Use of Microprocessors.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which type of software is designed to control and manage the computer hardware and provide a platform for running application software?",
+        "options": [
+            {
+                "text": "Application Software",
+                "isCorrect": false
+            },
+            {
+                "text": "System Software",
+                "isCorrect": true
+            },
+            {
+                "text": "Utility Software",
+                "isCorrect": false
+            },
+            {
+                "text": "Programming Software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an auxiliary storage device?",
+        "options": [
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "ROM",
+                "isCorrect": false
+            },
+            {
+                "text": "Cache",
+                "isCorrect": false
+            },
+            {
+                "text": "Solid State Drive (SSD)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the main purpose of a sound card?",
+        "options": [
+            {
+                "text": "To display graphics on the monitor.",
+                "isCorrect": false
+            },
+            {
+                "text": "To connect to the internet.",
+                "isCorrect": false
+            },
+            {
+                "text": "To input audio via a microphone.",
+                "isCorrect": false
+            },
+            {
+                "text": "To process and output audio signals.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a recommended practice for protecting a computer room?",
+        "options": [
+            {
+                "text": "Maintaining stable temperature and humidity control.",
+                "isCorrect": false
+            },
+            {
+                "text": "Using an Uninterruptible Power Supply (UPS).",
+                "isCorrect": false
+            },
+            {
+                "text": "Allowing food and drinks near the computers.",
+                "isCorrect": true
+            },
+            {
+                "text": "Implementing physical access controls.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Multimedia typically integrates which of the following elements?",
+        "options": [
+            {
+                "text": "Text and numbers only.",
+                "isCorrect": false
+            },
+            {
+                "text": "Text, graphics, audio, video, and animation.",
+                "isCorrect": true
+            },
+            {
+                "text": "Hardware and software only.",
+                "isCorrect": false
+            },
+            {
+                "text": "Data and information.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The physical structure of a hard disk is divided into tracks and what?",
+        "options": [
+            {
+                "text": "Clusters",
+                "isCorrect": false
+            },
+            {
+                "text": "Sectors",
+                "isCorrect": true
+            },
+            {
+                "text": "Pages",
+                "isCorrect": false
+            },
+            {
+                "text": "Blocks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A compiler is a type of:",
+        "options": [
+            {
+                "text": "System Software",
+                "isCorrect": true
+            },
+            {
+                "text": "Application Software",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware Device",
+                "isCorrect": false
+            },
+            {
+                "text": "Liveware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a volatile memory?",
+        "options": [
+            {
+                "text": "ROM",
+                "isCorrect": false
+            },
+            {
+                "text": "Hard Disk",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM",
+                "isCorrect": true
+            },
+            {
+                "text": "DVD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The primary function of a modem is to:",
+        "options": [
+            {
+                "text": "Store data permanently.",
+                "isCorrect": false
+            },
+            {
+                "text": "Modulate and demodulate signals for communication over telephone lines.",
+                "isCorrect": true
+            },
+            {
+                "text": "Increase the speed of the computer.",
+                "isCorrect": false
+            },
+            {
+                "text": "Protect the computer from viruses.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a key characteristic of a supercomputer?",
+        "options": [
+            {
+                "text": "It is used for personal productivity tasks.",
+                "isCorrect": false
+            },
+            {
+                "text": "It has the highest processing capacity and is used for complex scientific calculations.",
+                "isCorrect": true
+            },
+            {
+                "text": "It is small and portable.",
+                "isCorrect": false
+            },
+            {
+                "text": "It is the most affordable type of computer.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main difference between a worm and a traditional virus?",
+        "options": [
+            {
+                "text": "A worm is harmless, while a virus is destructive.",
+                "isCorrect": false
+            },
+            {
+                "text": "A virus requires a host program to spread, while a worm can self-replicate and spread independently.",
+                "isCorrect": true
+            },
+            {
+                "text": "A worm only infects files, while a virus infects the system memory.",
+                "isCorrect": false
+            },
+            {
+                "text": "There is no significant difference.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the pathname 'D:\\Music\\Rock\\song.mp3', what is 'Rock'?",
+        "options": [
+            {
+                "text": "A file",
+                "isCorrect": false
+            },
+            {
+                "text": "A file extension",
+                "isCorrect": false
+            },
+            {
+                "text": "A subfolder",
+                "isCorrect": true
+            },
+            {
+                "text": "A drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following best describes an operating system?",
+        "options": [
+            {
+                "text": "A program that allows you to browse the web.",
+                "isCorrect": false
+            },
+            {
+                "text": "A program that protects against viruses.",
+                "isCorrect": false
+            },
+            {
+                "text": "An interface between the user and the computer hardware.",
+                "isCorrect": true
+            },
+            {
+                "text": "A programming language.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which unit is used to measure the clock speed of a CPU?",
+        "options": [
+            {
+                "text": "Bytes",
+                "isCorrect": false
+            },
+            {
+                "text": "Hertz (Hz)",
+                "isCorrect": true
+            },
+            {
+                "text": "Bits per second (bps)",
+                "isCorrect": false
+            },
+            {
+                "text": "Volts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary role of an input device?",
+        "options": [
+            {
+                "text": "To present data to the user.",
+                "isCorrect": false
+            },
+            {
+                "text": "To store data permanently.",
+                "isCorrect": false
+            },
+            {
+                "text": "To accept data and instructions from the outside world.",
+                "isCorrect": true
+            },
+            {
+                "text": "To process data.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a high-level programming language?",
+        "options": [
+            {
+                "text": "Assembly Language",
+                "isCorrect": false
+            },
+            {
+                "text": "Machine Language",
+                "isCorrect": false
+            },
+            {
+                "text": "Python",
+                "isCorrect": true
+            },
+            {
+                "text": "Binary Code",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The term 'data processing' refers to:",
+        "options": [
+            {
+                "text": "The collection of raw data.",
+                "isCorrect": false
+            },
+            {
+                "text": "The operation of input devices.",
+                "isCorrect": false
+            },
+            {
+                "text": "The conversion of data into information.",
+                "isCorrect": true
+            },
+            {
+                "text": "The display of data on a monitor.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a key function of an output device?",
+        "options": [
+            {
+                "text": "To send data to the CPU for processing.",
+                "isCorrect": false
+            },
+            {
+                "text": "To communicate the results of data processing to the user.",
+                "isCorrect": true
+            },
+            {
+                "text": "To store program instructions.",
+                "isCorrect": false
+            },
+            {
+                "text": "To control the operation of other hardware.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a network interface card (NIC)?",
+        "options": [
+            {
+                "text": "To produce sound.",
+                "isCorrect": false
+            },
+            {
+                "text": "To connect the computer to a network.",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase graphics performance.",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide backup power.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of computer based on size and capability?",
+        "options": [
+            {
+                "text": "Mainframe",
+                "isCorrect": false
+            },
+            {
+                "text": "Personal Computer (PC)",
+                "isCorrect": false
+            },
+            {
+                "text": "Supercomputer",
+                "isCorrect": false
+            },
+            {
+                "text": "Software",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A program that translates and executes a high-level language program one line at a time is called:",
+        "options": [
+            {
+                "text": "A compiler",
+                "isCorrect": false
+            },
+            {
+                "text": "An interpreter",
+                "isCorrect": true
+            },
+            {
+                "text": "An assembler",
+                "isCorrect": false
+            },
+            {
+                "text": "A linker",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of using an Uninterruptible Power Supply (UPS) in a computer room?",
+        "options": [
+            {
+                "text": "To increase internet speed.",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide temporary power during a blackout, allowing for a safe shutdown.",
+                "isCorrect": true
+            },
+            {
+                "text": "To cool down the computer components.",
+                "isCorrect": false
+            },
+            {
+                "text": "To connect multiple computers to a single monitor.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a common remedy for protecting a computer from viruses?",
+        "options": [
+            {
+                "text": "Installing and updating antivirus software.",
+                "isCorrect": true
+            },
+            {
+                "text": "Increasing the RAM size.",
+                "isCorrect": false
+            },
+            {
+                "text": "Using a faster CPU.",
+                "isCorrect": false
+            },
+            {
+                "text": "Defragmenting the hard drive regularly.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The concept of a 'file' in computing is best defined as:",
+        "options": [
+            {
+                "text": "A physical location on a disk.",
+                "isCorrect": false
+            },
+            {
+                "text": "A collection of related data stored as a single unit.",
+                "isCorrect": true
+            },
+            {
+                "text": "A type of hardware device.",
+                "isCorrect": false
+            },
+            {
+                "text": "A programming instruction.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which generation of computers introduced the use of integrated circuits (ICs)?",
+        "options": [
+            {
+                "text": "First Generation",
+                "isCorrect": false
+            },
+            {
+                "text": "Second Generation",
+                "isCorrect": false
+            },
+            {
+                "text": "Third Generation",
+                "isCorrect": true
+            },
+            {
+                "text": "Fourth Generation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the wildcard character '?' (question mark) represent in file searching?",
+        "options": [
+            {
+                "text": "Any sequence of characters.",
+                "isCorrect": false
+            },
+            {
+                "text": "Any single character.",
+                "isCorrect": true
+            },
+            {
+                "text": "Zero or more characters.",
+                "isCorrect": false
+            },
+            {
+                "text": "The root directory.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a defining feature of system software?",
+        "options": [
+            {
+                "text": "It is used for specific tasks like word processing.",
+                "isCorrect": false
+            },
+            {
+                "text": "It interacts directly with the end-user.",
+                "isCorrect": false
+            },
+            {
+                "text": "It manages the computer's resources and provides a platform for applications.",
+                "isCorrect": true
+            },
+            {
+                "text": "It is written in a high-level language like Java.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component is considered the 'brain' of the computer?",
+        "options": [
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "Hard Disk",
+                "isCorrect": false
+            },
+            {
+                "text": "Motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Central Processing Unit (CPU)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A folder within another folder is called a:",
+        "options": [
+            {
+                "text": "Root folder",
+                "isCorrect": false
+            },
+            {
+                "text": "Main folder",
+                "isCorrect": false
+            },
+            {
+                "text": "Subfolder",
+                "isCorrect": true
+            },
+            {
+                "text": "Master folder",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an optical storage device?",
+        "options": [
+            {
+                "text": "Floppy Disk",
+                "isCorrect": false
+            },
+            {
+                "text": "Hard Disk Drive (HDD)",
+                "isCorrect": false
+            },
+            {
+                "text": "USB Flash Drive",
+                "isCorrect": false
+            },
+            {
+                "text": "DVD",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the main purpose of the Memory Unit (MU) in a computer system?",
+        "options": [
+            {
+                "text": "To perform calculations.",
+                "isCorrect": false
+            },
+            {
+                "text": "To control the sequence of operations.",
+                "isCorrect": false
+            },
+            {
+                "text": "To temporarily or permanently store data and instructions.",
+                "isCorrect": true
+            },
+            {
+                "text": "To accept input from the user.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The term 'phishing' is most closely related to which type of computer threat?",
+        "options": [
+            {
+                "text": "Hardware failure",
+                "isCorrect": false
+            },
+            {
+                "text": "Social engineering",
+                "isCorrect": true
+            },
+            {
+                "text": "Power surge",
+                "isCorrect": false
+            },
+            {
+                "text": "Software bug",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following file extensions indicates a compressed archive?",
+        "options": [
+            {
+                "text": ".mp3",
+                "isCorrect": false
+            },
+            {
+                "text": ".zip",
+                "isCorrect": true
+            },
+            {
+                "text": ".exe",
+                "isCorrect": false
+            },
+            {
+                "text": ".html",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key application of embedded computers?",
+        "options": [
+            {
+                "text": "Weather forecasting",
+                "isCorrect": false
+            },
+            {
+                "text": "Controlling specific functions within a larger system, like in a microwave or car.",
+                "isCorrect": true
+            },
+            {
+                "text": "Running large-scale database systems",
+                "isCorrect": false
+            },
+            {
+                "text": "Desktop publishing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The set of programs that enables the computer hardware to communicate and operate with the software is called:",
+        "options": [
+            {
+                "text": "Application Software",
+                "isCorrect": false
+            },
+            {
+                "text": "Utility Software",
+                "isCorrect": false
+            },
+            {
+                "text": "System Software",
+                "isCorrect": true
+            },
+            {
+                "text": "Firmware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the smallest unit of data in a computer?",
+        "options": [
+            {
+                "text": "Byte",
+                "isCorrect": false
+            },
+            {
+                "text": "Kilobyte",
+                "isCorrect": false
+            },
+            {
+                "text": "Bit",
+                "isCorrect": true
+            },
+            {
+                "text": "Megabyte",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which programming language is known as the 'mother of all languages'?",
+        "options": [
+            {
+                "text": "Python",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            },
+            {
+                "text": "C",
+                "isCorrect": false
+            },
+            {
+                "text": "Assembly Language",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What does 'URL' stand for?",
+        "options": [
+            {
+                "text": "Uniform Resource Locator",
+                "isCorrect": true
+            },
+            {
+                "text": "Universal Remote Link",
+                "isCorrect": false
+            },
+            {
+                "text": "Unified Resource Library",
+                "isCorrect": false
+            },
+            {
+                "text": "User Registration Link",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a storage device?",
+        "options": [
+            {
+                "text": "SSD",
+                "isCorrect": false
+            },
+            {
+                "text": "USB Flash Drive",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM",
+                "isCorrect": true
+            },
+            {
+                "text": "Hard Disk",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component is responsible for displaying output on a screen?",
+        "options": [
+            {
+                "text": "GPU (Graphics Processing Unit)",
+                "isCorrect": true
+            },
+            {
+                "text": "CPU",
+                "isCorrect": false
+            },
+            {
+                "text": "Motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Power Supply",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the binary equivalent of the decimal number 10?",
+        "options": [
+            {
+                "text": "1001",
+                "isCorrect": false
+            },
+            {
+                "text": "1010",
+                "isCorrect": true
+            },
+            {
+                "text": "1100",
+                "isCorrect": false
+            },
+            {
+                "text": "1111",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an operating system?",
+        "options": [
+            {
+                "text": "Microsoft Word",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": true
+            },
+            {
+                "text": "Google Chrome",
+                "isCorrect": false
+            },
+            {
+                "text": "Adobe Photoshop",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does 'HTTP' stand for?",
+        "options": [
+            {
+                "text": "HyperText Transfer Protocol",
+                "isCorrect": true
+            },
+            {
+                "text": "High-Tech Text Processing",
+                "isCorrect": false
+            },
+            {
+                "text": "Hyperlink Text Transmission Protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware Testing Tool Protocol",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a high-level programming language?",
+        "options": [
+            {
+                "text": "Assembly",
+                "isCorrect": false
+            },
+            {
+                "text": "Machine Code",
+                "isCorrect": false
+            },
+            {
+                "text": "Python",
+                "isCorrect": true
+            },
+            {
+                "text": "Binary",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of an ALU in a CPU?",
+        "options": [
+            {
+                "text": "Storing data",
+                "isCorrect": false
+            },
+            {
+                "text": "Performing arithmetic and logical operations",
+                "isCorrect": true
+            },
+            {
+                "text": "Displaying graphics",
+                "isCorrect": false
+            },
+            {
+                "text": "Managing internet connections",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device converts digital signals to analog signals for transmission over telephone lines?",
+        "options": [
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Modem",
+                "isCorrect": true
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is 'cache memory' used for?",
+        "options": [
+            {
+                "text": "Long-term storage",
+                "isCorrect": false
+            },
+            {
+                "text": "Speeding up CPU operations by storing frequently used data",
+                "isCorrect": true
+            },
+            {
+                "text": "Backing up files",
+                "isCorrect": false
+            },
+            {
+                "text": "Running antivirus scans",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of computer network?",
+        "options": [
+            {
+                "text": "LAN",
+                "isCorrect": false
+            },
+            {
+                "text": "WAN",
+                "isCorrect": false
+            },
+            {
+                "text": "PAN",
+                "isCorrect": false
+            },
+            {
+                "text": "SAN (Storage Area Network)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of an operating system?",
+        "options": [
+            {
+                "text": "Running applications",
+                "isCorrect": false
+            },
+            {
+                "text": "Managing hardware and software resources",
+                "isCorrect": true
+            },
+            {
+                "text": "Designing websites",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating databases",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "options": [
+            {
+                "text": "FTP",
+                "isCorrect": false
+            },
+            {
+                "text": "HTTP",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP",
+                "isCorrect": true
+            },
+            {
+                "text": "TCP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does 'BIOS' stand for?",
+        "options": [
+            {
+                "text": "Basic Input/Output System",
+                "isCorrect": true
+            },
+            {
+                "text": "Binary Input/Output Service",
+                "isCorrect": false
+            },
+            {
+                "text": "Boot Initialization Operating System",
+                "isCorrect": false
+            },
+            {
+                "text": "Byte Instruction Operating Setup",
+                "isCorrect": false
+            }
+        ]
+    }
+]

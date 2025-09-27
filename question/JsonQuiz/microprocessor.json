@@ -1,0 +1,2207 @@
+[
+    {
+        "question": "Which of the following is NOT a part of the microprocessor bus organization?",
+        "options": [
+            {
+                "text": "Data bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Control bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Address bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Sound bus",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "How many address lines does the Intel 8085 microprocessor have?",
+        "options": [
+            {
+                "text": "8",
+                "isCorrect": false
+            },
+            {
+                "text": "16",
+                "isCorrect": true
+            },
+            {
+                "text": "20",
+                "isCorrect": false
+            },
+            {
+                "text": "32",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which register in 8085 holds the address of the next instruction to be executed?",
+        "options": [
+            {
+                "text": "Instruction Register",
+                "isCorrect": false
+            },
+            {
+                "text": "Program Counter",
+                "isCorrect": true
+            },
+            {
+                "text": "Stack Pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "Accumulator",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What are the major phases of the instruction cycle in 8085?",
+        "options": [
+            {
+                "text": "Fetch and Decode",
+                "isCorrect": false
+            },
+            {
+                "text": "Execute and Store",
+                "isCorrect": false
+            },
+            {
+                "text": "Fetch, Decode and Execute",
+                "isCorrect": true
+            },
+            {
+                "text": "Decode and Store",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a valid instruction in 8085?",
+        "options": [
+            {
+                "text": "MOV A, B",
+                "isCorrect": false
+            },
+            {
+                "text": "ADD M",
+                "isCorrect": false
+            },
+            {
+                "text": "SUB D",
+                "isCorrect": false
+            },
+            {
+                "text": "JMPNZ 2050",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which 8085 instruction is used to halt program execution?",
+        "options": [
+            {
+                "text": "HLT",
+                "isCorrect": true
+            },
+            {
+                "text": "STP",
+                "isCorrect": false
+            },
+            {
+                "text": "BRK",
+                "isCorrect": false
+            },
+            {
+                "text": "END",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main difference between Computer Architecture and Computer Organization?",
+        "options": [
+            {
+                "text": "Architecture deals with performance, organization deals with structure",
+                "isCorrect": false
+            },
+            {
+                "text": "Architecture is theoretical, organization is physical",
+                "isCorrect": true
+            },
+            {
+                "text": "There is no difference",
+                "isCorrect": false
+            },
+            {
+                "text": "Architecture is software, organization is firmware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What concept does the Von Neumann model use?",
+        "options": [
+            {
+                "text": "Separate memory for data and instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "Parallel execution of instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "Single memory for data and instructions",
+                "isCorrect": true
+            },
+            {
+                "text": "Harvard bus system",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following best describes a machine cycle?",
+        "options": [
+            {
+                "text": "Cycle of machine operations like printing",
+                "isCorrect": false
+            },
+            {
+                "text": "Basic operation performed by CPU for each instruction",
+                "isCorrect": true
+            },
+            {
+                "text": "Cycle of power supply in a machine",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which number format supports decimal values?",
+        "options": [
+            {
+                "text": "Binary",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed Point",
+                "isCorrect": false
+            },
+            {
+                "text": "Floating Point",
+                "isCorrect": true
+            },
+            {
+                "text": "Hexadecimal",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the result of adding two signed integers with opposite signs?",
+        "options": [
+            {
+                "text": "Always overflow",
+                "isCorrect": false
+            },
+            {
+                "text": "Always zero",
+                "isCorrect": false
+            },
+            {
+                "text": "Possible subtraction",
+                "isCorrect": true
+            },
+            {
+                "text": "Always positive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which unit controls the execution of instructions?",
+        "options": [
+            {
+                "text": "Arithmetic Logic Unit",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory Unit",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Unit",
+                "isCorrect": true
+            },
+            {
+                "text": "Input Unit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A microprogrammed control unit uses:",
+        "options": [
+            {
+                "text": "Hardwired logic",
+                "isCorrect": false
+            },
+            {
+                "text": "Control memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Instruction register only",
+                "isCorrect": false
+            },
+            {
+                "text": "Data memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The control word is stored in:",
+        "options": [
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "ROM",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Cache",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following determines the address of the next microinstruction?",
+        "options": [
+            {
+                "text": "Accumulator",
+                "isCorrect": false
+            },
+            {
+                "text": "Address Sequencer",
+                "isCorrect": true
+            },
+            {
+                "text": "Instruction Decoder",
+                "isCorrect": false
+            },
+            {
+                "text": "MAR",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is used in both memory and I/O operations?",
+        "options": [
+            {
+                "text": "I/O Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Bus",
+                "isCorrect": true
+            },
+            {
+                "text": "Control Memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Instruction Register",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which mode allows CPU to communicate with I/O devices directly?",
+        "options": [
+            {
+                "text": "Interrupt Initiated I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct Memory Access",
+                "isCorrect": true
+            },
+            {
+                "text": "Programmed I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Isolated I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In which I/O technique does the CPU check device status before transferring data?",
+        "options": [
+            {
+                "text": "Interrupt I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "DMA",
+                "isCorrect": false
+            },
+            {
+                "text": "Programmed I/O",
+                "isCorrect": true
+            },
+            {
+                "text": "Mapped I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which architecture uses separate memory for instructions and data?",
+        "options": [
+            {
+                "text": "Von Neumann",
+                "isCorrect": false
+            },
+            {
+                "text": "Harvard",
+                "isCorrect": true
+            },
+            {
+                "text": "RISC",
+                "isCorrect": false
+            },
+            {
+                "text": "CISC",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of architecture typically uses fewer instructions with fixed format?",
+        "options": [
+            {
+                "text": "CISC",
+                "isCorrect": false
+            },
+            {
+                "text": "RISC",
+                "isCorrect": true
+            },
+            {
+                "text": "Harvard",
+                "isCorrect": false
+            },
+            {
+                "text": "Von Neumann",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of a microprocessor?",
+        "options": [
+            {
+                "text": "To store data",
+                "isCorrect": false
+            },
+            {
+                "text": "To execute instructions",
+                "isCorrect": true
+            },
+            {
+                "text": "To manage network traffic",
+                "isCorrect": false
+            },
+            {
+                "text": "To display graphics",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which bus in a microprocessor system carries data between components?",
+        "options": [
+            {
+                "text": "Address Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Bus",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory Bus",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the role of the Address Bus in a microprocessor system?",
+        "options": [
+            {
+                "text": "To transfer data",
+                "isCorrect": false
+            },
+            {
+                "text": "To specify memory locations",
+                "isCorrect": true
+            },
+            {
+                "text": "To control signals",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage interrupts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component of the Intel 8085 microprocessor is responsible for arithmetic operations?",
+        "options": [
+            {
+                "text": "Program Counter",
+                "isCorrect": false
+            },
+            {
+                "text": "Arithmetic Logic Unit (ALU)",
+                "isCorrect": true
+            },
+            {
+                "text": "Stack Pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Unit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How many general-purpose registers are available in the Intel 8085 microprocessor?",
+        "options": [
+            {
+                "text": "4",
+                "isCorrect": false
+            },
+            {
+                "text": "6",
+                "isCorrect": true
+            },
+            {
+                "text": "8",
+                "isCorrect": false
+            },
+            {
+                "text": "10",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the size of the address bus in the Intel 8085 microprocessor?",
+        "options": [
+            {
+                "text": "8-bit",
+                "isCorrect": false
+            },
+            {
+                "text": "16-bit",
+                "isCorrect": true
+            },
+            {
+                "text": "32-bit",
+                "isCorrect": false
+            },
+            {
+                "text": "64-bit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which phase of the instruction cycle fetches the instruction from memory?",
+        "options": [
+            {
+                "text": "Decode",
+                "isCorrect": false
+            },
+            {
+                "text": "Fetch",
+                "isCorrect": true
+            },
+            {
+                "text": "Execute",
+                "isCorrect": false
+            },
+            {
+                "text": "Write-back",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the 8085 microprocessor, what is the purpose of the timing diagram?",
+        "options": [
+            {
+                "text": "To show memory usage",
+                "isCorrect": false
+            },
+            {
+                "text": "To illustrate signal timing during instruction execution",
+                "isCorrect": true
+            },
+            {
+                "text": "To display program output",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage interrupts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which instruction set category of the 8085 includes data transfer instructions?",
+        "options": [
+            {
+                "text": "Arithmetic",
+                "isCorrect": false
+            },
+            {
+                "text": "Logical",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Transfer",
+                "isCorrect": true
+            },
+            {
+                "text": "Branching",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the MOV instruction in the 8085 microprocessor?",
+        "options": [
+            {
+                "text": "To add two numbers",
+                "isCorrect": false
+            },
+            {
+                "text": "To move data between registers or memory",
+                "isCorrect": true
+            },
+            {
+                "text": "To perform logical AND",
+                "isCorrect": false
+            },
+            {
+                "text": "To jump to a new address",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the stored program concept refer to in computer architecture?",
+        "options": [
+            {
+                "text": "Storing data in registers",
+                "isCorrect": false
+            },
+            {
+                "text": "Storing both instructions and data in memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Using external storage devices",
+                "isCorrect": false
+            },
+            {
+                "text": "Executing programs without memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which model is associated with the stored program concept?",
+        "options": [
+            {
+                "text": "Harvard Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Von Neumann Model",
+                "isCorrect": true
+            },
+            {
+                "text": "RISC Model",
+                "isCorrect": false
+            },
+            {
+                "text": "CISC Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How many phases are typically involved in the instruction cycle?",
+        "options": [
+            {
+                "text": "2",
+                "isCorrect": false
+            },
+            {
+                "text": "3",
+                "isCorrect": false
+            },
+            {
+                "text": "4",
+                "isCorrect": true
+            },
+            {
+                "text": "5",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the machine cycle in a microprocessor?",
+        "options": [
+            {
+                "text": "To execute a complete program",
+                "isCorrect": false
+            },
+            {
+                "text": "To perform a single operation of an instruction",
+                "isCorrect": true
+            },
+            {
+                "text": "To manage interrupts",
+                "isCorrect": false
+            },
+            {
+                "text": "To store data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which data representation uses a fixed number of bits for the integer part?",
+        "options": [
+            {
+                "text": "Floating Point",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed Point",
+                "isCorrect": true
+            },
+            {
+                "text": "Signed Magnitude",
+                "isCorrect": false
+            },
+            {
+                "text": "Two’s Complement",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In floating-point representation, what does the mantissa represent?",
+        "options": [
+            {
+                "text": "Exponent",
+                "isCorrect": false
+            },
+            {
+                "text": "Sign bit",
+                "isCorrect": false
+            },
+            {
+                "text": "Fractional part",
+                "isCorrect": true
+            },
+            {
+                "text": "Integer part",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which method is commonly used for addition of signed data in microprocessors?",
+        "options": [
+            {
+                "text": "Two’s Complement",
+                "isCorrect": true
+            },
+            {
+                "text": "One’s Complement",
+                "isCorrect": false
+            },
+            {
+                "text": "Sign-Magnitude",
+                "isCorrect": false
+            },
+            {
+                "text": "BCD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the control unit in a microprocessor?",
+        "options": [
+            {
+                "text": "To perform arithmetic operations",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage instruction execution",
+                "isCorrect": true
+            },
+            {
+                "text": "To store data",
+                "isCorrect": false
+            },
+            {
+                "text": "To handle I/O operations",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of control unit uses fixed logic circuits for instruction execution?",
+        "options": [
+            {
+                "text": "Microprogrammed",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardwired",
+                "isCorrect": true
+            },
+            {
+                "text": "Hybrid",
+                "isCorrect": false
+            },
+            {
+                "text": "Sequential",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a microprogram in the context of a microprogrammed control unit?",
+        "options": [
+            {
+                "text": "A high-level program",
+                "isCorrect": false
+            },
+            {
+                "text": "A set of microinstructions",
+                "isCorrect": true
+            },
+            {
+                "text": "A data transfer protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "A memory management unit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is stored in the Control Memory of a microprogrammed control unit?",
+        "options": [
+            {
+                "text": "User data",
+                "isCorrect": false
+            },
+            {
+                "text": "Microinstructions",
+                "isCorrect": true
+            },
+            {
+                "text": "Application programs",
+                "isCorrect": false
+            },
+            {
+                "text": "Operating system",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the role of the Control Address Register (CAR)?",
+        "options": [
+            {
+                "text": "To store data",
+                "isCorrect": false
+            },
+            {
+                "text": "To hold the address of the next microinstruction",
+                "isCorrect": true
+            },
+            {
+                "text": "To perform arithmetic operations",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage interrupts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does address sequencing refer to in a microprogrammed control unit?",
+        "options": [
+            {
+                "text": "Determining the order of microinstructions",
+                "isCorrect": true
+            },
+            {
+                "text": "Sorting data in memory",
+                "isCorrect": false
+            },
+            {
+                "text": "Executing arithmetic operations",
+                "isCorrect": false
+            },
+            {
+                "text": "Managing I/O devices",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which bus is used specifically for input/output operations in a computer system?",
+        "options": [
+            {
+                "text": "Data Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Address Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "I/O Bus",
+                "isCorrect": true
+            },
+            {
+                "text": "Control Bus",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the difference between isolated I/O and memory-mapped I/O?",
+        "options": [
+            {
+                "text": "Isolated I/O uses separate address spaces for I/O and memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory-mapped I/O uses separate buses",
+                "isCorrect": false
+            },
+            {
+                "text": "Isolated I/O is faster",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory-mapped I/O uses interrupts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which mode of data transfer involves the CPU actively managing data movement?",
+        "options": [
+            {
+                "text": "Programmed I/O",
+                "isCorrect": true
+            },
+            {
+                "text": "Interrupt-Initiated I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct Memory Access",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory-Mapped I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main advantage of Direct Memory Access (DMA)?",
+        "options": [
+            {
+                "text": "Increased CPU involvement",
+                "isCorrect": false
+            },
+            {
+                "text": "Faster data transfer without CPU intervention",
+                "isCorrect": true
+            },
+            {
+                "text": "Simpler programming",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduced memory usage",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which architecture separates instruction and data memory?",
+        "options": [
+            {
+                "text": "Von Neumann",
+                "isCorrect": false
+            },
+            {
+                "text": "Harvard",
+                "isCorrect": true
+            },
+            {
+                "text": "CISC",
+                "isCorrect": false
+            },
+            {
+                "text": "RISC",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which architecture is characterized by a complex instruction set?",
+        "options": [
+            {
+                "text": "RISC",
+                "isCorrect": false
+            },
+            {
+                "text": "CISC",
+                "isCorrect": true
+            },
+            {
+                "text": "Harvard",
+                "isCorrect": false
+            },
+            {
+                "text": "Von Neumann",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key feature of RISC architecture?",
+        "options": [
+            {
+                "text": "Complex instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "Large instruction set",
+                "isCorrect": false
+            },
+            {
+                "text": "Simple instructions with fast execution",
+                "isCorrect": true
+            },
+            {
+                "text": "High memory usage",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which register in the 8085 microprocessor holds the address of the next instruction?",
+        "options": [
+            {
+                "text": "Stack Pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "Program Counter",
+                "isCorrect": true
+            },
+            {
+                "text": "Accumulator",
+                "isCorrect": false
+            },
+            {
+                "text": "Instruction Register",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the ADD instruction in the 8085 instruction set?",
+        "options": [
+            {
+                "text": "To move data",
+                "isCorrect": false
+            },
+            {
+                "text": "To add two numbers",
+                "isCorrect": true
+            },
+            {
+                "text": "To compare values",
+                "isCorrect": false
+            },
+            {
+                "text": "To jump to an address",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How many bits is the data bus in the Intel 8085 microprocessor?",
+        "options": [
+            {
+                "text": "8-bit",
+                "isCorrect": true
+            },
+            {
+                "text": "16-bit",
+                "isCorrect": false
+            },
+            {
+                "text": "32-bit",
+                "isCorrect": false
+            },
+            {
+                "text": "64-bit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which signal in the 8085 timing diagram indicates the start of a machine cycle?",
+        "options": [
+            {
+                "text": "ALE",
+                "isCorrect": true
+            },
+            {
+                "text": "RD",
+                "isCorrect": false
+            },
+            {
+                "text": "WR",
+                "isCorrect": false
+            },
+            {
+                "text": "IO/M",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the Stack Pointer in the 8085 microprocessor?",
+        "options": [
+            {
+                "text": "To store data",
+                "isCorrect": false
+            },
+            {
+                "text": "To point to the top of the stack",
+                "isCorrect": true
+            },
+            {
+                "text": "To execute instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage interrupts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which instruction in the 8085 is used to jump to a specific memory address?",
+        "options": [
+            {
+                "text": "MOV",
+                "isCorrect": false
+            },
+            {
+                "text": "JMP",
+                "isCorrect": true
+            },
+            {
+                "text": "ADD",
+                "isCorrect": false
+            },
+            {
+                "text": "SUB",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main difference between computer organization and computer architecture?",
+        "options": [
+            {
+                "text": "Organization focuses on hardware implementation, architecture on design",
+                "isCorrect": true
+            },
+            {
+                "text": "Architecture focuses on hardware, organization on software",
+                "isCorrect": false
+            },
+            {
+                "text": "Both are identical",
+                "isCorrect": false
+            },
+            {
+                "text": "Organization focuses on software design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which data representation method uses a sign bit and magnitude?",
+        "options": [
+            {
+                "text": "Two’s Complement",
+                "isCorrect": false
+            },
+            {
+                "text": "Sign-Magnitude",
+                "isCorrect": true
+            },
+            {
+                "text": "Floating Point",
+                "isCorrect": false
+            },
+            {
+                "text": "BCD",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the control bus in a microprocessor system?",
+        "options": [
+            {
+                "text": "To transfer data",
+                "isCorrect": false
+            },
+            {
+                "text": "To carry control signals",
+                "isCorrect": true
+            },
+            {
+                "text": "To specify memory addresses",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage I/O operations",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of control unit is more flexible for implementing new instructions?",
+        "options": [
+            {
+                "text": "Hardwired",
+                "isCorrect": false
+            },
+            {
+                "text": "Microprogrammed",
+                "isCorrect": true
+            },
+            {
+                "text": "Sequential",
+                "isCorrect": false
+            },
+            {
+                "text": "Hybrid",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the role of the Interrupt-Initiated I/O mode?",
+        "options": [
+            {
+                "text": "To transfer data without CPU involvement",
+                "isCorrect": false
+            },
+            {
+                "text": "To signal the CPU for I/O operations",
+                "isCorrect": true
+            },
+            {
+                "text": "To store data in memory",
+                "isCorrect": false
+            },
+            {
+                "text": "To execute instructions",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component in the 8085 microprocessor temporarily stores instructions?",
+        "options": [
+            {
+                "text": "Program Counter",
+                "isCorrect": false
+            },
+            {
+                "text": "Instruction Register",
+                "isCorrect": true
+            },
+            {
+                "text": "Accumulator",
+                "isCorrect": false
+            },
+            {
+                "text": "Stack Pointer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key advantage of the Harvard architecture over Von Neumann?",
+        "options": [
+            {
+                "text": "Simpler design",
+                "isCorrect": false
+            },
+            {
+                "text": "Simultaneous access to instruction and data memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Larger instruction set",
+                "isCorrect": false
+            },
+            {
+                "text": "Lower power consumption",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which instruction in the 8085 performs subtraction?",
+        "options": [
+            {
+                "text": "ADD",
+                "isCorrect": false
+            },
+            {
+                "text": "SUB",
+                "isCorrect": true
+            },
+            {
+                "text": "CMP",
+                "isCorrect": false
+            },
+            {
+                "text": "MOV",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'opcode' refer to in the 8085 microprocessor?",
+        "options": [
+            {
+                "text": "Operand data",
+                "isCorrect": false
+            },
+            {
+                "text": "Operation code of an instruction",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory address",
+                "isCorrect": false
+            },
+            {
+                "text": "Register value",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic of CISC architecture?",
+        "options": [
+            {
+                "text": "Simple instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "Variable-length instructions",
+                "isCorrect": true
+            },
+            {
+                "text": "Fixed-length instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "High clock speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the accumulator in the 8085 microprocessor?",
+        "options": [
+            {
+                "text": "To store intermediate arithmetic results",
+                "isCorrect": true
+            },
+            {
+                "text": "To hold memory addresses",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage interrupts",
+                "isCorrect": false
+            },
+            {
+                "text": "To store instructions",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which mode of data transfer allows the CPU to perform other tasks during I/O operations?",
+        "options": [
+            {
+                "text": "Programmed I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Interrupt-Initiated I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct Memory Access",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory-Mapped I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the role of the control word in a microprogrammed control unit?",
+        "options": [
+            {
+                "text": "To store data",
+                "isCorrect": false
+            },
+            {
+                "text": "To specify microoperations",
+                "isCorrect": true
+            },
+            {
+                "text": "To manage memory",
+                "isCorrect": false
+            },
+            {
+                "text": "To execute programs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a phase of the machine cycle in the 8085 microprocessor?",
+        "options": [
+            {
+                "text": "Opcode Fetch",
+                "isCorrect": true
+            },
+            {
+                "text": "Data Encryption",
+                "isCorrect": false
+            },
+            {
+                "text": "Program Execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory Allocation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the width of the data bus in Intel 8085 microprocessor?",
+        "options": [
+            {
+                "text": "8-bit",
+                "isCorrect": true
+            },
+            {
+                "text": "16-bit",
+                "isCorrect": false
+            },
+            {
+                "text": "32-bit",
+                "isCorrect": false
+            },
+            {
+                "text": "64-bit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT part of the 8085 microprocessor's register set?",
+        "options": [
+            {
+                "text": "Accumulator",
+                "isCorrect": false
+            },
+            {
+                "text": "Stack Pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "Program Counter",
+                "isCorrect": false
+            },
+            {
+                "text": "Cache Register",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In the 8085 timing diagram, what does T-state represent?",
+        "options": [
+            {
+                "text": "Instruction cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "Clock cycle",
+                "isCorrect": true
+            },
+            {
+                "text": "Machine cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "Bus cycle",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which architecture stores both data and instructions in the same memory?",
+        "options": [
+            {
+                "text": "Harvard architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "Von Neumann architecture",
+                "isCorrect": true
+            },
+            {
+                "text": "RISC architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "CISC architecture",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main characteristic of RISC architecture?",
+        "options": [
+            {
+                "text": "Complex instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "Variable length instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "Large instruction set",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduced instruction set",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which number representation uses a sign bit?",
+        "options": [
+            {
+                "text": "Unsigned integer",
+                "isCorrect": false
+            },
+            {
+                "text": "Signed magnitude",
+                "isCorrect": true
+            },
+            {
+                "text": "One's complement",
+                "isCorrect": false
+            },
+            {
+                "text": "Two's complement",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the fastest mode of data transfer between I/O and memory?",
+        "options": [
+            {
+                "text": "Programmed I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Interrupt-driven I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "DMA",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory-mapped I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component generates control signals in a CPU?",
+        "options": [
+            {
+                "text": "ALU",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Unit",
+                "isCorrect": true
+            },
+            {
+                "text": "Register file",
+                "isCorrect": false
+            },
+            {
+                "text": "Cache memory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is microprogramming used for?",
+        "options": [
+            {
+                "text": "To write small programs",
+                "isCorrect": false
+            },
+            {
+                "text": "To implement machine instructions",
+                "isCorrect": true
+            },
+            {
+                "text": "To optimize cache performance",
+                "isCorrect": false
+            },
+            {
+                "text": "To design compilers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which addressing mode is used in the instruction 'MOV A,B' of 8085?",
+        "options": [
+            {
+                "text": "Immediate",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct",
+                "isCorrect": false
+            },
+            {
+                "text": "Register",
+                "isCorrect": true
+            },
+            {
+                "text": "Indirect",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the HOLD signal in 8085?",
+        "options": [
+            {
+                "text": "To reset the processor",
+                "isCorrect": false
+            },
+            {
+                "text": "To request DMA transfer",
+                "isCorrect": true
+            },
+            {
+                "text": "To initiate interrupt",
+                "isCorrect": false
+            },
+            {
+                "text": "To stop clock pulses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a CISC characteristic?",
+        "options": [
+            {
+                "text": "Single clock cycle execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Limited addressing modes",
+                "isCorrect": false
+            },
+            {
+                "text": "Complex instruction formats",
+                "isCorrect": true
+            },
+            {
+                "text": "Fixed length instructions",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In floating point representation, what does the exponent determine?",
+        "options": [
+            {
+                "text": "Precision of the number",
+                "isCorrect": false
+            },
+            {
+                "text": "Range of the number",
+                "isCorrect": true
+            },
+            {
+                "text": "Sign of the number",
+                "isCorrect": false
+            },
+            {
+                "text": "Accuracy of the number",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which register holds the address of the next microinstruction?",
+        "options": [
+            {
+                "text": "MAR",
+                "isCorrect": false
+            },
+            {
+                "text": "MBR",
+                "isCorrect": false
+            },
+            {
+                "text": "CAR",
+                "isCorrect": true
+            },
+            {
+                "text": "IR",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main advantage of memory-mapped I/O?",
+        "options": [
+            {
+                "text": "Separate address space",
+                "isCorrect": false
+            },
+            {
+                "text": "Uses same instructions as memory access",
+                "isCorrect": true
+            },
+            {
+                "text": "Faster data transfer",
+                "isCorrect": false
+            },
+            {
+                "text": "Simpler hardware design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following components of a microprocessor carries addresses from the CPU to main memory and I/O devices?",
+        "options": [
+            {
+                "text": "Data Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Address Bus",
+                "isCorrect": true
+            },
+            {
+                "text": "I/O Bus",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Intel 8085 microprocessor has how many address lines?",
+        "options": [
+            {
+                "text": "8",
+                "isCorrect": false
+            },
+            {
+                "text": "16",
+                "isCorrect": true
+            },
+            {
+                "text": "32",
+                "isCorrect": false
+            },
+            {
+                "text": "64",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the sequence of steps that a CPU follows to execute a single machine instruction?",
+        "options": [
+            {
+                "text": "Machine Cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "Clock Cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "Instruction Cycle",
+                "isCorrect": true
+            },
+            {
+                "text": "Fetch Cycle",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the 8085 instruction set, which instruction is used to load an 8-bit data directly into the accumulator?",
+        "options": [
+            {
+                "text": "MOV A, B",
+                "isCorrect": false
+            },
+            {
+                "text": "LDA 2000H",
+                "isCorrect": false
+            },
+            {
+                "text": "MVI A, data",
+                "isCorrect": true
+            },
+            {
+                "text": "ADD B",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The concept where both instructions and data are stored in the same memory space is characteristic of which architecture?",
+        "options": [
+            {
+                "text": "Harvard Architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "Von Neumann Architecture",
+                "isCorrect": true
+            },
+            {
+                "text": "CISC Architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "RISC Architecture",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which representation method is typically used for very large or very small numbers in computer systems?",
+        "options": [
+            {
+                "text": "Signed Magnitude",
+                "isCorrect": false
+            },
+            {
+                "text": "One's Complement",
+                "isCorrect": false
+            },
+            {
+                "text": "Two's Complement",
+                "isCorrect": false
+            },
+            {
+                "text": "Floating Point Representation",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A Hardwired Control Unit is typically found in which type of computer?",
+        "options": [
+            {
+                "text": "Complex Instruction Set Computers (CISC)",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduced Instruction Set Computers (RISC)",
+                "isCorrect": true
+            },
+            {
+                "text": "Mainframe Computers",
+                "isCorrect": false
+            },
+            {
+                "text": "Supercomputers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a 'control word' in the context of a microprogrammed control unit?",
+        "options": [
+            {
+                "text": "A software instruction",
+                "isCorrect": false
+            },
+            {
+                "text": "A memory address",
+                "isCorrect": false
+            },
+            {
+                "text": "A bit pattern that specifies the control signals for a micro-operation",
+                "isCorrect": true
+            },
+            {
+                "text": "A type of data bus",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which I/O data transfer mode requires the CPU to continuously check the status of the I/O device?",
+        "options": [
+            {
+                "text": "Interrupt-Initiated I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct Memory Access (DMA)",
+                "isCorrect": false
+            },
+            {
+                "text": "Programmed I/O",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory-Mapped I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which architecture has separate memory spaces for instructions and data?",
+        "options": [
+            {
+                "text": "Von Neumann Architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "CISC Architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "Harvard Architecture",
+                "isCorrect": true
+            },
+            {
+                "text": "RISC Architecture",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component connects the microprocessor with memory and peripherals?",
+        "options": [
+            {
+                "text": "ALU",
+                "isCorrect": false
+            },
+            {
+                "text": "Bus",
+                "isCorrect": true
+            },
+            {
+                "text": "Control Unit",
+                "isCorrect": false
+            },
+            {
+                "text": "Register",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which microprocessor is known for its 8-bit architecture and was widely used in early computing?",
+        "options": [
+            {
+                "text": "Intel 8086",
+                "isCorrect": false
+            },
+            {
+                "text": "Intel 8085",
+                "isCorrect": true
+            },
+            {
+                "text": "Intel 80286",
+                "isCorrect": false
+            },
+            {
+                "text": "Intel Pentium",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which phase in the instruction cycle involves fetching an instruction from memory?",
+        "options": [
+            {
+                "text": "Execute Cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "Decode Cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "Fetch Cycle",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory Cycle",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the 8085 microprocessor, what is the primary function of the accumulator?",
+        "options": [
+            {
+                "text": "Stores temporary data",
+                "isCorrect": false
+            },
+            {
+                "text": "Handles program execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Controls I/O operations",
+                "isCorrect": false
+            },
+            {
+                "text": "Performs arithmetic and logical operations",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which architecture follows the stored program concept?",
+        "options": [
+            {
+                "text": "Harvard architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "Von Neumann architecture",
+                "isCorrect": true
+            },
+            {
+                "text": "CISC architecture",
+                "isCorrect": false
+            },
+            {
+                "text": "RISC architecture",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How is floating point data typically represented in computer systems?",
+        "options": [
+            {
+                "text": "Using integers",
+                "isCorrect": false
+            },
+            {
+                "text": "Using decimal encoding",
+                "isCorrect": false
+            },
+            {
+                "text": "Using scientific notation",
+                "isCorrect": true
+            },
+            {
+                "text": "Using fixed-point representation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What distinguishes a hardwired control unit from a microprogrammed control unit?",
+        "options": [
+            {
+                "text": "Hardwired uses ROM-based instructions",
+                "isCorrect": false
+            },
+            {
+                "text": "Microprogrammed uses combinational circuits",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardwired is faster but less flexible",
+                "isCorrect": true
+            },
+            {
+                "text": "Microprogrammed requires physical rewiring for modifications",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which register in a control unit holds the address of the next microinstruction?",
+        "options": [
+            {
+                "text": "Program Counter",
+                "isCorrect": false
+            },
+            {
+                "text": "Control Address Register",
+                "isCorrect": true
+            },
+            {
+                "text": "Instruction Register",
+                "isCorrect": false
+            },
+            {
+                "text": "Memory Buffer Register",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which mode of data transfer is used for high-speed data exchange between memory and peripherals?",
+        "options": [
+            {
+                "text": "Programmed I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Interrupt-Initiated I/O",
+                "isCorrect": false
+            },
+            {
+                "text": "Direct Memory Access (DMA)",
+                "isCorrect": true
+            },
+            {
+                "text": "Memory-Mapped I/O",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which processor architecture reduces instruction complexity for faster execution?",
+        "options": [
+            {
+                "text": "CISC",
+                "isCorrect": false
+            },
+            {
+                "text": "RISC",
+                "isCorrect": true
+            },
+            {
+                "text": "Von Neumann",
+                "isCorrect": false
+            },
+            {
+                "text": "Harvard",
+                "isCorrect": false
+            }
+        ]
+    }
+]

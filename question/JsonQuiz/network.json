@@ -1,0 +1,2228 @@
+[
+    {
+        "question": "Which of the following best defines a network topology?",
+        "options": [
+            {
+                "text": "A set of rules for communication",
+                "isCorrect": false
+            },
+            {
+                "text": "A method of addressing",
+                "isCorrect": false
+            },
+            {
+                "text": "Physical layout of connected devices",
+                "isCorrect": true
+            },
+            {
+                "text": "A type of network protocol",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which topology requires a central hub?",
+        "options": [
+            {
+                "text": "Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Ring",
+                "isCorrect": false
+            },
+            {
+                "text": "Star",
+                "isCorrect": true
+            },
+            {
+                "text": "Mesh",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In which network model do devices act as both client and server?",
+        "options": [
+            {
+                "text": "Client-Server Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Peer-to-Peer Model",
+                "isCorrect": true
+            },
+            {
+                "text": "Hybrid Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Serverless Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for end-to-end communication?",
+        "options": [
+            {
+                "text": "Network Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Transport Layer",
+                "isCorrect": true
+            },
+            {
+                "text": "Data Link Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Session Layer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How many layers are there in the OSI reference model?",
+        "options": [
+            {
+                "text": "4",
+                "isCorrect": false
+            },
+            {
+                "text": "5",
+                "isCorrect": false
+            },
+            {
+                "text": "6",
+                "isCorrect": false
+            },
+            {
+                "text": "7",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which layer in the TCP/IP model handles routing?",
+        "options": [
+            {
+                "text": "Application Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Internet Layer",
+                "isCorrect": true
+            },
+            {
+                "text": "Network Access Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Transport Layer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is required for a network server?",
+        "options": [
+            {
+                "text": "Printer",
+                "isCorrect": false
+            },
+            {
+                "text": "Webcam",
+                "isCorrect": false
+            },
+            {
+                "text": "High-speed processor and large memory",
+                "isCorrect": true
+            },
+            {
+                "text": "Joystick",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device connects two different networks and forwards data?",
+        "options": [
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Router",
+                "isCorrect": true
+            },
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network device works at the physical layer and regenerates signals?",
+        "options": [
+            {
+                "text": "Bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": true
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Router",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device operates at both layer 2 and layer 3 of the OSI model?",
+        "options": [
+            {
+                "text": "Bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Router",
+                "isCorrect": true
+            },
+            {
+                "text": "Gateway",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device is used to connect different protocols together?",
+        "options": [
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "Gateway",
+                "isCorrect": true
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device uses MAC addresses to forward data?",
+        "options": [
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": true
+            },
+            {
+                "text": "Gateway",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the physical layer of the OSI model deal with?",
+        "options": [
+            {
+                "text": "Data formatting",
+                "isCorrect": false
+            },
+            {
+                "text": "Hardware transmission of raw bits",
+                "isCorrect": true
+            },
+            {
+                "text": "Addressing and routing",
+                "isCorrect": false
+            },
+            {
+                "text": "Error correction",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which term refers to the maximum amount of data that can pass through a channel?",
+        "options": [
+            {
+                "text": "Latency",
+                "isCorrect": false
+            },
+            {
+                "text": "Throughput",
+                "isCorrect": false
+            },
+            {
+                "text": "Bandwidth",
+                "isCorrect": true
+            },
+            {
+                "text": "Error rate",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is propagation time?",
+        "options": [
+            {
+                "text": "Time taken to transmit data",
+                "isCorrect": false
+            },
+            {
+                "text": "Time for a signal to travel from sender to receiver",
+                "isCorrect": true
+            },
+            {
+                "text": "Total delay in transmission",
+                "isCorrect": false
+            },
+            {
+                "text": "Time required for packet switching",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a guided transmission medium?",
+        "options": [
+            {
+                "text": "Microwave",
+                "isCorrect": false
+            },
+            {
+                "text": "Fiber Optic",
+                "isCorrect": true
+            },
+            {
+                "text": "Infrared",
+                "isCorrect": false
+            },
+            {
+                "text": "Radio wave",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which switching technique sends the whole message before any part of it is processed?",
+        "options": [
+            {
+                "text": "Packet switching",
+                "isCorrect": false
+            },
+            {
+                "text": "Message switching",
+                "isCorrect": true
+            },
+            {
+                "text": "Circuit switching",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which multiplexing technique uses separate frequency bands?",
+        "options": [
+            {
+                "text": "FDM",
+                "isCorrect": true
+            },
+            {
+                "text": "TDM",
+                "isCorrect": false
+            },
+            {
+                "text": "CDM",
+                "isCorrect": false
+            },
+            {
+                "text": "WDM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which layer provides interfaces and services to applications?",
+        "options": [
+            {
+                "text": "Transport",
+                "isCorrect": false
+            },
+            {
+                "text": "Application",
+                "isCorrect": true
+            },
+            {
+                "text": "Network",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Link",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a function of the data link layer?",
+        "options": [
+            {
+                "text": "Routing",
+                "isCorrect": false
+            },
+            {
+                "text": "Framing and Error detection",
+                "isCorrect": true
+            },
+            {
+                "text": "Address Resolution",
+                "isCorrect": false
+            },
+            {
+                "text": "Application processing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network topology connects all devices to a single central point?",
+        "options": [
+            {
+                "text": "Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Star",
+                "isCorrect": true
+            },
+            {
+                "text": "Ring",
+                "isCorrect": false
+            },
+            {
+                "text": "Mesh",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary difference between client-server and peer-to-peer models?",
+        "options": [
+            {
+                "text": "Peer-to-peer uses a central server",
+                "isCorrect": false
+            },
+            {
+                "text": "Client-server has no central server",
+                "isCorrect": false
+            },
+            {
+                "text": "Client-server relies on a central server",
+                "isCorrect": true
+            },
+            {
+                "text": "Peer-to-peer requires dedicated hardware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How many layers are there in the OSI reference model?",
+        "options": [
+            {
+                "text": "5",
+                "isCorrect": false
+            },
+            {
+                "text": "6",
+                "isCorrect": false
+            },
+            {
+                "text": "7",
+                "isCorrect": true
+            },
+            {
+                "text": "8",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which layer of the TCP/IP model corresponds to the OSI's Application, Presentation, and Session layers?",
+        "options": [
+            {
+                "text": "Network Access Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Internet Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Transport Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Application Layer",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which network type covers a small geographical area, such as an office?",
+        "options": [
+            {
+                "text": "LAN",
+                "isCorrect": true
+            },
+            {
+                "text": "WAN",
+                "isCorrect": false
+            },
+            {
+                "text": "MAN",
+                "isCorrect": false
+            },
+            {
+                "text": "PAN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key hardware requirement for a network server?",
+        "options": [
+            {
+                "text": "High processing power",
+                "isCorrect": true
+            },
+            {
+                "text": "Low memory capacity",
+                "isCorrect": false
+            },
+            {
+                "text": "Single-core processor",
+                "isCorrect": false
+            },
+            {
+                "text": "No network interface",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network device operates at the Physical Layer to regenerate signals?",
+        "options": [
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": true
+            },
+            {
+                "text": "Gateway",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of a Network Interface Card (NIC)?",
+        "options": [
+            {
+                "text": "To connect networks",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide physical network connection",
+                "isCorrect": true
+            },
+            {
+                "text": "To route data",
+                "isCorrect": false
+            },
+            {
+                "text": "To filter traffic",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device connects multiple network segments at the Data Link Layer?",
+        "options": [
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Bridge",
+                "isCorrect": true
+            },
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Gateway",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does channel bandwidth refer to in the Physical Layer?",
+        "options": [
+            {
+                "text": "Data storage capacity",
+                "isCorrect": false
+            },
+            {
+                "text": "Maximum data transfer rate",
+                "isCorrect": true
+            },
+            {
+                "text": "Signal strength",
+                "isCorrect": false
+            },
+            {
+                "text": "Propagation time",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which transmission medium is an example of guided media?",
+        "options": [
+            {
+                "text": "Radio waves",
+                "isCorrect": false
+            },
+            {
+                "text": "Twisted pair cable",
+                "isCorrect": true
+            },
+            {
+                "text": "Microwaves",
+                "isCorrect": false
+            },
+            {
+                "text": "Infrared",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of multiplexing in the Physical Layer?",
+        "options": [
+            {
+                "text": "To reduce bandwidth",
+                "isCorrect": false
+            },
+            {
+                "text": "To combine multiple signals into one",
+                "isCorrect": true
+            },
+            {
+                "text": "To encrypt data",
+                "isCorrect": false
+            },
+            {
+                "text": "To route packets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Data Link Layer function ensures error-free data transmission?",
+        "options": [
+            {
+                "text": "Framing",
+                "isCorrect": false
+            },
+            {
+                "text": "Flow Control",
+                "isCorrect": false
+            },
+            {
+                "text": "Error Control",
+                "isCorrect": true
+            },
+            {
+                "text": "Media Access Control",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of framing in the Data Link Layer?",
+        "options": [
+            {
+                "text": "To encrypt data",
+                "isCorrect": false
+            },
+            {
+                "text": "To divide data into manageable frames",
+                "isCorrect": true
+            },
+            {
+                "text": "To route packets",
+                "isCorrect": false
+            },
+            {
+                "text": "To manage bandwidth",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used for collision detection in Ethernet networks?",
+        "options": [
+            {
+                "text": "CSMA/CA",
+                "isCorrect": false
+            },
+            {
+                "text": "CSMA/CD",
+                "isCorrect": true
+            },
+            {
+                "text": "TCP",
+                "isCorrect": false
+            },
+            {
+                "text": "UDP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does a MAC address uniquely identify?",
+        "options": [
+            {
+                "text": "A network device",
+                "isCorrect": true
+            },
+            {
+                "text": "A network protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "An IP address",
+                "isCorrect": false
+            },
+            {
+                "text": "A subnet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which LAN standard is commonly associated with Ethernet?",
+        "options": [
+            {
+                "text": "IEEE 802.3",
+                "isCorrect": true
+            },
+            {
+                "text": "IEEE 802.11",
+                "isCorrect": false
+            },
+            {
+                "text": "IEEE 802.15",
+                "isCorrect": false
+            },
+            {
+                "text": "IEEE 802.16",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the Network Layer?",
+        "options": [
+            {
+                "text": "Data encryption",
+                "isCorrect": false
+            },
+            {
+                "text": "Routing and forwarding packets",
+                "isCorrect": true
+            },
+            {
+                "text": "Framing data",
+                "isCorrect": false
+            },
+            {
+                "text": "Session management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which switching technique establishes a dedicated path between sender and receiver?",
+        "options": [
+            {
+                "text": "Packet Switching",
+                "isCorrect": false
+            },
+            {
+                "text": "Circuit Switching",
+                "isCorrect": true
+            },
+            {
+                "text": "Message Switching",
+                "isCorrect": false
+            },
+            {
+                "text": "Frame Switching",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How many bits are in an IPv4 address?",
+        "options": [
+            {
+                "text": "16",
+                "isCorrect": false
+            },
+            {
+                "text": "32",
+                "isCorrect": true
+            },
+            {
+                "text": "64",
+                "isCorrect": false
+            },
+            {
+                "text": "128",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which IP address class is reserved for multicast addresses?",
+        "options": [
+            {
+                "text": "Class A",
+                "isCorrect": false
+            },
+            {
+                "text": "Class B",
+                "isCorrect": false
+            },
+            {
+                "text": "Class C",
+                "isCorrect": false
+            },
+            {
+                "text": "Class D",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a subnet mask?",
+        "options": [
+            {
+                "text": "To encrypt data",
+                "isCorrect": false
+            },
+            {
+                "text": "To divide an IP network into subnetworks",
+                "isCorrect": true
+            },
+            {
+                "text": "To route packets",
+                "isCorrect": false
+            },
+            {
+                "text": "To assign MAC addresses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which addressing scheme eliminates the use of IP address classes?",
+        "options": [
+            {
+                "text": "Classful addressing",
+                "isCorrect": false
+            },
+            {
+                "text": "Classless addressing",
+                "isCorrect": true
+            },
+            {
+                "text": "Private addressing",
+                "isCorrect": false
+            },
+            {
+                "text": "Static addressing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does Network Address Translation (NAT) do?",
+        "options": [
+            {
+                "text": "Assigns MAC addresses",
+                "isCorrect": false
+            },
+            {
+                "text": "Translates private IP addresses to public ones",
+                "isCorrect": true
+            },
+            {
+                "text": "Encrypts data",
+                "isCorrect": false
+            },
+            {
+                "text": "Routes packets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which routing type uses predefined routing tables?",
+        "options": [
+            {
+                "text": "Dynamic Routing",
+                "isCorrect": false
+            },
+            {
+                "text": "Static Routing",
+                "isCorrect": true
+            },
+            {
+                "text": "Interior Routing",
+                "isCorrect": false
+            },
+            {
+                "text": "Exterior Routing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is an example of an interior routing protocol?",
+        "options": [
+            {
+                "text": "BGP",
+                "isCorrect": false
+            },
+            {
+                "text": "OSPF",
+                "isCorrect": true
+            },
+            {
+                "text": "ICMP",
+                "isCorrect": false
+            },
+            {
+                "text": "ARP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key feature of IPv6 compared to IPv4?",
+        "options": [
+            {
+                "text": "Smaller address space",
+                "isCorrect": false
+            },
+            {
+                "text": "128-bit address space",
+                "isCorrect": true
+            },
+            {
+                "text": "Classful addressing",
+                "isCorrect": false
+            },
+            {
+                "text": "No support for NAT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Transport Layer protocol provides reliable data transfer?",
+        "options": [
+            {
+                "text": "UDP",
+                "isCorrect": false
+            },
+            {
+                "text": "TCP",
+                "isCorrect": true
+            },
+            {
+                "text": "ICMP",
+                "isCorrect": false
+            },
+            {
+                "text": "ARP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the Transport Layer?",
+        "options": [
+            {
+                "text": "Routing packets",
+                "isCorrect": false
+            },
+            {
+                "text": "Providing end-to-end communication",
+                "isCorrect": true
+            },
+            {
+                "text": "Framing data",
+                "isCorrect": false
+            },
+            {
+                "text": "Encrypting data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Transport Layer service breaks data into smaller segments?",
+        "options": [
+            {
+                "text": "Flow Control",
+                "isCorrect": false
+            },
+            {
+                "text": "Segmentation and Reassembly",
+                "isCorrect": true
+            },
+            {
+                "text": "Error Control",
+                "isCorrect": false
+            },
+            {
+                "text": "Connection Management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is connectionless and used for streaming applications?",
+        "options": [
+            {
+                "text": "TCP",
+                "isCorrect": false
+            },
+            {
+                "text": "UDP",
+                "isCorrect": true
+            },
+            {
+                "text": "ICMP",
+                "isCorrect": false
+            },
+            {
+                "text": "FTP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main function of the Application Layer?",
+        "options": [
+            {
+                "text": "Routing packets",
+                "isCorrect": false
+            },
+            {
+                "text": "Providing network services to applications",
+                "isCorrect": true
+            },
+            {
+                "text": "Framing data",
+                "isCorrect": false
+            },
+            {
+                "text": "Managing hardware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Application Layer protocol is used for resolving domain names to IP addresses?",
+        "options": [
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            },
+            {
+                "text": "DNS",
+                "isCorrect": true
+            },
+            {
+                "text": "FTP",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does DHCP stand for?",
+        "options": [
+            {
+                "text": "Dynamic Host Configuration Protocol",
+                "isCorrect": true
+            },
+            {
+                "text": "Domain Host Control Protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Host Configuration Protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "Dynamic Hypertext Control Protocol",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used for transferring files over a network?",
+        "options": [
+            {
+                "text": "SMTP",
+                "isCorrect": false
+            },
+            {
+                "text": "FTP",
+                "isCorrect": true
+            },
+            {
+                "text": "DNS",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is an example of an active attack on a network?",
+        "options": [
+            {
+                "text": "Eavesdropping",
+                "isCorrect": false
+            },
+            {
+                "text": "Denial of Service (DoS)",
+                "isCorrect": true
+            },
+            {
+                "text": "Traffic analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "Packet sniffing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of cryptography uses the same key for encryption and decryption?",
+        "options": [
+            {
+                "text": "Public Key",
+                "isCorrect": false
+            },
+            {
+                "text": "Symmetric Key",
+                "isCorrect": true
+            },
+            {
+                "text": "Asymmetric Key",
+                "isCorrect": false
+            },
+            {
+                "text": "Digital Signature",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a digital signature?",
+        "options": [
+            {
+                "text": "To encrypt data",
+                "isCorrect": false
+            },
+            {
+                "text": "To verify authenticity and integrity",
+                "isCorrect": true
+            },
+            {
+                "text": "To route packets",
+                "isCorrect": false
+            },
+            {
+                "text": "To assign IP addresses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the role of a firewall in network security?",
+        "options": [
+            {
+                "text": "To assign IP addresses",
+                "isCorrect": false
+            },
+            {
+                "text": "To filter network traffic",
+                "isCorrect": true
+            },
+            {
+                "text": "To encrypt data",
+                "isCorrect": false
+            },
+            {
+                "text": "To route packets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does a Virtual Private Network (VPN) provide?",
+        "options": [
+            {
+                "text": "Public network access",
+                "isCorrect": false
+            },
+            {
+                "text": "Secure communication over the internet",
+                "isCorrect": true
+            },
+            {
+                "text": "IP address assignment",
+                "isCorrect": false
+            },
+            {
+                "text": "Packet routing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which multiple access protocol is used in Wi-Fi networks?",
+        "options": [
+            {
+                "text": "CSMA/CD",
+                "isCorrect": false
+            },
+            {
+                "text": "CSMA/CA",
+                "isCorrect": true
+            },
+            {
+                "text": "TDMA",
+                "isCorrect": false
+            },
+            {
+                "text": "FDMA",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the subnetting process?",
+        "options": [
+            {
+                "text": "To increase network congestion",
+                "isCorrect": false
+            },
+            {
+                "text": "To divide a network into smaller subnetworks",
+                "isCorrect": true
+            },
+            {
+                "text": "To encrypt data",
+                "isCorrect": false
+            },
+            {
+                "text": "To assign MAC addresses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device operates at the Network Layer to forward packets between networks?",
+        "options": [
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Router",
+                "isCorrect": true
+            },
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key advantage of packet switching over circuit switching?",
+        "options": [
+            {
+                "text": "Dedicated path",
+                "isCorrect": false
+            },
+            {
+                "text": "Efficient use of bandwidth",
+                "isCorrect": true
+            },
+            {
+                "text": "Higher latency",
+                "isCorrect": false
+            },
+            {
+                "text": "Fixed data rate",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used for sending emails?",
+        "options": [
+            {
+                "text": "FTP",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP",
+                "isCorrect": true
+            },
+            {
+                "text": "DNS",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the term 'throughput' refer to in the Physical Layer?",
+        "options": [
+            {
+                "text": "Actual data transfer rate",
+                "isCorrect": true
+            },
+            {
+                "text": "Maximum bandwidth",
+                "isCorrect": false
+            },
+            {
+                "text": "Propagation time",
+                "isCorrect": false
+            },
+            {
+                "text": "Signal strength",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which OSI layer is responsible for error detection and correction?",
+        "options": [
+            {
+                "text": "Physical Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Link Layer",
+                "isCorrect": true
+            },
+            {
+                "text": "Network Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Transport Layer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the ARP protocol in the Network Layer?",
+        "options": [
+            {
+                "text": "To resolve IP addresses to MAC addresses",
+                "isCorrect": true
+            },
+            {
+                "text": "To route packets",
+                "isCorrect": false
+            },
+            {
+                "text": "To encrypt data",
+                "isCorrect": false
+            },
+            {
+                "text": "To assign IP addresses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of attack involves unauthorized monitoring of network traffic?",
+        "options": [
+            {
+                "text": "Active attack",
+                "isCorrect": false
+            },
+            {
+                "text": "Passive attack",
+                "isCorrect": true
+            },
+            {
+                "text": "Denial of Service",
+                "isCorrect": false
+            },
+            {
+                "text": "Man-in-the-Middle",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network device connects different network protocols or architectures?",
+        "options": [
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Gateway",
+                "isCorrect": true
+            },
+            {
+                "text": "Bridge",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network topology connects all devices to a central hub?",
+        "options": [
+            {
+                "text": "Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Star",
+                "isCorrect": true
+            },
+            {
+                "text": "Ring",
+                "isCorrect": false
+            },
+            {
+                "text": "Mesh",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for routing and logical addressing?",
+        "options": [
+            {
+                "text": "Physical",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Link",
+                "isCorrect": false
+            },
+            {
+                "text": "Network",
+                "isCorrect": true
+            },
+            {
+                "text": "Transport",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device operates at the Network Layer of the OSI model?",
+        "options": [
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Router",
+                "isCorrect": true
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of NAT (Network Address Translation)?",
+        "options": [
+            {
+                "text": "To encrypt network traffic",
+                "isCorrect": false
+            },
+            {
+                "text": "To map private IPs to public IPs",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase network speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To filter malicious packets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol operates at the Transport Layer and provides reliable delivery?",
+        "options": [
+            {
+                "text": "IP",
+                "isCorrect": false
+            },
+            {
+                "text": "UDP",
+                "isCorrect": false
+            },
+            {
+                "text": "TCP",
+                "isCorrect": true
+            },
+            {
+                "text": "HTTP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the size of an IPv6 address?",
+        "options": [
+            {
+                "text": "32 bits",
+                "isCorrect": false
+            },
+            {
+                "text": "64 bits",
+                "isCorrect": false
+            },
+            {
+                "text": "128 bits",
+                "isCorrect": true
+            },
+            {
+                "text": "256 bits",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which multiple access protocol is used in Ethernet networks?",
+        "options": [
+            {
+                "text": "CSMA/CD",
+                "isCorrect": true
+            },
+            {
+                "text": "CSMA/CA",
+                "isCorrect": false
+            },
+            {
+                "text": "Token Passing",
+                "isCorrect": false
+            },
+            {
+                "text": "ALOHA",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which application layer protocol is used for translating domain names to IP addresses?",
+        "options": [
+            {
+                "text": "HTTP",
+                "isCorrect": false
+            },
+            {
+                "text": "FTP",
+                "isCorrect": false
+            },
+            {
+                "text": "DNS",
+                "isCorrect": true
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What type of firewall examines the context of network traffic?",
+        "options": [
+            {
+                "text": "Packet-filtering",
+                "isCorrect": false
+            },
+            {
+                "text": "Stateful inspection",
+                "isCorrect": true
+            },
+            {
+                "text": "Proxy",
+                "isCorrect": false
+            },
+            {
+                "text": "Next-generation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which transmission medium is most susceptible to electromagnetic interference?",
+        "options": [
+            {
+                "text": "Fiber optic",
+                "isCorrect": false
+            },
+            {
+                "text": "Twisted pair",
+                "isCorrect": true
+            },
+            {
+                "text": "Coaxial cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Microwave",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of a subnet mask?",
+        "options": [
+            {
+                "text": "To identify the network portion of an IP",
+                "isCorrect": true
+            },
+            {
+                "text": "To encrypt network traffic",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase network speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To filter spam emails",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used for dynamically assigning IP addresses?",
+        "options": [
+            {
+                "text": "DNS",
+                "isCorrect": false
+            },
+            {
+                "text": "HTTP",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": true
+            },
+            {
+                "text": "FTP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main advantage of packet switching over circuit switching?",
+        "options": [
+            {
+                "text": "Better voice quality",
+                "isCorrect": false
+            },
+            {
+                "text": "More efficient bandwidth usage",
+                "isCorrect": true
+            },
+            {
+                "text": "Lower latency",
+                "isCorrect": false
+            },
+            {
+                "text": "Simpler implementation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which cryptographic technique uses the same key for encryption and decryption?",
+        "options": [
+            {
+                "text": "Public key",
+                "isCorrect": false
+            },
+            {
+                "text": "Asymmetric",
+                "isCorrect": false
+            },
+            {
+                "text": "Symmetric",
+                "isCorrect": true
+            },
+            {
+                "text": "Hash function",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of ARP (Address Resolution Protocol)?",
+        "options": [
+            {
+                "text": "To resolve IP to MAC addresses",
+                "isCorrect": true
+            },
+            {
+                "text": "To resolve domain names to IPs",
+                "isCorrect": false
+            },
+            {
+                "text": "To encrypt network traffic",
+                "isCorrect": false
+            },
+            {
+                "text": "To assign IP addresses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network topology connects all devices to a central hub or switch?",
+        "options": [
+            {
+                "text": "Bus Topology",
+                "isCorrect": false
+            },
+            {
+                "text": "Ring Topology",
+                "isCorrect": false
+            },
+            {
+                "text": "Star Topology",
+                "isCorrect": true
+            },
+            {
+                "text": "Mesh Topology",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for logical addressing and routing?",
+        "options": [
+            {
+                "text": "Physical Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Link Layer",
+                "isCorrect": false
+            },
+            {
+                "text": "Network Layer",
+                "isCorrect": true
+            },
+            {
+                "text": "Transport Layer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A device that operates at the Physical Layer and regenerates signals to extend network distance is a:",
+        "options": [
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": true
+            },
+            {
+                "text": "Router",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an unguided transmission medium?",
+        "options": [
+            {
+                "text": "Coaxial Cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Fiber Optic Cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Twisted-Pair Cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Radio Waves",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the Data Link Layer?",
+        "options": [
+            {
+                "text": "End-to-end reliable data transfer",
+                "isCorrect": false
+            },
+            {
+                "text": "Logical addressing and routing",
+                "isCorrect": false
+            },
+            {
+                "text": "Framing and error control",
+                "isCorrect": true
+            },
+            {
+                "text": "Process-to-process communication",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a multiple access protocol used in Ethernet for collision detection?",
+        "options": [
+            {
+                "text": "CSMA/CA",
+                "isCorrect": false
+            },
+            {
+                "text": "CDMA",
+                "isCorrect": false
+            },
+            {
+                "text": "TDMA",
+                "isCorrect": false
+            },
+            {
+                "text": "CSMA/CD",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which class of IP address is used for small networks and has a default subnet mask of 255.0.0.0?",
+        "options": [
+            {
+                "text": "Class B",
+                "isCorrect": false
+            },
+            {
+                "text": "Class C",
+                "isCorrect": false
+            },
+            {
+                "text": "Class A",
+                "isCorrect": true
+            },
+            {
+                "text": "Class D",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the process of translating private IP addresses to public IP addresses and vice-versa?",
+        "options": [
+            {
+                "text": "Subnetting",
+                "isCorrect": false
+            },
+            {
+                "text": "Routing",
+                "isCorrect": false
+            },
+            {
+                "text": "NAT (Network Address Translation)",
+                "isCorrect": true
+            },
+            {
+                "text": "DNS (Domain Name System)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Transport Layer protocol is connection-oriented and provides reliable data transfer?",
+        "options": [
+            {
+                "text": "UDP",
+                "isCorrect": false
+            },
+            {
+                "text": "IP",
+                "isCorrect": false
+            },
+            {
+                "text": "ICMP",
+                "isCorrect": false
+            },
+            {
+                "text": "TCP",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which application layer protocol is used for sending and receiving electronic mail?",
+        "options": [
+            {
+                "text": "HTTP",
+                "isCorrect": false
+            },
+            {
+                "text": "FTP",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP",
+                "isCorrect": true
+            },
+            {
+                "text": "DNS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What type of network security attack involves intercepting and modifying messages?",
+        "options": [
+            {
+                "text": "Passive Attack",
+                "isCorrect": false
+            },
+            {
+                "text": "Active Attack",
+                "isCorrect": true
+            },
+            {
+                "text": "Denial of Service Attack",
+                "isCorrect": false
+            },
+            {
+                "text": "Man-in-the-Middle Attack",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network topology connects all devices in a circular format?",
+        "options": [
+            {
+                "text": "Star",
+                "isCorrect": false
+            },
+            {
+                "text": "Bus",
+                "isCorrect": false
+            },
+            {
+                "text": "Ring",
+                "isCorrect": true
+            },
+            {
+                "text": "Mesh",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network model features centralized control with dedicated servers?",
+        "options": [
+            {
+                "text": "Peer-to-Peer",
+                "isCorrect": false
+            },
+            {
+                "text": "Client-Server",
+                "isCorrect": true
+            },
+            {
+                "text": "Hybrid Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Distributed Computing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol stack is used for communication over the internet?",
+        "options": [
+            {
+                "text": "OSI Model",
+                "isCorrect": false
+            },
+            {
+                "text": "TCP/IP Model",
+                "isCorrect": true
+            },
+            {
+                "text": "HTTP Model",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network device is responsible for forwarding packets based on IP addresses?",
+        "options": [
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Router",
+                "isCorrect": true
+            },
+            {
+                "text": "Repeater",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does MAC address represent in networking?",
+        "options": [
+            {
+                "text": "IP Address of a network",
+                "isCorrect": false
+            },
+            {
+                "text": "Unique identifier of a network interface card",
+                "isCorrect": true
+            },
+            {
+                "text": "Domain Name",
+                "isCorrect": false
+            },
+            {
+                "text": "Wireless frequency of a network",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which multiple access protocol is used in Ethernet networks?",
+        "options": [
+            {
+                "text": "CSMA/CD",
+                "isCorrect": true
+            },
+            {
+                "text": "CSMA/CA",
+                "isCorrect": false
+            },
+            {
+                "text": "TDMA",
+                "isCorrect": false
+            },
+            {
+                "text": "FDMA",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of a subnet mask?",
+        "options": [
+            {
+                "text": "To divide an IP address into network and host portions",
+                "isCorrect": true
+            },
+            {
+                "text": "To encrypt network traffic",
+                "isCorrect": false
+            },
+            {
+                "text": "To generate MAC addresses",
+                "isCorrect": false
+            },
+            {
+                "text": "To increase data transmission speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which transport layer protocol ensures reliable communication?",
+        "options": [
+            {
+                "text": "TCP",
+                "isCorrect": true
+            },
+            {
+                "text": "UDP",
+                "isCorrect": false
+            },
+            {
+                "text": "ICMP",
+                "isCorrect": false
+            },
+            {
+                "text": "ARP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of DHCP in networking?",
+        "options": [
+            {
+                "text": "Assigning IP addresses dynamically",
+                "isCorrect": true
+            },
+            {
+                "text": "Managing domain names",
+                "isCorrect": false
+            },
+            {
+                "text": "Routing data packets",
+                "isCorrect": false
+            },
+            {
+                "text": "Encrypting network traffic",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of attack intercepts network traffic without modification?",
+        "options": [
+            {
+                "text": "Active Attack",
+                "isCorrect": false
+            },
+            {
+                "text": "Passive Attack",
+                "isCorrect": true
+            },
+            {
+                "text": "Man-in-the-Middle Attack",
+                "isCorrect": false
+            },
+            {
+                "text": "Denial-of-Service Attack",
+                "isCorrect": false
+            }
+        ]
+    }
+]

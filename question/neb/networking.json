@@ -1,0 +1,1136 @@
+[
+    {
+        "question": "In the context of network topologies, which topology is characterized by a central connection point and is most susceptible to a single point of failure?",
+        "options": [
+            {
+                "text": "Bus Topology",
+                "isCorrect": false
+            },
+            {
+                "text": "Ring Topology",
+                "isCorrect": false
+            },
+            {
+                "text": "Star Topology",
+                "isCorrect": true
+            },
+            {
+                "text": "Mesh Topology",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of a Subnet Mask in an IP configuration?",
+        "options": [
+            {
+                "text": "To encrypt data packets for security",
+                "isCorrect": false
+            },
+            {
+                "text": "To identify the network portion of an IP address",
+                "isCorrect": true
+            },
+            {
+                "text": "To provide a human-readable alias for an IP address",
+                "isCorrect": false
+            },
+            {
+                "text": "To specify the web browser to be used",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following network types typically covers the largest geographical area?",
+        "options": [
+            {
+                "text": "Local Area Network (LAN)",
+                "isCorrect": false
+            },
+            {
+                "text": "Metropolitan Area Network (MAN)",
+                "isCorrect": false
+            },
+            {
+                "text": "Wide Area Network (WAN)",
+                "isCorrect": true
+            },
+            {
+                "text": "Personal Area Network (PAN)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'www' in a website URL (e.g., www.example.com) is an example of a?",
+        "options": [
+            {
+                "text": "Top-Level Domain (TLD)",
+                "isCorrect": false
+            },
+            {
+                "text": "Protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "Subdomain",
+                "isCorrect": true
+            },
+            {
+                "text": "IP Address",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is primarily responsible for the reliable delivery of packets between two devices on a network, including error checking and flow control?",
+        "options": [
+            {
+                "text": "IP (Internet Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "HTTP (Hypertext Transfer Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "TCP (Transmission Control Protocol)",
+                "isCorrect": true
+            },
+            {
+                "text": "UDP (User Datagram Protocol)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of a Default Gateway in a TCP/IP network?",
+        "options": [
+            {
+                "text": "To assign IP addresses automatically",
+                "isCorrect": false
+            },
+            {
+                "text": "To filter malicious network traffic",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide a route for traffic destined for a different network",
+                "isCorrect": true
+            },
+            {
+                "text": "To translate domain names to IP addresses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of network is designed for exclusive use by a single organization and is not accessible by the public?",
+        "options": [
+            {
+                "text": "Internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Extranet",
+                "isCorrect": false
+            },
+            {
+                "text": "Intranet",
+                "isCorrect": true
+            },
+            {
+                "text": "World Wide Web",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a common network communication protocol?",
+        "options": [
+            {
+                "text": "TCP/IP",
+                "isCorrect": false
+            },
+            {
+                "text": "Ethernet",
+                "isCorrect": false
+            },
+            {
+                "text": "HTML",
+                "isCorrect": true
+            },
+            {
+                "text": "HTTP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In a client-server model for email, which protocol is used by an email client to retrieve messages from a server?",
+        "options": [
+            {
+                "text": "SMTP (Simple Mail Transfer Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "HTTP (Hypertext Transfer Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "POP3 (Post Office Protocol version 3)",
+                "isCorrect": true
+            },
+            {
+                "text": "FTP (File Transfer Protocol)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the key technological difference between Dial-Up Networking and a broadband connection like DSL or Cable?",
+        "options": [
+            {
+                "text": "Dial-Up uses fiber optics, while broadband uses copper wires.",
+                "isCorrect": false
+            },
+            {
+                "text": "Dial-Up provides a dedicated connection, while broadband is shared.",
+                "isCorrect": false
+            },
+            {
+                "text": "Dial-Up uses the telephone line for both voice and data simultaneously.",
+                "isCorrect": false
+            },
+            {
+                "text": "Dial-Up requires a modem to convert digital signals to analog, while broadband is always digital.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following IP addresses is a valid private IP address as defined by RFC 1918?",
+        "options": [
+            {
+                "text": "192.168.1.1",
+                "isCorrect": true
+            },
+            {
+                "text": "200.100.50.25",
+                "isCorrect": false
+            },
+            {
+                "text": "172.32.10.5",
+                "isCorrect": false
+            },
+            {
+                "text": "8.8.8.8",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network device operates at the Data Link Layer (Layer 2) of the OSI model and uses MAC addresses to forward data to the correct destination within a LAN?",
+        "options": [
+            {
+                "text": "Hub",
+                "isCorrect": false
+            },
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": true
+            },
+            {
+                "text": "Modem",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary purpose of the 'Internet Explorer Compatibility Mode' found in modern browsers like Microsoft Edge?",
+        "options": [
+            {
+                "text": "To run Chrome extensions",
+                "isCorrect": false
+            },
+            {
+                "text": "To display websites designed for older versions of Internet Explorer correctly",
+                "isCorrect": true
+            },
+            {
+                "text": "To increase browsing speed",
+                "isCorrect": false
+            },
+            {
+                "text": "To block all advertisements",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which networking protocol is used to automatically assign IP addresses and other network configuration parameters to devices on a network?",
+        "options": [
+            {
+                "text": "DNS (Domain Name System)",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP (Dynamic Host Configuration Protocol)",
+                "isCorrect": true
+            },
+            {
+                "text": "FTP (File Transfer Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "SNMP (Simple Network Management Protocol)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the URL 'https://www.example.com:8080/path/to/page', what does the ':8080' represent?",
+        "options": [
+            {
+                "text": "The IP address of the server",
+                "isCorrect": false
+            },
+            {
+                "text": "The version of the HTTP protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "The TCP port number the web server is listening on",
+                "isCorrect": true
+            },
+            {
+                "text": "A security key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic of a peer-to-peer (P2P) network as opposed to a client-server network?",
+        "options": [
+            {
+                "text": "Centralized administration and security",
+                "isCorrect": false
+            },
+            {
+                "text": "Dedicated, powerful hardware for the server",
+                "isCorrect": false
+            },
+            {
+                "text": "Each device can function as both a client and a server",
+                "isCorrect": true
+            },
+            {
+                "text": "Easier to manage for large numbers of users",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main security vulnerability associated with using an unsecured Wi-Fi network?",
+        "options": [
+            {
+                "text": "Slower internet speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Data transmitted over the network can be intercepted by others",
+                "isCorrect": true
+            },
+            {
+                "text": "Inability to connect to certain websites",
+                "isCorrect": false
+            },
+            {
+                "text": "Automatic installation of unwanted software",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component of a web browser is responsible for interpreting and rendering HTML and CSS to display a web page?",
+        "options": [
+            {
+                "text": "The JavaScript Engine",
+                "isCorrect": false
+            },
+            {
+                "text": "The Networking Component",
+                "isCorrect": false
+            },
+            {
+                "text": "The Rendering Engine (or Web Browser Engine)",
+                "isCorrect": true
+            },
+            {
+                "text": "The User Interface (UI)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The process of dividing a single physical network into multiple smaller logical networks is known as:",
+        "options": [
+            {
+                "text": "Network Address Translation (NAT)",
+                "isCorrect": false
+            },
+            {
+                "text": "Subnetting",
+                "isCorrect": true
+            },
+            {
+                "text": "Port Forwarding",
+                "isCorrect": false
+            },
+            {
+                "text": "Packet Switching",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following statements about the Internet and the World Wide Web (WWW) is correct?",
+        "options": [
+            {
+                "text": "The Internet is a service that runs on the World Wide Web.",
+                "isCorrect": false
+            },
+            {
+                "text": "The World Wide Web is the same as the Internet.",
+                "isCorrect": false
+            },
+            {
+                "text": "The World Wide Web is a service accessible via the Internet.",
+                "isCorrect": true
+            },
+            {
+                "text": "The World Wide Web is the physical infrastructure of cables and routers.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of network media is most susceptible to electromagnetic interference (EMI)?",
+        "options": [
+            {
+                "text": "Fiber Optic Cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Shielded Twisted Pair (STP)",
+                "isCorrect": false
+            },
+            {
+                "text": "Unshielded Twisted Pair (UTP)",
+                "isCorrect": true
+            },
+            {
+                "text": "Coaxial Cable",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In Microsoft Windows, the 'HomeGroup' feature (now deprecated) was primarily used for:",
+        "options": [
+            {
+                "text": "Configuring a hardware firewall",
+                "isCorrect": false
+            },
+            {
+                "text": "Setting up a virtual private network (VPN)",
+                "isCorrect": false
+            },
+            {
+                "text": "Sharing resources like files and printers easily between computers on a home network",
+                "isCorrect": true
+            },
+            {
+                "text": "Creating a network bridge between two different networks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of a DNS server?",
+        "options": [
+            {
+                "text": "To store website content",
+                "isCorrect": false
+            },
+            {
+                "text": "To assign IP addresses dynamically",
+                "isCorrect": false
+            },
+            {
+                "text": "To translate domain names into IP addresses",
+                "isCorrect": true
+            },
+            {
+                "text": "To provide a secure connection (HTTPS)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a connectionless transport layer protocol that offers low latency but does not guarantee delivery?",
+        "options": [
+            {
+                "text": "TCP (Transmission Control Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "HTTP (Hypertext Transfer Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "IP (Internet Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "UDP (User Datagram Protocol)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A Metropolitan Area Network (MAN) is typically used to interconnect networks across:",
+        "options": [
+            {
+                "text": "A single building or campus",
+                "isCorrect": false
+            },
+            {
+                "text": "A city or a large campus",
+                "isCorrect": true
+            },
+            {
+                "text": "An entire country or continent",
+                "isCorrect": false
+            },
+            {
+                "text": "A few meters, for personal devices",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which browser, known for its speed and minimalistic design, is developed by Google?",
+        "options": [
+            {
+                "text": "Mozilla Firefox",
+                "isCorrect": false
+            },
+            {
+                "text": "Opera",
+                "isCorrect": false
+            },
+            {
+                "text": "Safari",
+                "isCorrect": false
+            },
+            {
+                "text": "Google Chrome",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of an 'Extranet'?",
+        "options": [
+            {
+                "text": "To provide private network access only to employees within an organization.",
+                "isCorrect": false
+            },
+            {
+                "text": "To provide controlled access to an organization's internal resources for external partners, suppliers, or customers.",
+                "isCorrect": true
+            },
+            {
+                "text": "To provide public access to general information.",
+                "isCorrect": false
+            },
+            {
+                "text": "To host public web services.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network topology requires the use of a token to prevent data collisions?",
+        "options": [
+            {
+                "text": "Star Topology",
+                "isCorrect": false
+            },
+            {
+                "text": "Bus Topology",
+                "isCorrect": false
+            },
+            {
+                "text": "Ring Topology (specifically Token Ring)",
+                "isCorrect": true
+            },
+            {
+                "text": "Mesh Topology",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'Safari' web browser is primarily associated with which operating system?",
+        "options": [
+            {
+                "text": "Microsoft Windows",
+                "isCorrect": false
+            },
+            {
+                "text": "Linux",
+                "isCorrect": false
+            },
+            {
+                "text": "Google Chrome OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Apple macOS and iOS",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the fundamental difference between IPv4 and IPv6?",
+        "options": [
+            {
+                "text": "IPv6 is more secure by default than IPv4.",
+                "isCorrect": false
+            },
+            {
+                "text": "IPv6 uses a larger address space to overcome the limitation of available IPv4 addresses.",
+                "isCorrect": true
+            },
+            {
+                "text": "IPv4 is faster than IPv6.",
+                "isCorrect": false
+            },
+            {
+                "text": "IPv6 is only used for private networks.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which device is used to connect a local network to an ISP over a standard telephone line?",
+        "options": [
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Switch",
+                "isCorrect": false
+            },
+            {
+                "text": "Network Interface Card (NIC)",
+                "isCorrect": false
+            },
+            {
+                "text": "Modem",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In a bus topology network, what happens if the main cable (the backbone) fails?",
+        "options": [
+            {
+                "text": "Only the device directly connected to the failure point is affected.",
+                "isCorrect": false
+            },
+            {
+                "text": "The entire network becomes inoperable.",
+                "isCorrect": true
+            },
+            {
+                "text": "The network automatically reconfigures itself into a star topology.",
+                "isCorrect": false
+            },
+            {
+                "text": "Data is rerouted through wireless access points.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used for sending email messages from a client to a server or between servers?",
+        "options": [
+            {
+                "text": "IMAP (Internet Message Access Protocol)",
+                "isCorrect": false
+            },
+            {
+                "text": "POP3 (Post Office Protocol version 3)",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP (Simple Mail Transfer Protocol)",
+                "isCorrect": true
+            },
+            {
+                "text": "HTTP (Hypertext Transfer Protocol)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does the 'https://' prefix in a URL indicate?",
+        "options": [
+            {
+                "text": "That the website is a hypertext document",
+                "isCorrect": false
+            },
+            {
+                "text": "That the connection to the web server is encrypted using SSL/TLS",
+                "isCorrect": true
+            },
+            {
+                "text": "That the website is the home page of a site",
+                "isCorrect": false
+            },
+            {
+                "text": "That the website uses the latest version of HTTP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Windows networking tool is used to view and configure IP address settings from the command line?",
+        "options": [
+            {
+                "text": "ipconfig",
+                "isCorrect": true
+            },
+            {
+                "text": "netstat",
+                "isCorrect": false
+            },
+            {
+                "text": "tracert",
+                "isCorrect": false
+            },
+            {
+                "text": "ping",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following best describes a 'protocol' in computer networking?",
+        "options": [
+            {
+                "text": "A type of network cable",
+                "isCorrect": false
+            },
+            {
+                "text": "A set of rules governing the exchange of data between devices",
+                "isCorrect": true
+            },
+            {
+                "text": "The physical layout of a network",
+                "isCorrect": false
+            },
+            {
+                "text": "A software application for browsing the web",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A key disadvantage of a full mesh topology is:",
+        "options": [
+            {
+                "text": "Its susceptibility to a single point of failure.",
+                "isCorrect": false
+            },
+            {
+                "text": "The high cost and complexity of connecting every device to every other device.",
+                "isCorrect": true
+            },
+            {
+                "text": "The difficulty of adding new devices.",
+                "isCorrect": false
+            },
+            {
+                "text": "Data collisions are very common.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a feature commonly associated with the 'Opera' web browser?",
+        "options": [
+            {
+                "text": "Deep integration with the Windows OS",
+                "isCorrect": false
+            },
+            {
+                "text": "Built-in VPN and ad blocker",
+                "isCorrect": true
+            },
+            {
+                "text": "Exclusive availability on Apple devices",
+                "isCorrect": false
+            },
+            {
+                "text": "Being the first graphical web browser",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The primary purpose of Network Address Translation (NAT) is to:",
+        "options": [
+            {
+                "text": "Increase the speed of internet connectivity.",
+                "isCorrect": false
+            },
+            {
+                "text": "Allow multiple devices on a private network to share a single public IP address.",
+                "isCorrect": true
+            },
+            {
+                "text": "Encrypt data sent over the network.",
+                "isCorrect": false
+            },
+            {
+                "text": "Assign domain names to IP addresses.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following statements about a LAN is false?",
+        "options": [
+            {
+                "text": "A LAN is typically owned and managed by a single organization.",
+                "isCorrect": false
+            },
+            {
+                "text": "A LAN usually covers a small geographic area like a home or office building.",
+                "isCorrect": false
+            },
+            {
+                "text": "A LAN typically offers lower data transfer rates than a WAN.",
+                "isCorrect": true
+            },
+            {
+                "text": "Ethernet and Wi-Fi are common technologies used in LANs.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main characteristic of a 'dial-up' connection?",
+        "options": [
+            {
+                "text": "It is a dedicated, always-on connection.",
+                "isCorrect": false
+            },
+            {
+                "text": "It uses a modem to establish a connection over a telephone line.",
+                "isCorrect": true
+            },
+            {
+                "text": "It provides very high-speed internet access.",
+                "isCorrect": false
+            },
+            {
+                "text": "It is a wireless technology.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component is NOT part of a standard email address?",
+        "options": [
+            {
+                "text": "Username",
+                "isCorrect": false
+            },
+            {
+                "text": "@ symbol",
+                "isCorrect": false
+            },
+            {
+                "text": "Domain name",
+                "isCorrect": false
+            },
+            {
+                "text": "Protocol (e.g., smtp://)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The 'Firefox' browser is developed by:",
+        "options": [
+            {
+                "text": "Google",
+                "isCorrect": false
+            },
+            {
+                "text": "Microsoft",
+                "isCorrect": false
+            },
+            {
+                "text": "Mozilla Foundation",
+                "isCorrect": true
+            },
+            {
+                "text": "Apple Inc.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary role of a router in a network?",
+        "options": [
+            {
+                "text": "To connect devices within the same local area network (LAN) and forward data based on MAC addresses.",
+                "isCorrect": false
+            },
+            {
+                "text": "To amplify signals to extend the range of a network cable.",
+                "isCorrect": false
+            },
+            {
+                "text": "To forward data packets between different networks based on IP addresses.",
+                "isCorrect": true
+            },
+            {
+                "text": "To convert digital signals to analog for transmission over phone lines.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The concept where the underlying hardware and software details of a network are hidden from the user is known as:",
+        "options": [
+            {
+                "text": "Network Abstraction",
+                "isCorrect": true
+            },
+            {
+                "text": "Network Protocol",
+                "isCorrect": false
+            },
+            {
+                "text": "Network Topology",
+                "isCorrect": false
+            },
+            {
+                "text": "Network Media",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which command is used to test reachability between two network devices?",
+        "options": [
+            {
+                "text": "ipconfig",
+                "isCorrect": false
+            },
+            {
+                "text": "nslookup",
+                "isCorrect": false
+            },
+            {
+                "text": "ping",
+                "isCorrect": true
+            },
+            {
+                "text": "netstat",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an advantage of using fiber optic cable over copper cable?",
+        "options": [
+            {
+                "text": "Lower cost",
+                "isCorrect": false
+            },
+            {
+                "text": "Easier to install and terminate",
+                "isCorrect": false
+            },
+            {
+                "text": "Higher bandwidth and immunity to electromagnetic interference",
+                "isCorrect": true
+            },
+            {
+                "text": "Ability to carry electrical power (Power over Ethernet)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the early days of the web, which browser was known for introducing features like tabs and pop-up blocking and had a significant market share before the rise of Firefox and Chrome?",
+        "options": [
+            {
+                "text": "Netscape Navigator",
+                "isCorrect": true
+            },
+            {
+                "text": "Internet Explorer",
+                "isCorrect": false
+            },
+            {
+                "text": "Mosaic",
+                "isCorrect": false
+            },
+            {
+                "text": "Safari",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a key difference between a hub and a switch?",
+        "options": [
+            {
+                "text": "A switch operates at the Network Layer, while a hub operates at the Physical Layer.",
+                "isCorrect": false
+            },
+            {
+                "text": "A hub broadcasts data to all ports, while a switch intelligently forwards data only to the specific destination port.",
+                "isCorrect": true
+            },
+            {
+                "text": "A switch is used for WAN connections, while a hub is used for LAN connections.",
+                "isCorrect": false
+            },
+            {
+                "text": "A hub has more processing power than a switch.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'World Wide Web (WWW)' was invented by:",
+        "options": [
+            {
+                "text": "Bill Gates",
+                "isCorrect": false
+            },
+            {
+                "text": "Steve Jobs",
+                "isCorrect": false
+            },
+            {
+                "text": "Tim Berners-Lee",
+                "isCorrect": true
+            },
+            {
+                "text": "Vint Cerf",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a private IP address range?",
+        "options": [
+            {
+                "text": "169.254.0.0 to 169.254.255.255 (APIPA)",
+                "isCorrect": false
+            },
+            {
+                "text": "10.0.0.0 to 10.255.255.255",
+                "isCorrect": true
+            },
+            {
+                "text": "100.64.0.0 to 100.127.255.255 (Carrier-Grade NAT)",
+                "isCorrect": false
+            },
+            {
+                "text": "172.16.0.0 to 172.31.255.255",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "When setting up a Microsoft network, the 'Workgroup' setting is typically used for:",
+        "options": [
+            {
+                "text": "Large corporate networks with centralized security and administration (domains).",
+                "isCorrect": false
+            },
+            {
+                "text": "Smaller, peer-to-peer networks where each computer manages its own security.",
+                "isCorrect": true
+            },
+            {
+                "text": "Connecting to the internet via an ISP.",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating a virtual private network (VPN).",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a standard function of a web browser?",
+        "options": [
+            {
+                "text": "Interpreting HTML and CSS",
+                "isCorrect": false
+            },
+            {
+                "text": "Executing JavaScript code",
+                "isCorrect": false
+            },
+            {
+                "text": "Managing database servers",
+                "isCorrect": true
+            },
+            {
+                "text": "Caching web pages for faster loading",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The term 'broadband' commonly refers to an internet connection that is:",
+        "options": [
+            {
+                "text": "Dial-up",
+                "isCorrect": false
+            },
+            {
+                "text": "Always-on and high-speed",
+                "isCorrect": true
+            },
+            {
+                "text": "Available only via satellite",
+                "isCorrect": false
+            },
+            {
+                "text": "Based on a leased line",
+                "isCorrect": false
+            }
+        ]
+    }
+]

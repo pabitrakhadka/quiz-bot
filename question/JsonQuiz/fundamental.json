@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the brain of a computer system?",
+        "options": [
+            {"text": "Monitor", "isCorrect": false},
+            {"text": "CPU (Central Processing Unit)", "isCorrect": true},
+            {"text": "Keyboard", "isCorrect": false},
+            {"text": "Hard Disk", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is a volatile memory?",
+        "options": [
+            {"text": "ROM", "isCorrect": false},
+            {"text": "RAM", "isCorrect": true},
+            {"text": "Hard Disk", "isCorrect": false},
+            {"text": "SSD", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does 'OS' stand for in computing?",
+        "options": [
+            {"text": "Operating System", "isCorrect": true},
+            {"text": "Output Signal", "isCorrect": false},
+            {"text": "Optical Sensor", "isCorrect": false},
+            {"text": "Online Storage", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an input device?",
+        "options": [
+            {"text": "Printer", "isCorrect": false},
+            {"text": "Monitor", "isCorrect": false},
+            {"text": "Mouse", "isCorrect": true},
+            {"text": "Speaker", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the smallest unit of data in a computer?",
+        "options": [
+            {"text": "Byte", "isCorrect": false},
+            {"text": "Kilobyte", "isCorrect": false},
+            {"text": "Bit", "isCorrect": true},
+            {"text": "Megabyte", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which programming language is known as the 'mother of all languages'?",
+        "options": [
+            {"text": "Python", "isCorrect": false},
+            {"text": "Java", "isCorrect": false},
+            {"text": "C", "isCorrect": false},
+            {"text": "Assembly Language", "isCorrect": true}
+        ]
+    },
+    {
+        "question": "What does 'URL' stand for?",
+        "options": [
+            {"text": "Uniform Resource Locator", "isCorrect": true},
+            {"text": "Universal Remote Link", "isCorrect": false},
+            {"text": "Unified Resource Library", "isCorrect": false},
+            {"text": "User Registration Link", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a storage device?",
+        "options": [
+            {"text": "SSD", "isCorrect": false},
+            {"text": "USB Flash Drive", "isCorrect": false},
+            {"text": "RAM", "isCorrect": true},
+            {"text": "Hard Disk", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which component is responsible for displaying output on a screen?",
+        "options": [
+            {"text": "GPU (Graphics Processing Unit)", "isCorrect": true},
+            {"text": "CPU", "isCorrect": false},
+            {"text": "Motherboard", "isCorrect": false},
+            {"text": "Power Supply", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the binary equivalent of the decimal number 10?",
+        "options": [
+            {"text": "1001", "isCorrect": false},
+            {"text": "1010", "isCorrect": true},
+            {"text": "1100", "isCorrect": false},
+            {"text": "1111", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an operating system?",
+        "options": [
+            {"text": "Microsoft Word", "isCorrect": false},
+            {"text": "Linux", "isCorrect": true},
+            {"text": "Google Chrome", "isCorrect": false},
+            {"text": "Adobe Photoshop", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does 'HTTP' stand for?",
+        "options": [
+            {"text": "HyperText Transfer Protocol", "isCorrect": true},
+            {"text": "High-Tech Text Processing", "isCorrect": false},
+            {"text": "Hyperlink Text Transmission Protocol", "isCorrect": false},
+            {"text": "Hardware Testing Tool Protocol", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is a high-level programming language?",
+        "options": [
+            {"text": "Assembly", "isCorrect": false},
+            {"text": "Machine Code", "isCorrect": false},
+            {"text": "Python", "isCorrect": true},
+            {"text": "Binary", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the function of an ALU in a CPU?",
+        "options": [
+            {"text": "Storing data", "isCorrect": false},
+            {"text": "Performing arithmetic and logical operations", "isCorrect": true},
+            {"text": "Displaying graphics", "isCorrect": false},
+            {"text": "Managing internet connections", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which device converts digital signals to analog signals for transmission over telephone lines?",
+        "options": [
+            {"text": "Router", "isCorrect": false},
+            {"text": "Modem", "isCorrect": true},
+            {"text": "Switch", "isCorrect": false},
+            {"text": "Repeater", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is 'cache memory' used for?",
+        "options": [
+            {"text": "Long-term storage", "isCorrect": false},
+            {"text": "Speeding up CPU operations by storing frequently used data", "isCorrect": true},
+            {"text": "Backing up files", "isCorrect": false},
+            {"text": "Running antivirus scans", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of computer network?",
+        "options": [
+            {"text": "LAN", "isCorrect": false},
+            {"text": "WAN", "isCorrect": false},
+            {"text": "PAN", "isCorrect": false},
+            {"text": "SAN (Storage Area Network)", "isCorrect": true}
+        ]
+    },
+    {
+        "question": "What is the primary function of an operating system?",
+        "options": [
+            {"text": "Running applications", "isCorrect": false},
+            {"text": "Managing hardware and software resources", "isCorrect": true},
+            {"text": "Designing websites", "isCorrect": false},
+            {"text": "Creating databases", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "options": [
+            {"text": "FTP", "isCorrect": false},
+            {"text": "HTTP", "isCorrect": false},
+            {"text": "SMTP", "isCorrect": true},
+            {"text": "TCP", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does 'BIOS' stand for?",
+        "options": [
+            {"text": "Basic Input/Output System", "isCorrect": true},
+            {"text": "Binary Input/Output Service", "isCorrect": false},
+            {"text": "Boot Initialization Operating System", "isCorrect": false},
+            {"text": "Byte Instruction Operating Setup", "isCorrect": false}
+        ]
+    }
+]

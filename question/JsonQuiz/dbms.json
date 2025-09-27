@@ -1,0 +1,3803 @@
+[
+    {
+        "question": "Which property does not belong to a database system?",
+        "options": [
+            {
+                "text": "Data redundancy",
+                "isCorrect": true
+            },
+            {
+                "text": "Data abstraction",
+                "isCorrect": false
+            },
+            {
+                "text": "Data independence",
+                "isCorrect": false
+            },
+            {
+                "text": "Concurrent access",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a correct order of data abstraction levels?",
+        "options": [
+            {
+                "text": "Physical → Conceptual → View",
+                "isCorrect": true
+            },
+            {
+                "text": "View → Conceptual → Physical",
+                "isCorrect": false
+            },
+            {
+                "text": "Conceptual → Physical → View",
+                "isCorrect": false
+            },
+            {
+                "text": "View → Physical → Conceptual",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is an instance in a DBMS context?",
+        "options": [
+            {
+                "text": "Description of database structure",
+                "isCorrect": false
+            },
+            {
+                "text": "Snapshot of data at a moment",
+                "isCorrect": true
+            },
+            {
+                "text": "Set of rules for schema",
+                "isCorrect": false
+            },
+            {
+                "text": "Physical storage description",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of DBMS stores data as documents?",
+        "options": [
+            {
+                "text": "Relational DBMS",
+                "isCorrect": false
+            },
+            {
+                "text": "Hierarchical DBMS",
+                "isCorrect": false
+            },
+            {
+                "text": "NoSQL DBMS",
+                "isCorrect": true
+            },
+            {
+                "text": "Network DBMS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a DML command?",
+        "options": [
+            {
+                "text": "CREATE",
+                "isCorrect": false
+            },
+            {
+                "text": "DROP",
+                "isCorrect": false
+            },
+            {
+                "text": "UPDATE",
+                "isCorrect": true
+            },
+            {
+                "text": "ALTER",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A weak entity is identified by:",
+        "options": [
+            {
+                "text": "Primary key",
+                "isCorrect": false
+            },
+            {
+                "text": "Composite attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Owner entity key",
+                "isCorrect": true
+            },
+            {
+                "text": "Multivalued attribute",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which attribute can have multiple values?",
+        "options": [
+            {
+                "text": "Derived attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Simple attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Single-valued attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Multivalued attribute",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which symbol represents a relationship in ERD?",
+        "options": [
+            {
+                "text": "Oval",
+                "isCorrect": false
+            },
+            {
+                "text": "Rectangle",
+                "isCorrect": false
+            },
+            {
+                "text": "Diamond",
+                "isCorrect": true
+            },
+            {
+                "text": "Double rectangle",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1NF removes which type of values?",
+        "options": [
+            {
+                "text": "Duplicate tuples",
+                "isCorrect": false
+            },
+            {
+                "text": "Partial dependencies",
+                "isCorrect": false
+            },
+            {
+                "text": "Transitive dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Repeating groups",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "2NF deals with:",
+        "options": [
+            {
+                "text": "Repeating groups",
+                "isCorrect": false
+            },
+            {
+                "text": "Non-prime attributes",
+                "isCorrect": false
+            },
+            {
+                "text": "Partial dependencies",
+                "isCorrect": true
+            },
+            {
+                "text": "Transitive dependency",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is true in 3NF?",
+        "options": [
+            {
+                "text": "Every determinant is a candidate key",
+                "isCorrect": false
+            },
+            {
+                "text": "Only prime attributes allowed",
+                "isCorrect": false
+            },
+            {
+                "text": "No transitive dependency",
+                "isCorrect": true
+            },
+            {
+                "text": "Only 2NF is satisfied",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "BCNF is stricter than 3NF because:",
+        "options": [
+            {
+                "text": "Allows partial dependencies",
+                "isCorrect": false
+            },
+            {
+                "text": "No multivalued dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Every determinant is super key",
+                "isCorrect": true
+            },
+            {
+                "text": "All dependencies must be trivial",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL clause changes existing data?",
+        "options": [
+            {
+                "text": "ALTER",
+                "isCorrect": false
+            },
+            {
+                "text": "INSERT",
+                "isCorrect": false
+            },
+            {
+                "text": "UPDATE",
+                "isCorrect": true
+            },
+            {
+                "text": "CREATE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL clause is used to create a logical table?",
+        "options": [
+            {
+                "text": "CREATE TABLE",
+                "isCorrect": false
+            },
+            {
+                "text": "CREATE INDEX",
+                "isCorrect": false
+            },
+            {
+                "text": "CREATE VIEW",
+                "isCorrect": true
+            },
+            {
+                "text": "CREATE LOGIC",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which JOIN returns unmatched records from left table?",
+        "options": [
+            {
+                "text": "INNER JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "LEFT JOIN",
+                "isCorrect": true
+            },
+            {
+                "text": "RIGHT JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "FULL OUTER JOIN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What does query optimization do?",
+        "options": [
+            {
+                "text": "Creates new indexes",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduces query execution cost",
+                "isCorrect": true
+            },
+            {
+                "text": "Creates new schema",
+                "isCorrect": false
+            },
+            {
+                "text": "Splits queries",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query cost estimation is based on:",
+        "options": [
+            {
+                "text": "Syntax structure",
+                "isCorrect": false
+            },
+            {
+                "text": "Query semantics",
+                "isCorrect": false
+            },
+            {
+                "text": "Disk I/O and CPU usage",
+                "isCorrect": true
+            },
+            {
+                "text": "Transaction length",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a unary operation in relational algebra?",
+        "options": [
+            {
+                "text": "SELECT",
+                "isCorrect": true
+            },
+            {
+                "text": "JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "UNION",
+                "isCorrect": false
+            },
+            {
+                "text": "INTERSECT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which evaluation strategy uses indexes?",
+        "options": [
+            {
+                "text": "Linear scan",
+                "isCorrect": false
+            },
+            {
+                "text": "Table scan",
+                "isCorrect": false
+            },
+            {
+                "text": "Index-based evaluation",
+                "isCorrect": true
+            },
+            {
+                "text": "Merge join",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is a view in SQL?",
+        "options": [
+            {
+                "text": "Stored procedure",
+                "isCorrect": false
+            },
+            {
+                "text": "Temporary table",
+                "isCorrect": false
+            },
+            {
+                "text": "Virtual table",
+                "isCorrect": true
+            },
+            {
+                "text": "Permanent copy",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following best describes data independence?",
+        "options": [
+            {
+                "text": "Ability to modify schema definition without affecting application programs.",
+                "isCorrect": true
+            },
+            {
+                "text": "Ability to store data in multiple locations.",
+                "isCorrect": false
+            },
+            {
+                "text": "Ability to access data from different operating systems.",
+                "isCorrect": false
+            },
+            {
+                "text": "Ability to secure data from unauthorized access.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In a three-schema architecture, the conceptual schema defines:",
+        "options": [
+            {
+                "text": "How data is physically stored.",
+                "isCorrect": false
+            },
+            {
+                "text": "The overall logical structure of the database.",
+                "isCorrect": true
+            },
+            {
+                "text": "The external view of the data for specific users.",
+                "isCorrect": false
+            },
+            {
+                "text": "The security constraints on the data.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which characteristic of a database ensures that data is accurate and consistent?",
+        "options": [
+            {
+                "text": "Data redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Data integrity",
+                "isCorrect": true
+            },
+            {
+                "text": "Data independence",
+                "isCorrect": false
+            },
+            {
+                "text": "Data security",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A DDL statement is primarily used for:",
+        "options": [
+            {
+                "text": "Inserting new data into tables.",
+                "isCorrect": false
+            },
+            {
+                "text": "Modifying existing data records.",
+                "isCorrect": false
+            },
+            {
+                "text": "Defining the database schema.",
+                "isCorrect": true
+            },
+            {
+                "text": "Retrieving data from the database.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of a DBMS?",
+        "options": [
+            {
+                "text": "Self-describing nature",
+                "isCorrect": false
+            },
+            {
+                "text": "Program-data independence",
+                "isCorrect": false
+            },
+            {
+                "text": "Support for multiple views of the data",
+                "isCorrect": false
+            },
+            {
+                "text": "High data redundancy",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In the E-R model, a weak entity set is one that:",
+        "options": [
+            {
+                "text": "Does not have a primary key.",
+                "isCorrect": false
+            },
+            {
+                "text": "Cannot exist without its identifying strong entity.",
+                "isCorrect": true
+            },
+            {
+                "text": "Has only partial attributes.",
+                "isCorrect": false
+            },
+            {
+                "text": "Is involved in a one-to-one relationship.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An attribute that can be divided into smaller sub-parts is called a:",
+        "options": [
+            {
+                "text": "Simple attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Composite attribute",
+                "isCorrect": true
+            },
+            {
+                "text": "Multivalued attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Derived attribute",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The relationship 'Manager manages Employee' is an example of a:",
+        "options": [
+            {
+                "text": "Binary relationship",
+                "isCorrect": false
+            },
+            {
+                "text": "Ternary relationship",
+                "isCorrect": false
+            },
+            {
+                "text": "Recursive relationship",
+                "isCorrect": true
+            },
+            {
+                "text": "Weak relationship",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In an E-R diagram, a double rectangle typically represents:",
+        "options": [
+            {
+                "text": "A strong entity",
+                "isCorrect": false
+            },
+            {
+                "text": "A weak entity",
+                "isCorrect": true
+            },
+            {
+                "text": "A relationship",
+                "isCorrect": false
+            },
+            {
+                "text": "An attribute",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a candidate key that is chosen by the database designer to uniquely identify tuples in a relation?",
+        "options": [
+            {
+                "text": "Primary key",
+                "isCorrect": true
+            },
+            {
+                "text": "Super key",
+                "isCorrect": false
+            },
+            {
+                "text": "Foreign key",
+                "isCorrect": false
+            },
+            {
+                "text": "Alternate key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A relation is in 1NF if:",
+        "options": [
+            {
+                "text": "All attributes are atomic.",
+                "isCorrect": true
+            },
+            {
+                "text": "All non-key attributes are fully functionally dependent on the primary key.",
+                "isCorrect": false
+            },
+            {
+                "text": "There are no transitive dependencies.",
+                "isCorrect": false
+            },
+            {
+                "text": "There are no partial dependencies.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A relation is in 2NF if it is in 1NF and:",
+        "options": [
+            {
+                "text": "All non-key attributes are fully functionally dependent on the primary key.",
+                "isCorrect": true
+            },
+            {
+                "text": "There are no transitive dependencies.",
+                "isCorrect": false
+            },
+            {
+                "text": "Every determinant is a candidate key.",
+                "isCorrect": false
+            },
+            {
+                "text": "It has at least one foreign key.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following normal forms eliminates transitive dependencies?",
+        "options": [
+            {
+                "text": "1NF",
+                "isCorrect": false
+            },
+            {
+                "text": "2NF",
+                "isCorrect": false
+            },
+            {
+                "text": "3NF",
+                "isCorrect": true
+            },
+            {
+                "text": "BCNF",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "BCNF is stricter than 3NF because:",
+        "options": [
+            {
+                "text": "It eliminates all anomalies.",
+                "isCorrect": false
+            },
+            {
+                "text": "Every determinant must be a candidate key.",
+                "isCorrect": true
+            },
+            {
+                "text": "It requires more tables.",
+                "isCorrect": false
+            },
+            {
+                "text": "It only applies to single-attribute primary keys.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The primary goal of normalization is to:",
+        "options": [
+            {
+                "text": "Improve query performance.",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduce data redundancy and anomalies.",
+                "isCorrect": true
+            },
+            {
+                "text": "Increase data security.",
+                "isCorrect": false
+            },
+            {
+                "text": "Simplify data entry.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL command is used to add new rows to a table?",
+        "options": [
+            {
+                "text": "UPDATE",
+                "isCorrect": false
+            },
+            {
+                "text": "INSERT INTO",
+                "isCorrect": true
+            },
+            {
+                "text": "ADD ROW",
+                "isCorrect": false
+            },
+            {
+                "text": "CREATE ROW",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of join returns only the rows that have matching values in both tables?",
+        "options": [
+            {
+                "text": "LEFT JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "RIGHT JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "FULL OUTER JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "INNER JOIN",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A VIEW in SQL is a:",
+        "options": [
+            {
+                "text": "Physical table storing denormalized data.",
+                "isCorrect": false
+            },
+            {
+                "text": "Virtual table based on the result-set of a SQL query.",
+                "isCorrect": true
+            },
+            {
+                "text": "Temporary table created for specific operations.",
+                "isCorrect": false
+            },
+            {
+                "text": "Stored procedure for data manipulation.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following SQL commands is used to modify existing data in a table?",
+        "options": [
+            {
+                "text": "INSERT",
+                "isCorrect": false
+            },
+            {
+                "text": "SELECT",
+                "isCorrect": false
+            },
+            {
+                "text": "UPDATE",
+                "isCorrect": true
+            },
+            {
+                "text": "ALTER",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'DISTINCT' keyword in a SELECT statement is used to:",
+        "options": [
+            {
+                "text": "Order the results in descending order.",
+                "isCorrect": false
+            },
+            {
+                "text": "Return only unique values.",
+                "isCorrect": true
+            },
+            {
+                "text": "Group rows with the same values.",
+                "isCorrect": false
+            },
+            {
+                "text": "Filter rows based on a condition.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The first step in query processing is typically:",
+        "options": [
+            {
+                "text": "Query optimization",
+                "isCorrect": false
+            },
+            {
+                "text": "Query execution",
+                "isCorrect": false
+            },
+            {
+                "text": "Parsing and translation",
+                "isCorrect": true
+            },
+            {
+                "text": "Result presentation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which component of a DBMS is responsible for generating an efficient execution plan for a query?",
+        "options": [
+            {
+                "text": "Query parser",
+                "isCorrect": false
+            },
+            {
+                "text": "Query optimizer",
+                "isCorrect": true
+            },
+            {
+                "text": "Execution engine",
+                "isCorrect": false
+            },
+            {
+                "text": "Buffer manager",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Estimating the cost of a query plan typically involves considering factors like:",
+        "options": [
+            {
+                "text": "Number of disk accesses.",
+                "isCorrect": false
+            },
+            {
+                "text": "CPU processing time.",
+                "isCorrect": false
+            },
+            {
+                "text": "Network communication overhead.",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "An access path for a query refers to:",
+        "options": [
+            {
+                "text": "The physical location of the data.",
+                "isCorrect": false
+            },
+            {
+                "text": "The sequence of operations used to retrieve data.",
+                "isCorrect": true
+            },
+            {
+                "text": "The network route to the database server.",
+                "isCorrect": false
+            },
+            {
+                "text": "The user's authorization level.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Heuristics used in query optimization typically aim to:",
+        "options": [
+            {
+                "text": "Guarantee the absolute optimal query plan.",
+                "isCorrect": false
+            },
+            {
+                "text": "Find a good, but not necessarily optimal, query plan quickly.",
+                "isCorrect": true
+            },
+            {
+                "text": "Increase the complexity of the query plan.",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduce the amount of data stored.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of physical data independence?",
+        "options": [
+            {
+                "text": "Adding a new attribute to a table without modifying application programs.",
+                "isCorrect": false
+            },
+            {
+                "text": "Changing the storage device for a database without affecting users.",
+                "isCorrect": true
+            },
+            {
+                "text": "Renaming a table without breaking application queries.",
+                "isCorrect": false
+            },
+            {
+                "text": "Modifying the data type of a column without affecting applications.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The main purpose of a Database Management System (DBMS) is to:",
+        "options": [
+            {
+                "text": "Provide an interface for direct file access.",
+                "isCorrect": false
+            },
+            {
+                "text": "Manage and retrieve data efficiently and securely.",
+                "isCorrect": true
+            },
+            {
+                "text": "Develop application programs.",
+                "isCorrect": false
+            },
+            {
+                "text": "Process financial transactions only.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a disadvantage of a file processing system compared to a DBMS?",
+        "options": [
+            {
+                "text": "Reduced data redundancy.",
+                "isCorrect": false
+            },
+            {
+                "text": "Improved data sharing.",
+                "isCorrect": false
+            },
+            {
+                "text": "Limited data integration.",
+                "isCorrect": true
+            },
+            {
+                "text": "Enhanced data security.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An instance of a database refers to:",
+        "options": [
+            {
+                "text": "The logical design of the database.",
+                "isCorrect": false
+            },
+            {
+                "text": "The actual data stored in the database at a particular moment.",
+                "isCorrect": true
+            },
+            {
+                "text": "The set of all possible queries that can be executed.",
+                "isCorrect": false
+            },
+            {
+                "text": "The number of users connected to the database.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of data model?",
+        "options": [
+            {
+                "text": "Relational Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Network Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Hierarchical Model",
+                "isCorrect": false
+            },
+            {
+                "text": "Algorithm Model",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In the E-R model, the cardinality of a relationship indicates:",
+        "options": [
+            {
+                "text": "The number of attributes in the relationship.",
+                "isCorrect": false
+            },
+            {
+                "text": "The number of entities involved in the relationship.",
+                "isCorrect": false
+            },
+            {
+                "text": "The maximum number of instances of an entity that can be associated with an instance of another entity.",
+                "isCorrect": true
+            },
+            {
+                "text": "The order in which entities are related.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A super key is any set of attributes that:",
+        "options": [
+            {
+                "text": "Uniquely identifies a tuple.",
+                "isCorrect": true
+            },
+            {
+                "text": "Is a subset of the primary key.",
+                "isCorrect": false
+            },
+            {
+                "text": "Is used for indexing.",
+                "isCorrect": false
+            },
+            {
+                "text": "Can be null.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which symbol is used to represent an attribute in an E-R diagram?",
+        "options": [
+            {
+                "text": "Rectangle",
+                "isCorrect": false
+            },
+            {
+                "text": "Diamond",
+                "isCorrect": false
+            },
+            {
+                "text": "Ellipse",
+                "isCorrect": true
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If an entity set has a discriminator, it is part of a:",
+        "options": [
+            {
+                "text": "Strong entity set",
+                "isCorrect": false
+            },
+            {
+                "text": "Weak entity set",
+                "isCorrect": true
+            },
+            {
+                "text": "Recursive entity set",
+                "isCorrect": false
+            },
+            {
+                "text": "Composite entity set",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which form of dependency is removed by moving a relation from 2NF to 3NF?",
+        "options": [
+            {
+                "text": "Partial dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Transitive dependency",
+                "isCorrect": true
+            },
+            {
+                "text": "Functional dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Multivalued dependency",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Denormalization is sometimes performed to:",
+        "options": [
+            {
+                "text": "Increase data redundancy to improve query performance.",
+                "isCorrect": true
+            },
+            {
+                "text": "Reduce data redundancy for better storage efficiency.",
+                "isCorrect": false
+            },
+            {
+                "text": "Comply with stricter normalization rules.",
+                "isCorrect": false
+            },
+            {
+                "text": "Simplify the database design process.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A functional dependency $A \\to B$ means:",
+        "options": [
+            {
+                "text": "B determines A.",
+                "isCorrect": false
+            },
+            {
+                "text": "A uniquely identifies B.",
+                "isCorrect": false
+            },
+            {
+                "text": "For every value of A, there is exactly one value of B.",
+                "isCorrect": true
+            },
+            {
+                "text": "A and B are related by a foreign key.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a type of anomaly that normalization aims to reduce?",
+        "options": [
+            {
+                "text": "Insertion anomaly",
+                "isCorrect": false
+            },
+            {
+                "text": "Deletion anomaly",
+                "isCorrect": false
+            },
+            {
+                "text": "Update anomaly",
+                "isCorrect": false
+            },
+            {
+                "text": "Security anomaly",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The 'ON DELETE CASCADE' clause in a foreign key constraint ensures:",
+        "options": [
+            {
+                "text": "Referenced rows are deleted when the referencing row is deleted.",
+                "isCorrect": false
+            },
+            {
+                "text": "Referencing rows are deleted when the referenced row is deleted.",
+                "isCorrect": true
+            },
+            {
+                "text": "Deletion is prevented if referencing rows exist.",
+                "isCorrect": false
+            },
+            {
+                "text": "No action is taken on deletion.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a DML command?",
+        "options": [
+            {
+                "text": "SELECT",
+                "isCorrect": false
+            },
+            {
+                "text": "INSERT",
+                "isCorrect": false
+            },
+            {
+                "text": "CREATE TABLE",
+                "isCorrect": true
+            },
+            {
+                "text": "DELETE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'GROUP BY' clause in SQL is used to:",
+        "options": [
+            {
+                "text": "Filter individual rows.",
+                "isCorrect": false
+            },
+            {
+                "text": "Combine rows that have the same values into summary rows.",
+                "isCorrect": true
+            },
+            {
+                "text": "Order the result set.",
+                "isCorrect": false
+            },
+            {
+                "text": "Join multiple tables.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which aggregate function returns the number of rows in a table?",
+        "options": [
+            {
+                "text": "SUM()",
+                "isCorrect": false
+            },
+            {
+                "text": "AVG()",
+                "isCorrect": false
+            },
+            {
+                "text": "COUNT()",
+                "isCorrect": true
+            },
+            {
+                "text": "MAX()",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A subquery (nested query) is a query within another:",
+        "options": [
+            {
+                "text": "SELECT, INSERT, UPDATE, or DELETE statement.",
+                "isCorrect": true
+            },
+            {
+                "text": "Only SELECT statements.",
+                "isCorrect": false
+            },
+            {
+                "text": "Only DDL statements.",
+                "isCorrect": false
+            },
+            {
+                "text": "Only stored procedures.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The 'HAVING' clause is used with 'GROUP BY' to:",
+        "options": [
+            {
+                "text": "Filter individual rows before grouping.",
+                "isCorrect": false
+            },
+            {
+                "text": "Filter groups based on a condition.",
+                "isCorrect": true
+            },
+            {
+                "text": "Order the grouped results.",
+                "isCorrect": false
+            },
+            {
+                "text": "Perform joins on grouped data.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The main goal of query optimization is to:",
+        "options": [
+            {
+                "text": "Reduce the number of queries executed.",
+                "isCorrect": false
+            },
+            {
+                "text": "Find the most efficient execution plan for a query.",
+                "isCorrect": true
+            },
+            {
+                "text": "Increase the database size.",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensure data security.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a common query operation?",
+        "options": [
+            {
+                "text": "Selection (filter)",
+                "isCorrect": false
+            },
+            {
+                "text": "Projection (columns)",
+                "isCorrect": false
+            },
+            {
+                "text": "Join (combining tables)",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The 'cardinality' of a relation refers to the:",
+        "options": [
+            {
+                "text": "Number of attributes (columns).",
+                "isCorrect": false
+            },
+            {
+                "text": "Number of tuples (rows).",
+                "isCorrect": true
+            },
+            {
+                "text": "Number of primary keys.",
+                "isCorrect": false
+            },
+            {
+                "text": "Number of foreign keys.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A histogram is sometimes used in query cost estimation to:",
+        "options": [
+            {
+                "text": "Visualize query execution plans.",
+                "isCorrect": false
+            },
+            {
+                "text": "Estimate the distribution of data values in a column.",
+                "isCorrect": true
+            },
+            {
+                "text": "Track user query patterns.",
+                "isCorrect": false
+            },
+            {
+                "text": "Store temporary query results.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The process of 'materialization' in query evaluation involves:",
+        "options": [
+            {
+                "text": "Storing intermediate results of a query.",
+                "isCorrect": true
+            },
+            {
+                "text": "Converting a logical plan to a physical plan.",
+                "isCorrect": false
+            },
+            {
+                "text": "Optimizing the query before execution.",
+                "isCorrect": false
+            },
+            {
+                "text": "Displaying the final query results to the user.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of query optimization is performed after the query is parsed and before execution?",
+        "options": [
+            {
+                "text": "Physical optimization",
+                "isCorrect": false
+            },
+            {
+                "text": "Logical optimization",
+                "isCorrect": true
+            },
+            {
+                "text": "Syntactic optimization",
+                "isCorrect": false
+            },
+            {
+                "text": "Semantic optimization",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Purpose of DBMS is to",
+        "options": [
+            {
+                "text": "Store and manage data",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduce data redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensure data integrity",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Data abstraction hides",
+        "options": [
+            {
+                "text": "Physical storage details",
+                "isCorrect": true
+            },
+            {
+                "text": "Logical schema",
+                "isCorrect": false
+            },
+            {
+                "text": "External schema",
+                "isCorrect": false
+            },
+            {
+                "text": "All schemas",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Data independence allows",
+        "options": [
+            {
+                "text": "Schema change w/o app change",
+                "isCorrect": true
+            },
+            {
+                "text": "Data redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Query complexity",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Instance of a database is",
+        "options": [
+            {
+                "text": "Schema structure",
+                "isCorrect": false
+            },
+            {
+                "text": "Data at a given time",
+                "isCorrect": true
+            },
+            {
+                "text": "DDL commands",
+                "isCorrect": false
+            },
+            {
+                "text": "DML queries",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DDL is used to",
+        "options": [
+            {
+                "text": "Modify data",
+                "isCorrect": false
+            },
+            {
+                "text": "Define schema",
+                "isCorrect": true
+            },
+            {
+                "text": "Query data",
+                "isCorrect": false
+            },
+            {
+                "text": "Delete records",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DML operations include",
+        "options": [
+            {
+                "text": "CREATE, ALTER",
+                "isCorrect": false
+            },
+            {
+                "text": "INSERT, UPDATE",
+                "isCorrect": true
+            },
+            {
+                "text": "GRANT, REVOKE",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hierarchical DBMS uses",
+        "options": [
+            {
+                "text": "Tree-like structure",
+                "isCorrect": true
+            },
+            {
+                "text": "Relational tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Network graphs",
+                "isCorrect": false
+            },
+            {
+                "text": "Key-value pairs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Entity in ER model is",
+        "options": [
+            {
+                "text": "Attribute set",
+                "isCorrect": false
+            },
+            {
+                "text": "Real-world object",
+                "isCorrect": true
+            },
+            {
+                "text": "Relationship type",
+                "isCorrect": false
+            },
+            {
+                "text": "Database schema",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Weak entity lacks",
+        "options": [
+            {
+                "text": "Primary key",
+                "isCorrect": true
+            },
+            {
+                "text": "Foreign key",
+                "isCorrect": false
+            },
+            {
+                "text": "Composite key",
+                "isCorrect": false
+            },
+            {
+                "text": "Candidate key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Attribute type that uniquely identifies entity is",
+        "options": [
+            {
+                "text": "Composite attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Key attribute",
+                "isCorrect": true
+            },
+            {
+                "text": "Derived attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Multivalued attribute",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In ER diagram, relationship is shown as",
+        "options": [
+            {
+                "text": "Rectangle",
+                "isCorrect": false
+            },
+            {
+                "text": "Ellipse",
+                "isCorrect": false
+            },
+            {
+                "text": "Diamond",
+                "isCorrect": true
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Cardinality of relationship defines",
+        "options": [
+            {
+                "text": "Attribute count",
+                "isCorrect": false
+            },
+            {
+                "text": "Entity instances",
+                "isCorrect": false
+            },
+            {
+                "text": "Relationship mapping",
+                "isCorrect": true
+            },
+            {
+                "text": "Key constraints",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Many-to-many relationship requires",
+        "options": [
+            {
+                "text": "Single table",
+                "isCorrect": false
+            },
+            {
+                "text": "Associative entity",
+                "isCorrect": true
+            },
+            {
+                "text": "Primary key",
+                "isCorrect": false
+            },
+            {
+                "text": "Foreign key only",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Normalization reduces",
+        "options": [
+            {
+                "text": "Data redundancy",
+                "isCorrect": true
+            },
+            {
+                "text": "Query speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Schema size",
+                "isCorrect": false
+            },
+            {
+                "text": "Data integrity",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1NF requires",
+        "options": [
+            {
+                "text": "Atomic values",
+                "isCorrect": true
+            },
+            {
+                "text": "No dependencies",
+                "isCorrect": false
+            },
+            {
+                "text": "Unique keys",
+                "isCorrect": false
+            },
+            {
+                "text": "No nulls",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "2NF eliminates",
+        "options": [
+            {
+                "text": "Transitive dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Partial dependency",
+                "isCorrect": true
+            },
+            {
+                "text": "Multivalued dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Full dependency",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "3NF ensures no",
+        "options": [
+            {
+                "text": "Partial dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Transitive dependency",
+                "isCorrect": true
+            },
+            {
+                "text": "Multivalued dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "Key dependency",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "BCNF is stricter than",
+        "options": [
+            {
+                "text": "1NF",
+                "isCorrect": false
+            },
+            {
+                "text": "2NF",
+                "isCorrect": false
+            },
+            {
+                "text": "3NF",
+                "isCorrect": true
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "BCNF requires every",
+        "options": [
+            {
+                "text": "Key to be candidate",
+                "isCorrect": true
+            },
+            {
+                "text": "Attribute to be key",
+                "isCorrect": false
+            },
+            {
+                "text": "Table to be 3NF",
+                "isCorrect": false
+            },
+            {
+                "text": "Dependency to be partial",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SQL is a",
+        "options": [
+            {
+                "text": "Procedural language",
+                "isCorrect": false
+            },
+            {
+                "text": "Declarative language",
+                "isCorrect": true
+            },
+            {
+                "text": "Object-oriented language",
+                "isCorrect": false
+            },
+            {
+                "text": "Scripting language",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SQL INSERT adds",
+        "options": [
+            {
+                "text": "New table",
+                "isCorrect": false
+            },
+            {
+                "text": "New column",
+                "isCorrect": false
+            },
+            {
+                "text": "New row",
+                "isCorrect": true
+            },
+            {
+                "text": "New schema",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "UPDATE query modifies",
+        "options": [
+            {
+                "text": "Table structure",
+                "isCorrect": false
+            },
+            {
+                "text": "Existing data",
+                "isCorrect": true
+            },
+            {
+                "text": "Schema definition",
+                "isCorrect": false
+            },
+            {
+                "text": "Database constraints",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DELETE query removes",
+        "options": [
+            {
+                "text": "Table schema",
+                "isCorrect": false
+            },
+            {
+                "text": "Rows from table",
+                "isCorrect": true
+            },
+            {
+                "text": "Database instance",
+                "isCorrect": false
+            },
+            {
+                "text": "Column attributes",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SQL JOIN combines",
+        "options": [
+            {
+                "text": "Rows from tables",
+                "isCorrect": true
+            },
+            {
+                "text": "Columns from tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Schemas",
+                "isCorrect": false
+            },
+            {
+                "text": "Databases",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "View in SQL is a",
+        "options": [
+            {
+                "text": "Physical table",
+                "isCorrect": false
+            },
+            {
+                "text": "Virtual table",
+                "isCorrect": true
+            },
+            {
+                "text": "Temporary table",
+                "isCorrect": false
+            },
+            {
+                "text": "Index structure",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Outer join includes",
+        "options": [
+            {
+                "text": "Matched rows only",
+                "isCorrect": false
+            },
+            {
+                "text": "Unmatched rows",
+                "isCorrect": true
+            },
+            {
+                "text": "Indexed rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Grouped rows",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query processing involves",
+        "options": [
+            {
+                "text": "Schema creation",
+                "isCorrect": false
+            },
+            {
+                "text": "Query optimization",
+                "isCorrect": true
+            },
+            {
+                "text": "Data insertion",
+                "isCorrect": false
+            },
+            {
+                "text": "Table deletion",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query cost estimation uses",
+        "options": [
+            {
+                "text": "Disk I/O and CPU",
+                "isCorrect": true
+            },
+            {
+                "text": "Network speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Schema size",
+                "isCorrect": false
+            },
+            {
+                "text": "Table count",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query optimization aims to",
+        "options": [
+            {
+                "text": "Increase redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Reduce execution time",
+                "isCorrect": true
+            },
+            {
+                "text": "Add constraints",
+                "isCorrect": false
+            },
+            {
+                "text": "Modify schema",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Join operation in query is",
+        "options": [
+            {
+                "text": "Always nested loop",
+                "isCorrect": false
+            },
+            {
+                "text": "Costly operation",
+                "isCorrect": true
+            },
+            {
+                "text": "Schema-based",
+                "isCorrect": false
+            },
+            {
+                "text": "Index-free",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query evaluation plan is",
+        "options": [
+            {
+                "text": "Execution strategy",
+                "isCorrect": true
+            },
+            {
+                "text": "Schema definition",
+                "isCorrect": false
+            },
+            {
+                "text": "Data model",
+                "isCorrect": false
+            },
+            {
+                "text": "Normalization step",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Candidate key is",
+        "options": [
+            {
+                "text": "Minimal superkey",
+                "isCorrect": true
+            },
+            {
+                "text": "Composite key",
+                "isCorrect": false
+            },
+            {
+                "text": "Foreign key",
+                "isCorrect": false
+            },
+            {
+                "text": "Non-unique key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ER diagram weak entity is shown as",
+        "options": [
+            {
+                "text": "Double rectangle",
+                "isCorrect": true
+            },
+            {
+                "text": "Single rectangle",
+                "isCorrect": false
+            },
+            {
+                "text": "Ellipse",
+                "isCorrect": false
+            },
+            {
+                "text": "Diamond",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Functional dependency A → B means",
+        "options": [
+            {
+                "text": "A determines B",
+                "isCorrect": true
+            },
+            {
+                "text": "B determines A",
+                "isCorrect": false
+            },
+            {
+                "text": "A and B are keys",
+                "isCorrect": false
+            },
+            {
+                "text": "No dependency",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Multivalued dependency occurs in",
+        "options": [
+            {
+                "text": "1NF",
+                "isCorrect": false
+            },
+            {
+                "text": "2NF",
+                "isCorrect": false
+            },
+            {
+                "text": "3NF",
+                "isCorrect": false
+            },
+            {
+                "text": "4NF",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "SQL GROUP BY is used for",
+        "options": [
+            {
+                "text": "Joining tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Aggregating data",
+                "isCorrect": true
+            },
+            {
+                "text": "Sorting rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Filtering rows",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "HAVING clause filters",
+        "options": [
+            {
+                "text": "Individual rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Grouped rows",
+                "isCorrect": true
+            },
+            {
+                "text": "Joined tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Subqueries",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Index in DBMS improves",
+        "options": [
+            {
+                "text": "Data redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Query performance",
+                "isCorrect": true
+            },
+            {
+                "text": "Schema size",
+                "isCorrect": false
+            },
+            {
+                "text": "Data integrity",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Clustered index determines",
+        "options": [
+            {
+                "text": "Data storage order",
+                "isCorrect": true
+            },
+            {
+                "text": "Query cost",
+                "isCorrect": false
+            },
+            {
+                "text": "Schema structure",
+                "isCorrect": false
+            },
+            {
+                "text": "Join type",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query optimizer chooses",
+        "options": [
+            {
+                "text": "Lowest cost plan",
+                "isCorrect": true
+            },
+            {
+                "text": "Random plan",
+                "isCorrect": false
+            },
+            {
+                "text": "Highest cost plan",
+                "isCorrect": false
+            },
+            {
+                "text": "No plan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Materialized view stores",
+        "options": [
+            {
+                "text": "Query result",
+                "isCorrect": true
+            },
+            {
+                "text": "Virtual data",
+                "isCorrect": false
+            },
+            {
+                "text": "Schema definition",
+                "isCorrect": false
+            },
+            {
+                "text": "Temporary data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Transitive dependency exists when",
+        "options": [
+            {
+                "text": "A → B, B → C",
+                "isCorrect": true
+            },
+            {
+                "text": "A → B, B → A",
+                "isCorrect": false
+            },
+            {
+                "text": "A → B, C → B",
+                "isCorrect": false
+            },
+            {
+                "text": "A → A",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SQL subquery is",
+        "options": [
+            {
+                "text": "Nested query",
+                "isCorrect": true
+            },
+            {
+                "text": "Joined table",
+                "isCorrect": false
+            },
+            {
+                "text": "Grouped query",
+                "isCorrect": false
+            },
+            {
+                "text": "Indexed query",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hash join is efficient for",
+        "options": [
+            {
+                "text": "Small tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Large tables",
+                "isCorrect": true
+            },
+            {
+                "text": "Indexed tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Sorted tables",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query cost depends on",
+        "options": [
+            {
+                "text": "Table size",
+                "isCorrect": true
+            },
+            {
+                "text": "Network speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Schema complexity",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Denormalization is used to",
+        "options": [
+            {
+                "text": "Improve performance",
+                "isCorrect": true
+            },
+            {
+                "text": "Reduce redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Ensure 3NF",
+                "isCorrect": false
+            },
+            {
+                "text": "Add constraints",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ER diagram total participation is shown as",
+        "options": [
+            {
+                "text": "Single line",
+                "isCorrect": false
+            },
+            {
+                "text": "Double line",
+                "isCorrect": true
+            },
+            {
+                "text": "Dashed line",
+                "isCorrect": false
+            },
+            {
+                "text": "Arrow",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SQL DISTINCT removes",
+        "options": [
+            {
+                "text": "Duplicate rows",
+                "isCorrect": true
+            },
+            {
+                "text": "Null values",
+                "isCorrect": false
+            },
+            {
+                "text": "Primary keys",
+                "isCorrect": false
+            },
+            {
+                "text": "Foreign keys",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query pipeline includes",
+        "options": [
+            {
+                "text": "Parsing, optimization",
+                "isCorrect": true
+            },
+            {
+                "text": "Schema creation",
+                "isCorrect": false
+            },
+            {
+                "text": "Data insertion",
+                "isCorrect": false
+            },
+            {
+                "text": "Table deletion",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "BCNF violation occurs when",
+        "options": [
+            {
+                "text": "Non-key determines key",
+                "isCorrect": true
+            },
+            {
+                "text": "Key determines non-key",
+                "isCorrect": false
+            },
+            {
+                "text": "No dependencies",
+                "isCorrect": false
+            },
+            {
+                "text": "Partial dependency",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which characteristic best distinguishes a database from a file system?",
+        "options": [
+            {
+                "text": "Data redundancy control",
+                "isCorrect": true
+            },
+            {
+                "text": "Physical data independence",
+                "isCorrect": false
+            },
+            {
+                "text": "No concurrent access",
+                "isCorrect": false
+            },
+            {
+                "text": "Manual data retrieval",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a typical application of databases?",
+        "options": [
+            {
+                "text": "Banking systems",
+                "isCorrect": false
+            },
+            {
+                "text": "Word processing",
+                "isCorrect": true
+            },
+            {
+                "text": "Airline reservations",
+                "isCorrect": false
+            },
+            {
+                "text": "Library management",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Data abstraction in DBMS is mainly achieved through:",
+        "options": [
+            {
+                "text": "Views",
+                "isCorrect": true
+            },
+            {
+                "text": "Triggers",
+                "isCorrect": false
+            },
+            {
+                "text": "Indexes",
+                "isCorrect": false
+            },
+            {
+                "text": "Stored procedures",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which level of data abstraction describes what data is stored and relationships?",
+        "options": [
+            {
+                "text": "Logical level",
+                "isCorrect": true
+            },
+            {
+                "text": "Physical level",
+                "isCorrect": false
+            },
+            {
+                "text": "View level",
+                "isCorrect": false
+            },
+            {
+                "text": "External level",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which statement about data independence is correct?",
+        "options": [
+            {
+                "text": "Physical data independence is harder to achieve",
+                "isCorrect": true
+            },
+            {
+                "text": "Logical data independence is easier than physical",
+                "isCorrect": false
+            },
+            {
+                "text": "Both are easily achieved",
+                "isCorrect": false
+            },
+            {
+                "text": "Neither is achievable",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A database schema is:",
+        "options": [
+            {
+                "text": "A logical design of the database",
+                "isCorrect": true
+            },
+            {
+                "text": "A snapshot of data at a moment",
+                "isCorrect": false
+            },
+            {
+                "text": "A data manipulation language",
+                "isCorrect": false
+            },
+            {
+                "text": "A physical storage structure",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An instance of a database refers to:",
+        "options": [
+            {
+                "text": "The data at a particular moment",
+                "isCorrect": true
+            },
+            {
+                "text": "The database design",
+                "isCorrect": false
+            },
+            {
+                "text": "The set of constraints",
+                "isCorrect": false
+            },
+            {
+                "text": "The set of triggers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a classification of DBMS?",
+        "options": [
+            {
+                "text": "Hierarchical",
+                "isCorrect": false
+            },
+            {
+                "text": "Network",
+                "isCorrect": false
+            },
+            {
+                "text": "Flat-file",
+                "isCorrect": true
+            },
+            {
+                "text": "Relational",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DDL is used for:",
+        "options": [
+            {
+                "text": "Defining database structure",
+                "isCorrect": true
+            },
+            {
+                "text": "Manipulating data",
+                "isCorrect": false
+            },
+            {
+                "text": "Controlling access",
+                "isCorrect": false
+            },
+            {
+                "text": "Backing up data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a DML command?",
+        "options": [
+            {
+                "text": "INSERT",
+                "isCorrect": true
+            },
+            {
+                "text": "CREATE",
+                "isCorrect": false
+            },
+            {
+                "text": "ALTER",
+                "isCorrect": false
+            },
+            {
+                "text": "DROP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the ER model, an entity is:",
+        "options": [
+            {
+                "text": "A real-world object",
+                "isCorrect": true
+            },
+            {
+                "text": "A relationship",
+                "isCorrect": false
+            },
+            {
+                "text": "An attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "A key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is true about entity sets?",
+        "options": [
+            {
+                "text": "They are collections of similar entities",
+                "isCorrect": true
+            },
+            {
+                "text": "They are always unique",
+                "isCorrect": false
+            },
+            {
+                "text": "They cannot have attributes",
+                "isCorrect": false
+            },
+            {
+                "text": "They represent relationships",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a composite attribute?",
+        "options": [
+            {
+                "text": "Address",
+                "isCorrect": true
+            },
+            {
+                "text": "Age",
+                "isCorrect": false
+            },
+            {
+                "text": "EmployeeID",
+                "isCorrect": false
+            },
+            {
+                "text": "Salary",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A candidate key is:",
+        "options": [
+            {
+                "text": "A minimal super key",
+                "isCorrect": true
+            },
+            {
+                "text": "Always a primary key",
+                "isCorrect": false
+            },
+            {
+                "text": "A foreign key",
+                "isCorrect": false
+            },
+            {
+                "text": "A composite attribute",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which relationship type has many entities in both sets?",
+        "options": [
+            {
+                "text": "Many-to-many",
+                "isCorrect": true
+            },
+            {
+                "text": "One-to-one",
+                "isCorrect": false
+            },
+            {
+                "text": "One-to-many",
+                "isCorrect": false
+            },
+            {
+                "text": "Recursive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a valid ER diagram symbol?",
+        "options": [
+            {
+                "text": "Diamond for relationship",
+                "isCorrect": false
+            },
+            {
+                "text": "Ellipse for attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Rectangle for entity",
+                "isCorrect": false
+            },
+            {
+                "text": "Triangle for key",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Normalization primarily aims to:",
+        "options": [
+            {
+                "text": "Reduce data redundancy",
+                "isCorrect": true
+            },
+            {
+                "text": "Increase query speed",
+                "isCorrect": false
+            },
+            {
+                "text": "Add more tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Remove all keys",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A table is in 1NF if:",
+        "options": [
+            {
+                "text": "All attributes are atomic",
+                "isCorrect": true
+            },
+            {
+                "text": "All attributes are unique",
+                "isCorrect": false
+            },
+            {
+                "text": "No foreign keys exist",
+                "isCorrect": false
+            },
+            {
+                "text": "It has only one key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A table is in 2NF if:",
+        "options": [
+            {
+                "text": "It is in 1NF and has no partial dependency",
+                "isCorrect": true
+            },
+            {
+                "text": "It has no transitive dependency",
+                "isCorrect": false
+            },
+            {
+                "text": "It has only one candidate key",
+                "isCorrect": false
+            },
+            {
+                "text": "It has a composite key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is required for 3NF?",
+        "options": [
+            {
+                "text": "No transitive dependencies",
+                "isCorrect": true
+            },
+            {
+                "text": "No partial dependencies",
+                "isCorrect": false
+            },
+            {
+                "text": "No candidate keys",
+                "isCorrect": false
+            },
+            {
+                "text": "No primary key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "BCNF is stricter than 3NF because:",
+        "options": [
+            {
+                "text": "Every determinant is a candidate key",
+                "isCorrect": true
+            },
+            {
+                "text": "No partial dependencies",
+                "isCorrect": false
+            },
+            {
+                "text": "No foreign key constraints",
+                "isCorrect": false
+            },
+            {
+                "text": "No null values allowed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL statement is used to add new data?",
+        "options": [
+            {
+                "text": "INSERT",
+                "isCorrect": true
+            },
+            {
+                "text": "UPDATE",
+                "isCorrect": false
+            },
+            {
+                "text": "DELETE",
+                "isCorrect": false
+            },
+            {
+                "text": "SELECT",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL clause is used to change existing data?",
+        "options": [
+            {
+                "text": "UPDATE",
+                "isCorrect": true
+            },
+            {
+                "text": "ALTER",
+                "isCorrect": false
+            },
+            {
+                "text": "MODIFY",
+                "isCorrect": false
+            },
+            {
+                "text": "REPLACE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL command removes rows from a table?",
+        "options": [
+            {
+                "text": "DELETE",
+                "isCorrect": true
+            },
+            {
+                "text": "DROP",
+                "isCorrect": false
+            },
+            {
+                "text": "REMOVE",
+                "isCorrect": false
+            },
+            {
+                "text": "TRUNCATE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL feature allows combining rows from two tables?",
+        "options": [
+            {
+                "text": "JOIN",
+                "isCorrect": true
+            },
+            {
+                "text": "GROUP BY",
+                "isCorrect": false
+            },
+            {
+                "text": "ORDER BY",
+                "isCorrect": false
+            },
+            {
+                "text": "HAVING",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A view in SQL is:",
+        "options": [
+            {
+                "text": "A virtual table",
+                "isCorrect": true
+            },
+            {
+                "text": "A physical table",
+                "isCorrect": false
+            },
+            {
+                "text": "A stored procedure",
+                "isCorrect": false
+            },
+            {
+                "text": "A trigger",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which join returns all rows from both tables, matching where possible?",
+        "options": [
+            {
+                "text": "FULL OUTER JOIN",
+                "isCorrect": true
+            },
+            {
+                "text": "INNER JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "LEFT JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "RIGHT JOIN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a feature of SQL?",
+        "options": [
+            {
+                "text": "Procedural language",
+                "isCorrect": true
+            },
+            {
+                "text": "Data definition",
+                "isCorrect": false
+            },
+            {
+                "text": "Data manipulation",
+                "isCorrect": false
+            },
+            {
+                "text": "Data control",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query processing refers to:",
+        "options": [
+            {
+                "text": "Translating queries into low-level instructions",
+                "isCorrect": true
+            },
+            {
+                "text": "Designing tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Backing up data",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating indexes",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query cost estimation is important for:",
+        "options": [
+            {
+                "text": "Optimizing query execution",
+                "isCorrect": true
+            },
+            {
+                "text": "Adding new tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Defining keys",
+                "isCorrect": false
+            },
+            {
+                "text": "Creating triggers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which operation is NOT part of query operations?",
+        "options": [
+            {
+                "text": "Sorting",
+                "isCorrect": false
+            },
+            {
+                "text": "Selection",
+                "isCorrect": false
+            },
+            {
+                "text": "Projection",
+                "isCorrect": false
+            },
+            {
+                "text": "Encryption",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which is a common query evaluation strategy?",
+        "options": [
+            {
+                "text": "Pipelining",
+                "isCorrect": true
+            },
+            {
+                "text": "Indexing",
+                "isCorrect": false
+            },
+            {
+                "text": "Normalization",
+                "isCorrect": false
+            },
+            {
+                "text": "Backup",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Query optimization aims to:",
+        "options": [
+            {
+                "text": "Minimize resource usage",
+                "isCorrect": true
+            },
+            {
+                "text": "Increase data redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Remove constraints",
+                "isCorrect": false
+            },
+            {
+                "text": "Increase normalization",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a benefit of DBMS?",
+        "options": [
+            {
+                "text": "Increased data redundancy",
+                "isCorrect": true
+            },
+            {
+                "text": "Data integrity",
+                "isCorrect": false
+            },
+            {
+                "text": "Concurrent access",
+                "isCorrect": false
+            },
+            {
+                "text": "Security",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Physical data independence means:",
+        "options": [
+            {
+                "text": "Change in storage does not affect schema",
+                "isCorrect": true
+            },
+            {
+                "text": "Change in schema affects storage",
+                "isCorrect": false
+            },
+            {
+                "text": "Data is always encrypted",
+                "isCorrect": false
+            },
+            {
+                "text": "No data abstraction",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is true about hierarchical DBMS?",
+        "options": [
+            {
+                "text": "Uses tree structure",
+                "isCorrect": true
+            },
+            {
+                "text": "Uses graph structure",
+                "isCorrect": false
+            },
+            {
+                "text": "Uses tables",
+                "isCorrect": false
+            },
+            {
+                "text": "Uses linked lists",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Network DBMS is best suited for:",
+        "options": [
+            {
+                "text": "Many-to-many relationships",
+                "isCorrect": true
+            },
+            {
+                "text": "One-to-one relationships",
+                "isCorrect": false
+            },
+            {
+                "text": "Flat data",
+                "isCorrect": false
+            },
+            {
+                "text": "Hierarchical data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which statement about relational DBMS is correct?",
+        "options": [
+            {
+                "text": "Data is stored in tables",
+                "isCorrect": true
+            },
+            {
+                "text": "Data is stored in files",
+                "isCorrect": false
+            },
+            {
+                "text": "No keys are used",
+                "isCorrect": false
+            },
+            {
+                "text": "No relationships exist",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a valid SQL data type?",
+        "options": [
+            {
+                "text": "FLOAT",
+                "isCorrect": false
+            },
+            {
+                "text": "VARCHAR",
+                "isCorrect": false
+            },
+            {
+                "text": "NUMBER",
+                "isCorrect": true
+            },
+            {
+                "text": "BOOLEAN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a super key?",
+        "options": [
+            {
+                "text": "Any set of attributes uniquely identifying a row",
+                "isCorrect": true
+            },
+            {
+                "text": "Only primary key",
+                "isCorrect": false
+            },
+            {
+                "text": "Only foreign key",
+                "isCorrect": false
+            },
+            {
+                "text": "Only composite key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A foreign key is used to:",
+        "options": [
+            {
+                "text": "Refer to primary key in another table",
+                "isCorrect": true
+            },
+            {
+                "text": "Identify unique rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Auto-increment values",
+                "isCorrect": false
+            },
+            {
+                "text": "Create views",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a valid normalization form?",
+        "options": [
+            {
+                "text": "5NF",
+                "isCorrect": false
+            },
+            {
+                "text": "4NF",
+                "isCorrect": false
+            },
+            {
+                "text": "3NF",
+                "isCorrect": false
+            },
+            {
+                "text": "6NF",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a valid SQL constraint?",
+        "options": [
+            {
+                "text": "UNIQUE",
+                "isCorrect": false
+            },
+            {
+                "text": "PRIMARY KEY",
+                "isCorrect": false
+            },
+            {
+                "text": "CHECK",
+                "isCorrect": false
+            },
+            {
+                "text": "INCREMENT",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which operation is used to combine columns from two tables?",
+        "options": [
+            {
+                "text": "JOIN",
+                "isCorrect": true
+            },
+            {
+                "text": "UNION",
+                "isCorrect": false
+            },
+            {
+                "text": "INTERSECT",
+                "isCorrect": false
+            },
+            {
+                "text": "DIFFERENCE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which clause is used to filter rows in SQL?",
+        "options": [
+            {
+                "text": "WHERE",
+                "isCorrect": true
+            },
+            {
+                "text": "HAVING",
+                "isCorrect": false
+            },
+            {
+                "text": "ORDER BY",
+                "isCorrect": false
+            },
+            {
+                "text": "GROUP BY",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL function returns the number of rows?",
+        "options": [
+            {
+                "text": "COUNT()",
+                "isCorrect": true
+            },
+            {
+                "text": "SUM()",
+                "isCorrect": false
+            },
+            {
+                "text": "AVG()",
+                "isCorrect": false
+            },
+            {
+                "text": "MAX()",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a valid SQL join type?",
+        "options": [
+            {
+                "text": "CROSS JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "LEFT JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "OUTER JOIN",
+                "isCorrect": false
+            },
+            {
+                "text": "INNER OUTER JOIN",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which is used to remove a table from a database?",
+        "options": [
+            {
+                "text": "DROP TABLE",
+                "isCorrect": true
+            },
+            {
+                "text": "DELETE TABLE",
+                "isCorrect": false
+            },
+            {
+                "text": "REMOVE TABLE",
+                "isCorrect": false
+            },
+            {
+                "text": "TRUNCATE TABLE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a valid SQL aggregate function?",
+        "options": [
+            {
+                "text": "MIN()",
+                "isCorrect": false
+            },
+            {
+                "text": "MAX()",
+                "isCorrect": false
+            },
+            {
+                "text": "TOTAL()",
+                "isCorrect": true
+            },
+            {
+                "text": "AVG()",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a valid SQL view creation statement?",
+        "options": [
+            {
+                "text": "CREATE VIEW view_name AS SELECT ...",
+                "isCorrect": true
+            },
+            {
+                "text": "INSERT VIEW view_name",
+                "isCorrect": false
+            },
+            {
+                "text": "ALTER VIEW view_name",
+                "isCorrect": false
+            },
+            {
+                "text": "DROP VIEW view_name",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is a valid method for query optimization?",
+        "options": [
+            {
+                "text": "Using indexes",
+                "isCorrect": true
+            },
+            {
+                "text": "Adding redundancy",
+                "isCorrect": false
+            },
+            {
+                "text": "Removing keys",
+                "isCorrect": false
+            },
+            {
+                "text": "Increasing table size",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which abstraction level hides the physical storage of data?",
+        "options": [
+            {
+                "text": "View level",
+                "isCorrect": false
+            },
+            {
+                "text": "Schema level",
+                "isCorrect": false
+            },
+            {
+                "text": "Instance level",
+                "isCorrect": false
+            },
+            {
+                "text": "Conceptual level",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which DBMS class provides centralized control over data?",
+        "options": [
+            {
+                "text": "Hierarchical DBMS",
+                "isCorrect": false
+            },
+            {
+                "text": "Network DBMS",
+                "isCorrect": false
+            },
+            {
+                "text": "Centralized DBMS",
+                "isCorrect": true
+            },
+            {
+                "text": "Distributed DBMS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In ER modeling, total participation is represented by",
+        "options": [
+            {
+                "text": "Single line",
+                "isCorrect": false
+            },
+            {
+                "text": "Double rectangle",
+                "isCorrect": false
+            },
+            {
+                "text": "Double line",
+                "isCorrect": true
+            },
+            {
+                "text": "Dotted line",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A derived attribute is",
+        "options": [
+            {
+                "text": "Always multi-valued",
+                "isCorrect": false
+            },
+            {
+                "text": "Stored explicitly",
+                "isCorrect": false
+            },
+            {
+                "text": "Not stored but computed",
+                "isCorrect": true
+            },
+            {
+                "text": "Part of a composite key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which key type is not inherited by child entities in generalization?",
+        "options": [
+            {
+                "text": "Primary key",
+                "isCorrect": false
+            },
+            {
+                "text": "Foreign key",
+                "isCorrect": true
+            },
+            {
+                "text": "Candidate key",
+                "isCorrect": false
+            },
+            {
+                "text": "Super key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which normal form eliminates transitive dependencies?",
+        "options": [
+            {
+                "text": "1NF",
+                "isCorrect": false
+            },
+            {
+                "text": "2NF",
+                "isCorrect": false
+            },
+            {
+                "text": "3NF",
+                "isCorrect": true
+            },
+            {
+                "text": "BCNF",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A table is in BCNF if",
+        "options": [
+            {
+                "text": "Every FD has prime attribute",
+                "isCorrect": false
+            },
+            {
+                "text": "Every FD has super key",
+                "isCorrect": true
+            },
+            {
+                "text": "Only 1NF is satisfied",
+                "isCorrect": false
+            },
+            {
+                "text": "Every attribute is atomic",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which SQL clause is used to update data?",
+        "options": [
+            {
+                "text": "INSERT",
+                "isCorrect": false
+            },
+            {
+                "text": "MODIFY",
+                "isCorrect": false
+            },
+            {
+                "text": "UPDATE",
+                "isCorrect": true
+            },
+            {
+                "text": "CHANGE",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is returned by an INNER JOIN?",
+        "options": [
+            {
+                "text": "Only matching rows",
+                "isCorrect": true
+            },
+            {
+                "text": "All left table rows",
+                "isCorrect": false
+            },
+            {
+                "text": "All right table rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Union of both tables",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following minimizes the number of operations in SQL?",
+        "options": [
+            {
+                "text": "Query parser",
+                "isCorrect": false
+            },
+            {
+                "text": "Query optimizer",
+                "isCorrect": true
+            },
+            {
+                "text": "Query engine",
+                "isCorrect": false
+            },
+            {
+                "text": "Data dictionary",
+                "isCorrect": false
+            }
+        ]
+    }
+]

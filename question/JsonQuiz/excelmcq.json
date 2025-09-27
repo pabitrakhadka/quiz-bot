@@ -1,0 +1,4160 @@
+[
+    {
+        "question": "Which of the following formats can you decide to apply or not in the AutoFormat dialog box?",
+        "options": [
+            {
+                "text": "Number format",
+                "isCorrect": false
+            },
+            {
+                "text": "Border format",
+                "isCorrect": false
+            },
+            {
+                "text": "Font format",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "How can you remove borders applied to cells?",
+        "options": [
+            {
+                "text": "Choose 'None' on the Border tab of Format Cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Open the list on the Border tool in Format Cell toolbar, then choose the 'no border' tool",
+                "isCorrect": false
+            },
+            {
+                "text": "Both of the above",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where can you set the shading color for a range of cells in Excel?",
+        "options": [
+            {
+                "text": "Choose color from Patterns tab of Format Cells dialog box",
+                "isCorrect": false
+            },
+            {
+                "text": "Choose color on Fill Color tool in Formatting toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Choose color on Fill Color tool in Drawing toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You can set Page Border in Excel from:",
+        "options": [
+            {
+                "text": "From Border tab in Format Cells dialog box",
+                "isCorrect": false
+            },
+            {
+                "text": "From Border tool in Formatting toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "From Line Style tool in Drawing toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "You cannot set page borders in Excel",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "When all numbers between 0 and 100 in a range should be displayed in Red, apply:",
+        "options": [
+            {
+                "text": "Use =IF() function to format the numbers red",
+                "isCorrect": false
+            },
+            {
+                "text": "Apply Conditional Formatting command on Format menu",
+                "isCorrect": true
+            },
+            {
+                "text": "Select cells with numbers between 0-100, then click Red color on Text Color tool",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can check the conditions against __________ when applying conditional formatting.",
+        "options": [
+            {
+                "text": "Cell value",
+                "isCorrect": false
+            },
+            {
+                "text": "Formula",
+                "isCorrect": false
+            },
+            {
+                "text": "Both of the above",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT true regarding Conditional Formatting?",
+        "options": [
+            {
+                "text": "You can add more than one condition to check",
+                "isCorrect": false
+            },
+            {
+                "text": "You can set a condition to look for Bold and apply Italics",
+                "isCorrect": true
+            },
+            {
+                "text": "You can apply Font, border, and pattern formats that meet the specified conditions",
+                "isCorrect": false
+            },
+            {
+                "text": "You can delete any condition from Conditional Formatting dialog box",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an invalid statement?",
+        "options": [
+            {
+                "text": "Sheet tabs can be colored",
+                "isCorrect": false
+            },
+            {
+                "text": "Some pictures can be applied as a background of a sheet",
+                "isCorrect": false
+            },
+            {
+                "text": "You can set the column width to automatically fit the amount of text",
+                "isCorrect": false
+            },
+            {
+                "text": "The width of a row can be specified manually or fit automatically",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You can use the Formula Palette to:",
+        "options": [
+            {
+                "text": "Format cells containing numbers",
+                "isCorrect": false
+            },
+            {
+                "text": "Create and edit formulas containing functions",
+                "isCorrect": true
+            },
+            {
+                "text": "Enter assumptions data",
+                "isCorrect": false
+            },
+            {
+                "text": "Copy a range of cells",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When a range is selected, how can you activate the previous cell?",
+        "options": [
+            {
+                "text": "Press the Alt key",
+                "isCorrect": false
+            },
+            {
+                "text": "Press Shift + Tab",
+                "isCorrect": true
+            },
+            {
+                "text": "Press Enter",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which tool will you use to join cells and place the content at the middle of the joined cell?",
+        "options": [
+            {
+                "text": "From Format Cells dialog box click on Merge Cells check box",
+                "isCorrect": false
+            },
+            {
+                "text": "From Format Cells dialog box select the Centered alignment",
+                "isCorrect": false
+            },
+            {
+                "text": "From Format Cells dialog box choose Merge and Center check box",
+                "isCorrect": false
+            },
+            {
+                "text": "Click on Merge and Center tool on formatting toolbar",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following Excel screen components can NOT be turned on or off?",
+        "options": [
+            {
+                "text": "Formula Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Status Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Tool Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "MS Excel provides the default value for step in Fill Series dialog box as:",
+        "options": [
+            {
+                "text": "0",
+                "isCorrect": false
+            },
+            {
+                "text": "1",
+                "isCorrect": true
+            },
+            {
+                "text": "5",
+                "isCorrect": false
+            },
+            {
+                "text": "10",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Delete key of keyboard is assigned to which command in Excel?",
+        "options": [
+            {
+                "text": "Edit > Clear > Contents",
+                "isCorrect": true
+            },
+            {
+                "text": "Edit > Clear > All",
+                "isCorrect": false
+            },
+            {
+                "text": "Edit > Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Getting data from a cell located in a different sheet is called ________.",
+        "options": [
+            {
+                "text": "Accessing",
+                "isCorrect": false
+            },
+            {
+                "text": "Referencing",
+                "isCorrect": true
+            },
+            {
+                "text": "Updating",
+                "isCorrect": false
+            },
+            {
+                "text": "Functioning",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In EXCEL, you can sum a large range of data by simply selecting a tool button called ________.",
+        "options": [
+            {
+                "text": "AutoFill",
+                "isCorrect": false
+            },
+            {
+                "text": "Auto Correct",
+                "isCorrect": false
+            },
+            {
+                "text": "AutoSum",
+                "isCorrect": true
+            },
+            {
+                "text": "Auto Format",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How do you display current date only in MS Excel?",
+        "options": [
+            {
+                "text": "DATE()",
+                "isCorrect": false
+            },
+            {
+                "text": "TODAY()",
+                "isCorrect": true
+            },
+            {
+                "text": "NOW()",
+                "isCorrect": false
+            },
+            {
+                "text": "TIME()",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which would you choose to create a bar diagram?",
+        "options": [
+            {
+                "text": "Edit, Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Insert, Chart",
+                "isCorrect": true
+            },
+            {
+                "text": "Tools, Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Format, Chart",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is represented by the small, black square in the lower-right corner of an active cell or range?",
+        "options": [
+            {
+                "text": "Copy handle",
+                "isCorrect": false
+            },
+            {
+                "text": "Fill handle",
+                "isCorrect": true
+            },
+            {
+                "text": "Insert handle",
+                "isCorrect": false
+            },
+            {
+                "text": "Border",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following will not cut information?",
+        "options": [
+            {
+                "text": "Pressing Ctrl + C",
+                "isCorrect": true
+            },
+            {
+                "text": "Selecting Edit > Cut from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Clicking the Cut button on the standard toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing Ctrl + X",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Tab scroll buttons are placed on the Excel screen:",
+        "options": [
+            {
+                "text": "Towards the bottom right corner",
+                "isCorrect": false
+            },
+            {
+                "text": "Towards the bottom left corner",
+                "isCorrect": true
+            },
+            {
+                "text": "Towards the top right corner",
+                "isCorrect": false
+            },
+            {
+                "text": "Towards the top left corner",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Name Box to the left of the formula bar:",
+        "options": [
+            {
+                "text": "Shows the name of the workbook currently working on",
+                "isCorrect": false
+            },
+            {
+                "text": "Shows the name of the worksheet currently working on",
+                "isCorrect": false
+            },
+            {
+                "text": "Shows the name of the cell or range currently working on",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Each Excel file is a workbook that contains different sheets. Which of the following cannot be a sheet in a workbook?",
+        "options": [
+            {
+                "text": "Worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Chart sheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Macro sheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Data sheet",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT the correct method of editing cell content?",
+        "options": [
+            {
+                "text": "Press the Alt key",
+                "isCorrect": true
+            },
+            {
+                "text": "Press the F2 key",
+                "isCorrect": false
+            },
+            {
+                "text": "Click the formula bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Double click the cell",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can merge the main document with a data source in Excel. In a mail merge operation, Word is usually the:",
+        "options": [
+            {
+                "text": "Server",
+                "isCorrect": false
+            },
+            {
+                "text": "Source",
+                "isCorrect": false
+            },
+            {
+                "text": "Client",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How can you update the values of formula cells if Auto Calculate mode of Excel is disabled?",
+        "options": [
+            {
+                "text": "F8",
+                "isCorrect": false
+            },
+            {
+                "text": "F9",
+                "isCorrect": true
+            },
+            {
+                "text": "F10",
+                "isCorrect": false
+            },
+            {
+                "text": "F11",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You want to set that when you type 'Baishakh' and drag the fill handle, Excel should produce 'Jestha, Aashadh' and so on. What will you set to effect that?",
+        "options": [
+            {
+                "text": "Custom List",
+                "isCorrect": true
+            },
+            {
+                "text": "Auto Fill Options",
+                "isCorrect": false
+            },
+            {
+                "text": "Fill Across Worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Fill Series",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Where can you change automatic or manual calculation mode in Excel?",
+        "options": [
+            {
+                "text": "Double click CAL indicator on status bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Go to File > Options > Formulas > Calculation Options",
+                "isCorrect": true
+            },
+            {
+                "text": "Both of the above",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How can you show or hide the gridlines in an Excel Worksheet?",
+        "options": [
+            {
+                "text": "Go to Tools > Options > View tab and mark or remove the Gridline checkbox",
+                "isCorrect": true
+            },
+            {
+                "text": "Click Gridline tool on Forms toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Both of the above",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What happens when you press Ctrl + X after selecting some cells in Excel?",
+        "options": [
+            {
+                "text": "The cell content of selected cells disappear and are stored in the clipboard",
+                "isCorrect": true
+            },
+            {
+                "text": "The cells selected are marked for cutting",
+                "isCorrect": false
+            },
+            {
+                "text": "The selected cells are deleted and the cells are shifted left",
+                "isCorrect": false
+            },
+            {
+                "text": "The selected cells are deleted and cells are shifted up",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following option is not available in Paste Special dialog box?",
+        "options": [
+            {
+                "text": "Add",
+                "isCorrect": false
+            },
+            {
+                "text": "Subtract",
+                "isCorrect": false
+            },
+            {
+                "text": "Divide",
+                "isCorrect": false
+            },
+            {
+                "text": "SQRT",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which command will you choose to convert a column of data into a row?",
+        "options": [
+            {
+                "text": "Cut and Paste",
+                "isCorrect": false
+            },
+            {
+                "text": "Paste Special > Transpose",
+                "isCorrect": true
+            },
+            {
+                "text": "Both of the above",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "It is acceptable to let long text flow into adjacent cells on a worksheet when:",
+        "options": [
+            {
+                "text": "Data will be entered in the adjacent cells",
+                "isCorrect": false
+            },
+            {
+                "text": "No data will be entered in the adjacent cells",
+                "isCorrect": true
+            },
+            {
+                "text": "There is no suitable abbreviation for the text",
+                "isCorrect": false
+            },
+            {
+                "text": "There is not time to format the text",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which cell pointer indicates that you can make a selection?",
+        "options": [
+            {
+                "text": "Doctor’s symbol (Big Plus)",
+                "isCorrect": true
+            },
+            {
+                "text": "Small thin plus icon",
+                "isCorrect": false
+            },
+            {
+                "text": "Mouse Pointer with anchor at the tip",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which cell pointer indicates that you can fill a series?",
+        "options": [
+            {
+                "text": "Doctor’s symbol (Big Plus)",
+                "isCorrect": false
+            },
+            {
+                "text": "Small thin plus icon",
+                "isCorrect": true
+            },
+            {
+                "text": "Mouse Pointer with anchor at the tip",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which cell pointer indicates that you can move the content to another cell?",
+        "options": [
+            {
+                "text": "Doctor’s symbol (Big Plus)",
+                "isCorrect": false
+            },
+            {
+                "text": "Small thin plus icon",
+                "isCorrect": false
+            },
+            {
+                "text": "Mouse Pointer with anchor at the tip",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can auto fit the width of a column by:",
+        "options": [
+            {
+                "text": "Double clicking on the column name on column header",
+                "isCorrect": false
+            },
+            {
+                "text": "Double click on the cell pointer in worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Double clicking on column right border on column header",
+                "isCorrect": true
+            },
+            {
+                "text": "Double clicking on the column left border of column header",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Long text can be broken down into many lines within a cell. You can do this through:",
+        "options": [
+            {
+                "text": "Wrap Text in Format > Cells",
+                "isCorrect": true
+            },
+            {
+                "text": "Justify in Edit > Cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Text Wrapping in Format > Cells",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When a row of data is to be converted into columns:",
+        "options": [
+            {
+                "text": "Copy cells in row, select same number of cells in row and paste",
+                "isCorrect": false
+            },
+            {
+                "text": "Copy cells in column then choose Paste Special, then click Transpose and OK",
+                "isCorrect": true
+            },
+            {
+                "text": "Copy cells then go to Cells, then on Alignment tab click Transpose check box and OK",
+                "isCorrect": false
+            },
+            {
+                "text": "Select cells then place pointer on new cell and choose Paste Special, mark Transpose, OK",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Ctrl + D shortcut key in Excel will:",
+        "options": [
+            {
+                "text": "Open the font dialog box",
+                "isCorrect": false
+            },
+            {
+                "text": "Apply double underline for the active cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Fill down in the selection",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The shortcut key Ctrl + R is used in Excel to:",
+        "options": [
+            {
+                "text": "Right align the content of cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Remove the cell contents of selected cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Fill the selection with active cells to the right",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The command Edit > Fill Across Worksheet is active only when:",
+        "options": [
+            {
+                "text": "One sheet is selected",
+                "isCorrect": false
+            },
+            {
+                "text": "When many sheets are selected",
+                "isCorrect": true
+            },
+            {
+                "text": "When no sheet is selected",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following series type is not valid for Fill Series dialog box?",
+        "options": [
+            {
+                "text": "Linear",
+                "isCorrect": false
+            },
+            {
+                "text": "Growth",
+                "isCorrect": false
+            },
+            {
+                "text": "Autofill",
+                "isCorrect": true
+            },
+            {
+                "text": "Time",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following can you paste selectively using Paste Special command?",
+        "options": [
+            {
+                "text": "Validation",
+                "isCorrect": false
+            },
+            {
+                "text": "Formats",
+                "isCorrect": false
+            },
+            {
+                "text": "Formulas",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Paste Special allows some operations while you paste to a new cell. Which of the following operations is valid?",
+        "options": [
+            {
+                "text": "Square",
+                "isCorrect": false
+            },
+            {
+                "text": "Percentage",
+                "isCorrect": false
+            },
+            {
+                "text": "Goal Seek",
+                "isCorrect": false
+            },
+            {
+                "text": "Divide",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Edit > Delete command:",
+        "options": [
+            {
+                "text": "Deletes the content of a cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Deletes Formats of cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Deletes the comment of cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Deletes selected cells",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "To remove the content of selected cells you must issue the ______ command.",
+        "options": [
+            {
+                "text": "Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Clear Contents",
+                "isCorrect": true
+            },
+            {
+                "text": "Clear All",
+                "isCorrect": false
+            },
+            {
+                "text": "Clear Delete",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If you need to remove only the formatting done in a range (numbers and formula typed there should not be removed), you must:",
+        "options": [
+            {
+                "text": "From Edit menu choose Clear and then Formats",
+                "isCorrect": true
+            },
+            {
+                "text": "From Edit menu choose Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Click on Remove Formatting tool on Standard Toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Double click the Format Painter and then press Esc key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "By default Excel provides 3 worksheets. You need only two of them, how will you delete the third one?",
+        "options": [
+            {
+                "text": "Right click on Sheet Tab of third sheet and choose Delete",
+                "isCorrect": true
+            },
+            {
+                "text": "Click on Sheet 3 and from Edit menu choose Delete",
+                "isCorrect": false
+            },
+            {
+                "text": "Both of the above",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following action removes a sheet from a workbook?",
+        "options": [
+            {
+                "text": "Select the sheet, then choose Edit > Delete Sheet",
+                "isCorrect": true
+            },
+            {
+                "text": "Select the sheet then choose Format > Sheet > Hide",
+                "isCorrect": false
+            },
+            {
+                "text": "Both of the above",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "While Finding and Replacing some data in Excel, which of the following statements is valid?",
+        "options": [
+            {
+                "text": "You can Find and Replace within the sheet or workbook",
+                "isCorrect": true
+            },
+            {
+                "text": "Excel does not have option to match case for find",
+                "isCorrect": false
+            },
+            {
+                "text": "Both are valid",
+                "isCorrect": false
+            },
+            {
+                "text": "None are valid",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not true about Find and Replace in Excel?",
+        "options": [
+            {
+                "text": "You can search for bold and replace with italics",
+                "isCorrect": true
+            },
+            {
+                "text": "You can decide whether to look for the whole word or not",
+                "isCorrect": false
+            },
+            {
+                "text": "You can search in formulas too",
+                "isCorrect": false
+            },
+            {
+                "text": "You can search by rows or columns or sheets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can move a sheet from one workbook into a new book by:",
+        "options": [
+            {
+                "text": "From Edit menu choose Move or Copy sheet, mark 'Create a copy' and Click OK",
+                "isCorrect": false
+            },
+            {
+                "text": "From Edit menu choose Move or Copy then choose '(Move to end)' and click OK",
+                "isCorrect": false
+            },
+            {
+                "text": "From Edit menu choose Move or Copy then select '(new book)' from To Book list and click OK",
+                "isCorrect": true
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the shortcut key to replace data with another in a sheet?",
+        "options": [
+            {
+                "text": "Ctrl + R",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + Shift + R",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + H",
+                "isCorrect": true
+            },
+            {
+                "text": "Ctrl + F",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Comments can be added to cells using ________.",
+        "options": [
+            {
+                "text": "Home > Comments",
+                "isCorrect": false
+            },
+            {
+                "text": "Insert > Comment",
+                "isCorrect": false
+            },
+            {
+                "text": "Data > Comments",
+                "isCorrect": false
+            },
+            {
+                "text": "Review > Comments",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which menu option can be used to split windows into two?",
+        "options": [
+            {
+                "text": "Review > Window",
+                "isCorrect": false
+            },
+            {
+                "text": "View > Window > Split",
+                "isCorrect": false
+            },
+            {
+                "text": "Window > Split",
+                "isCorrect": false
+            },
+            {
+                "text": "View > Split",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a valid data type in Excel?",
+        "options": [
+            {
+                "text": "Number",
+                "isCorrect": false
+            },
+            {
+                "text": "Character",
+                "isCorrect": true
+            },
+            {
+                "text": "Label",
+                "isCorrect": false
+            },
+            {
+                "text": "Date/Time",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which elements of a worksheet can be protected from accidental modification?",
+        "options": [
+            {
+                "text": "Contents",
+                "isCorrect": false
+            },
+            {
+                "text": "Objects",
+                "isCorrect": false
+            },
+            {
+                "text": "Scenarios",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A numeric value can be treated as a label value if ________ precedes it.",
+        "options": [
+            {
+                "text": "Apostrophe ( ' )",
+                "isCorrect": true
+            },
+            {
+                "text": "Exclamation ( ! )",
+                "isCorrect": false
+            },
+            {
+                "text": "Hash ( # )",
+                "isCorrect": false
+            },
+            {
+                "text": "Tilde ( ~ )",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Concatenation of text can be done using:",
+        "options": [
+            {
+                "text": "Apostrophe ( ' )",
+                "isCorrect": false
+            },
+            {
+                "text": "Exclamation ( ! )",
+                "isCorrect": false
+            },
+            {
+                "text": "Hash ( # )",
+                "isCorrect": false
+            },
+            {
+                "text": "Ampersand ( & )",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which area in an Excel window allows entering values and formulas?",
+        "options": [
+            {
+                "text": "Title Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Menu Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Formula Bar",
+                "isCorrect": true
+            },
+            {
+                "text": "Standard Tool Bar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Multiple calculations can be made in a single formula using ________.",
+        "options": [
+            {
+                "text": "Standard Formulas",
+                "isCorrect": false
+            },
+            {
+                "text": "Array Formula",
+                "isCorrect": true
+            },
+            {
+                "text": "Complex Formulas",
+                "isCorrect": false
+            },
+            {
+                "text": "Smart Formula",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An Excel Workbook is a collection of ________.",
+        "options": [
+            {
+                "text": "Workbooks",
+                "isCorrect": false
+            },
+            {
+                "text": "Worksheets",
+                "isCorrect": false
+            },
+            {
+                "text": "Charts",
+                "isCorrect": false
+            },
+            {
+                "text": "Worksheets and Charts",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What do you mean by a Workspace?",
+        "options": [
+            {
+                "text": "Group of Columns",
+                "isCorrect": false
+            },
+            {
+                "text": "Group of Worksheets",
+                "isCorrect": false
+            },
+            {
+                "text": "Group of Rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Group of Workbooks",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "MS-EXCEL is based on ________.",
+        "options": [
+            {
+                "text": "WINDOWS",
+                "isCorrect": true
+            },
+            {
+                "text": "DOS",
+                "isCorrect": false
+            },
+            {
+                "text": "UNIX",
+                "isCorrect": false
+            },
+            {
+                "text": "OS/2",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To select an entire column in MS-EXCEL, press?",
+        "options": [
+            {
+                "text": "CTRL + C",
+                "isCorrect": false
+            },
+            {
+                "text": "CTRL + Spacebar",
+                "isCorrect": true
+            },
+            {
+                "text": "CTRL + S",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To return the remainder after a number is divided by a divisor in EXCEL we use the function?",
+        "options": [
+            {
+                "text": "ROUND ( )",
+                "isCorrect": false
+            },
+            {
+                "text": "FACT ( )",
+                "isCorrect": false
+            },
+            {
+                "text": "MOD ( )",
+                "isCorrect": true
+            },
+            {
+                "text": "DIV ( )",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which function is not available in the Consolidate dialog box?",
+        "options": [
+            {
+                "text": "Pmt",
+                "isCorrect": true
+            },
+            {
+                "text": "Average",
+                "isCorrect": false
+            },
+            {
+                "text": "Max",
+                "isCorrect": false
+            },
+            {
+                "text": "Sum",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is not the function of \"Edit, Clear\" command?",
+        "options": [
+            {
+                "text": "Delete contents",
+                "isCorrect": false
+            },
+            {
+                "text": "Delete notes",
+                "isCorrect": false
+            },
+            {
+                "text": "Delete cells",
+                "isCorrect": true
+            },
+            {
+                "text": "Delete formats",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Microsoft Excel is a powerful ________.",
+        "options": [
+            {
+                "text": "Word processing package",
+                "isCorrect": false
+            },
+            {
+                "text": "Spreadsheet package",
+                "isCorrect": true
+            },
+            {
+                "text": "Communication S/W Package",
+                "isCorrect": false
+            },
+            {
+                "text": "DBMS package",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How do you rearrange the data in ascending or descending order?",
+        "options": [
+            {
+                "text": "Data, Sort",
+                "isCorrect": true
+            },
+            {
+                "text": "Data, Form",
+                "isCorrect": false
+            },
+            {
+                "text": "Data, Table",
+                "isCorrect": false
+            },
+            {
+                "text": "Data Subtotals",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which Chart can be created in Excel?",
+        "options": [
+            {
+                "text": "Area",
+                "isCorrect": false
+            },
+            {
+                "text": "Line",
+                "isCorrect": false
+            },
+            {
+                "text": "Pie",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What will be the output if you format the cell containing 5,436.8 as '#,##0.00' ?",
+        "options": [
+            {
+                "text": "5430",
+                "isCorrect": false
+            },
+            {
+                "text": "5436.80",
+                "isCorrect": true
+            },
+            {
+                "text": "5436.8",
+                "isCorrect": false
+            },
+            {
+                "text": "6.8",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How do you display current date and time in MS Excel?",
+        "options": [
+            {
+                "text": "DATE()",
+                "isCorrect": false
+            },
+            {
+                "text": "TODAY()",
+                "isCorrect": false
+            },
+            {
+                "text": "NOW()",
+                "isCorrect": true
+            },
+            {
+                "text": "TIME()",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How do you wrap the text in a cell?",
+        "options": [
+            {
+                "text": "Format, cells, font",
+                "isCorrect": false
+            },
+            {
+                "text": "Format, cells, protection",
+                "isCorrect": false
+            },
+            {
+                "text": "Format, cells, number",
+                "isCorrect": false
+            },
+            {
+                "text": "Format, cells, alignment",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What does COUNTA() function do?",
+        "options": [
+            {
+                "text": "Counts cells having alphabets",
+                "isCorrect": false
+            },
+            {
+                "text": "Counts empty cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Counts cells having numbers",
+                "isCorrect": false
+            },
+            {
+                "text": "Counts non-empty cells",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the shortcut key to highlight the entire column?",
+        "options": [
+            {
+                "text": "Ctrl + C",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + Enter",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + Page Up",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl + Space Bar",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In the formula, which symbol specifies the fixed columns or rows?",
+        "options": [
+            {
+                "text": "$",
+                "isCorrect": true
+            },
+            {
+                "text": "*",
+                "isCorrect": false
+            },
+            {
+                "text": "%",
+                "isCorrect": false
+            },
+            {
+                "text": "&",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Excel displays the current cell address in the ________.",
+        "options": [
+            {
+                "text": "Formula bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Status Bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Name Box",
+                "isCorrect": true
+            },
+            {
+                "text": "Title Bar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the correct way to refer to cell A10 on Sheet3 from Sheet1?",
+        "options": [
+            {
+                "text": "Sheet3!A10",
+                "isCorrect": true
+            },
+            {
+                "text": "Sheet1!A10",
+                "isCorrect": false
+            },
+            {
+                "text": "Sheet3.A10",
+                "isCorrect": false
+            },
+            {
+                "text": "A10",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which language is used to create macros in Excel?",
+        "options": [
+            {
+                "text": "Visual Basic",
+                "isCorrect": true
+            },
+            {
+                "text": "C",
+                "isCorrect": false
+            },
+            {
+                "text": "Visual C++",
+                "isCorrect": false
+            },
+            {
+                "text": "Java",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a term of MS-Excel?",
+        "options": [
+            {
+                "text": "Cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Columns",
+                "isCorrect": false
+            },
+            {
+                "text": "Document",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "How many worksheets can a workbook have?",
+        "options": [
+            {
+                "text": "3",
+                "isCorrect": false
+            },
+            {
+                "text": "8",
+                "isCorrect": false
+            },
+            {
+                "text": "255",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which setting must you modify to print a worksheet using letterhead?",
+        "options": [
+            {
+                "text": "Paper",
+                "isCorrect": false
+            },
+            {
+                "text": "Margin",
+                "isCorrect": true
+            },
+            {
+                "text": "Layout",
+                "isCorrect": false
+            },
+            {
+                "text": "Orientation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What do you call the chart that shows the proportions of how one or more data elements relate to another data element?",
+        "options": [
+            {
+                "text": "XY Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Line Chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Pie Chart",
+                "isCorrect": true
+            },
+            {
+                "text": "Column Chart",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The spelling dialog box can be invoked by choosing Spelling from the ________ menu.",
+        "options": [
+            {
+                "text": "Insert",
+                "isCorrect": false
+            },
+            {
+                "text": "File",
+                "isCorrect": false
+            },
+            {
+                "text": "Tools",
+                "isCorrect": false
+            },
+            {
+                "text": "Review",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which key do you press to check spelling?",
+        "options": [
+            {
+                "text": "F3",
+                "isCorrect": false
+            },
+            {
+                "text": "F5",
+                "isCorrect": false
+            },
+            {
+                "text": "F7",
+                "isCorrect": true
+            },
+            {
+                "text": "F9",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To record a sequence of keystrokes and mouse actions to play back later we use:",
+        "options": [
+            {
+                "text": "Media player",
+                "isCorrect": false
+            },
+            {
+                "text": "Sound Recorder",
+                "isCorrect": false
+            },
+            {
+                "text": "Calculator",
+                "isCorrect": false
+            },
+            {
+                "text": "Macro Recorder",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "We can save and protect the workbook by:",
+        "options": [
+            {
+                "text": "Write Reservation Password",
+                "isCorrect": false
+            },
+            {
+                "text": "Protection Password",
+                "isCorrect": false
+            },
+            {
+                "text": "Read-only Recommended",
+                "isCorrect": false
+            },
+            {
+                "text": "Any of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The first cell in an EXCEL worksheet is labeled as:",
+        "options": [
+            {
+                "text": "AA",
+                "isCorrect": false
+            },
+            {
+                "text": "A1",
+                "isCorrect": true
+            },
+            {
+                "text": "Aa",
+                "isCorrect": false
+            },
+            {
+                "text": "A0",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What happens when dollar signs ($) are entered in a cell address? (e.g., $B$2:$B$10)",
+        "options": [
+            {
+                "text": "An absolute cell address is created",
+                "isCorrect": true
+            },
+            {
+                "text": "Cell address will change when copied to another cell",
+                "isCorrect": false
+            },
+            {
+                "text": "The sheet tab is changed",
+                "isCorrect": false
+            },
+            {
+                "text": "The status bar does not display the cell address",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What are the tabs that appear at the bottom of each workbook called?",
+        "options": [
+            {
+                "text": "Reference tabs",
+                "isCorrect": false
+            },
+            {
+                "text": "Position tabs",
+                "isCorrect": false
+            },
+            {
+                "text": "Location tabs",
+                "isCorrect": false
+            },
+            {
+                "text": "Sheet tabs",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In Excel, a Data Series is defined as what?",
+        "options": [
+            {
+                "text": "A type of chart",
+                "isCorrect": false
+            },
+            {
+                "text": "A cell reference",
+                "isCorrect": false
+            },
+            {
+                "text": "A collection of related data",
+                "isCorrect": true
+            },
+            {
+                "text": "A division of results",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In Excel, the Fill Color button on the Formatting toolbar is used for what?",
+        "options": [
+            {
+                "text": "To insert a background",
+                "isCorrect": false
+            },
+            {
+                "text": "To add borders",
+                "isCorrect": false
+            },
+            {
+                "text": "To select a distribution of figures",
+                "isCorrect": false
+            },
+            {
+                "text": "To add shading or color to a cell range",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In the help menu of Excel, which of the following tabs are found?",
+        "options": [
+            {
+                "text": "Contents tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Answer Wizard tab",
+                "isCorrect": false
+            },
+            {
+                "text": "Index tab",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A ________ is a grid with labeled columns and rows.",
+        "options": [
+            {
+                "text": "Dialog box",
+                "isCorrect": false
+            },
+            {
+                "text": "Worksheet",
+                "isCorrect": true
+            },
+            {
+                "text": "Clipboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Toolbar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The active cell:",
+        "options": [
+            {
+                "text": "Is defined by a bold border around the cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Receives the data the user enters",
+                "isCorrect": false
+            },
+            {
+                "text": "It is the formula bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Only A and B",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which function is used to calculate depreciation, rates of return, future values and loan payment amounts?",
+        "options": [
+            {
+                "text": "Logical",
+                "isCorrect": false
+            },
+            {
+                "text": "Math & Trigonometry",
+                "isCorrect": false
+            },
+            {
+                "text": "Statistical",
+                "isCorrect": false
+            },
+            {
+                "text": "Financial",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "B7:B9 indicates:",
+        "options": [
+            {
+                "text": "Cells B7 and cell B9 only",
+                "isCorrect": false
+            },
+            {
+                "text": "Cells B7 through B9",
+                "isCorrect": true
+            },
+            {
+                "text": "Cell B8 only",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Cancel and Enter buttons appear in the:",
+        "options": [
+            {
+                "text": "Title bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Formula bar",
+                "isCorrect": true
+            },
+            {
+                "text": "Menu bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Sheet tabs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following methods cannot be used to enter data in a cell?",
+        "options": [
+            {
+                "text": "Pressing an arrow key",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing the Tab key",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing the Esc key",
+                "isCorrect": true
+            },
+            {
+                "text": "Clicking on the formula bar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a way to complete a cell entry?",
+        "options": [
+            {
+                "text": "Pressing Enter",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing any arrow key on the keyboard",
+                "isCorrect": false
+            },
+            {
+                "text": "Clicking the Enter button on the Formula bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing Spacebar",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You can activate a cell by:",
+        "options": [
+            {
+                "text": "Pressing the Tab key",
+                "isCorrect": false
+            },
+            {
+                "text": "Clicking the cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing an arrow key",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Text formulas:",
+        "options": [
+            {
+                "text": "Replace cell references",
+                "isCorrect": false
+            },
+            {
+                "text": "Return ASCII values of characters",
+                "isCorrect": false
+            },
+            {
+                "text": "Concatenate and manipulate text",
+                "isCorrect": true
+            },
+            {
+                "text": "Show formula error value",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How do you insert a row?",
+        "options": [
+            {
+                "text": "Right-click the row heading where you want to insert a new row and select Insert",
+                "isCorrect": true
+            },
+            {
+                "text": "Select the row heading and select Edit > Row from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Select the row heading and click the Insert Row button on the standard toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a basic step in creating a worksheet?",
+        "options": [
+            {
+                "text": "Save workbook",
+                "isCorrect": false
+            },
+            {
+                "text": "Modify the worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Enter text and data",
+                "isCorrect": false
+            },
+            {
+                "text": "Copy the worksheet",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "How do you delete a column?",
+        "options": [
+            {
+                "text": "Select column heading, select Delete Row button on standard toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Select column heading, select Insert Delete from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Select row heading, select Edit > Delete from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Right-click the column heading and select Delete from the shortcut menu",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "To activate the previous cell in a pre-selected range, press:",
+        "options": [
+            {
+                "text": "The Alt key",
+                "isCorrect": false
+            },
+            {
+                "text": "The Shift + Tab key",
+                "isCorrect": true
+            },
+            {
+                "text": "The Enter key",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can convert existing Excel worksheet data and charts to an HTML document by using:",
+        "options": [
+            {
+                "text": "FTP wizard",
+                "isCorrect": false
+            },
+            {
+                "text": "Internet Assistant wizard",
+                "isCorrect": true
+            },
+            {
+                "text": "Intranet wizard",
+                "isCorrect": false
+            },
+            {
+                "text": "Import wizard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Paste Special command lets you copy and paste:",
+        "options": [
+            {
+                "text": "Multiply the selection by a copied value",
+                "isCorrect": false
+            },
+            {
+                "text": "Cell comments",
+                "isCorrect": false
+            },
+            {
+                "text": "Formatting options",
+                "isCorrect": false
+            },
+            {
+                "text": "The resulting values of a formula instead of the actual formula",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To save a workbook, you:",
+        "options": [
+            {
+                "text": "Click the Save button on the standard toolbar",
+                "isCorrect": true
+            },
+            {
+                "text": "Press Ctrl + S",
+                "isCorrect": false
+            },
+            {
+                "text": "Click Save on the Windows Start button",
+                "isCorrect": false
+            },
+            {
+                "text": "Select File > Save",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To delete an embedded object, first:",
+        "options": [
+            {
+                "text": "Double click the object",
+                "isCorrect": false
+            },
+            {
+                "text": "Select the object by clicking it",
+                "isCorrect": false
+            },
+            {
+                "text": "Press the Shift + Delete keys",
+                "isCorrect": false
+            },
+            {
+                "text": "Select it and then press the Delete key",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which symbol must all formulas begin with?",
+        "options": [
+            {
+                "text": "=",
+                "isCorrect": true
+            },
+            {
+                "text": "+",
+                "isCorrect": false
+            },
+            {
+                "text": "(",
+                "isCorrect": false
+            },
+            {
+                "text": "@",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Getting data from a cell located in a different sheet is called ________.",
+        "options": [
+            {
+                "text": "Accessing",
+                "isCorrect": false
+            },
+            {
+                "text": "Referencing",
+                "isCorrect": true
+            },
+            {
+                "text": "Updating",
+                "isCorrect": false
+            },
+            {
+                "text": "Functioning",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Status indicators are located on the:",
+        "options": [
+            {
+                "text": "Vertical scroll bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Horizontal scroll bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Formula bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Status Bar",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "How do you select an entire column?",
+        "options": [
+            {
+                "text": "Select Edit > Select > Column from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Click the column heading letter",
+                "isCorrect": true
+            },
+            {
+                "text": "Hold down the Shift key as you click anywhere in the column",
+                "isCorrect": false
+            },
+            {
+                "text": "Hold down the Ctrl key as you click anywhere in the column",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How can you print three copies of a workbook?",
+        "options": [
+            {
+                "text": "Select File > Properties and type 3 in Copies to print",
+                "isCorrect": false
+            },
+            {
+                "text": "Select File > Print and type 3 in the Number of copies text box",
+                "isCorrect": true
+            },
+            {
+                "text": "Click Print button on toolbar, then print 2 more copies",
+                "isCorrect": false
+            },
+            {
+                "text": "Press Ctrl+P+3",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To create a formula, you first:",
+        "options": [
+            {
+                "text": "Select the cell you want to place the formula into",
+                "isCorrect": false
+            },
+            {
+                "text": "Type the equals sign (=) to tell Excel that you're about to enter a formula",
+                "isCorrect": true
+            },
+            {
+                "text": "Enter the formula using any input values and the appropriate mathematical operators",
+                "isCorrect": false
+            },
+            {
+                "text": "Choose the New command from the File menu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To center worksheet titles across a range of cells, you must:",
+        "options": [
+            {
+                "text": "Select cells containing title text plus range to center title",
+                "isCorrect": true
+            },
+            {
+                "text": "Widen the columns",
+                "isCorrect": false
+            },
+            {
+                "text": "Select cells containing title text plus range to enfetter title",
+                "isCorrect": false
+            },
+            {
+                "text": "Format the cells with the comma style",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How can you find specific information in a list?",
+        "options": [
+            {
+                "text": "Select Tools > Finder from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Click the Find button on the standard toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Select Insert > Find from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Select Data > Form from the menu, then click the Criteria button",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "When integrating Word and Excel, Word is usually the:",
+        "options": [
+            {
+                "text": "Server",
+                "isCorrect": false
+            },
+            {
+                "text": "Destination",
+                "isCorrect": false
+            },
+            {
+                "text": "Client",
+                "isCorrect": true
+            },
+            {
+                "text": "Both b and c",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When a label is too long to fit within a worksheet cell, you typically must:",
+        "options": [
+            {
+                "text": "Shorten the label",
+                "isCorrect": false
+            },
+            {
+                "text": "Increase the column width",
+                "isCorrect": true
+            },
+            {
+                "text": "Decrease the column width",
+                "isCorrect": false
+            },
+            {
+                "text": "Adjust the row height",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Name Box:",
+        "options": [
+            {
+                "text": "Shows the location of the previously active cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Appears to the left of the formula bar",
+                "isCorrect": true
+            },
+            {
+                "text": "Appears below the status bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Appears below the menu bar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Comments put in cells are called:",
+        "options": [
+            {
+                "text": "Smart Tip",
+                "isCorrect": false
+            },
+            {
+                "text": "Cell Tip",
+                "isCorrect": true
+            },
+            {
+                "text": "Web Tip",
+                "isCorrect": false
+            },
+            {
+                "text": "Soft Tip",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which is used to perform what-if analysis?",
+        "options": [
+            {
+                "text": "Solver",
+                "isCorrect": false
+            },
+            {
+                "text": "Goal Seek",
+                "isCorrect": false
+            },
+            {
+                "text": "Scenario Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You can use the horizontal and vertical scroll bars to:",
+        "options": [
+            {
+                "text": "Split a worksheet into two panes",
+                "isCorrect": false
+            },
+            {
+                "text": "View different rows and columns",
+                "isCorrect": true
+            },
+            {
+                "text": "Edit the contents of a cell",
+                "isCorrect": false
+            },
+            {
+                "text": "View different worksheets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Multiple calculations can be made in a single formula using:",
+        "options": [
+            {
+                "text": "Standard formulas",
+                "isCorrect": false
+            },
+            {
+                "text": "Array formula",
+                "isCorrect": true
+            },
+            {
+                "text": "Complex formulas",
+                "isCorrect": false
+            },
+            {
+                "text": "Smart formula",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hyperlinks can be:",
+        "options": [
+            {
+                "text": "Text",
+                "isCorrect": false
+            },
+            {
+                "text": "Drawing objects",
+                "isCorrect": false
+            },
+            {
+                "text": "Pictures",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which button do you click to add up a series of numbers?",
+        "options": [
+            {
+                "text": "The AutoSum button",
+                "isCorrect": true
+            },
+            {
+                "text": "The Formula button",
+                "isCorrect": false
+            },
+            {
+                "text": "The QuickTotal button",
+                "isCorrect": false
+            },
+            {
+                "text": "The Total button",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When the formula bar is active, you can see:",
+        "options": [
+            {
+                "text": "The Edit Formula button",
+                "isCorrect": false
+            },
+            {
+                "text": "The Cancel button",
+                "isCorrect": false
+            },
+            {
+                "text": "The Enter button",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "To copy formatting from one area in a worksheet and apply it to another area you would use:",
+        "options": [
+            {
+                "text": "Edit > Copy Format and Edit > Paste Format commands",
+                "isCorrect": false
+            },
+            {
+                "text": "Copy and Apply Formatting dialog box (Format > Copy and Apply menu)",
+                "isCorrect": false
+            },
+            {
+                "text": "No way to copy/apply formatting in Excel; must do it manually",
+                "isCorrect": false
+            },
+            {
+                "text": "The Format Painter button on the standard toolbar",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In a worksheet you can select:",
+        "options": [
+            {
+                "text": "The entire worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Rows",
+                "isCorrect": false
+            },
+            {
+                "text": "Columns",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "When you link data maintained in an Excel workbook to a Word document:",
+        "options": [
+            {
+                "text": "The Word document cannot be edited",
+                "isCorrect": false
+            },
+            {
+                "text": "The Word document contains a reference to the original source application",
+                "isCorrect": true
+            },
+            {
+                "text": "The Word document must contain a hyperlink",
+                "isCorrect": false
+            },
+            {
+                "text": "The Word document contains a copy of the actual data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which area in an Excel window allows entering values and formulas?",
+        "options": [
+            {
+                "text": "Title bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Menu bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Formula bar",
+                "isCorrect": true
+            },
+            {
+                "text": "Standard toolbar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To hold row and column titles in place so that they do not scroll when you scroll a worksheet, click the:",
+        "options": [
+            {
+                "text": "Unfreeze Panes command on the Window menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Freeze Panes command on the Window menu",
+                "isCorrect": true
+            },
+            {
+                "text": "Hold Titles command on the Edit menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Split command on the Window menu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To edit an embedded Excel worksheet object in a Word document:",
+        "options": [
+            {
+                "text": "Use the Excel menu bar and toolbars inside the Word application",
+                "isCorrect": true
+            },
+            {
+                "text": "Edit the hyperlink",
+                "isCorrect": false
+            },
+            {
+                "text": "Edit the data in an Excel source application",
+                "isCorrect": false
+            },
+            {
+                "text": "Use the Word menu bar and toolbars",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To create a formula, you can use:",
+        "options": [
+            {
+                "text": "Values but not cell references",
+                "isCorrect": false
+            },
+            {
+                "text": "Cell references but not values",
+                "isCorrect": false
+            },
+            {
+                "text": "Values or cell references, but not both at the same time",
+                "isCorrect": false
+            },
+            {
+                "text": "Values and cell references",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is the oldest spreadsheet package?",
+        "options": [
+            {
+                "text": "VisiCalc",
+                "isCorrect": true
+            },
+            {
+                "text": "Lotus 1-2-3",
+                "isCorrect": false
+            },
+            {
+                "text": "Excel",
+                "isCorrect": false
+            },
+            {
+                "text": "StarCalc",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Rounding errors can occur:",
+        "options": [
+            {
+                "text": "When you use multiplication, division, or exponentiation in a formula",
+                "isCorrect": false
+            },
+            {
+                "text": "When you use addition and subtraction in a formula",
+                "isCorrect": false
+            },
+            {
+                "text": "Because Excel uses hidden decimal places in computation",
+                "isCorrect": false
+            },
+            {
+                "text": "When you show formula results with different decimal places than calculated results",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You can copy data or formulas:",
+        "options": [
+            {
+                "text": "With the Copy, Paste, and Cut commands on the Edit menu",
+                "isCorrect": false
+            },
+            {
+                "text": "With commands on the shortcut menu",
+                "isCorrect": false
+            },
+            {
+                "text": "With buttons on the standard toolbars",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You cannot link Excel worksheet data to a Word document:",
+        "options": [
+            {
+                "text": "With the right drag method",
+                "isCorrect": false
+            },
+            {
+                "text": "With a hyperlink",
+                "isCorrect": false
+            },
+            {
+                "text": "With the Copy and Paste Special commands",
+                "isCorrect": false
+            },
+            {
+                "text": "With the Copy and Paste buttons on the standard toolbar",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a popular DOS based spreadsheet package?",
+        "options": [
+            {
+                "text": "Word",
+                "isCorrect": false
+            },
+            {
+                "text": "Smart Cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Excel",
+                "isCorrect": false
+            },
+            {
+                "text": "Lotus 1-2-3",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "An Excel workbook is a collection of:",
+        "options": [
+            {
+                "text": "Workbooks",
+                "isCorrect": false
+            },
+            {
+                "text": "Worksheets",
+                "isCorrect": false
+            },
+            {
+                "text": "Charts",
+                "isCorrect": false
+            },
+            {
+                "text": "Worksheets and charts",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Excel files have a default extension of ______ in Excel 2003.",
+        "options": [
+            {
+                "text": ".xls",
+                "isCorrect": true
+            },
+            {
+                "text": ".xlw",
+                "isCorrect": false
+            },
+            {
+                "text": ".wk1",
+                "isCorrect": false
+            },
+            {
+                "text": ".123",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can use the Format Painter multiple times before you turn it off by:",
+        "options": [
+            {
+                "text": "You can only use the Format Painter button once when you click it",
+                "isCorrect": false
+            },
+            {
+                "text": "Double-clicking the Format Painter button",
+                "isCorrect": true
+            },
+            {
+                "text": "Pressing the Ctrl key and clicking the Format Painter button",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing the Alt key and clicking the Format Painter button",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can use the formula palette to:",
+        "options": [
+            {
+                "text": "Format cells containing numbers",
+                "isCorrect": false
+            },
+            {
+                "text": "Create and edit formulas containing functions",
+                "isCorrect": true
+            },
+            {
+                "text": "Enter assumptions data",
+                "isCorrect": false
+            },
+            {
+                "text": "Copy a range of cells",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A circular reference is:",
+        "options": [
+            {
+                "text": "Geometric modeling tool",
+                "isCorrect": false
+            },
+            {
+                "text": "A cell that points to a drawing object",
+                "isCorrect": false
+            },
+            {
+                "text": "A formula that either directly or indirectly depends on itself",
+                "isCorrect": true
+            },
+            {
+                "text": "Always erroneous",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT one of Excel's what-if functions?",
+        "options": [
+            {
+                "text": "Goal Seek",
+                "isCorrect": false
+            },
+            {
+                "text": "Solver",
+                "isCorrect": false
+            },
+            {
+                "text": "Scenario Manager",
+                "isCorrect": false
+            },
+            {
+                "text": "Auto Outline",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "When you insert an Excel file into a Word document, the data are:",
+        "options": [
+            {
+                "text": "Hyperlinked placed in a Word table",
+                "isCorrect": false
+            },
+            {
+                "text": "Linked",
+                "isCorrect": true
+            },
+            {
+                "text": "Embedded",
+                "isCorrect": false
+            },
+            {
+                "text": "Use the Word menu bar and toolbars",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not information you can specify using the Solver?",
+        "options": [
+            {
+                "text": "Input cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Constraints",
+                "isCorrect": true
+            },
+            {
+                "text": "Target cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Changing cells",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Each Excel file is called a workbook because:",
+        "options": [
+            {
+                "text": "It can contain text and data",
+                "isCorrect": false
+            },
+            {
+                "text": "It can be modified",
+                "isCorrect": false
+            },
+            {
+                "text": "It can contain many sheets including worksheets and chart sheets",
+                "isCorrect": true
+            },
+            {
+                "text": "You have to work hard to create it",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Excel probably considers the cell entry 'January 1, 2020' to be a:",
+        "options": [
+            {
+                "text": "Label",
+                "isCorrect": false
+            },
+            {
+                "text": "Value",
+                "isCorrect": true
+            },
+            {
+                "text": "Formula",
+                "isCorrect": false
+            },
+            {
+                "text": "Text string",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can enter which types of data into worksheet cells?",
+        "options": [
+            {
+                "text": "Labels, values, and formulas",
+                "isCorrect": true
+            },
+            {
+                "text": "Labels and values but not formulas",
+                "isCorrect": false
+            },
+            {
+                "text": "Values and formulas but not labels",
+                "isCorrect": false
+            },
+            {
+                "text": "Formulas only",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "All worksheet formulas:",
+        "options": [
+            {
+                "text": "Manipulate values",
+                "isCorrect": false
+            },
+            {
+                "text": "Manipulate labels",
+                "isCorrect": false
+            },
+            {
+                "text": "Return a formula result",
+                "isCorrect": true
+            },
+            {
+                "text": "Use the addition operator",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a correct order of precedence in formula calculation?",
+        "options": [
+            {
+                "text": "Multiplication/division, exponentiation, positive/negative values",
+                "isCorrect": true
+            },
+            {
+                "text": "Multiplication/division, positive/negative values, addition/subtraction",
+                "isCorrect": false
+            },
+            {
+                "text": "Addition/subtraction, positive/negative values, exponentiation",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The numbers in our worksheet look like this: 1000. You want them to look like this: $1,000. How can you accomplish this?",
+        "options": [
+            {
+                "text": "You have to retype everything and manually add the dollar signs, commas, and decimals",
+                "isCorrect": false
+            },
+            {
+                "text": "Select Format > Money from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Click the Currency Style button on the formatting toolbar",
+                "isCorrect": true
+            },
+            {
+                "text": "None of these",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Excel worksheet cells work very similarly to what common element of the Windows graphical user interface?",
+        "options": [
+            {
+                "text": "Option buttons",
+                "isCorrect": false
+            },
+            {
+                "text": "List boxes",
+                "isCorrect": false
+            },
+            {
+                "text": "Text boxes",
+                "isCorrect": true
+            },
+            {
+                "text": "Combo boxes",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following options is not located in the Page Setup dialog box?",
+        "options": [
+            {
+                "text": "Page Break Preview",
+                "isCorrect": true
+            },
+            {
+                "text": "Page Orientation",
+                "isCorrect": false
+            },
+            {
+                "text": "Margins",
+                "isCorrect": false
+            },
+            {
+                "text": "Headers and Footers",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You want to track the progress of the stock market on a daily basis. Which type of chart should you use?",
+        "options": [
+            {
+                "text": "Pie chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Bar chart",
+                "isCorrect": false
+            },
+            {
+                "text": "Line chart",
+                "isCorrect": true
+            },
+            {
+                "text": "Column chart",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Without using the mouse or the arrow keys, what is the fastest way of getting to cell A1 in a spreadsheet?",
+        "options": [
+            {
+                "text": "Press Ctrl + Home",
+                "isCorrect": true
+            },
+            {
+                "text": "Press Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Press Shift + Home",
+                "isCorrect": false
+            },
+            {
+                "text": "Press Alt + Home",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following methods cannot be used to edit the contents of a cell?",
+        "options": [
+            {
+                "text": "Press the Alt key",
+                "isCorrect": true
+            },
+            {
+                "text": "Clicking the formula bar",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing the F2 key",
+                "isCorrect": false
+            },
+            {
+                "text": "Double clicking the cell",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If you begin typing an entry into a cell and then realize that you don't want your entry placed into a cell, you:",
+        "options": [
+            {
+                "text": "Press the Erase key",
+                "isCorrect": false
+            },
+            {
+                "text": "Press Esc",
+                "isCorrect": true
+            },
+            {
+                "text": "Press the Enter button",
+                "isCorrect": false
+            },
+            {
+                "text": "Press the Edit Formula button",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To view a cell comment:",
+        "options": [
+            {
+                "text": "Click Edit Comment command on Insert menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Click Display Comment command on Window menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Position the mouse pointer over the cell",
+                "isCorrect": true
+            },
+            {
+                "text": "Click the Comment command on the View menu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When you want to insert a blank embedded Excel object in a Word document you can:",
+        "options": [
+            {
+                "text": "Click the Object command on the Insert menu",
+                "isCorrect": true
+            },
+            {
+                "text": "Click the Office Links button on the standard toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Click the Create Worksheet button on the formatting toolbar",
+                "isCorrect": false
+            },
+            {
+                "text": "Click the Import Excel command on the File menu",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can edit a cell by:",
+        "options": [
+            {
+                "text": "Clicking the formula button",
+                "isCorrect": false
+            },
+            {
+                "text": "Double clicking the cell to edit it in-place",
+                "isCorrect": true
+            },
+            {
+                "text": "Selecting Edit > Edit Cell from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can select a single range of cells by:",
+        "options": [
+            {
+                "text": "Clicking upper-left cell, then Shift + clicking lower-right cell",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing Ctrl key while dragging over the desired cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Pressing Shift key and an arrow key",
+                "isCorrect": false
+            },
+            {
+                "text": "Dragging over the desired cells",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which elements of a worksheet can be protected from accidental modification?",
+        "options": [
+            {
+                "text": "Contents",
+                "isCorrect": false
+            },
+            {
+                "text": "Objects",
+                "isCorrect": false
+            },
+            {
+                "text": "Scenarios",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You can use the drag and drop method to:",
+        "options": [
+            {
+                "text": "Copy cell contents",
+                "isCorrect": false
+            },
+            {
+                "text": "Move cell contents",
+                "isCorrect": false
+            },
+            {
+                "text": "Add cell contents",
+                "isCorrect": false
+            },
+            {
+                "text": "Both A and B",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "It is acceptable to let long text flow into adjacent cells on a worksheet when:",
+        "options": [
+            {
+                "text": "Data will be entered in the adjacent cells",
+                "isCorrect": false
+            },
+            {
+                "text": "No data will be entered in the adjacent cells",
+                "isCorrect": true
+            },
+            {
+                "text": "There is no suitable abbreviation of the text",
+                "isCorrect": false
+            },
+            {
+                "text": "There is not time to format the next",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How can you delete a record?",
+        "options": [
+            {
+                "text": "Delete the column from the worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Select Data > Form, find the record, then click Delete",
+                "isCorrect": true
+            },
+            {
+                "text": "Select Data > Delete Record from the menu",
+                "isCorrect": false
+            },
+            {
+                "text": "Click the Delete button on the Standard toolbar",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Right-clicking something in Excel:",
+        "options": [
+            {
+                "text": "Deletes the object",
+                "isCorrect": false
+            },
+            {
+                "text": "Nothing, the right mouse button is for left-handed people",
+                "isCorrect": false
+            },
+            {
+                "text": "Opens a shortcut menu listing everything you can do to the object",
+                "isCorrect": true
+            },
+            {
+                "text": "Selects the object",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Documentation should include:",
+        "options": [
+            {
+                "text": "Destination and users of the output data",
+                "isCorrect": false
+            },
+            {
+                "text": "Source of input data",
+                "isCorrect": false
+            },
+            {
+                "text": "Information on the purpose of the workbook",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Files created with Lotus 1-2-3 have an extension:",
+        "options": [
+            {
+                "text": ".DOC",
+                "isCorrect": false
+            },
+            {
+                "text": ".XLS",
+                "isCorrect": false
+            },
+            {
+                "text": ".123",
+                "isCorrect": false
+            },
+            {
+                "text": ".WK1",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Comments can be added to cells using:",
+        "options": [
+            {
+                "text": "Edit > Comments",
+                "isCorrect": false
+            },
+            {
+                "text": "Insert > Comments",
+                "isCorrect": false
+            },
+            {
+                "text": "File > Comments",
+                "isCorrect": false
+            },
+            {
+                "text": "Review > New Comment",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a worksheet design criterion?",
+        "options": [
+            {
+                "text": "Efficiency",
+                "isCorrect": false
+            },
+            {
+                "text": "Auditability",
+                "isCorrect": false
+            },
+            {
+                "text": "Description",
+                "isCorrect": true
+            },
+            {
+                "text": "Clarity",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To copy cell contents using drag and drop, press the:",
+        "options": [
+            {
+                "text": "End key",
+                "isCorrect": false
+            },
+            {
+                "text": "Shift key",
+                "isCorrect": false
+            },
+            {
+                "text": "Ctrl key",
+                "isCorrect": true
+            },
+            {
+                "text": "Esc key",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is the latest version of Excel?",
+        "options": [
+            {
+                "text": "Excel 2007",
+                "isCorrect": false
+            },
+            {
+                "text": "Excel 2016",
+                "isCorrect": false
+            },
+            {
+                "text": "Excel 365",
+                "isCorrect": true
+            },
+            {
+                "text": "Excel XP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When you copy a formula:",
+        "options": [
+            {
+                "text": "Excel erases the original copy of the formula",
+                "isCorrect": false
+            },
+            {
+                "text": "Excel edits cell references in the newly copied formula",
+                "isCorrect": true
+            },
+            {
+                "text": "Excel adjusts absolute cell references",
+                "isCorrect": false
+            },
+            {
+                "text": "Excel doesn't adjust relative cell references",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The AutoFill feature:",
+        "options": [
+            {
+                "text": "Extends a sequential series of data",
+                "isCorrect": true
+            },
+            {
+                "text": "Automatically adds range of cell values",
+                "isCorrect": false
+            },
+            {
+                "text": "Applies a border around the selected cells",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which menu option can be used to split windows into two?",
+        "options": [
+            {
+                "text": "Format > Window",
+                "isCorrect": false
+            },
+            {
+                "text": "View > Window > Split",
+                "isCorrect": false
+            },
+            {
+                "text": "Window > Split",
+                "isCorrect": false
+            },
+            {
+                "text": "View > Split",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an absolute cell reference?",
+        "options": [
+            {
+                "text": "!A!1",
+                "isCorrect": false
+            },
+            {
+                "text": "$A$1",
+                "isCorrect": true
+            },
+            {
+                "text": "#a#1",
+                "isCorrect": false
+            },
+            {
+                "text": "A1",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What symbol is used before a number to make it a label?",
+        "options": [
+            {
+                "text": "\" (quote)",
+                "isCorrect": false
+            },
+            {
+                "text": "= (equal)",
+                "isCorrect": false
+            },
+            {
+                "text": "_ (underscore)",
+                "isCorrect": false
+            },
+            {
+                "text": "' (apostrophe)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following formulas is not entered correctly?",
+        "options": [
+            {
+                "text": "=10+50",
+                "isCorrect": false
+            },
+            {
+                "text": "=B7*B1",
+                "isCorrect": false
+            },
+            {
+                "text": "=B7+14",
+                "isCorrect": false
+            },
+            {
+                "text": "10+50",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following formulas will Excel not be able to calculate?",
+        "options": [
+            {
+                "text": "=SUM(Sales)-A3",
+                "isCorrect": false
+            },
+            {
+                "text": "=SUM(A1:A5)*.5",
+                "isCorrect": false
+            },
+            {
+                "text": "=SUM(A1:A5)/(10-10)",
+                "isCorrect": true
+            },
+            {
+                "text": "=SUM(A1:A5)-10",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A typical worksheet has ________ number of columns.",
+        "options": [
+            {
+                "text": "128",
+                "isCorrect": false
+            },
+            {
+                "text": "256",
+                "isCorrect": false
+            },
+            {
+                "text": "1024",
+                "isCorrect": false
+            },
+            {
+                "text": "16384",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "How many characters can be typed in a single cell in Excel?",
+        "options": [
+            {
+                "text": "256",
+                "isCorrect": false
+            },
+            {
+                "text": "1024",
+                "isCorrect": false
+            },
+            {
+                "text": "32767",
+                "isCorrect": true
+            },
+            {
+                "text": "65535",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A worksheet can have a maximum of ________ number of rows.",
+        "options": [
+            {
+                "text": "256",
+                "isCorrect": false
+            },
+            {
+                "text": "1024",
+                "isCorrect": false
+            },
+            {
+                "text": "65535",
+                "isCorrect": false
+            },
+            {
+                "text": "1048576",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not an example of a value?",
+        "options": [
+            {
+                "text": "350",
+                "isCorrect": false
+            },
+            {
+                "text": "May 10, 2001",
+                "isCorrect": false
+            },
+            {
+                "text": "0.57",
+                "isCorrect": false
+            },
+            {
+                "text": "Serial Number 50771",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The chart wizard term 'data series' refers to:",
+        "options": [
+            {
+                "text": "A chart legend",
+                "isCorrect": false
+            },
+            {
+                "text": "A collection of chart data markers",
+                "isCorrect": false
+            },
+            {
+                "text": "A set of values you plot in a chart",
+                "isCorrect": true
+            },
+            {
+                "text": "A data label",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The Chart wizard term 'data categories' refers to:",
+        "options": [
+            {
+                "text": "A chart plot area",
+                "isCorrect": false
+            },
+            {
+                "text": "A horizontal axis",
+                "isCorrect": true
+            },
+            {
+                "text": "The organization of individual values within a chart's data series",
+                "isCorrect": false
+            },
+            {
+                "text": "The data range that supplies chart data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A worksheet range is a:",
+        "options": [
+            {
+                "text": "A command used for data modeling",
+                "isCorrect": false
+            },
+            {
+                "text": "A range of values such as from 23 to 234",
+                "isCorrect": false
+            },
+            {
+                "text": "A group of cells",
+                "isCorrect": true
+            },
+            {
+                "text": "A group of worksheets",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Tab scrolling buttons:",
+        "options": [
+            {
+                "text": "Allow you to view a different worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "Allow you to view additional worksheet rows down",
+                "isCorrect": false
+            },
+            {
+                "text": "Allow you to view additional worksheet columns to the right",
+                "isCorrect": false
+            },
+            {
+                "text": "Allow you to view additional sheet tabs",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A numeric value can be treated as a label value if it precedes with:",
+        "options": [
+            {
+                "text": "Apostrophe (')",
+                "isCorrect": true
+            },
+            {
+                "text": "Exclamation (!)",
+                "isCorrect": false
+            },
+            {
+                "text": "Hash (#)",
+                "isCorrect": false
+            },
+            {
+                "text": "Ampersand (&)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Concatenation of text can be done using:",
+        "options": [
+            {
+                "text": "Apostrophe (')",
+                "isCorrect": false
+            },
+            {
+                "text": "Exclamation (!)",
+                "isCorrect": false
+            },
+            {
+                "text": "Hash (#)",
+                "isCorrect": false
+            },
+            {
+                "text": "Ampersand (&)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Data can be arranged in a worksheet in an easy to understand manner using:",
+        "options": [
+            {
+                "text": "Auto formatting",
+                "isCorrect": false
+            },
+            {
+                "text": "Applying styles",
+                "isCorrect": false
+            },
+            {
+                "text": "Changing fonts",
+                "isCorrect": false
+            },
+            {
+                "text": "All of the above",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "You can use drag-and-drop to embed Excel worksheet data in a Word document:",
+        "options": [
+            {
+                "text": "By dragging Excel data to Word button on taskbar while pressing Ctrl key",
+                "isCorrect": true
+            },
+            {
+                "text": "By dragging Excel data to Word button on taskbar while pressing Shift key",
+                "isCorrect": false
+            },
+            {
+                "text": "By dragging Excel data to Word button on taskbar while pressing Alt key",
+                "isCorrect": false
+            },
+            {
+                "text": "None of the above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The AutoCalculate feature:",
+        "options": [
+            {
+                "text": "Can only add values in a range of cells",
+                "isCorrect": false
+            },
+            {
+                "text": "Provides a quick way to view the result of an arithmetic operation on cells",
+                "isCorrect": true
+            },
+            {
+                "text": "Automatically creates formulas and adds them to a worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "A and C",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Excel uniquely identifies cells within a worksheet with a cell name using:",
+        "options": [
+            {
+                "text": "Cell names",
+                "isCorrect": false
+            },
+            {
+                "text": "Column numbers and row letters",
+                "isCorrect": false
+            },
+            {
+                "text": "Column letters and row numbers",
+                "isCorrect": true
+            },
+            {
+                "text": "Cell locator coordinates",
+                "isCorrect": false
+            }
+        ]
+    }
+]
