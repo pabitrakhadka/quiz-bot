@@ -1993,5 +1993,5633 @@
                 "isCorrect": false
             }
         ]
+    },
+    {
+        "question": "रातो मच्छिन्द्रनाथको जात्रा चलाउने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्र देव",
+                "isCorrect": true
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सेतो मच्छिन्द्रनाथको जात्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल (रणदेव)",
+                "isCorrect": true
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गाइजात्राको चलन चलाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "जगत्प्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "विस्केट जात्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत्ज्योति मल्ल (बिस्केटको मुट खान्छे)",
+                "isCorrect": true
+            },
+            {
+                "text": "अमर मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "बज्रयोगिनीको जात्रा चलाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "सुवर्ण मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "अमर मल्ल (बज्र झुलछन्)",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मी नरसिंह मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "चन्द्रमाबाट मान्छे झिक्ने जात्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "कृष्ण मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "पशुपतिनाथको जात्रा चलाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत्प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मी नरसिंह मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "इन्द्रजात्रा चलाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कुमारीको रथ घुमाउने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मी नरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "भैलोको हातबाट मासु चलाउने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "देवशर्मदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अन्नपूर्णमा नागबाट दुध दिने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रशेखर",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "भैरवको नदबुढी नाच, बोडेको महालक्ष्मीको नाच कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप सिंह शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "इन्द्र जात्रामा लिङ्गो गाड्ने चलन चलाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वी विक्रम",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्र मानदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "वसन्त सुन्ने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रसेन",
+                "isCorrect": false
+            },
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल र कानुनी रोक",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "काठमाडौंको समयमा ९-५ बजे काम गर्ने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "कृष्ण मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "देवशर्मदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा त्रिभुवन",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "हिजोको १२ बजे लोपो पछ्याउने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "कृष्ण मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "देवशर्मदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "स्वर्गको अवतार मल्लको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रशेखर",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा महेन्द्र",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लाखे जात्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "चैतमा च्यांगु लगाउने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "चन्द्रशेखर",
+                "isCorrect": true
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रसेन",
+                "isCorrect": false
+            },
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नौको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "राजा त्रिभुवन / श्री ३ जुद्ध",
+                "isCorrect": true
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्र देव",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "बग्गी चढ्ने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": true
+            },
+            {
+                "text": "भीमशमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "माथनाबीको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "रामशाह",
+                "isCorrect": true
+            },
+            {
+                "text": "नरेन्द्र देव",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "शनिवार विदा दिने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "भीमशमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "युद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नवदुर्गा र महालक्ष्मी नाचको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "सुवर्ण मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": true
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "चण्डोलको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": false
+            },
+            {
+                "text": "सुवर्ण मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "घर, जमिन बेचीखान नदिने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "युद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अंग्रज अडाल्नमा कोट फिर्ताको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मोहर (महेन्द्र मल्ली) कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा ज्ञानेन्द्र",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "तामाको पैसा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "सदसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पशुपतिमा पुष्ट पूजाको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "निर्मम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सुनको असर्फी कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सदसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कर्मचारीलाई कफनको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "निर्मम",
+                "isCorrect": true
+            },
+            {
+                "text": "पृथ्वी नारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": false
+            },
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लुमडी भद्रकाली नाच कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "नरेन्द्र देव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पशुपति नारायण शाहको पूजाको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "निर्मम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मानङ्क मुद्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "नरेन्द्र देव",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गुणङ्क मुद्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सदसिंह मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "टप्प कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "राजा त्रिभुवन",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सून मुद्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "र.ब. शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव तृतीय",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "चाकुन मुद्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "पृथ्वी विक्रम",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा त्रिभुवन",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "चौड, मोहर कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "र.ब. शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवदेव तृतीय",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पैदलमार्ग र प्लास्टिकको नोट कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "पृथ्वी विक्रम",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा ज्ञानेन्द्र",
+                "isCorrect": true
+            },
+            {
+                "text": "राजा त्रिभुवन",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सुकी मुद्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "शिवदेव तृतीय",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा त्रिभुवन",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "शिवदेव तृतीयको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "युद्धमा मारिए",
+                "isCorrect": false
+            },
+            {
+                "text": "गौमुखीमा विष खुवाएर",
+                "isCorrect": true
+            },
+            {
+                "text": "सर्पदंशले",
+                "isCorrect": false
+            },
+            {
+                "text": "आत्महत्या",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वी विक्रमको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "बिन्डो बालेको घरको धुवामा निस्सासिएर",
+                "isCorrect": true
+            },
+            {
+                "text": "तमखुमा विष खुवाएर",
+                "isCorrect": false
+            },
+            {
+                "text": "गोडादारोमा",
+                "isCorrect": false
+            },
+            {
+                "text": "आत्महत्या",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जयप्रकाश मल्लको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "युद्धमा मारिए",
+                "isCorrect": true
+            },
+            {
+                "text": "तमखुमा विष खुवाएर",
+                "isCorrect": false
+            },
+            {
+                "text": "घरको झगडाले",
+                "isCorrect": false
+            },
+            {
+                "text": "आत्महत्या",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राजा त्रिभुवनको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "जहाँ पाए त्यहाँ विष खुवाएर",
+                "isCorrect": true
+            },
+            {
+                "text": "युद्धमा मारिए",
+                "isCorrect": false
+            },
+            {
+                "text": "गोडादारोमा",
+                "isCorrect": false
+            },
+            {
+                "text": "आत्महत्या",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रनबहादुर शाहको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "आत्महत्या",
+                "isCorrect": false
+            },
+            {
+                "text": "आफ्नै भाइद्वारा कटारले मारेर",
+                "isCorrect": true
+            },
+            {
+                "text": "जहाँ पाए त्यहाँ विष खुवाएर",
+                "isCorrect": false
+            },
+            {
+                "text": "युद्धमा मारिए",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जयप्रकाश मल्लको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "युद्धमा मारिए",
+                "isCorrect": false
+            },
+            {
+                "text": "पूरै शत्रुदलमा पछि पुजा दिएर",
+                "isCorrect": true
+            },
+            {
+                "text": "गौमुखीमा विष खुवाएर",
+                "isCorrect": false
+            },
+            {
+                "text": "आत्महत्या",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रताप मल्लको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "हरिसिद्धिको नाच हेर्दैहेर्दैमा",
+                "isCorrect": true
+            },
+            {
+                "text": "गोडादारोमा",
+                "isCorrect": false
+            },
+            {
+                "text": "युद्धमा मारिए",
+                "isCorrect": false
+            },
+            {
+                "text": "आत्महत्या",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "विश्वजित मल्लको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "हरिसिद्धिको नाच हेर्दैहेर्दैमा",
+                "isCorrect": false
+            },
+            {
+                "text": "तमखुमा विष खुवाएर षड्यन्त्रपूर्वक मारिए",
+                "isCorrect": true
+            },
+            {
+                "text": "गोडादारोमा",
+                "isCorrect": false
+            },
+            {
+                "text": "जहाँ पाए त्यहाँ विष खुवाएर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "युद्धमा मारिने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "अभय मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भाष्कर मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "गीर्वाणयुद्ध विक्रम शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "तमखुमा विष खुवाएर मारिने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "अभय मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सिंहावलोकनबाट खस्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "त्रिभुवन",
+                "isCorrect": false
+            },
+            {
+                "text": "भूपालेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "भाष्कर मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "राजेन्द्र शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रणभूमिमै मारिने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "गीर्वाणयुद्ध विक्रम शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "भाष्कर मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "अमर मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "भाइको हातबाट मारिने राजा को हुन्?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "भाष्कर मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "त्रैलोक्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "जमिनमुनि अवस्थामा मर्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "राजेन्द्र शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "भूपालेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कहाँको शिव, अभय, वज्र, गुणले चलाएका थिए?",
+        "options": [
+            {
+                "text": "कान्तिपुर",
+                "isCorrect": false
+            },
+            {
+                "text": "कीर्तिपुर",
+                "isCorrect": true
+            },
+            {
+                "text": "ललितपुर",
+                "isCorrect": false
+            },
+            {
+                "text": "भक्तपुर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अंशको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "शिवदेव प्रथम",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "वरदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लिच्छविमा वज्रको चलन कहाँबाट सुरु भयो?",
+        "options": [
+            {
+                "text": "ललितपुर",
+                "isCorrect": true
+            },
+            {
+                "text": "कान्तिपुर",
+                "isCorrect": false
+            },
+            {
+                "text": "भक्तपुर",
+                "isCorrect": false
+            },
+            {
+                "text": "गोकर्णमा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "योगनरेन्द्र मल्लले कति जना रानी राखेका थिए?",
+        "options": [
+            {
+                "text": "३ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "७ जना",
+                "isCorrect": true
+            },
+            {
+                "text": "९ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "१० जना",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रण मल्लले कति जना रानी राखेका थिए?",
+        "options": [
+            {
+                "text": "३ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "७ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "९ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "१० जना",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'चौरा' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "भण्डार संरक्षक",
+                "isCorrect": false
+            },
+            {
+                "text": "स्थानीय शासक",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रधानमन्त्री (सैनिक अधिकृत)",
+                "isCorrect": true
+            },
+            {
+                "text": "सैनिकको प्रमुख व्यक्ति",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'भण्डारनायक' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "सैनिक अधिकृत",
+                "isCorrect": false
+            },
+            {
+                "text": "राजाको भण्डार वा अन्नको व्यवस्था गर्ने",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रशासनिक कर्मचारी",
+                "isCorrect": false
+            },
+            {
+                "text": "शान्ति सुरक्षा हेर्ने",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'अमात्य' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "प्रधानमन्त्रीको पद",
+                "isCorrect": false
+            },
+            {
+                "text": "मन्त्रीस्तरको पद",
+                "isCorrect": true
+            },
+            {
+                "text": "स्थानीय शासक",
+                "isCorrect": false
+            },
+            {
+                "text": "राजाको भण्डार व्यवस्थापक",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'टक्सारी' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "टक्सालको अधिकृत",
+                "isCorrect": true
+            },
+            {
+                "text": "स्थानीय शासक",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रधानमन्त्री",
+                "isCorrect": false
+            },
+            {
+                "text": "राजाको रक्षा गर्ने",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'पात्र' पदले कस्तो काम गर्दथ्यो?",
+        "options": [
+            {
+                "text": "भण्डार संरक्षकको काम",
+                "isCorrect": false
+            },
+            {
+                "text": "राजाको निजी सचिवको काम",
+                "isCorrect": false
+            },
+            {
+                "text": "स्थानीय शासकको काम",
+                "isCorrect": true
+            },
+            {
+                "text": "शान्ति सुरक्षाको काम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'कोतवाल' पदको जिम्मेवारी के थियो?",
+        "options": [
+            {
+                "text": "भण्डारको व्यवस्थापन",
+                "isCorrect": false
+            },
+            {
+                "text": "शान्ति सुरक्षाको काम",
+                "isCorrect": true
+            },
+            {
+                "text": "गाउँको झगडा हेर्ने",
+                "isCorrect": false
+            },
+            {
+                "text": "राजपरिवारको सुरक्षा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'प्रजाध्यक्ष' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "गाउँको रक्षा गर्ने शासक",
+                "isCorrect": true
+            },
+            {
+                "text": "शान्ति सुरक्षाको प्रमुख",
+                "isCorrect": false
+            },
+            {
+                "text": "राजपरिवारको सुरक्षा प्रमुख",
+                "isCorrect": false
+            },
+            {
+                "text": "राजपुरोहित",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'जिम्वाल' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "सैनिक अधिकृतको काम",
+                "isCorrect": false
+            },
+            {
+                "text": "गाउँको रक्षा गर्ने",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रशासनिक कर्मचारीको काम",
+                "isCorrect": true
+            },
+            {
+                "text": "सैनिकको प्रमुख व्यक्ति",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'सेनाध्यक्ष' पदको जिम्मेवारी के थियो?",
+        "options": [
+            {
+                "text": "राजपुरोहित",
+                "isCorrect": false
+            },
+            {
+                "text": "सैनिक प्रमुख",
+                "isCorrect": true
+            },
+            {
+                "text": "राजको भण्डार हेर्ने",
+                "isCorrect": false
+            },
+            {
+                "text": "स्थानिय शासक",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'कोटनायक' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "सैनिकको प्रमुख व्यक्ति",
+                "isCorrect": false
+            },
+            {
+                "text": "किल्लाको रक्षक",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रशासकीय कर्मचारी",
+                "isCorrect": false
+            },
+            {
+                "text": "टक्सालको अधिकृत",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'ढुकली' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "गाउँको झगडा हेर्ने",
+                "isCorrect": false
+            },
+            {
+                "text": "देशभरिको भ्रमण गरी न्याय दिने",
+                "isCorrect": true
+            },
+            {
+                "text": "सैनिकको प्रमुख व्यक्ति",
+                "isCorrect": false
+            },
+            {
+                "text": "टोल हेर्ने अधिकारी",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'पण्डितर' पदको काम के थियो?",
+        "options": [
+            {
+                "text": "टोल हेर्ने अधिकारी",
+                "isCorrect": false
+            },
+            {
+                "text": "गाउँको झगडा हेर्ने",
+                "isCorrect": true
+            },
+            {
+                "text": "न्याय दिने अधिकारी",
+                "isCorrect": false
+            },
+            {
+                "text": "राजको भण्डारको रक्षक",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन उपनाम 'चौकी' कुन राजाको उपनाम थियो?",
+        "options": [
+            {
+                "text": "सिद्धि नरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन उपनाम 'पितृहन्ता' कुन राजाको उपनाम थियो?",
+        "options": [
+            {
+                "text": "भाष्कर मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जगतप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "अरिदेव मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन उपनाम 'राजेन्द्र' कुन राजाको उपनाम थियो?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहले कति जना रानी राखेका थिए?",
+        "options": [
+            {
+                "text": "३ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "५ जना",
+                "isCorrect": true
+            },
+            {
+                "text": "७ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "९ जना",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन निकाय 'दाल्या' ले कुन काम गर्थ्यो?",
+        "options": [
+            {
+                "text": "धर्म र जात्रा सम्बन्धी काम",
+                "isCorrect": false
+            },
+            {
+                "text": "भूमि, नापी र आर्थिक लेखाको काम",
+                "isCorrect": true
+            },
+            {
+                "text": "न्यायको काम",
+                "isCorrect": false
+            },
+            {
+                "text": "शिक्षाको काम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन निकाय 'पञ्चसमुच्चय' ले कुन काम गर्थ्यो?",
+        "options": [
+            {
+                "text": "धर्म सम्बन्धी काम",
+                "isCorrect": true
+            },
+            {
+                "text": "भूमि सम्बन्धी काम",
+                "isCorrect": false
+            },
+            {
+                "text": "मुद्रा सम्बन्धी काम",
+                "isCorrect": false
+            },
+            {
+                "text": "राजसभाको काम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन निकाय 'टक्सारी' ले कुन काम गर्थ्यो?",
+        "options": [
+            {
+                "text": "धर्म सम्बन्धी काम",
+                "isCorrect": false
+            },
+            {
+                "text": "मुद्रा टङ्कन गर्ने स्थान",
+                "isCorrect": true
+            },
+            {
+                "text": "भाषा सम्बन्धी काम",
+                "isCorrect": false
+            },
+            {
+                "text": "राजसभाको काम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालको प्रथम राजा को हुन्?",
+        "options": [
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "अरिदेव मल्ल (नासु, 2066)",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अरिदेव मल्लको शासन कहिले सुरु भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. ११४६",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १२९८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १३८०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १४३३",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अरिदेव मल्लले कति वर्षसम्म शासन सञ्चालन गरेका थिए?",
+        "options": [
+            {
+                "text": "१६ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२४ वर्ष (वि.सं. ११७०)",
+                "isCorrect": true
+            },
+            {
+                "text": "४२ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "५० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अरिदेव मल्लको अन्तिम कहिले भयो?",
+        "options": [
+            {
+                "text": "वि.सं. ११४६",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. ११७०",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १३८०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १४३३",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अरिदेव मल्लको निधन कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. ११४६",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १२९८",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १३८०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १४३३",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अभय मल्लका पिता को थिए?",
+        "options": [
+            {
+                "text": "अरिदेव मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अरिदेव मल्ललाई कुन उपाधिले किम्बदन्ती पाइन्छ?",
+        "options": [
+            {
+                "text": "अरिदेव (मल्ल जुजु भनिन्थ्यो)",
+                "isCorrect": true
+            },
+            {
+                "text": "जयस्थिति (राजाको पुरोहित)",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित (चतुर जुजु)",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप (युद्ध जुजु)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जयस्थिति मल्लको विवाह कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १४३३",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १२९८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १३८०",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. ११४६",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रथम मल्ल राजा अरिदेव मल्लको शासनकाल कहिले सकिएको मानिन्छ?",
+        "options": [
+            {
+                "text": "वि.सं. ११७०",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १२९८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १३८०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. ११४६",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "दरबारमा हत्याकाण्डबाट मर्ने शाह राजा को हुन्?",
+        "options": [
+            {
+                "text": "त्रिभुवन",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "गीर्वाणयुद्ध विक्रम शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पण्डितरको काम के थियो?",
+        "options": [
+            {
+                "text": "देशभरिको भ्रमण गरी न्याय दिने",
+                "isCorrect": false
+            },
+            {
+                "text": "गाउँको झगडा हेर्ने",
+                "isCorrect": true
+            },
+            {
+                "text": "सैनिक अधिकृत",
+                "isCorrect": false
+            },
+            {
+                "text": "टक्सालको अधिकृत",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको राजसभाको काम गर्ने निकायलाई मल्लकालमा के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "दाल्या",
+                "isCorrect": false
+            },
+            {
+                "text": "पञ्चसमुच्चय",
+                "isCorrect": false
+            },
+            {
+                "text": "भाषा विभाग",
+                "isCorrect": false
+            },
+            {
+                "text": "राजसभा",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन प्रशासनिक पद 'उमराव' को काम के थियो?",
+        "options": [
+            {
+                "text": "मन्त्रीस्तरको पद",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रधानमन्त्रीको पद",
+                "isCorrect": false
+            },
+            {
+                "text": "सैनिक अधिकृतको काम",
+                "isCorrect": true
+            },
+            {
+                "text": "शान्ति सुरक्षाको काम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'टक्करि' पदको जिम्मेवारी के थियो?",
+        "options": [
+            {
+                "text": "राजालाई निजी सचिवको काम",
+                "isCorrect": true
+            },
+            {
+                "text": "राजको भण्डारको रक्षक",
+                "isCorrect": false
+            },
+            {
+                "text": "टक्सालको अधिकृत",
+                "isCorrect": false
+            },
+            {
+                "text": "सेनाको प्रमुख",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जग्गासम्बन्धी विवादको फैसला गर्ने निकायलाई मल्लकालमा के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "पञ्चसमुच्चय",
+                "isCorrect": false
+            },
+            {
+                "text": "दाल्या",
+                "isCorrect": true
+            },
+            {
+                "text": "टक्सारी",
+                "isCorrect": false
+            },
+            {
+                "text": "जिम्वाल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'सेनाध्यक्ष' को काम के थियो?",
+        "options": [
+            {
+                "text": "स्थानीय शासक",
+                "isCorrect": false
+            },
+            {
+                "text": "राजपरिवारको सुरक्षा",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रशासनिक कर्मचारी",
+                "isCorrect": false
+            },
+            {
+                "text": "मुद्रा टङ्कन गर्ने",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालमा राजाले आफ्नो र छोराको भलाईका लागि कुन देवताको पूजा गरेका थिए?",
+        "options": [
+            {
+                "text": "मछिन्द्रनाथ",
+                "isCorrect": false
+            },
+            {
+                "text": "पशुपतिनाथ",
+                "isCorrect": false
+            },
+            {
+                "text": "खेलेरौली",
+                "isCorrect": true
+            },
+            {
+                "text": "भैरवनाथ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अभय मल्ल पछि राजा को बनेका थिए?",
+        "options": [
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "अमर मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जयस्थिति मल्लले कति वर्ष शासन सञ्चालन गरेका थिए?",
+        "options": [
+            {
+                "text": "४२ वर्ष (नासु, २०७०)",
+                "isCorrect": false
+            },
+            {
+                "text": "४३ वर्ष (वि.सं. १२९४ देखि १३३७ सम्म)",
+                "isCorrect": true
+            },
+            {
+                "text": "४६ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "५० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जयस्थिति मल्लको पालामा ग्राम्यलाभार्थी कति विभागमा विभाजन गरिएको थियो?",
+        "options": [
+            {
+                "text": "७",
+                "isCorrect": false
+            },
+            {
+                "text": "८",
+                "isCorrect": false
+            },
+            {
+                "text": "१०",
+                "isCorrect": true
+            },
+            {
+                "text": "१२",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहले कति जना रानी राखेका थिए?",
+        "options": [
+            {
+                "text": "३",
+                "isCorrect": false
+            },
+            {
+                "text": "४",
+                "isCorrect": false
+            },
+            {
+                "text": "५ (श्रीपेच)",
+                "isCorrect": true
+            },
+            {
+                "text": "७",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अंश विभाजनको नियम कसले बनाएका थिए?",
+        "options": [
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "श्रीमतीको नामबाट राजा बन्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत्प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "यक्ष मल्लले कति समय शासन चलाएको थिए?",
+        "options": [
+            {
+                "text": "४३ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "४२ वर्ष (वि.सं. १४९४ देखि १५३७ सम्म)",
+                "isCorrect": true
+            },
+            {
+                "text": "४६ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "५० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालमा नेपाल टुक्रिनु अघि राजा को थिए?",
+        "options": [
+            {
+                "text": "यक्ष मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "राम मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सात घोडा नाच देखाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा मुसलमान धर्मावलम्बीहरुको प्रवेश कुन राजाको पालामा भएको थियो?",
+        "options": [
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सौंखुको बज्रयोगिनीको रथयात्राको प्रारम्भ गर्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "राजा महेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "नेवारी भाषाको पहिलो कृति कुन हो?",
+        "options": [
+            {
+                "text": "शिलोहारे",
+                "isCorrect": false
+            },
+            {
+                "text": "नेवारी नाटक",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लम्का",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "'मन्देश सिपु सिपा सिक्ने आवुजुदुई' भन्ने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सिमसिमे राजा भनिने कुन राजालाई चिनिन्छ?",
+        "options": [
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कसको पालामा कल्पवृक्ष मनुष्यको रुप धारण गरेर आएका थिए?",
+        "options": [
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लक्ष्मीनरसिंह मल्लको मृत्यु कसरी भयो?",
+        "options": [
+            {
+                "text": "काष्ठमण्डपको निर्माणमा",
+                "isCorrect": false
+            },
+            {
+                "text": "बौद्धको हत्याकाण्डमा",
+                "isCorrect": false
+            },
+            {
+                "text": "कान्तिपुरका राजा प्रताप मल्लको युद्धमा",
+                "isCorrect": true
+            },
+            {
+                "text": "विष हालेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "काठमाडौंमा कसले पातालमा पानीको मुहान पत्ता लगाएका थिए?",
+        "options": [
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कालीचोक भगवतीको स्थापना कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "'प्रतापको मरण गृह हुदैन' भन्ने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रताप मल्लले कहिले जन्मिएका थिए?",
+        "options": [
+            {
+                "text": "वि.सं. १५९०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १६८९",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १७२९",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७३२",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रताप मल्ल कहिले राजा भएका थिए?",
+        "options": [
+            {
+                "text": "वि.सं. १७०४",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७१७",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७३२",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १७४०",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रताप मल्लको मृत्यु कसरी भयो?",
+        "options": [
+            {
+                "text": "राजदरबारको युद्धमा",
+                "isCorrect": false
+            },
+            {
+                "text": "कान्तिपुरका राजा जयप्रकाश मल्लको युद्धमा",
+                "isCorrect": false
+            },
+            {
+                "text": "हरिसिद्धिको नाच हेर्दैहेर्दैमा",
+                "isCorrect": true
+            },
+            {
+                "text": "विष खुवाएर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "काठमण्डौमा कल्पवृक्षको रुप धारण गर्ने व्यक्ति को थिए?",
+        "options": [
+            {
+                "text": "विदित भन्ने व्यक्तिले",
+                "isCorrect": true
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कान्तिपुरका राजा प्रताप मल्लको शासन अवधि कति समय रह्यो?",
+        "options": [
+            {
+                "text": "४२ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "४३ वर्ष (वि.सं. १७०४ देखि १७४७ सम्म)",
+                "isCorrect": true
+            },
+            {
+                "text": "४६ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "५० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कान्तिपुरको पातालको पानी मुहान पत्ता लगाउने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "बुद्धिनिकटबाट भगवानले कसलाई सम्झना गरेर आफ्नो लिम्बु र तिम्बुमा मनले मेरो दर्शन गरेर मृत्यु हुन्थ्यो?",
+        "options": [
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रणजित मल्लको उपनाम के हो?",
+        "options": [
+            {
+                "text": "सिद्धिबाबु (Bagmati S)",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न बाबू",
+                "isCorrect": false
+            },
+            {
+                "text": "चोती बाबू",
+                "isCorrect": false
+            },
+            {
+                "text": "ज्ञानेश्वर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रताप मल्लले आफ्नो राज्य कहिलेसम्म पुऱ्याएका थिए?",
+        "options": [
+            {
+                "text": "वि.सं. १७४७",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १७५०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७३२",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७७४",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "हरिशंकर पुराणावली सङ्ग्रह गर्ने शाह राजा को हुन्?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "श्रीनिवास मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कान्तिपुर / काठमाडौंका अन्तिम मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "जयप्रकाश मल्ल (नासु, २०६५/२०७२/हा, २०४१)",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहसँग छत्ती (श्रीपेच) र जुत्ता (भुमी) माग्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "काठमाण्डौमा 'नौदुर्गा र महालक्ष्मी नाच' को चलन चलाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "सुवर्ण मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन 'टक्करि' पदले कस्तो काम गर्थ्यो?",
+        "options": [
+            {
+                "text": "टक्सालको अधिकृतको काम",
+                "isCorrect": false
+            },
+            {
+                "text": "राजाको निजी सचिवको काम",
+                "isCorrect": true
+            },
+            {
+                "text": "गाउँको झगडा हेर्ने",
+                "isCorrect": false
+            },
+            {
+                "text": "सैनिक अधिकृतको काम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रताप मल्लको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "तमखुमा विष हालेर",
+                "isCorrect": false
+            },
+            {
+                "text": "हरिसिद्धिको नाच हेर्दैहेर्दैमा",
+                "isCorrect": true
+            },
+            {
+                "text": "रणभूमिमै मारिएर",
+                "isCorrect": false
+            },
+            {
+                "text": "दरबारमा हत्याकाण्डबाट",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहसँग 'छत्ती' (श्रीपेच) र 'जुत्ता' (भुमी) माग्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "शाहवंशको 'हरीशङ्कर पुराणावली सङ्ग्रह' गर्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "श्रीनिवास मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन प्रथम राजा 'अरिदेव मल्ल' ले कति वर्षसम्म शासन सञ्चालन गरेका थिए?",
+        "options": [
+            {
+                "text": "१६ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२४ वर्ष (वि.सं. ११७० सम्म)",
+                "isCorrect": true
+            },
+            {
+                "text": "४३ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "५० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालमा राजा बन्नुअघि श्रीमतीको नामबाट चिनिने राजा को हुन्?",
+        "options": [
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भाष्कर मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पाटनका राजाले 'कान्तिपुर, भादगाउँ र गोर्खा' लाई संयुक्त रूपमा 'एकासनी शत्रु एकानो मिझुको' सङ्केत दिएका थिए, ति राजा को हुन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "'मानङ्क' नामक मुद्रा चलाउने राजा को हुन्?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": true
+            },
+            {
+                "text": "रत्न मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "महेन्द्र मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "विस्केट जात्रा चलाउने मल्ल राजा को हुन्?",
+        "options": [
+            {
+                "text": "गुणकामदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "मानदेव",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत्ज्योति मल्ल (बिस्केटको मुट खान्छे)",
+                "isCorrect": true
+            },
+            {
+                "text": "अमर मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रणबहादुर शाहको हत्या दरबारमा कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "रणोद्योत शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "शेरबहादुर शाह (सौतेनी भाइ)",
+                "isCorrect": true
+            },
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": false
+            },
+            {
+                "text": "दामोदर पाण्डे",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रतापसिंह शाहलाई इतिहासमा कुन उपनामले चिनिन्छ?",
+        "options": [
+            {
+                "text": "पितृहन्ता",
+                "isCorrect": false
+            },
+            {
+                "text": "सिद्धिनरसिंह",
+                "isCorrect": false
+            },
+            {
+                "text": "योग्य पिताका अयोग्य छोरा",
+                "isCorrect": true
+            },
+            {
+                "text": "युद्ध जुजु",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन प्रशासनिक पदहरूमध्ये 'ढुकली' ले कुन काम गर्थ्यो?",
+        "options": [
+            {
+                "text": "टक्सालको अधिकृत",
+                "isCorrect": false
+            },
+            {
+                "text": "देशभरिको भ्रमण गरी न्याय दिने",
+                "isCorrect": true
+            },
+            {
+                "text": "किल्लाको रक्षक",
+                "isCorrect": false
+            },
+            {
+                "text": "सैनिक अधिकृत",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "योगनरेन्द्र मल्ललाई 'तमखुमा विष हालेर' षड्यन्त्रपूर्वक मारिएपछि उनको सालिकमा कतिवटा रानीको मूर्ति राखिएको थियो?",
+        "options": [
+            {
+                "text": "७ जना",
+                "isCorrect": true
+            },
+            {
+                "text": "९ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "१० जना",
+                "isCorrect": false
+            },
+            {
+                "text": "३ जना",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "'मरेर पनि मुकुट झुन्डाइने' राजा को हुन्?",
+        "options": [
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "योगनरेन्द्र मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "पृथ्वी विक्रम",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नयाँ वर्षको उपलक्ष्यमा 'नवदुर्गा र महालक्ष्मी नाच' को चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "सूर्य मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": true
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "सुवर्ण मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा राजा बन्ने मानदेवले चलाएका मुद्रालाई के भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "गुणङ्क",
+                "isCorrect": false
+            },
+            {
+                "text": "मानङ्क",
+                "isCorrect": true
+            },
+            {
+                "text": "अंशुवर्मा मुद्रा",
+                "isCorrect": false
+            },
+            {
+                "text": "चाकुन",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "इन्द्रजात्रामा लिङ्गो गाड्ने चलन कुन शाह राजाले चलाएका हुन्?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रतापसिंह शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "बहादुर शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मल्लकालीन उपनाम 'पितृहन्ता' कुन राजालाई भनिन्थ्यो?",
+        "options": [
+            {
+                "text": "जयप्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "जगत्प्रकाश मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "रणजित मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वी विक्रमको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "आफ्नै भाइद्वारा मारिएर",
+                "isCorrect": false
+            },
+            {
+                "text": "बिन्डो बालेको घरको धुवामा निस्सासिएर",
+                "isCorrect": true
+            },
+            {
+                "text": "युद्धमा मारिएर",
+                "isCorrect": false
+            },
+            {
+                "text": "सिंहावलोकनबाट खसेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गीर्वाणयुद्ध विक्रम शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८५५",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८५५ चैत्र १ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८५७ फागुन २७",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९०७",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गीर्वाणयुद्ध विक्रम शाहले कति वर्षसम्म शासन चलाए?",
+        "options": [
+            {
+                "text": "१२ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "१५ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२० वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२४ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रणबहादुर शाहको जेठी श्रीमतीको नाम के थियो?",
+        "options": [
+            {
+                "text": "राजराजेश्वरी",
+                "isCorrect": true
+            },
+            {
+                "text": "कान्तिवती",
+                "isCorrect": false
+            },
+            {
+                "text": "राजेन्द्रलक्ष्मी",
+                "isCorrect": false
+            },
+            {
+                "text": "बद्री शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गीर्वाणयुद्ध विक्रम शाहका पालामा नेपालको एकीकरणमा मुख्य योगदान कसले पुऱ्याएका थिए?",
+        "options": [
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": true
+            },
+            {
+                "text": "बलभद्र कुँवर",
+                "isCorrect": false
+            },
+            {
+                "text": "दामोदर पाण्डे",
+                "isCorrect": false
+            },
+            {
+                "text": "शेरबहादुर शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वी विक्रम शाहको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "२८ सालको पर्व, ४२ सालको पर्व",
+                "isCorrect": false
+            },
+            {
+                "text": "नेपालको राजदरबार हत्याकाण्ड (वि.सं. १९४३)",
+                "isCorrect": true
+            },
+            {
+                "text": "सिंहावलोकनबाट खसेर",
+                "isCorrect": false
+            },
+            {
+                "text": "गोडादारोमा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "त्रैलोक्य विक्रम शाहले कति वर्ष शासन चलाएका थिए?",
+        "options": [
+            {
+                "text": "७ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "१० वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "१२ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "१५ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "वीरेन्द्र विक्रम शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०१९ साल ११ महिना १६ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २००४ साल ११ महिना १६ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९९८ साल ११ महिना १६ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २००७ साल ११ महिना १६ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "महेन्द्र विक्रम शाहको शासनकालमा 'महेन्द्रकालन कटपुत्तुलु' कसले बनाएका थिए?",
+        "options": [
+            {
+                "text": "विद्वान, साहित्यकार र राजनैतिक दलका मानिसहरुले",
+                "isCorrect": false
+            },
+            {
+                "text": "सामाजिक कार्यकर्ताहरुले",
+                "isCorrect": false
+            },
+            {
+                "text": "युवाहरुले",
+                "isCorrect": false
+            },
+            {
+                "text": "राजदरबारका मानिसहरुले",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "वीरेन्द्र विक्रम शाहको मृत्यु कहिले भयो?",
+        "options": [
+            {
+                "text": "वि.सं. २०५८ जेठ १९ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०५८ जेठ २६ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०५८ जेठ १७ गते (दरबार हत्याकाण्ड)",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०५८ जेठ ३१ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "दिपेन्द्र विक्रम शाहको मृत्यु हुँदा उनी कति वर्षका थिए?",
+        "options": [
+            {
+                "text": "३० वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "२५ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "३५ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "४० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ज्ञानेन्द्र विक्रम शाहले कति वर्ष शासन चलाएका थिए?",
+        "options": [
+            {
+                "text": "१ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२ वर्ष ११ महिना २२ दिन (२०५८ जेठ २१ देखि २०६५ जेठ १४ सम्म)",
+                "isCorrect": true
+            },
+            {
+                "text": "३ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ज्ञानेन्द्र विक्रम शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २००४ असार २३ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २००७ असार २३ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २००९ असार २३ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०११ असार २३ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "शाही उपाधि धारण गर्ने प्रथम राजा को हुन्?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रतापसिंह शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "ज्ञानेन्द्र विक्रम शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लम्बुगडाका जनताले कुलमूलगडा शाहलाई माग्ने चलन कहिले सुरु भयो?",
+        "options": [
+            {
+                "text": "वि.सं. ११११ बाट",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. ११११ बाट भद्रगाउँमा",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १२१२ बाट",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १३१३ बाट",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गोर्खा राज्यको 'शासक' को काम के थियो?",
+        "options": [
+            {
+                "text": "कर उठाउने",
+                "isCorrect": false
+            },
+            {
+                "text": "शान्ति सुरक्षा हेर्ने",
+                "isCorrect": false
+            },
+            {
+                "text": "राज्यको राजनैतिक काम हेर्ने (अधिकारी)",
+                "isCorrect": true
+            },
+            {
+                "text": "सेनाको नेतृत्व गर्ने",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहको दोस्रो विवाह कहिले भयो?",
+        "options": [
+            {
+                "text": "वि.सं. १७७९",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७९४",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १७८८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७९९",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहले मकवानपुर कहिले विजय गरेका थिए?",
+        "options": [
+            {
+                "text": "वि.सं. १७९९",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १७१९ (नास), २०६५",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८०२",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८०४",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नारायणहितिको मूलढोकाबाट पृथ्वीनारायण शाहको कुन मन्त्र उच्चारण गर्ने चलन थियो?",
+        "options": [
+            {
+                "text": "'दिव्य उपदेश'",
+                "isCorrect": false
+            },
+            {
+                "text": "'सत्यम्'",
+                "isCorrect": false
+            },
+            {
+                "text": "'जय नेपाल'",
+                "isCorrect": false
+            },
+            {
+                "text": "'कठोर युद्ध'",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहले राज्यको आर्थिक सञ्चालनका लागि कुन नीति अपनाएका थिए?",
+        "options": [
+            {
+                "text": "आयातमा जोड",
+                "isCorrect": false
+            },
+            {
+                "text": "उत्पादन वृद्धि र निर्यातमा जोड",
+                "isCorrect": true
+            },
+            {
+                "text": "विदेशी व्यापारमा पूर्ण निर्भरता",
+                "isCorrect": false
+            },
+            {
+                "text": "आन्तरिक व्यापारमा मात्र जोड",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पशुपतिनाथलाई 'जम्बूरा' भन्ने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "थापा, पाण्डे र लमजुड (नास, २०५९)",
+                "isCorrect": true
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "१९९० साल पछिको मार्क पर्वमा नेपालको प्रधानमन्त्री को थिए?",
+        "options": [
+            {
+                "text": "अजुर्नजङ्ग",
+                "isCorrect": false
+            },
+            {
+                "text": "भूमिका",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रशमशेर (वि.सं. १९९७ मा)",
+                "isCorrect": true
+            },
+            {
+                "text": "सुब्बा कुण्ठलाल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा २००७ सालपछि 'मर्क पर्व' कुन जिल्लामा भएको थियो?",
+        "options": [
+            {
+                "text": "बागमती",
+                "isCorrect": false
+            },
+            {
+                "text": "काठमाडौँ",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९९७ (नासु, २०५६/२०५९)",
+                "isCorrect": true
+            },
+            {
+                "text": "गोरखा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मर्क पर्वका दुई प्रधानमन्त्री को थिए?",
+        "options": [
+            {
+                "text": "चन्द्रशमशेर र जुद्धशमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "भीमसेन थापा र रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "सुब्बा कुण्ठलाल र जुद्धशमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रशमशेर र जंगबहादुर राणा",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "सुब्बा कुण्ठलाल अधिकारी केका कर्मचारी थिए?",
+        "options": [
+            {
+                "text": "प्रधानमन्त्रीका",
+                "isCorrect": false
+            },
+            {
+                "text": "जंगबहादुर राणाका",
+                "isCorrect": false
+            },
+            {
+                "text": "कोतवालका",
+                "isCorrect": true
+            },
+            {
+                "text": "पुस्तकालयका",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मर्क पर्वमा कति वर्ष जेल सजाय दिइयो?",
+        "options": [
+            {
+                "text": "५ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "१२ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "१५ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "अजुर्नजङ्ग मुख्य कुण्ठलालको पुस्तक 'खेतको' को लागि आपत्ति जनाएका थिए, उनी कुन राजाका पालामा थिए?",
+        "options": [
+            {
+                "text": "चन्द्रशमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "जुद्धशमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "राणा प्रताप",
+                "isCorrect": false
+            },
+            {
+                "text": "राणा बहादुर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राजेन्द्र विक्रम शाहको पालामा कुन पर्व भएको थियो?",
+        "options": [
+            {
+                "text": "कोत पर्व",
+                "isCorrect": false
+            },
+            {
+                "text": "भण्डारखाल पर्व",
+                "isCorrect": false
+            },
+            {
+                "text": "मर्क पर्व (वि.सं. १९९७ मा)",
+                "isCorrect": true
+            },
+            {
+                "text": "पचली भैरव पर्व",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "मर्क पर्वमा 'बिपिनचन्द्र' भन्ने व्यक्तिको काम के थियो?",
+        "options": [
+            {
+                "text": "पर्बमा मुख्य भूमिका खेल्ने",
+                "isCorrect": true
+            },
+            {
+                "text": "पुस्तकालय अधिकारी",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रधानमन्त्री",
+                "isCorrect": false
+            },
+            {
+                "text": "राजाको सचिव",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "भिम मल्लले 'दुना र कपासमा भरमा भाओ, कपास खोतलाई प्रलोभन' नामक पुस्तक कसले लेखेका थिए?",
+        "options": [
+            {
+                "text": "भिम मल्ल (बुद्ध महाराज उपनामले चिनिने)",
+                "isCorrect": true
+            },
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "जगत्प्रकाश मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "भिम मल्लको पालामा 'कार्यलय समय (१०-५) र शुक्रबार आधा कार्यलय समय' को चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा राम शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "भिम मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "चन्द्रशमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "भिम मल्लको पालामा राजाधिराजको मृत्युदण्ड दिने व्यवस्था कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": false
+            },
+            {
+                "text": "भीम मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "रामशाह",
+                "isCorrect": false
+            },
+            {
+                "text": "जयस्थिति मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "१५८८ सालमा लक्ष्मीनरसिंह मल्लको पालामा 'देवकोटा नगर्नालामा रणोन्माद' नामक जात्रा कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "लक्ष्मीनरसिंह मल्ल",
+                "isCorrect": true
+            },
+            {
+                "text": "भिम मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रताप मल्ल",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रशमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लाखेश्वरी पर्वमा प्रसाद देवकोटा लगायतका ४५ जनालाई कति जरिवाना गरिएको थियो?",
+        "options": [
+            {
+                "text": "१०० रुपैयाँ",
+                "isCorrect": true
+            },
+            {
+                "text": "५० रुपैयाँ",
+                "isCorrect": false
+            },
+            {
+                "text": "२०० रुपैयाँ",
+                "isCorrect": false
+            },
+            {
+                "text": "५०० रुपैयाँ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "लाखेश्वरी पर्वको पोल खोल्ने व्यक्ति को हुन्?",
+        "options": [
+            {
+                "text": "चन्द्रमा अधिकारी",
+                "isCorrect": true
+            },
+            {
+                "text": "रामचन्द्र अधिकारी",
+                "isCorrect": false
+            },
+            {
+                "text": "रामचन्द्र अधिकारीले लाखेश्वरी खोल्ने योजनाको सुर्को",
+                "isCorrect": false
+            },
+            {
+                "text": "रणबहादुर राणा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रचण्ड गोरखा पर्व कहिले भयो?",
+        "options": [
+            {
+                "text": "वि.सं. १९७०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९७४",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९७७",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९८०",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "प्रचण्ड गोरखा पर्वमा को मारिएका थिए?",
+        "options": [
+            {
+                "text": "चन्द्रशमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "रणबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "उमेश विक्रम शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "राणा रामशाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रचण्ड गोरखा पर्वमा 'राणाशम्शेर' भन्ने व्यक्ति को हुन्?",
+        "options": [
+            {
+                "text": "प्रधानमन्त्रीका भाइ",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रधानमन्त्रीका छोरा",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रधानमन्त्रीका भतिजा",
+                "isCorrect": false
+            },
+            {
+                "text": "मन्त्री",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रचण्ड गोरखा पर्वमा मुख्य योजनाकार को थिए?",
+        "options": [
+            {
+                "text": "राणाशम्शेर",
+                "isCorrect": false
+            },
+            {
+                "text": "उमेश विक्रम शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "राणा गजराज",
+                "isCorrect": false
+            },
+            {
+                "text": "रामचन्द्र अधिकारी",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "वि.सं. १९९७ मा पाटनका नयाँ नगर पालिका को स्थापना कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "चन्द्रशमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "जुद्धशमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "मोहनशमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "वि.सं. १९९७ मा ३९ लाख रुपैयाँको जग्गा कसले सरकारलाई सुम्पिएको थियो?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्रशमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "जुद्धशमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "मोहनशमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सगरमाथाको पुरानो नाम के थियो?",
+        "options": [
+            {
+                "text": "गौरीशङ्कर",
+                "isCorrect": false
+            },
+            {
+                "text": "पिक १५",
+                "isCorrect": true
+            },
+            {
+                "text": "चोमोलुङमा",
+                "isCorrect": false
+            },
+            {
+                "text": "कञ्चनजङ्घा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सगरमाथाको उचाई ८८४८ मिटर भनी घोषणा गर्ने राजा को हुन्?",
+        "options": [
+            {
+                "text": "राजा महेन्द्र",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "वीर शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा कागजी नोटको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "राजा महेन्द्र",
+                "isCorrect": true
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "वीर शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "मोहन शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "२००७ सालमा नेपालको पहिलो आम निर्वाचनमा कति जनाले भाग लिएका थिए?",
+        "options": [
+            {
+                "text": "२ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "५० जना",
+                "isCorrect": false
+            },
+            {
+                "text": "७५ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "८८ जना (२०१५ सालमा)",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा रेलको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "वीर शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा टेलिफोनको चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "पद्म शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "भीम शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको कुन जिल्लालाई 'सती र बली दुवै नभएको' जिल्ला भनिन्छ?",
+        "options": [
+            {
+                "text": "हुम्ला",
+                "isCorrect": false
+            },
+            {
+                "text": "बागलुङ",
+                "isCorrect": true
+            },
+            {
+                "text": "जुम्ला",
+                "isCorrect": false
+            },
+            {
+                "text": "मुगु",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'सती प्रथा' को अन्त्य कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "देव शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्र शमशेर (वि.सं. १९७७)",
+                "isCorrect": true
+            },
+            {
+                "text": "भीम शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'दास प्रथा' को अन्त्य कसले गरेका थिए?",
+        "options": [
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर (वि.सं. १९८१)",
+                "isCorrect": true
+            },
+            {
+                "text": "वीर शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "देव शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'घण्टाघर' को निर्माण कसले गराएका थिए?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "बीर शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "देव शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "वि.सं. २००९ सालमा स्थापित नेपालको पहिलो नगरपालिका कुन हो?",
+        "options": [
+            {
+                "text": "पोखरा",
+                "isCorrect": false
+            },
+            {
+                "text": "बिराटनगर",
+                "isCorrect": false
+            },
+            {
+                "text": "काठमाडौँ",
+                "isCorrect": true
+            },
+            {
+                "text": "ललितपुर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको 'पहिलो चिडियाखाना' (जावलाखेलमा) कसले निर्माण गराएका थिए?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "बीर शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'नेपाली सेना दिवस' कहिले मनाइन्छ?",
+        "options": [
+            {
+                "text": "शिवरात्री",
+                "isCorrect": true
+            },
+            {
+                "text": "घटस्थापना",
+                "isCorrect": false
+            },
+            {
+                "text": "माघे संक्रान्ति",
+                "isCorrect": false
+            },
+            {
+                "text": "फागु पूर्णिमा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'घोषणासभा' को चलन कुन राणा प्रधानमन्त्रीले चलाएका थिए?",
+        "options": [
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "पद्म शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "मोहन शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पहिलो 'महिला राष्ट्रियसभा' (वि.सं. १९७७) कुन राणा प्रधानमन्त्रीले बनाएका थिए?",
+        "options": [
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "पद्म शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "वीर शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सगरमाथामा '८८४८ मिटर' नाम कसले दिएका थिए?",
+        "options": [
+            {
+                "text": "जर्ज एभरेस्ट",
+                "isCorrect": false
+            },
+            {
+                "text": "सर जर्ज एभरेस्ट (सगरमाथाको पुरानो नाम पिक १५ राखिएको)",
+                "isCorrect": true
+            },
+            {
+                "text": "तेन्जिङ नोर्गे शेर्पा",
+                "isCorrect": false
+            },
+            {
+                "text": "एडमन्ड हिलारी",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'इमर्जेन्सी फण्ड' को स्थापना कुन राणा प्रधानमन्त्रीले गरेका थिए?",
+        "options": [
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "वीर शमशेर",
+                "isCorrect": true
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "मोहन शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पहिलो महिला राष्ट्रिय सभामा कति जना महिला सदस्य थिए?",
+        "options": [
+            {
+                "text": "१० जना",
+                "isCorrect": false
+            },
+            {
+                "text": "१२ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "१४ जना",
+                "isCorrect": true
+            },
+            {
+                "text": "२० जना",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "विश्वमा 'कागजी नोट' को चलन कुन देशबाट सुरु भएको थियो?",
+        "options": [
+            {
+                "text": "जापान",
+                "isCorrect": false
+            },
+            {
+                "text": "चीन",
+                "isCorrect": true
+            },
+            {
+                "text": "भारत",
+                "isCorrect": false
+            },
+            {
+                "text": "नेपाल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा कहिले 'सती प्रथा' को अन्त्य गरियो?",
+        "options": [
+            {
+                "text": "वि.सं. १९७०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९७७ (चन्द्र शमशेरले)",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९८१",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९८७",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राजा पृथ्वीनारायण शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १७७९ पौष २७ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १७७७ पौष २७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८२४ पौष २७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८३१ पौष २७ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८३१ माघ १ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८३१ पौष २७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८३४ माघ १ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८५५ माघ १ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वीनारायण शाहले कति वर्ष शासन चलाएका थिए?",
+        "options": [
+            {
+                "text": "३१ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "३२ वर्ष (वि.सं. १७९९ देखि १८३१ सम्म)",
+                "isCorrect": true
+            },
+            {
+                "text": "३५ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "३७ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सिंहदरबारमा 'पृथ्वीनारायण शाहका ३ जना छोराहरु' को चित्र राख्ने चलन कसले चलाएका थिए?",
+        "options": [
+            {
+                "text": "बहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा पृथ्वीनारायण शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "प्रतापसिंह शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रतापसिंह शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८०७ भाद्र २७ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८०९ भाद्र २७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८११ भाद्र २७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८१३ भाद्र २७ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "प्रतापसिंह शाहको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८३१",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८३४ मंसिर २ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८३६ मंसिर २ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८५५ मंसिर २ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रणबहादुर शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८२४ ज्येष्ठ १ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८२६ ज्येष्ठ १ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८२८ ज्येष्ठ १ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८३१ ज्येष्ठ १ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "रणबहादुर शाहको मृत्यु कसरी भएको थियो?",
+        "options": [
+            {
+                "text": "विष खुवाएर",
+                "isCorrect": false
+            },
+            {
+                "text": "युद्धमा मारिएर",
+                "isCorrect": false
+            },
+            {
+                "text": "दरबारमा हत्या (शेरबहादुर शाहबाट)",
+                "isCorrect": true
+            },
+            {
+                "text": "बिन्डो बालेको घरको धुवामा निस्सासिएर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गीर्वाणयुद्ध विक्रम शाहको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८७३ मंसिर ७ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८७५ मंसिर ७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८७७ मंसिर ७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८७९ मंसिर ७ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "गीर्वाणयुद्ध विक्रम शाहले कति वर्षसम्म शासन सञ्चालन गरेका थिए?",
+        "options": [
+            {
+                "text": "१२ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "१४ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "१६ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२० वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राजेन्द्र विक्रम शाहले कति वर्ष शासन चलाएका थिए?",
+        "options": [
+            {
+                "text": "३० वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "३१ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "३३ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "३५ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सुरेन्द्र विक्रम शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १८७३ कार्तिक ३० गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १८७५ कार्तिक ३० गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८७७ कार्तिक ३० गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १८८० कार्तिक ३० गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "सुरेन्द्र विक्रम शाहको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १९३८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९३८ बैशाख १७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९३८ जेष्ठ ९ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९४० जेष्ठ ९ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वी विक्रम शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १९३२ साउन ३० गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९३४ साउन ३० गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९३६ साउन ३० गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९४० साउन ३० गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पृथ्वी विक्रम शाहको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १९६८ मंसिर २७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९७० मंसिर २७ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९६५ मंसिर २७ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९८० मंसिर २७ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राजा त्रिभुवनको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०११",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०११ फागुन १ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०११ चैत्र १ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०१३ चैत्र १ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राजा महेन्द्रको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०२८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०२९ माघ १३ गते (भरतपुरमा)",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०३० माघ १३ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०३२ माघ १३ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "त्रिभुवनले कति वर्ष शासन चलाएका थिए?",
+        "options": [
+            {
+                "text": "४२ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "४४ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "४६ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "४८ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "राजा वीरेन्द्रको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २००४ पुष १४ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २००७ पुष १४ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २००९ पुष १४ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०११ पुष १४ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ज्ञानेन्द्र शाहको जन्म कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २००७ असार २३ गते",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २००९ असार २३ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०११ असार २३ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१३ असार २३ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो सहिद को हुन्?",
+        "options": [
+            {
+                "text": "दशरथ चन्द",
+                "isCorrect": false
+            },
+            {
+                "text": "गंगालाल श्रेष्ठ",
+                "isCorrect": false
+            },
+            {
+                "text": "लखन थापा (वि.सं. १९३३)",
+                "isCorrect": true
+            },
+            {
+                "text": "धर्मभक्त माथेमा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला प्रधानन्यायाधीश को हुन्?",
+        "options": [
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            },
+            {
+                "text": "सुशीला कार्की (२०७३)",
+                "isCorrect": true
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "सपना प्रधान मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो निजी वायुसेवा कम्पनी कुन हो?",
+        "options": [
+            {
+                "text": "बुद्ध एयर",
+                "isCorrect": false
+            },
+            {
+                "text": "यती एयरलाइन्स",
+                "isCorrect": true
+            },
+            {
+                "text": "नेपाल वायुसेवा निगम",
+                "isCorrect": false
+            },
+            {
+                "text": "गौतम बुद्ध एयर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'सरकारी अड्डा' (कार्यालय) को बिदा शनिबार हुने चलन कहिले सुरु भयो?",
+        "options": [
+            {
+                "text": "वि.सं. २०४६",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१७",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०५०",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २००७",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पहिलो नेपाली महिला सचिव को हुन्?",
+        "options": [
+            {
+                "text": "कान्ता भट्टराई (२०५२ साल)",
+                "isCorrect": true
+            },
+            {
+                "text": "सुशीला कार्की",
+                "isCorrect": false
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "डा. प्रभा बस्नेत",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला राजदूत को हुन्?",
+        "options": [
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            },
+            {
+                "text": "विन्देश्वरी शाह (वि.सं. २०५३ सालमा फ्रान्सको राजदूत)",
+                "isCorrect": true
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "डा. प्रभा बस्नेत",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला डाक्टर (एम.बी.बी.एस.) को हुन्?",
+        "options": [
+            {
+                "text": "डा. प्रभा बस्नेत (वि.सं. २०३०)",
+                "isCorrect": true
+            },
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "सुशीला कार्की",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'बालबालिका दिवस' कहिले मनाइन्छ?",
+        "options": [
+            {
+                "text": "भाद्र २९",
+                "isCorrect": true
+            },
+            {
+                "text": "भाद्र २६",
+                "isCorrect": false
+            },
+            {
+                "text": "भाद्र २७",
+                "isCorrect": false
+            },
+            {
+                "text": "असोज २६",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला न्यायाधीश को हुन्?",
+        "options": [
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            },
+            {
+                "text": "मीरा राणा (वि.सं. २०३५ साल)",
+                "isCorrect": true
+            },
+            {
+                "text": "सुशीला कार्की",
+                "isCorrect": false
+            },
+            {
+                "text": "सपना प्रधान मल्ल",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो 'महिला अञ्चलाधीश' को हुन्?",
+        "options": [
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "विन्देश्वरी शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "सुशीला कार्की",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'नेपाली सेना' कहिले 'शाही नेपाली सेना' मा परिणत भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २००९",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०११",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०२५",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला परराष्ट्रमन्त्री को हुन्?",
+        "options": [
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "सुजाता कोइराला (वि.सं. २०६५)",
+                "isCorrect": true
+            },
+            {
+                "text": "विन्देश्वरी शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला सभामुख को हुन्?",
+        "options": [
+            {
+                "text": "ओनसरी घर्ती",
+                "isCorrect": true
+            },
+            {
+                "text": "सुजाता कोइराला",
+                "isCorrect": false
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला प्रधानमन्त्री को हुन्?",
+        "options": [
+            {
+                "text": "योजना आयोगकी पहिलो महिला",
+                "isCorrect": false
+            },
+            {
+                "text": "नेपालको इतिहासमा अहिलेसम्म कोही पनि छैन",
+                "isCorrect": true
+            },
+            {
+                "text": "ओनसरी घर्ती",
+                "isCorrect": false
+            },
+            {
+                "text": "सुजाता कोइराला",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला 'महान्यायाधिवक्ता' को हुन्?",
+        "options": [
+            {
+                "text": "गौरी प्रधान",
+                "isCorrect": true
+            },
+            {
+                "text": "सुशीला कार्की",
+                "isCorrect": false
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "डा. प्रभा बस्नेत",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'महिला दिवस' (नारी दिवस) कहिले मनाइन्छ?",
+        "options": [
+            {
+                "text": "फेब्रुअरी २९",
+                "isCorrect": false
+            },
+            {
+                "text": "मार्च ८",
+                "isCorrect": true
+            },
+            {
+                "text": "भाद्र २९",
+                "isCorrect": false
+            },
+            {
+                "text": "डिसेम्बर १०",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला परराष्ट्र सचिव को हुन्?",
+        "options": [
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            },
+            {
+                "text": "विन्देश्वरी शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "सेवा लम्साल",
+                "isCorrect": true
+            },
+            {
+                "text": "मीरा राणा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालको पहिलो महिला प्रमुख निर्वाचन आयुक्त को हुन्?",
+        "options": [
+            {
+                "text": "ईला शर्मा (२०७१ सालमा)",
+                "isCorrect": true
+            },
+            {
+                "text": "सेवा लम्साल",
+                "isCorrect": false
+            },
+            {
+                "text": "सुशीला कार्की",
+                "isCorrect": false
+            },
+            {
+                "text": "कान्ता भट्टराई",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'राष्ट्रिय सूचना आयोग' को स्थापना कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०४६",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०६४",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०७१",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०७३",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'गणतन्त्र' को स्थापना कहिले भयो?",
+        "options": [
+            {
+                "text": "वि.सं. २०६४ जेठ १५",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०६५ जेठ १५",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०७२ जेठ १५",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०७३ जेठ १५",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पहाड पर्व (Pahad Parwa) कुन राजाको पालामा भएको थियो?",
+        "options": [
+            {
+                "text": "रणबहादुर शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "पृथ्वीनारायण शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रतापसिंह शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "राजेन्द्र विक्रम शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पहाड पर्वमा मारिने मुख्य व्यक्ति को थिए?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "शिवनारायण शाह",
+                "isCorrect": true
+            },
+            {
+                "text": "प्रतापसिंह शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "बहादुर शाह",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कोट पर्व कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १९०३ असोज २ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९०३ भाद्र ३२ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९०३ असोज २ गते (कोत हत्याकाण्डको मिति)",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९०३ असोज २३ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कोट पर्व हुनुअघि मारिएका व्यक्ति को थिए, जसको हत्याका कारण यो पर्व भयो?",
+        "options": [
+            {
+                "text": "भीमसेन थापा",
+                "isCorrect": false
+            },
+            {
+                "text": "गगनसिंह खवास",
+                "isCorrect": true
+            },
+            {
+                "text": "दामोदर पाण्डे",
+                "isCorrect": false
+            },
+            {
+                "text": "माथबरसिंह थापा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कोट पर्व हुँदा नेपालका प्रधानमन्त्री को थिए?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": true
+            },
+            {
+                "text": "फत्तेजंग शाह",
+                "isCorrect": false
+            },
+            {
+                "text": "माथबरसिंह थापा",
+                "isCorrect": false
+            },
+            {
+                "text": "गगनसिंह खवास",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "कोट पर्व हुँदा कति जनाको हत्या भएको थियो?",
+        "options": [
+            {
+                "text": "३१ जना",
+                "isCorrect": true
+            },
+            {
+                "text": "३८ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "४२ जना",
+                "isCorrect": false
+            },
+            {
+                "text": "५६ जना",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जंगबहादुर राणाले 'वीर शमशेर' को नाम किन राखेका थिए?",
+        "options": [
+            {
+                "text": "आफ्नो छोराको नाममा",
+                "isCorrect": false
+            },
+            {
+                "text": "रानीको आग्रहमा",
+                "isCorrect": false
+            },
+            {
+                "text": "युद्धमा साहस देखाएकोले",
+                "isCorrect": false
+            },
+            {
+                "text": "आफूले वीर उपाधि पाएकोले",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'सती प्रथा' को अन्त्य गर्ने प्रधानमन्त्री को हुन्?",
+        "options": [
+            {
+                "text": "चन्द्र शमशेर (वि.सं. १९७७)",
+                "isCorrect": true
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "देव शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'दास प्रथा' को अन्त्य कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १९७७",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९८१ (जुद्ध शमशेरले)",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९९७",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २००७",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जंगबहादुर राणाले कति वर्ष शासन चलाएका थिए?",
+        "options": [
+            {
+                "text": "२२ वर्ष",
+                "isCorrect": false
+            },
+            {
+                "text": "२४ वर्ष (वि.सं. १९०३ देखि १९३३ सम्म)",
+                "isCorrect": false
+            },
+            {
+                "text": "३१ वर्ष",
+                "isCorrect": true
+            },
+            {
+                "text": "३५ वर्ष",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जंगबहादुर राणाको मृत्यु कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. १९३३ फागुन १८ गते (तराईमा शिकार खेल्न जाँदा)",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९३३ फागुन ११ गते (माडीमा)",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. १९३५ फागुन ११ गते",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. १९३८ फागुन ११ गते",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जंगबहादुर राणाको देहान्तपछि नेपालको प्रधानमन्त्री को बनेका थिए?",
+        "options": [
+            {
+                "text": "रणोद्वीप सिंह",
+                "isCorrect": true
+            },
+            {
+                "text": "धीर शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "वीर शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'इमर्जेन्सी फण्ड' को स्थापना कुन प्रधानमन्त्रीले गराएका थिए?",
+        "options": [
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "वीर शमशेर (वि.सं. १९४२)",
+                "isCorrect": true
+            },
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "जुद्ध शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'घण्टाघर' को निर्माण कसले गराएका थिए?",
+        "options": [
+            {
+                "text": "चन्द्र शमशेर",
+                "isCorrect": false
+            },
+            {
+                "text": "बीर शमशेर (वि.सं. १९४८ मा)",
+                "isCorrect": true
+            },
+            {
+                "text": "जंगबहादुर राणा",
+                "isCorrect": false
+            },
+            {
+                "text": "देव शमशेर",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "पहिलो नेपाली सिनेमा 'आमा' कुन राजाको पालामा निर्माण भएको थियो?",
+        "options": [
+            {
+                "text": "राजा त्रिभुवन",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा महेन्द्र (वि.सं. २०१९)",
+                "isCorrect": true
+            },
+            {
+                "text": "राजा वीरेन्द्र",
+                "isCorrect": false
+            },
+            {
+                "text": "राजा ज्ञानेन्द्र",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'मदन पुरस्कार' को स्थापना कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०११",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१२",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०१५",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१७",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा 'सर्वोच्च अदालत' (Supreme Court) को स्थापना कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २००७",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१३",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०१८",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०३०",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "नेपालमा पहिलोपटक 'निर्वाचन आयोग' को स्थापना कहिले भएको थियो?",
+        "options": [
+            {
+                "text": "वि.सं. २०१०",
+                "isCorrect": true
+            },
+            {
+                "text": "वि.सं. २०१३",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१५",
+                "isCorrect": false
+            },
+            {
+                "text": "वि.सं. २०१७",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "वीर शमशेरको शासनकालमा 'इमर्जेन्सी फण्ड' स्थापनाको मुख्य उद्देश्य के थियो?",
+        "options": [
+            {
+                "text": "शिक्षा विकासका लागि",
+                "isCorrect": false
+            },
+            {
+                "text": "राज्यको आपतकालीन खर्च व्यवस्थापन गर्न",
+                "isCorrect": true
+            },
+            {
+                "text": "आन्तरिक पर्यटन प्रवर्द्धन गर्न",
+                "isCorrect": false
+            },
+            {
+                "text": "सरकारी कर्मचारीलाई तलब दिन",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "जंगबहादुर राणाले तराईमा शिकार खेल्न जाँदा कोही व्यक्ति मारेको आरोपमा कसलाई मृत्युदण्ड दिएका थिए?",
+        "options": [
+            {
+                "text": "लखन थापा",
+                "isCorrect": true
+            },
+            {
+                "text": "गगनसिंह खवास",
+                "isCorrect": false
+            },
+            {
+                "text": "दामोदर पाण्डे",
+                "isCorrect": false
+            },
+            {
+                "text": "भिमसेन थापा",
+                "isCorrect": false
+            }
+        ]
     }
 ]

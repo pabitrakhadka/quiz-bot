@@ -1,0 +1,12 @@
+# Ignore environment file with secrets
+.env
+
+# Ignore logs
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder (if you create one)
+venv/

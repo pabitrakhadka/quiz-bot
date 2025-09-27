@@ -14,6 +14,12 @@ import os
 import glob
 import backoff
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()  # load variables from .env
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 # Enable logging to a file
 logging.basicConfig(
     level=logging.INFO,
@@ -25,8 +31,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# ✅ Replace with your actual bot token
-BOT_TOKEN = "7481731907:AAGA8Rmu3eC5QUyhUcl4DuaVaH08qA9O4sE"
 
 # Store user statistics in a JSON file
 STATS_FILE = "quiz_stats.json"
